@@ -1,6 +1,6 @@
 
 def checkSumValidator(n: str) -> list:
-    """Displays information about a euro banknote checksum.
+    """Displays information about a euro banknote checksum
     Input: The banknote
     Output: A list containing information.
     List[0] = 0 if this is an invalid banknote, 1 if this is a series 1 banknote, 2 if this is a series 2 banknote
