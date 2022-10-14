@@ -28,7 +28,7 @@ def main():
         type=discord.ActivityType.playing, name="Help: eur!help"
     )
     client = commands.Bot(
-        command_prefix=["eur!", "Eur!"],
+        command_prefix=["eur!", "Eur!", "€!"],
         intents=intents,
         help_command=None,
         activity=activity,
