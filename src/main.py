@@ -1,11 +1,8 @@
-import datetime
-import logging
 import os
 import time
 import typing
 
 import discord
-import requests
 from discord.ext import commands, tasks
 from discord.utils import get
 from dotenv import load_dotenv
