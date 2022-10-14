@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 CHANNEL_ID = os.getenv("FOTW_CHANNEL_ID")
 EMOTE_ID = os.getenv("FOTW_EMOTE_ID")
+TRADER_ROLE_ID = os.getenv("VERIFIED_TRADER_GROUP_ID")
 
 
 class findOfTheWeek:
