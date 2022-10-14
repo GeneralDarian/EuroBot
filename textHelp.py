@@ -1,7 +1,7 @@
 def emojiReplacer(t: str) -> str:
     """Given a string will replace all !<country_code> with their respective emoji. If there is no emoji present, it just returns the string.
     DO NOT LOWERCASE TEXT BEFORE PUTTING INTO FUNCTION!
-    Yes I know this can be more efficient but I am too lazy to do it!
+    Yes I know this can be more efficient but I am too lazy to do it! Let me improve it later
     Input: string
     Output: string"""
 
