@@ -89,11 +89,8 @@ def main():
             await ctx.send(
                 f"""**EUR!BANKNOTE HELP**
 Use ``eur!banknote <ID>`` to get banknote information, where <ID> is the banknote serial. Do not add printer identification codes or vertical serial numbers.
-To get the exact location of euro banknote serials, run ``eur!banknote help``."""
+Here is the location of the euro banknote serials for both Series 1 (top) and Series 2 (bottom): https://imgur.com/u3IraLz"""
             )
-            return
-        elif arg1.lower() == "help":
-            await ctx.send(f"How to find euro banknote serials!")
             return
         elif "`" in arg1:
             await ctx.send(f"Error: Invalid input")
