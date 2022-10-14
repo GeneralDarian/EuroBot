@@ -9,7 +9,6 @@ class coinRollHunt:
         if int(hunt_time) < time.time():
             raise ValueError(f'The specified time is in the past.')
 
-CRH1 = coinRollHunt("10101", "101010", ".jpg", "msdid")
 
 french_to_crhhelp = {'allemagne': """Coin roll availability may vary across banks and branches, as well as the price. You must be a customer to purchase.
 Sparkasse: 50-150ct per roll.
