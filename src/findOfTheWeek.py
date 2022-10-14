@@ -1,4 +1,5 @@
 import os
+
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -10,11 +11,11 @@ class findOfTheWeek:
     def __init__(self):
         self.msgList = []
         try:
-            with open('FOTW.txt', 'r') as FOTWFile:
+            with open("FOTW.txt", "r") as FOTWFile:
                 for line in FOTWFile:
                     self.msgList.append(line[:-1])
         except FileNotFoundError:
-            with open('FOTW.txt', 'x') as FOTWFile:
+            with open("FOTW.txt", "x") as FOTWFile:
                 self.msgList = []
 
     def getList(self):
@@ -45,8 +46,8 @@ class findOfTheWeek:
                 return True
             else:
                 self.msgList.append(str(msg))
-                with open('FOTW.txt', 'a') as FOTWFile:
-                    FOTWFile.write(str(msg) + '\n')
+                with open("FOTW.txt", "a") as FOTWFile:
+                    FOTWFile.write(str(msg) + "\n")
                 return True
         except Exception:
             return False
@@ -63,10 +64,10 @@ class findOfTheWeek:
             elif str(msg) in self.msgList:
                 self.msgList.remove(str(msg))
                 print(self.msgList)
-                with open('FOTW.txt', 'a') as FOTWFile:
+                with open("FOTW.txt", "a") as FOTWFile:
                     FOTWFile.truncate(0)
                     for j in self.msgList:
-                        FOTWFile.write(j + '\n')
+                        FOTWFile.write(j + "\n")
                 return True
         except Exception:
             return False
@@ -75,7 +76,7 @@ class findOfTheWeek:
         """Refreshes the list, intended to be run on Sundays.
         WARNING: Only run this command after checking all messages for emotes!"""
         try:
-            with open('FOTW.txt', 'a') as FOTWFile:
+            with open("FOTW.txt", "a") as FOTWFile:
                 FOTWFile.truncate(0)
             self.msgList = []
             return True

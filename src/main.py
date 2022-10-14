@@ -1,12 +1,20 @@
 import datetime
-import os, logging
-import discord, time, typing, requests
+import logging
+import os
+import time
+import typing
+
+import discord
+import requests
 from discord.ext import commands, tasks
 from discord.utils import get
 from dotenv import load_dotenv
+
 import banknote as cmdBanknote
-import textHelp, coinData
-import findOfTheWeek, designer
+import coinData
+import designer
+import findOfTheWeek
+import textHelp
 
 
 def main():
@@ -16,20 +24,24 @@ def main():
     DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
     intents = discord.Intents.all()
-    activity = discord.Activity(type=discord.ActivityType.playing, name="Help: eur!help")
-    client = commands.Bot(command_prefix=['eur!','Eur!'], intents=intents, help_command=None, activity=activity)
-
+    activity = discord.Activity(
+        type=discord.ActivityType.playing, name="Help: eur!help"
+    )
+    client = commands.Bot(
+        command_prefix=["eur!", "Eur!"],
+        intents=intents,
+        help_command=None,
+        activity=activity,
+    )
 
     @client.event
     async def on_ready():
-        print(f'{client.user} has logged in.')
-
+        print(f"{client.user} has logged in.")
 
     @client.command()
     async def clean(ctx):  # Displays help information for cleaning coins
         await ctx.send(textHelp.clean_msg)
         return
-
 
     @client.command()
     async def storage(ctx):  # Displays help information for storing coins
@@ -37,23 +49,21 @@ def main():
         await ctx.send(textHelp.storage_msg_2)
         return
 
-
     @client.command()
     async def crh(ctx):  # coin roll hunting information command
         await ctx.send(textHelp.crh_info)
         return
-
 
     @client.command()
     async def rare(ctx):  # rare coins information command
         await ctx.send(textHelp.rare_coins)
         return
 
-
     @client.command()
     async def help(ctx):
         emote_id = findOfTheWeek.EMOTE_ID
-        await ctx.send(f"""___***EUROBOT HELP MENU***___
+        await ctx.send(
+            f"""___***EUROBOT HELP MENU***___
 
 **Non-Information commands**
 <:test:{int(emote_id)}> ``eur!search`` - Look up euro coin designs from numista's coin database. Run ``eur!search help`` for more information on how to use this commnad.
@@ -69,21 +79,23 @@ def main():
 
 <:test:{int(emote_id)}> ``eur!rare`` - Information on rare euro coins.
 
-<:test:{int(emote_id)}> ``eur!storage`` - Information on storing coins properly.""")
-
+<:test:{int(emote_id)}> ``eur!storage`` - Information on storing coins properly."""
+        )
 
     @client.command()
     async def banknote(ctx, arg1=None):  # eur!banknote command
         # display help info if arg1 is not set or if arg1 == "help"
         if arg1 == None:
-            await ctx.send(f"""**EUR!BANKNOTE HELP**
+            await ctx.send(
+                f"""**EUR!BANKNOTE HELP**
 Use ``eur!banknote <ID>`` to get banknote information, where <ID> is the banknote serial. Do not add printer identification codes or vertical serial numbers.
-To get the exact location of euro banknote serials, run ``eur!banknote help``.""")
+To get the exact location of euro banknote serials, run ``eur!banknote help``."""
+            )
             return
         elif arg1.lower() == "help":
             await ctx.send(f"How to find euro banknote serials!")
             return
-        elif '`' in arg1:
+        elif "`" in arg1:
             await ctx.send(f"Error: Invalid input")
             return
 
@@ -101,16 +113,17 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
         # Display banknote information
         if banknoteInfo[0] == 1:
             await ctx.send(
-                f"💶 **Banknote information for serial** ``{arg1}``\n**SERIES:** 1\n**ISSUER:** {textHelp.emojiReplacer(banknoteInfo[1])}\n**VALID:** {banknoteInfo[2]}")
+                f"💶 **Banknote information for serial** ``{arg1}``\n**SERIES:** 1\n**ISSUER:** {textHelp.emojiReplacer(banknoteInfo[1])}\n**VALID:** {banknoteInfo[2]}"
+            )
         else:
             await ctx.send(
-                f"💶 **Banknote information for serial** ``{arg1}``\n**SERIES:** 2\n**PRINTER:** {textHelp.emojiReplacer(banknoteInfo[1])}\n**VALID:** {banknoteInfo[2]}")
+                f"💶 **Banknote information for serial** ``{arg1}``\n**SERIES:** 2\n**PRINTER:** {textHelp.emojiReplacer(banknoteInfo[1])}\n**VALID:** {banknoteInfo[2]}"
+            )
         return
-
 
     @client.event
     async def on_message(message):  # FindOfTheWeek
-        if (message.author.bot):  # is message from bot?
+        if message.author.bot:  # is message from bot?
             return
 
         channel_id = findOfTheWeek.CHANNEL_ID
@@ -120,16 +133,23 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
 
         if len(message.attachments) > 0:
             for file in message.attachments:
-                if file.filename.endswith("jpg") or file.filename.endswith("png"):  # Checks if message has attachments .png or .jpg
+                if file.filename.endswith("jpg") or file.filename.endswith(
+                    "png"
+                ):  # Checks if message has attachments .png or .jpg
                     findOfTheWeek.fotw.addMsg(message.id)
         else:
             content = message.content.split(" ")
-            for words in content:  # checks if message has any links with .jpg or .png at the end
-                if ("https://" in words and ".jpg" in words) or ("https://" in words and ".png" in words):
+            for (
+                words
+            ) in (
+                content
+            ):  # checks if message has any links with .jpg or .png at the end
+                if ("https://" in words and ".jpg" in words) or (
+                    "https://" in words and ".png" in words
+                ):
                     findOfTheWeek.fotw.addMsg(message.id)
 
         await client.process_commands(message)
-
 
     async def getFOTWWinner(message_id_list: list) -> None:
         """Given list of FOTW messages, gets the winner(s) and refreshes the files.
@@ -140,45 +160,60 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
         Outputs:
         - None"""
 
-        emote_id = findOfTheWeek.EMOTE_ID #Gets EMOTE_ID which is defined in findOfTheWeek
-        channel = client.get_channel(int(findOfTheWeek.CHANNEL_ID)) #Gets CHANNEL_ID which is defined in findOfTheWeek
-        winners = [] #The list of winners
-        count = 1 #The emote count
+        emote_id = (
+            findOfTheWeek.EMOTE_ID
+        )  # Gets EMOTE_ID which is defined in findOfTheWeek
+        channel = client.get_channel(
+            int(findOfTheWeek.CHANNEL_ID)
+        )  # Gets CHANNEL_ID which is defined in findOfTheWeek
+        winners = []  # The list of winners
+        count = 1  # The emote count
 
         for msgID in message_id_list:
             try:
                 msg = await channel.fetch_message(msgID)
             except ValueError:
                 continue
-            if isinstance(msg, discord.NotFound) or isinstance(msg, discord.Forbidden) or isinstance(msg, discord.HTTPException):
+            if (
+                isinstance(msg, discord.NotFound)
+                or isinstance(msg, discord.Forbidden)
+                or isinstance(msg, discord.HTTPException)
+            ):
                 continue
-
 
             reaction_count = msg.reactions
             for reaction in reaction_count:
-                if str(reaction.emoji) == '<:test:1028178032680255488>':
+                if str(reaction.emoji) == "<:test:1028178032680255488>":
 
-                    if reaction.count == None: #If the message doesn't even have any reactions lol
+                    if (
+                        reaction.count == None
+                    ):  # If the message doesn't even have any reactions lol
                         continue
-                    elif reaction.count < count: #If message has less reactions than count, it is not a winner.
+                    elif (
+                        reaction.count < count
+                    ):  # If message has less reactions than count, it is not a winner.
                         continue
-                    elif reaction.count == count: #If message has the same reactions as count, append to list.
+                    elif (
+                        reaction.count == count
+                    ):  # If message has the same reactions as count, append to list.
                         winners.append(msg)
-                    elif reaction.count > count: #If message has more reactions than count, replace winners, append, and increase count.
-                       count = reaction.count
-                       winners = [msg]
+                    elif (
+                        reaction.count > count
+                    ):  # If message has more reactions than count, replace winners, append, and increase count.
+                        count = reaction.count
+                        winners = [msg]
 
-
-        #ASSEMBLE WIN MESSAGE
-        if len(winners) < 1: #No victors
+        # ASSEMBLE WIN MESSAGE
+        if len(winners) < 1:  # No victors
             vMsg = f"""**FIND OF THE WEEK:** <t:{int(time.time())}:D>
     It appears as if there aren't any winners for this week's find of the week :/
     Remember: React to a message with <:test:{int(emote_id)}> to enter someone's find into next week's FOTW!
     The member with the most <:test:{int(emote_id)}> reactions will win!
             """
 
-
-        elif len(winners) == 1: #One victor. Returns immediately to not tamper with the FOTW class any further.
+        elif (
+            len(winners) == 1
+        ):  # One victor. Returns immediately to not tamper with the FOTW class any further.
             vMsg = f"""**FIND OF THE WEEK:** <t:{int(time.time())}:D>
             
     <:test:{int(emote_id)}> Congratulations <@{winners[0].author.id}> for winning this week's FOTW competition! 
@@ -190,7 +225,9 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
             await channel.send(vMsg)
             return
 
-        elif len(winners) > 1: #Multiple victors. If this gets above 2000 chars please kill me
+        elif (
+            len(winners) > 1
+        ):  # Multiple victors. If this gets above 2000 chars please kill me
             vMsg = f"""**FIND OF THE WEEK:** <t:{int(time.time())}:D>
     This week, there are multiple submissions with the same amount of reactions!
     """
@@ -200,18 +237,15 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
     Submission: https://discordapp.com/channels/{i.guild.id}/{i.channel.id}/{i.id}
     """
 
-
             vMsg += f"""
     Remember: React to a message with <:test:{int(emote_id)}> to enter someone's find into next week's FOTW!
     The member with the most <:test:{int(emote_id)}> reactions will win!"""
 
         await channel.send(vMsg)
 
-
     @client.event
     async def on_message_delete(message):
         findOfTheWeek.fotw.subtractMessage(str(message.id))
-
 
     @client.command()
     @commands.has_permissions(administrator=True)
@@ -220,19 +254,23 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
             await getFOTWWinner(findOfTheWeek.fotw.getList())
             findOfTheWeek.fotw.refreshList()
         except Exception:
-            print('Something went wrong...')
-
+            print("Something went wrong...")
 
     @client.command()
     @commands.has_permissions(administrator=True)
     async def refreshAPI(ctx):
         coinData.refreshFiles()
 
-
     @client.command()
-    async def search(ctx, arg1: typing.Optional[str], arg2: typing.Optional[str], arg3: typing.Optional[str]):
+    async def search(
+        ctx,
+        arg1: typing.Optional[str],
+        arg2: typing.Optional[str],
+        arg3: typing.Optional[str],
+    ):
         if arg1 is None or arg1.lower() == "help":
-            await ctx.send("""___***EUR!SEARCH HELP***___
+            await ctx.send(
+                """___***EUR!SEARCH HELP***___
     To search numista's euro coin database you can use ``eur!search``. There are two types of searches you can make: 
     
     **1.) BROAD SEARCH:** To make a broad search, run the command ``eur!search <country> <year> <denomination>``. 
@@ -245,7 +283,8 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
     * ``<ID>`` is required and is equivalent to the numista ID of the coin.
     * ``<year>`` is optional and can be used to narrow down mintage statistics if a coin was minted during a large period of time.
     Unlike before, ``<ID>`` and ``<year>`` must be in the order specified.
-    """)
+    """
+            )
             return
         elif arg1.lower() == "id":
             await post_ID(arg2, int(ctx.channel.id), arg3)
@@ -254,56 +293,60 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
         search_list = [arg1, arg2, arg3]
         processed_search_list = coinData.searchProcessor(search_list)
 
-        if processed_search_list['Status'] != '0':
-            await ctx.send(processed_search_list['Status'])
+        if processed_search_list["Status"] != "0":
+            await ctx.send(processed_search_list["Status"])
             return
 
         results = coinData.searchEngine(processed_search_list)
         if len(results) == 1:
-            await post_ID(results[0]['id'], int(ctx.channel.id), processed_search_list['Year'])
+            await post_ID(
+                results[0]["id"], int(ctx.channel.id), processed_search_list["Year"]
+            )
             pass
         elif len(results) < 1:
-            await ctx.send('Your search has yielded no results!')
+            await ctx.send("Your search has yielded no results!")
         else:
             pass
             await post_list_results(int(ctx.channel.id), results, processed_search_list)
-
 
     async def post_list_results(channel_id: int, results: list, processed_search: dict):
         channel = client.get_channel(int(channel_id))
         embed = discord.Embed(
             title=f"Search results:",
-            description="Your search yielded multiple results. To view detailed information about a coin, run the command eur!search ID <ID>. Add <YEAR> to the end of the previous command to narrow things down a bit."
+            description="Your search yielded multiple results. To view detailed information about a coin, run the command eur!search ID <ID>. Add <YEAR> to the end of the previous command to narrow things down a bit.",
         )
         embed.add_field(
             name="Displaying results for:",
             value=textHelp.get_multiple_result_desc(processed_search),
-            inline=False
+            inline=False,
         )
         for coin in results:
             print(coin)
-            field_title = coin['title']
-            if coin['issuer']['code'] in textHelp.french_to_emoji:
-                field_title = f"{field_title} {textHelp.french_to_emoji[coin['issuer']['code']]}"
-            if coin['title'].startswith("2 Euro") and not(coin['title'].startswith("2 Euro Cent")):
-                if ("(" in coin['title']) and not("1st map" in coin['title']) and not("2nd map" in coin['title']) and not("(Pattern)" in coin['title']):
+            field_title = coin["title"]
+            if coin["issuer"]["code"] in textHelp.french_to_emoji:
+                field_title = (
+                    f"{field_title} {textHelp.french_to_emoji[coin['issuer']['code']]}"
+                )
+            if coin["title"].startswith("2 Euro") and not (
+                coin["title"].startswith("2 Euro Cent")
+            ):
+                if (
+                    ("(" in coin["title"])
+                    and not ("1st map" in coin["title"])
+                    and not ("2nd map" in coin["title"])
+                    and not ("(Pattern)" in coin["title"])
+                ):
                     field_title = f"{field_title} ⭐"
             field_title = field_title.replace("&quot;", "'")
 
-
             field_desc = f"ID: {coin['id']}"
-            if coin['min_year'] == coin['max_year']:
+            if coin["min_year"] == coin["max_year"]:
                 field_desc = f"{field_desc}\n{coin['min_year']}"
             else:
                 field_desc = f"{field_desc}\n{coin['min_year']} - {coin['max_year']}"
 
-            embed.add_field(
-                name=field_title,
-                value=field_desc,
-                inline=True
-            )
+            embed.add_field(name=field_title, value=field_desc, inline=True)
         await channel.send(embed=embed)
-
 
     async def post_ID(coin_id: str, channel_id: int, year=None):
         coin_information = coinData.getCoinInfo(coin_id)
@@ -312,7 +355,7 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
             await channel.send(coin_information["status"])
             return
 
-        mintages = coin_information['mintage']
+        mintages = coin_information["mintage"]
 
         embed = discord.Embed(
             title=coin_information["title"],
@@ -322,9 +365,7 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
         embed.set_thumbnail(url=coin_information["reverse_pic"])
         embed.set_image(url=coin_information["obverse_pic"])
         embed.add_field(
-            name="Design",
-            value=coin_information['design_info'],
-            inline=False
+            name="Design", value=coin_information["design_info"], inline=False
         )
         field_value = ""
         if year is None:
@@ -338,25 +379,22 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
                     value=field_value,
                     inline=True,
                 )
-                if abs(coin_information['min_year'] - coin_information['max_year']) > 1:
-                    embed.set_footer(text=f"This sure is a lot of mintages... it may not even be displayed properly!\n Use eur!search id {coin_id} <YEAR> to narrow things down a bit or add a year to your search.")
+                if abs(coin_information["min_year"] - coin_information["max_year"]) > 1:
+                    embed.set_footer(
+                        text=f"This sure is a lot of mintages... it may not even be displayed properly!\n Use eur!search id {coin_id} <YEAR> to narrow things down a bit or add a year to your search."
+                    )
         else:
             if int(year) not in mintages:
                 embed.add_field(
                     name=year,
                     value="No coins issued during specified year",
-                    inline=True
+                    inline=True,
                 )
             else:
                 for data in mintages[int(year)]:
                     field_value += f"{data}\n"
-                embed.add_field(
-                    name=year,
-                    value=field_value,
-                    inline=True
-                )
+                embed.add_field(name=year, value=field_value, inline=True)
         await channel.send(embed=embed)
-
 
     @client.command()
     async def tocoin(ctx, arg1=None):
@@ -365,74 +403,99 @@ To get the exact location of euro banknote serials, run ``eur!banknote help``.""
         # check to make sure this command isn't currently being used. Otherwise file deletion becomes a bit screwed up.
         global using_tocoin
         if using_tocoin is True:
-            await ctx.channel.send("This command is currently in use. Please wait a few seconds before running it.")
+            await ctx.channel.send(
+                "This command is currently in use. Please wait a few seconds before running it."
+            )
             return
         using_tocoin = True
 
-        #Help menu
+        # Help menu
         msg_content = ctx.message.content
         if arg1 is not None and arg1.lower() == "help":
             await ctx.channel.send("Help menu goes here...")
             using_tocoin = False
             return
 
-        #Processes arguments into a dict variable
+        # Processes arguments into a dict variable
         argument_list = textHelp.tocoin_argument_processor(msg_content)
 
-        #Check to see if the message is a reply to another message.
+        # Check to see if the message is a reply to another message.
         try:
             reply = await ctx.channel.fetch_message(ctx.message.reference.message_id)
         except AttributeError:
             reply = None
 
-        #If something goes wrong this variable will detect it.
+        # If something goes wrong this variable will detect it.
         response = False
 
-        #Case 1: The message containing the command contains an image. This takes priority over replying to a message with an image.
+        # Case 1: The message containing the command contains an image. This takes priority over replying to a message with an image.
         if len(ctx.message.attachments) > 0:
             for file in ctx.message.attachments:
-                if file.filename.endswith(".jpg") or file.filename.endswith(".png"): #Only the first image is used.
-                    attachment = ctx.message.attachments[0]  #Gets first attachment from message
-                    response = designer.euro_designer(attachment.url, int(argument_list["Sigma"]), int(argument_list["Intensity"]), int(argument_list["NMD"]))
+                if file.filename.endswith(".jpg") or file.filename.endswith(
+                    ".png"
+                ):  # Only the first image is used.
+                    attachment = ctx.message.attachments[
+                        0
+                    ]  # Gets first attachment from message
+                    response = designer.euro_designer(
+                        attachment.url,
+                        int(argument_list["Sigma"]),
+                        int(argument_list["Intensity"]),
+                        int(argument_list["NMD"]),
+                    )
 
-        #Case 2: The message containing the command replies to a message. Check to see if replied to msg contains image.
+        # Case 2: The message containing the command replies to a message. Check to see if replied to msg contains image.
         elif reply is not None:
             if len(reply.attachments) > 0:
                 for file in reply.attachments:
                     if file.filename.endswith(".jpg") or file.filename.endswith(".png"):
-                        attachment = reply.attachments[0]  # gets first attachment that user
-                        response = designer.euro_designer(attachment.url, int(argument_list["Sigma"]), int(argument_list["Intensity"]), int(argument_list["NMD"]))
-            else: #msg does not contain image
-                await ctx.channel.send("The message you replied to does not have a valid image! (The image needs to be uploaded, not supplied via link.)")
+                        attachment = reply.attachments[
+                            0
+                        ]  # gets first attachment that user
+                        response = designer.euro_designer(
+                            attachment.url,
+                            int(argument_list["Sigma"]),
+                            int(argument_list["Intensity"]),
+                            int(argument_list["NMD"]),
+                        )
+            else:  # msg does not contain image
+                await ctx.channel.send(
+                    "The message you replied to does not have a valid image! (The image needs to be uploaded, not supplied via link.)"
+                )
                 using_tocoin = False
                 return
-        else: #neither Case 1 or Case 2 means no image was supplied or an improper filetype was supplied.
-            await ctx.channel.send("You must supply an image or reply to a message containing an image!")
+        else:  # neither Case 1 or Case 2 means no image was supplied or an improper filetype was supplied.
+            await ctx.channel.send(
+                "You must supply an image or reply to a message containing an image!"
+            )
             using_tocoin = False
             return
 
-        #If the response is true then conversion was successful.
-        #Get the file, send in embed, and then delete the file.
+        # If the response is true then conversion was successful.
+        # Get the file, send in embed, and then delete the file.
         if response is True:
             file = discord.File("outputs/output.png", filename="image.png")
             embed = discord.Embed(
                 title=f"S = {argument_list['Sigma']}, INTENSITY = {argument_list['Intensity']}, NMD = {argument_list['NMD']}"
             )
             embed.set_image(url="attachment://image.png")
-            embed.set_footer(text="Image to coin program created by @joaoperfig [GH] - https://github.com/joaoperfig")
+            embed.set_footer(
+                text="Image to coin program created by @joaoperfig [GH] - https://github.com/joaoperfig"
+            )
             await ctx.channel.send(file=file, embed=embed)
             os.remove("outputs//output.png")
             using_tocoin = False
             return
-        else: #If response is False then something went wrong.
-            await ctx.channel.send("There was an error processing the image. Please contact an admin!")
+        else:  # If response is False then something went wrong.
+            await ctx.channel.send(
+                "There was an error processing the image. Please contact an admin!"
+            )
             using_tocoin = False
             return
 
-
     client.run(DISCORD_TOKEN)
+
 
 if __name__ == "__main__":
     using_tocoin = False
     main()
-

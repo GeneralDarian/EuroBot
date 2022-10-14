@@ -1,12 +1,16 @@
-from typing import Dict, Any, Union, List
-
-import requests, os, json, sys
-import textHelp
-from dotenv import load_dotenv
+import json
+import os
+import sys
+from typing import Any, Dict, List, Union
 from uuid import uuid4
 
+import requests
+from dotenv import load_dotenv
+
+import textHelp
+
 # Parameters
-endpoint = 'https://api.numista.com/api/v3'
+endpoint = "https://api.numista.com/api/v3"
 load_dotenv()
 api_key = os.getenv("API_KEY")
 client_id = os.getenv("CLIENT_ID")
@@ -21,28 +25,37 @@ def refreshFiles() -> None:
     - none.
     """
 
-    resultcount = 350 #The number of results to ask numista for
+    resultcount = 350  # The number of results to ask numista for
     countries = textHelp.euro_country_list_fr
-    path = 'json_data'
+    path = "json_data"
 
-    print('Refreshing API...')
+    print("Refreshing API...")
     for country in countries:
-        search_query = 'euro'
+        search_query = "euro"
         response = requests.get(
-            endpoint + '/types',
-            params={'q': search_query, 'page': 1, 'count': resultcount, 'lang': 'en', 'issuer': f'{country}', 'category': 'coin'},
-            headers={'Numista-API-Key': api_key})
+            endpoint + "/types",
+            params={
+                "q": search_query,
+                "page": 1,
+                "count": resultcount,
+                "lang": "en",
+                "issuer": f"{country}",
+                "category": "coin",
+            },
+            headers={"Numista-API-Key": api_key},
+        )
         search_results = json.dumps(response.json(), indent=4)
         finalpath = path + f"\{country}.json"
         try:
-            with open(finalpath, 'w') as country_json:
+            with open(finalpath, "w") as country_json:
                 country_json.truncate(0)
                 country_json.write(search_results)
-                print(f'Written! {country}')
+                print(f"Written! {country}")
         except FileNotFoundError:
-            with open(finalpath, 'x') as country_json:
+            with open(finalpath, "x") as country_json:
                 country_json.write(search_results)
-    print('API refresh complete')
+    print("API refresh complete")
+
 
 def searchProcessor(arglist: list[str]) -> dict:
     """Input a list of 1-3 arguments, returns a dict with said parameters.
@@ -53,16 +66,18 @@ def searchProcessor(arglist: list[str]) -> dict:
     "status" : 0 if no problems. If there are a problems, an error message would show up here.
     "issuer" : The issuer to look for, 0 if one was not listed.
     "type" : The coin type to look for, 0 if one was not listed.
-    "year": The coin year to look for, 0 if one was not listed. """
+    "year": The coin year to look for, 0 if one was not listed."""
     already_type = False
     already_country = False
     already_year = False
 
-    final_dict = {"Status": None, "Issuer" : None, "Type": None, "Year": None}
+    final_dict = {"Status": None, "Issuer": None, "Type": None, "Year": None}
 
-    #Check list length
+    # Check list length
     if len(arglist) > 3:
-        final_dict["Status"] = "There are too many arguments in the given argument list!"
+        final_dict[
+            "Status"
+        ] = "There are too many arguments in the given argument list!"
         return final_dict
 
     for i in arglist:
@@ -70,8 +85,10 @@ def searchProcessor(arglist: list[str]) -> dict:
         if i is None:
             continue
 
-        if i.lower() in textHelp.types: #Check if argument is a type
-            if already_type == True: #If a type has already been found, then multiple types were supplied
+        if i.lower() in textHelp.types:  # Check if argument is a type
+            if (
+                already_type == True
+            ):  # If a type has already been found, then multiple types were supplied
                 final_dict["Status"] = "Multiple types have been supplied!"
                 return final_dict
 
@@ -79,8 +96,13 @@ def searchProcessor(arglist: list[str]) -> dict:
                 final_dict["Type"] = i
                 already_type = True
 
-        elif i.lower() in textHelp.country_to_french or i.lower() in textHelp.country_id_to_french: #Check if argument is a country name
-            if already_country == True: #If a country name has already been supplied, then multiple country names were supplied
+        elif (
+            i.lower() in textHelp.country_to_french
+            or i.lower() in textHelp.country_id_to_french
+        ):  # Check if argument is a country name
+            if (
+                already_country == True
+            ):  # If a country name has already been supplied, then multiple country names were supplied
                 final_dict["Status"] = "Multiple countries were supplied!"
                 return final_dict
 
@@ -88,20 +110,22 @@ def searchProcessor(arglist: list[str]) -> dict:
                 final_dict["Issuer"] = i
                 already_country = True
 
-        else: #idk how to do this part at all. Check if the argument is a year.
+        else:  # idk how to do this part at all. Check if the argument is a year.
             try:
                 year = int(i)
                 if year >= 1999 and year < 2030:
-                    if already_year == True: #If this is true then there has already been a year supplied.
+                    if (
+                        already_year == True
+                    ):  # If this is true then there has already been a year supplied.
                         final_dict["Status"] = "Multiple years were supplied!"
                         return final_dict
                     final_dict["Year"] = str(year)
                     already_year = True
-                else: #Year is out of bounds - bounds are [1999, 2030)
+                else:  # Year is out of bounds - bounds are [1999, 2030)
                     final_dict["Status"] = "Year is out of bounds [1999, 2030)"
                     return final_dict
             except ValueError:
-                #If it reaches this far this MUST be an invalid argument.
+                # If it reaches this far this MUST be an invalid argument.
                 final_dict["Status"] = f"Invalid argument {i}"
                 return final_dict
 
@@ -112,7 +136,8 @@ def searchProcessor(arglist: list[str]) -> dict:
 
     return final_dict
 
-def searchEngine(params : dict) -> list[dict]:
+
+def searchEngine(params: dict) -> list[dict]:
     """Given dictionary with arguments will look through json_data and return results.
     Inputs:
     - params (dict): A dictionary in the type which is supplied via searchProcessor
@@ -120,99 +145,141 @@ def searchEngine(params : dict) -> list[dict]:
     - list[dict]: A list of all "hits" to the search. main.py will process this."""
     search_results = []
 
-    #Get issuer
-    if params['Issuer'] is not None:
-        if params['Issuer'].lower() in textHelp.country_to_french:
-            issuer = textHelp.country_to_french[params['Issuer'].lower()]
-        if params['Issuer'].lower() in textHelp.country_id_to_french:
-            issuer = textHelp.country_id_to_french[params['Issuer'].lower()]
+    # Get issuer
+    if params["Issuer"] is not None:
+        if params["Issuer"].lower() in textHelp.country_to_french:
+            issuer = textHelp.country_to_french[params["Issuer"].lower()]
+        if params["Issuer"].lower() in textHelp.country_id_to_french:
+            issuer = textHelp.country_id_to_french[params["Issuer"].lower()]
     else:
         issuer = None
 
-    #Get year
-    if params['Year'] is not None:
-        year = params['Year']
+    # Get year
+    if params["Year"] is not None:
+        year = params["Year"]
     else:
         year = None
 
-    #Get deno
-    if params['Type'] is not None:
-        type = params['Type']
+    # Get deno
+    if params["Type"] is not None:
+        type = params["Type"]
     else:
         type = None
 
     if type is None and year is None and issuer is None:
-        raise ValueError('All three of type, year, issuer are none!')
+        raise ValueError("All three of type, year, issuer are none!")
 
-    #return [issuer, year, type]
+    # return [issuer, year, type]
     if issuer is not None:
         path = f"json_data\{issuer}.json"
-        with open(path, 'r') as country_json:
-            print('file opened')
+        with open(path, "r") as country_json:
+            print("file opened")
             json_dict = json.load(country_json)
 
-        for entry in json_dict['types']: #Loop thru json_dict
+        for entry in json_dict["types"]:  # Loop thru json_dict
 
-            if year is not None: #If the year is none this part gets skipped, and max_year and min_year are irrelevant
-                if int(entry['min_year']) > int(year) or int(entry['max_year']) < int(year): #If year not in (minyear, maxyear) then proceed to next count
+            if (
+                year is not None
+            ):  # If the year is none this part gets skipped, and max_year and min_year are irrelevant
+                if int(entry["min_year"]) > int(year) or int(entry["max_year"]) < int(
+                    year
+                ):  # If year not in (minyear, maxyear) then proceed to next count
                     continue
 
-            if any([(entry['title'].startswith(title_check)) for title_check in textHelp.long_types]) == False: #Broadly filter out non-euro coins (i.e. 1 1/2 euro, 3 euro, etc.)
+            if (
+                any(
+                    [
+                        (entry["title"].startswith(title_check))
+                        for title_check in textHelp.long_types
+                    ]
+                )
+                == False
+            ):  # Broadly filter out non-euro coins (i.e. 1 1/2 euro, 3 euro, etc.)
                 continue
-            if any([blacklistword in entry['title'] for blacklistword in textHelp.blacklist]) == True:
+            if (
+                any(
+                    [
+                        blacklistword in entry["title"]
+                        for blacklistword in textHelp.blacklist
+                    ]
+                )
+                == True
+            ):
                 continue
 
             if type is not None:
                 formaltype = type
 
-                if "c" in type and not("cc" in type): #If this is a euro cent and not a 2cc, add "X Euro Cent" to the end, check if title begins with it. if it does congrats! its a result!
+                if "c" in type and not (
+                    "cc" in type
+                ):  # If this is a euro cent and not a 2cc, add "X Euro Cent" to the end, check if title begins with it. if it does congrats! its a result!
                     formaltype = formaltype.replace("c", " Euro Cent")
-                    if not(entry['title'].startswith(formaltype)): #If it doesn't, proceed to next count
+                    if not (
+                        entry["title"].startswith(formaltype)
+                    ):  # If it doesn't, proceed to next count
                         continue
                     else:
-                        search_results.append(entry) #Otherwise append to search results and proceed to next count
+                        search_results.append(
+                            entry
+                        )  # Otherwise append to search results and proceed to next count
                         continue
 
                 elif type == "1":
                     formaltype += " Euro"
-                    if not(entry['title'].startswith(formaltype)) or entry['title'].startswith('1 Euro Cent'):
+                    if not (entry["title"].startswith(formaltype)) or entry[
+                        "title"
+                    ].startswith("1 Euro Cent"):
                         continue
                     else:
                         search_results.append(entry)
                         continue
 
-                elif type == "2": #For 2 the process is a bit different
-                    if not(entry['title'].startswith("2 Euro")) or entry['title'].startswith("2 Euro Cent"):
+                elif type == "2":  # For 2 the process is a bit different
+                    if not (entry["title"].startswith("2 Euro")) or entry[
+                        "title"
+                    ].startswith("2 Euro Cent"):
                         continue
-                    if "(" in entry['title']: #Check if the coin has a bracket
-                        if ("1st map" in entry['title']) or ("2nd map" in entry['title']) and not("(Pattern)" in entry['title']): #If it does check if its a part of (1st map) or (2nd map)
-                            search_results.append(entry) #If it does, its definitely not a 2cc.
+                    if "(" in entry["title"]:  # Check if the coin has a bracket
+                        if (
+                            ("1st map" in entry["title"])
+                            or ("2nd map" in entry["title"])
+                            and not ("(Pattern)" in entry["title"])
+                        ):  # If it does check if its a part of (1st map) or (2nd map)
+                            search_results.append(
+                                entry
+                            )  # If it does, its definitely not a 2cc.
                             continue
                         else:
-                            continue #If it does not its definitely a 2cc and must be skipped.
+                            continue  # If it does not its definitely a 2cc and must be skipped.
                     else:
                         search_results.append(entry)
                         continue
 
-                elif type == "2cc": #For 2cc the process is a bit different
+                elif type == "2cc":  # For 2cc the process is a bit different
                     formaltype = "2 Euro"
-                    if not(entry['title'].startswith(formaltype)) or entry['title'].startswith("2 Euro Cent"):
+                    if not (entry["title"].startswith(formaltype)) or entry[
+                        "title"
+                    ].startswith("2 Euro Cent"):
                         continue
-                    if "(" in entry['title']: #Check if the coin has a bracket
-                        if "1st map" in entry['title'] or "2nd map" in entry['title'] or "(Pattern)" in entry['title']: #If it does check if its a part of (1st map) or (2nd map)
+                    if "(" in entry["title"]:  # Check if the coin has a bracket
+                        if (
+                            "1st map" in entry["title"]
+                            or "2nd map" in entry["title"]
+                            or "(Pattern)" in entry["title"]
+                        ):  # If it does check if its a part of (1st map) or (2nd map)
                             continue
                         else:
-                            search_results.append(entry)  # If it does, its definitely a 2cc.
-                            continue #If it does not its definitely not a 2cc and must be skipped.
+                            search_results.append(
+                                entry
+                            )  # If it does, its definitely a 2cc.
+                            continue  # If it does not its definitely not a 2cc and must be skipped.
                     else:
-                        continue #if it does not have a bracket its not a 2cc and must be skipped
+                        continue  # if it does not have a bracket its not a 2cc and must be skipped
             else:
                 search_results.append(entry)
 
-
-
-
         return search_results
+
 
 def getCoinInfo(coin_id: str) -> dict:
     """Given numista coin ID will return with statistics "worthy" of being listed on EuroBOT. (incl. mintages).
@@ -242,12 +309,13 @@ def getCoinInfo(coin_id: str) -> dict:
         "mintage_list": [],
         "min_year": None,
         "max_year": None,
-        "mintage": None
+        "mintage": None,
     }
     response = requests.get(
-        endpoint + f'/types/{coin_id}',
-        params={'lang': 'en'},
-        headers={'Numista-API-Key': api_key})
+        endpoint + f"/types/{coin_id}",
+        params={"lang": "en"},
+        headers={"Numista-API-Key": api_key},
+    )
     search_results = response.json()
     try:
         if search_results["error_message"] is not None:
@@ -255,16 +323,22 @@ def getCoinInfo(coin_id: str) -> dict:
             return coin_info
     except KeyError:
         pass
-    #if search_results["value"]["currency"]["id"] != 9007:
+    # if search_results["value"]["currency"]["id"] != 9007:
     #    coin_info["status"] = f"invalid currency {search_results['value']['currency']['id']}"
     #    return coin_info
 
-
     coin_info["title"] = search_results["title"]
     if search_results["issuer"]["code"] in textHelp.french_to_emoji:
-        coin_info["title"] = search_results["title"] + " " + textHelp.french_to_emoji[search_results["issuer"]["code"]]
+        coin_info["title"] = (
+            search_results["title"]
+            + " "
+            + textHelp.french_to_emoji[search_results["issuer"]["code"]]
+        )
     coin_info["issuer"] = search_results["issuer"]["code"]
-    if search_results["type"] == "Circulating commemorative coin" or search_results["type"] == "Non-circulating coin":
+    if (
+        search_results["type"] == "Circulating commemorative coin"
+        or search_results["type"] == "Non-circulating coin"
+    ):
         coin_info["cc"] = True
         coin_info["title"] = coin_info["title"] + " " + "⭐"
     else:
@@ -273,7 +347,9 @@ def getCoinInfo(coin_id: str) -> dict:
     coin_info["reverse_pic"] = search_results["reverse"]["picture"]
     try:
         if sys.getsizeof(search_results["obverse"]["description"]) > 1023:
-            coin_info["design_info"] = "The design info is too large to be displayed here! Click on the blue link of this embed to learn more about this coin's design."
+            coin_info[
+                "design_info"
+            ] = "The design info is too large to be displayed here! Click on the blue link of this embed to learn more about this coin's design."
         else:
             coin_info["design_info"] = search_results["obverse"]["description"]
     except KeyError:
@@ -281,31 +357,35 @@ def getCoinInfo(coin_id: str) -> dict:
     coin_info["max_year"] = search_results["max_year"]
     coin_info["min_year"] = search_results["min_year"]
     coin_info["status"] = "0"
-    coin_info["mintage"] = getCoinMintage(coin_id, coin_info['max_year'], coin_info['min_year'])
+    coin_info["mintage"] = getCoinMintage(
+        coin_id, coin_info["max_year"], coin_info["min_year"]
+    )
     return coin_info
+
 
 def getCoinMintage(coin_id: str, max_year: int, min_year: int) -> dict:
     mintages: dict[Any, Union[list[str], Any]] = {}
 
     response = requests.get(
-        endpoint + '/types/' + str(coin_id) + '/issues',
-        params={'lang': 'en'},
-        headers={'Numista-API-Key': api_key})
+        endpoint + "/types/" + str(coin_id) + "/issues",
+        params={"lang": "en"},
+        headers={"Numista-API-Key": api_key},
+    )
     years = response.json()
 
     for i in years:
         line_value = ""
-        try: #First look at the year
-            if i['year'] not in mintages:
+        try:  # First look at the year
+            if i["year"] not in mintages:
                 year_data = []
-                mintages[i['year']] = year_data
+                mintages[i["year"]] = year_data
             else:
-                year_data = mintages[i['year']]
+                year_data = mintages[i["year"]]
         except KeyError:
             continue
 
-        try: #Then look at the mintage and begin to assemble the data value
-            line_value = str(i['mintage'])
+        try:  # Then look at the mintage and begin to assemble the data value
+            line_value = str(i["mintage"])
         except KeyError:
             line_value = line_value
 
@@ -320,11 +400,7 @@ def getCoinMintage(coin_id: str, max_year: int, min_year: int) -> dict:
                 except KeyError:
                     line_value = line_value
 
-
         year_data.append(line_value)
-        mintages[i['year']] = year_data
-
+        mintages[i["year"]] = year_data
 
     return mintages
-
-

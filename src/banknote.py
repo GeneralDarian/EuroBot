@@ -1,4 +1,3 @@
-
 def checkSumValidator(n: str) -> list:
     """Displays information about a euro banknote checksum
     Input: The banknote
@@ -11,7 +10,7 @@ def checkSumValidator(n: str) -> list:
     letters = "abcdefghijklmnopqrstuvwxyz"
     if n[0].lower() not in letters:  # Check valid input
         final.append(0)
-        final.append('Input must begin with letter')
+        final.append("Input must begin with letter")
         return final
 
     n = n + "0"  # ensures that no valueerror arises if input is just letters.
@@ -24,25 +23,46 @@ def checkSumValidator(n: str) -> list:
         series = 1
 
     # series1checksums[input] = [countryname, checksum]
-    series1checksums = {"d": ["Estonia !EE" ,4], "e": ["Slovakia !SK" ,3], "f": ["Malta !MT" ,2], "g": ["Cyprus !CY", 1],
-                        "h": ["Slovenia !SV", 9],
-                        "l": ["Finland !FI" ,5], "m": ["Portugal !PT" ,4], "n": ["Austria !AT" ,3], "p": ["Netherlands !NL" ,1],
-                        "r": ["Luxembourg !LX" ,8], "s": ["Italy !IT" ,7], "t": ["Ireland !IE" ,6],
-                        "u": ["France !FR" ,5], "v": ["Spain !ES", 4],
-                        "x": ["Germany !DE" ,2], "y": ["Greece !GR" ,1], "z": ["Belgium !BE" ,9]
-                        }
+    series1checksums = {
+        "d": ["Estonia !EE", 4],
+        "e": ["Slovakia !SK", 3],
+        "f": ["Malta !MT", 2],
+        "g": ["Cyprus !CY", 1],
+        "h": ["Slovenia !SV", 9],
+        "l": ["Finland !FI", 5],
+        "m": ["Portugal !PT", 4],
+        "n": ["Austria !AT", 3],
+        "p": ["Netherlands !NL", 1],
+        "r": ["Luxembourg !LX", 8],
+        "s": ["Italy !IT", 7],
+        "t": ["Ireland !IE", 6],
+        "u": ["France !FR", 5],
+        "v": ["Spain !ES", 4],
+        "x": ["Germany !DE", 2],
+        "y": ["Greece !GR", 1],
+        "z": ["Belgium !BE", 9],
+    }
 
     # series2checksums[input] = [printername, checksum]
-    series2checksums = {"d": ["Polska Wytwórnia Papierów Wartościowych !PL", 4], "e": ["Oberthur !FR", 3],
-                        "f": ["	Oberthur Fiduciaire AD Bulgaria !BG", 2], "h": ["De La Rue Loughton !UK", 9],
-                        "j": ["De La Rue Gateshead !UK", 7], "m": ["Valora !PT", 4],
-                        "n": ["Österreichische Banknoten‐ und Sicherheitsdruck GmbH !AT", 3],
-                        "p": ["Koninklijke Joh. Enschedé !NL", 1], "r": ["Bundesdruckerei !DE", 8],
-                        "s": ["Banca d'Italia !IT", 7],
-                        "t": ["Central Bank of Ireland !IE", 6], "u": ["Banque de France !FR", 5], "v": ["FNMT-RCM !ES", 4],
-                        "w": ["Giesecke+Devrient (Leipzig) !DE", 3], "x": ["Giesecke+Devrient (Munich) !DE", 2],
-                        "y": ["Bank of Greece !GR", 1], "z": ["National Bank of Belgium !BE", 9]
-                        }
+    series2checksums = {
+        "d": ["Polska Wytwórnia Papierów Wartościowych !PL", 4],
+        "e": ["Oberthur !FR", 3],
+        "f": ["	Oberthur Fiduciaire AD Bulgaria !BG", 2],
+        "h": ["De La Rue Loughton !UK", 9],
+        "j": ["De La Rue Gateshead !UK", 7],
+        "m": ["Valora !PT", 4],
+        "n": ["Österreichische Banknoten‐ und Sicherheitsdruck GmbH !AT", 3],
+        "p": ["Koninklijke Joh. Enschedé !NL", 1],
+        "r": ["Bundesdruckerei !DE", 8],
+        "s": ["Banca d'Italia !IT", 7],
+        "t": ["Central Bank of Ireland !IE", 6],
+        "u": ["Banque de France !FR", 5],
+        "v": ["FNMT-RCM !ES", 4],
+        "w": ["Giesecke+Devrient (Leipzig) !DE", 3],
+        "x": ["Giesecke+Devrient (Munich) !DE", 2],
+        "y": ["Bank of Greece !GR", 1],
+        "z": ["National Bank of Belgium !BE", 9],
+    }
 
     # Pick the right series dictionary to look through
     # Also, this is the step which will check for any stray letters which may have wandered their way into the serial number
@@ -57,13 +77,13 @@ def checkSumValidator(n: str) -> list:
             checksum = int(n[2:]) * 100 + ord(n[1])
     except ValueError:
         final.append(0)
-        final.append('Misinput')
+        final.append("Misinput")
         return final
 
     # Is the first letter in the series checksum? If not the note may have not been entered properly.
     if not n[0].lower() in serieschecksums:
         final[0] = 0
-        final.append('Issue/Printer doesnt exist')
+        final.append("Issue/Printer doesnt exist")
         return final
     else:
         final.append(serieschecksums[n[0].lower()][0])
@@ -74,9 +94,4 @@ def checkSumValidator(n: str) -> list:
     else:
         final.append(False)
 
-
     return final
-
-
-
-

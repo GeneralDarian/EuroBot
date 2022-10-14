@@ -6,16 +6,40 @@ def emojiReplacer(t: str) -> str:
     Output: string"""
 
     final = t
-    #🇦🇩 🇦🇹 🇧🇪 🇨🇾 🇪🇪 🇫🇮 🇫🇷 🇩🇪 🇬🇷 🇮🇪 🇮🇹 🇱🇻 🇱🇹 🇱🇺 🇲🇹 🇳🇱 🇵🇹 🇸🇰 🇸🇮 🇪🇸 🇪🇺 🇭🇷 🇲🇨 🇻🇦 🇸🇲
-    codeToEmote = {"!AN" : "🇦🇩", "!AT": "🇦🇹", "!BE": "🇧🇪", "!CY": "🇨🇾", "!EE": "🇪🇪", "!FI": "🇫🇮", "!FR": "🇫🇷", "!DE": "🇩🇪", "!GR": "🇬🇷", "!IE": "🇮🇪", "!IT": "🇮🇹", "!LV": "🇱🇻",
-                   "!LT": "🇱🇹", "!LU": "🇱🇺", "!MT": "🇲🇹", "!NL": "🇳🇱", "!PT": "🇵🇹", "!SK": "🇸🇰", "!SI": "🇸🇮", "!ES": "🇪🇸", "!EU": "🇪🇺", "!HR": "🇭🇷", "!MC": "🇲🇨",
-                   "!VA": "🇻🇦", "!SM": "🇸🇲"}
+    # 🇦🇩 🇦🇹 🇧🇪 🇨🇾 🇪🇪 🇫🇮 🇫🇷 🇩🇪 🇬🇷 🇮🇪 🇮🇹 🇱🇻 🇱🇹 🇱🇺 🇲🇹 🇳🇱 🇵🇹 🇸🇰 🇸🇮 🇪🇸 🇪🇺 🇭🇷 🇲🇨 🇻🇦 🇸🇲
+    codeToEmote = {
+        "!AN": "🇦🇩",
+        "!AT": "🇦🇹",
+        "!BE": "🇧🇪",
+        "!CY": "🇨🇾",
+        "!EE": "🇪🇪",
+        "!FI": "🇫🇮",
+        "!FR": "🇫🇷",
+        "!DE": "🇩🇪",
+        "!GR": "🇬🇷",
+        "!IE": "🇮🇪",
+        "!IT": "🇮🇹",
+        "!LV": "🇱🇻",
+        "!LT": "🇱🇹",
+        "!LU": "🇱🇺",
+        "!MT": "🇲🇹",
+        "!NL": "🇳🇱",
+        "!PT": "🇵🇹",
+        "!SK": "🇸🇰",
+        "!SI": "🇸🇮",
+        "!ES": "🇪🇸",
+        "!EU": "🇪🇺",
+        "!HR": "🇭🇷",
+        "!MC": "🇲🇨",
+        "!VA": "🇻🇦",
+        "!SM": "🇸🇲",
+    }
     for i in codeToEmote:
         if i == t:
-            final = final.replace(i,codeToEmote[i])
-
+            final = final.replace(i, codeToEmote[i])
 
     return final
+
 
 def get_multiple_result_desc(processed_results: dict) -> str:
     """Given a processed result dict, returns the processed string for display in the discord multiple search results embed.
@@ -23,35 +47,38 @@ def get_multiple_result_desc(processed_results: dict) -> str:
     - processed_results (dict): returned from calling coinData.searchProcessor()
     Outputs:
     - desc (str): String to put in the search results embed desc, returns error msg if something went wrong"""
-    #{'Status': '0', 'Issuer': '', 'Type': '', 'Year': ''}
+    # {'Status': '0', 'Issuer': '', 'Type': '', 'Year': ''}
     desc = ""
-    if processed_results['Issuer'].lower() in country_to_french:
-        french_country = country_to_french[processed_results['Issuer'].lower()]
+    if processed_results["Issuer"].lower() in country_to_french:
+        french_country = country_to_french[processed_results["Issuer"].lower()]
         desc = f"{french_to_genitive[french_country].upper()} {french_to_emoji[french_country]}"
-    elif processed_results['Issuer'].lower() in country_id_to_french:
-        french_country = country_id_to_french[processed_results['Issuer'].lower()]
+    elif processed_results["Issuer"].lower() in country_id_to_french:
+        french_country = country_id_to_french[processed_results["Issuer"].lower()]
         desc = f"{french_to_genitive[french_country].upper()} {french_to_emoji[french_country]}"
     else:
         desc = "Error: Could not fetch country from textHelp"
         return desc
 
-    if processed_results['Type'] is not None and processed_results['Type'].lower() in to_type:
-        type = to_type[processed_results['Type'].lower()]
+    if (
+        processed_results["Type"] is not None
+        and processed_results["Type"].lower() in to_type
+    ):
+        type = to_type[processed_results["Type"].lower()]
         desc = f"{desc} {type}"
     desc = f"{desc} Coins"
 
-    if processed_results['Year'] is not None:
+    if processed_results["Year"] is not None:
         desc = f"{desc} minted in {processed_results['Year']}"
 
     return desc
 
+
 def tocoin_argument_processor(content: str) -> dict:
-    """Processes a list of arguments """
+    """Processes a list of arguments"""
 
     arguments = {"Status": None, "Sigma": 0.1, "Intensity": 2.0, "NMD": 1.5}
 
-
-    if content is None: #base case, if no arguments were supplied
+    if content is None:  # base case, if no arguments were supplied
         return arguments
 
     content_list = content.split()
@@ -61,186 +88,234 @@ def tocoin_argument_processor(content: str) -> dict:
 
     print(content_list)
     for index, value in enumerate(content_list):
-        if value.lower() == "-s" and already_sigma == False: #Try to fetch the sigma value
+        if (
+            value.lower() == "-s" and already_sigma == False
+        ):  # Try to fetch the sigma value
             try:
                 sigma = float(content_list[index + 1])
                 arguments["Sigma"] = sigma
                 already_sigma = True
-            except ValueError: #If -s is not int
-                arguments["Status"] = "Invalid sigma (-s) argument given [argument must be a number]"
+            except ValueError:  # If -s is not int
+                arguments[
+                    "Status"
+                ] = "Invalid sigma (-s) argument given [argument must be a number]"
                 return arguments
-            except IndexError: #If -s was never given
+            except IndexError:  # If -s was never given
                 arguments["Status"] = "Flag (-s) was used, but no argument was given."
                 return arguments
         elif value.lower() == "-s" and already_sigma == True:
             arguments["Status"] = "Flag (-s) was used more than once."
             return arguments
 
-        elif value.lower() == "-i" and already_intensity == False: #Try to fetch the intensity value
+        elif (
+            value.lower() == "-i" and already_intensity == False
+        ):  # Try to fetch the intensity value
             try:
                 intensity = float(content_list[index + 1])
                 arguments["Intensity"] = intensity
                 already_intensity = True
-            except ValueError: #If -i is not int
-                arguments["Status"] = "Invalid intensity (-i) argument given [argument must be a number]"
+            except ValueError:  # If -i is not int
+                arguments[
+                    "Status"
+                ] = "Invalid intensity (-i) argument given [argument must be a number]"
                 return arguments
-            except IndexError: #If -i was never given
+            except IndexError:  # If -i was never given
                 arguments["Status"] = "Flag (-i) was used, but no argument was given."
                 return arguments
         elif value.lower() == "-i" and already_intensity == True:
             arguments["Status"] = "Flag (-i) was used more than once."
             return arguments
 
-        elif value.lower() == "-nmd" and already_NMD == False: #Try to fetch the NMD value
+        elif (
+            value.lower() == "-nmd" and already_NMD == False
+        ):  # Try to fetch the NMD value
             try:
                 nmd = float(content_list[index + 1])
                 arguments["NMD"] = nmd
                 already_NMD = True
-            except ValueError: #If -i is not int
-                arguments["Status"] = "Invalid NMD (-nmd) argument given [argument must be a number]"
+            except ValueError:  # If -i is not int
+                arguments[
+                    "Status"
+                ] = "Invalid NMD (-nmd) argument given [argument must be a number]"
                 return arguments
-            except IndexError: #If -i was never given
+            except IndexError:  # If -i was never given
                 arguments["Status"] = "Flag (-nmd) was used, but no argument was given."
                 return arguments
         elif value.lower() == "-nmd" and already_NMD == True:
             arguments["Status"] = "Flag (-nmd) was used more than once."
             return arguments
 
-
-    #Final check to ensure nothing weird was fed through this command
-    if not(any([already_NMD, already_intensity, already_sigma])) == True:
-        arguments["Status"] = "Invalid arguments given. Arguments must be: <-s>, <-i>, <-nmd>. Arguments may be optional."
+    # Final check to ensure nothing weird was fed through this command
+    if not (any([already_NMD, already_intensity, already_sigma])) == True:
+        arguments[
+            "Status"
+        ] = "Invalid arguments given. Arguments must be: <-s>, <-i>, <-nmd>. Arguments may be optional."
 
     return arguments
 
 
+euro_country_list_fr = [
+    "allemagne",
+    "autriche",
+    "belgique",
+    "espagne",
+    "finlande",
+    "france",
+    "irlande",
+    "italie",
+    "luxembourg",
+    "pays-bas",
+    "portugal",
+    "grece",
+    "slovenie",
+    "chypre",
+    "malte",
+    "slovaquie",
+    "estonie",
+    "lettonie",
+    "lituanie",
+    "monaco",
+    "saint-marin",
+    "andorre",
+    "croatie",
+    "vatican",
+]
 
+types = ["1c", "2c", "5c", "10c", "20c", "50c", "1", "2", "2cc"]
 
+blacklist = ["pattern", "Pattern"]
 
-
-
-euro_country_list_fr = ['allemagne', 'autriche', 'belgique', 'espagne', 'finlande', 'france', 'irlande', 'italie', 'luxembourg', 'pays-bas', 'portugal', 'grece', 'slovenie',
-                        'chypre', 'malte', 'slovaquie', 'estonie', 'lettonie', 'lituanie', 'monaco', 'saint-marin', 'andorre', 'croatie', 'vatican']
-
-types = ['1c', '2c', '5c', '10c', '20c', '50c', '1', '2', '2cc']
-
-blacklist = ['pattern', 'Pattern']
-
-long_types = ['1 Euro Cent', '2 Euro Cent', '5 Euro Cent', '10 Euro Cent', '20 Euro Cent', '50 Euro Cent', '1 Euro', '2 Euro']
+long_types = [
+    "1 Euro Cent",
+    "2 Euro Cent",
+    "5 Euro Cent",
+    "10 Euro Cent",
+    "20 Euro Cent",
+    "50 Euro Cent",
+    "1 Euro",
+    "2 Euro",
+]
 
 
 to_type = {
-    '1c': '1 Euro Cent',
-    '2c': '2 Euro Cent',
-    '5c': '5 Euro Cent',
-    '10c': '10 Euro Cent',
-    '20c': '20 Euro Cent',
-    '50c': '50 Euro Cent',
-    '1': '1 Euro',
-    '2': '2 Euro',
-    '2cc': '2 Euro Commemorative' #Beware of additional checks one might need to run!!!
+    "1c": "1 Euro Cent",
+    "2c": "2 Euro Cent",
+    "5c": "5 Euro Cent",
+    "10c": "10 Euro Cent",
+    "20c": "20 Euro Cent",
+    "50c": "50 Euro Cent",
+    "1": "1 Euro",
+    "2": "2 Euro",
+    "2cc": "2 Euro Commemorative",  # Beware of additional checks one might need to run!!!
 }
 
-country_to_french = {'germany': 'allemagne',
-                     'austria': 'autriche',
-                     'belgium': 'belgique',
-                     'spain': 'espagne',
-                     'finland': 'finlande',
-                     'france': 'france',
-                     'ireland': 'irlande',
-                     'italy': 'italie',
-                     'luxembourg': 'luxembourg',
-                     'netherlands': 'pays-bas',
-                     'portugal': 'portugal',
-                     'greece': 'grece',
-                     'slovenia': 'slovenie',
-                     'cyprus': 'chypre',
-                     'malta': 'malte',
-                     'slovakia': 'slovaquie',
-                     'estonia': 'estonie',
-                     'latvia': 'lettonie',
-                     'lithuania': 'lituanie',
-                     'monaco': 'monaco',
-                     'san-marino': 'saint-marin',
-                     'sanmarino': 'saint-marin',
-                     'andorra': 'andorre',
-                     'vaticancity': 'vatican',
-                     'vatican-city': 'vatican',
-                     'vatican': 'vatican'}
+country_to_french = {
+    "germany": "allemagne",
+    "austria": "autriche",
+    "belgium": "belgique",
+    "spain": "espagne",
+    "finland": "finlande",
+    "france": "france",
+    "ireland": "irlande",
+    "italy": "italie",
+    "luxembourg": "luxembourg",
+    "netherlands": "pays-bas",
+    "portugal": "portugal",
+    "greece": "grece",
+    "slovenia": "slovenie",
+    "cyprus": "chypre",
+    "malta": "malte",
+    "slovakia": "slovaquie",
+    "estonia": "estonie",
+    "latvia": "lettonie",
+    "lithuania": "lituanie",
+    "monaco": "monaco",
+    "san-marino": "saint-marin",
+    "sanmarino": "saint-marin",
+    "andorra": "andorre",
+    "vaticancity": "vatican",
+    "vatican-city": "vatican",
+    "vatican": "vatican",
+}
 
-country_id_to_french = {'de': 'allemagne',
-                     'at': 'autriche',
-                     'be': 'belgique',
-                     'es': 'espagne',
-                     'fi': 'finlande',
-                     'fr': 'france',
-                     'ie': 'irlande',
-                     'it': 'italie',
-                     'lu': 'luxembourg',
-                     'nl': 'pays-bas',
-                     'pt': 'portugal',
-                     'gr': 'grece',
-                     'si': 'slovenie',
-                     'cy': 'chypre',
-                     'mt': 'malte',
-                     'sk': 'slovaquie',
-                     'ee': 'estonie',
-                     'lv': 'lettonie',
-                     'lt': 'lituanie',
-                     'mc': 'monaco',
-                     'sm': 'saint-marin',
-                     'ad': 'andorre',
-                     'va': 'vatican'}
+country_id_to_french = {
+    "de": "allemagne",
+    "at": "autriche",
+    "be": "belgique",
+    "es": "espagne",
+    "fi": "finlande",
+    "fr": "france",
+    "ie": "irlande",
+    "it": "italie",
+    "lu": "luxembourg",
+    "nl": "pays-bas",
+    "pt": "portugal",
+    "gr": "grece",
+    "si": "slovenie",
+    "cy": "chypre",
+    "mt": "malte",
+    "sk": "slovaquie",
+    "ee": "estonie",
+    "lv": "lettonie",
+    "lt": "lituanie",
+    "mc": "monaco",
+    "sm": "saint-marin",
+    "ad": "andorre",
+    "va": "vatican",
+}
 
-french_to_emoji = {'allemagne': '🇩🇪',
-                   'autriche': '🇦🇹',
-                   'belgique': '🇧🇪',
-                   'espagne': '🇪🇸',
-                   'finlande': '🇫🇮',
-                   'france': '🇫🇷',
-                   'irlande': '🇮🇪',
-                   'italie': '🇮🇹',
-                   'luxembourg': '🇱🇺',
-                   'pays-bas': '🇳🇱',
-                   'portugal': '🇵🇹',
-                   'grece': '🇬🇷',
-                   'slovenie': '🇸🇮',
-                   'chypre': '🇨🇾',
-                   'malte': '🇲🇹',
-                   'slovaquie': '🇸🇰',
-                   'estonie': '🇪🇪',
-                   'lettonie': '🇱🇻',
-                   'lituanie': '🇱🇹',
-                   'monaco': '🇲🇨',
-                   'saint-marin': '🇸🇲',
-                   'andorre': '🇦🇩',
-                   'vatican': '🇻🇦'}
+french_to_emoji = {
+    "allemagne": "🇩🇪",
+    "autriche": "🇦🇹",
+    "belgique": "🇧🇪",
+    "espagne": "🇪🇸",
+    "finlande": "🇫🇮",
+    "france": "🇫🇷",
+    "irlande": "🇮🇪",
+    "italie": "🇮🇹",
+    "luxembourg": "🇱🇺",
+    "pays-bas": "🇳🇱",
+    "portugal": "🇵🇹",
+    "grece": "🇬🇷",
+    "slovenie": "🇸🇮",
+    "chypre": "🇨🇾",
+    "malte": "🇲🇹",
+    "slovaquie": "🇸🇰",
+    "estonie": "🇪🇪",
+    "lettonie": "🇱🇻",
+    "lituanie": "🇱🇹",
+    "monaco": "🇲🇨",
+    "saint-marin": "🇸🇲",
+    "andorre": "🇦🇩",
+    "vatican": "🇻🇦",
+}
 
-french_to_genitive = {'allemagne': 'German',
-                   'autriche': 'Austrian',
-                   'belgique': 'Belgian',
-                   'espagne': 'Spanish',
-                   'finlande': 'Finnish',
-                   'france': 'French',
-                   'ireland': 'Irish',
-                   'italie': 'Italian',
-                   'luxembourg': 'Luxembourgish',
-                   'pays-bas': 'Dutch',
-                   'portugal': 'Portuguese',
-                   'grece': 'Greek',
-                   'slovenie': 'Slovene',
-                   'chypre': 'Cypriot',
-                   'malte': 'Maltese',
-                   'slovaquie': 'Slovak',
-                   'estonie': 'Estonian',
-                   'lettonie': 'Latvian',
-                   'lituanie': 'Lithuanian',
-                   'irlande': 'Irish',
-                   'monaco': 'Monégasque',
-                   'saint-marin': 'Sammarinese',
-                   'andorre': 'Andorran',
-                   'vatican': 'Vatican'}
-
+french_to_genitive = {
+    "allemagne": "German",
+    "autriche": "Austrian",
+    "belgique": "Belgian",
+    "espagne": "Spanish",
+    "finlande": "Finnish",
+    "france": "French",
+    "ireland": "Irish",
+    "italie": "Italian",
+    "luxembourg": "Luxembourgish",
+    "pays-bas": "Dutch",
+    "portugal": "Portuguese",
+    "grece": "Greek",
+    "slovenie": "Slovene",
+    "chypre": "Cypriot",
+    "malte": "Maltese",
+    "slovaquie": "Slovak",
+    "estonie": "Estonian",
+    "lettonie": "Latvian",
+    "lituanie": "Lithuanian",
+    "irlande": "Irish",
+    "monaco": "Monégasque",
+    "saint-marin": "Sammarinese",
+    "andorre": "Andorran",
+    "vatican": "Vatican",
+}
 
 
 default_year = [i for i in range(1999, 2031)]
@@ -279,4 +354,3 @@ Lastly, our community is very interested in live coin roll hunts! If you plan on
 rare_coins = """__Be sceptical of online listings of coins claiming that your coin is worth a lot of money.__ People like to put up listings for very common circulation coins claiming they are worth thousands, when in reality they are probably worth face value. There are many factors which go into what makes a coin rare, and it's best to do more research by looking into mintage figures and sold ebay listings. When in doubt, you can also ask the community in the #values channel to give their own opinion into the value of a coin.
     
 __Greece 2002S is not a rare coin, nor is it a mintage error.__ In 2002, Greece could not make enough 2 euro coins for the introduction of the euro, so they asked Finland to help them out by minting some 2 euro coins for them. Finland made approximately __70 million__ 2 euro coins for Greece and marked them with an "S" mintmark (S for "Suomi"). This is the most common coin listed on marketplaces for extremely high prices. """
-
