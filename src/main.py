@@ -1,7 +1,7 @@
 import os
 import time
 import typing
-
+import datetime
 import discord
 from discord.ext import commands, tasks
 from discord.utils import get
@@ -52,40 +52,57 @@ def main():
         return
 
     @client.command()
+    async def fotw(ctx):
+        emote_id = findOfTheWeek.EMOTE_ID
+        channel_id = findOfTheWeek.CHANNEL_ID
+        await ctx.send(
+            f"""**FIND OF THE WEEK (FOTW) HELP**
+Find of the Week is a system where finds are 'ranked' by the commmunity. The best find wins this week's find of the week!
+For starters, post a picture of your find in <#{channel_id}>. Afterwards, other users can react to the picture with <:emote:{emote_id}> emotes!
+On Sundays, the find with the most emotes wins!"""
+        )
+
+    @client.command()
     async def rare(ctx):  # rare coins information command
         await ctx.send(textHelp.rare_coins)
         return
 
     @client.command()
     async def help(ctx):
-        emote_id = findOfTheWeek.EMOTE_ID
+        emote_id = os.getenv("HELP_EMOTE_ID")
+        msg_prefix = getprefix(ctx.message.content)
         await ctx.send(
             f"""___***EUROBOT HELP MENU***___
 
 **Non-Information commands**
-<:test:{int(emote_id)}> ``eur!search`` - Look up euro coin designs from numista's coin database. Run ``eur!search help`` for more information on how to use this commnad.
+<:emote:{int(emote_id)}> ``{msg_prefix}!search`` - Look up euro coin designs from numista's coin database. Run ``{msg_prefix}!search help`` for more information on how to use this commnad.
 
-<:test:{int(emote_id)}> ``eur!banknote <banknote serial>`` - Display euro banknote statistics given its serial number.
+<:emote:{int(emote_id)}> ``{msg_prefix}!banknote <banknote serial>`` - Display euro banknote statistics given its serial number.
 
-<:test:{int(emote_id)}> ``eur!tocoin`` - Convert an image to a 2 euro coin. Run ``eur!tocoin help`` for more information on how to use this command.
+<:emote:{int(emote_id)}> ``{msg_prefix}!tocoin`` - Convert an image to a 2 euro coin. Run ``{msg_prefix}!tocoin help`` for more information on how to use this command.
 
 **Information commands**
-<:test:{int(emote_id)}> ``eur!clean`` - Information on cleaning coins.
+<:emote:{int(emote_id)}> ``{msg_prefix}!clean`` - Information on cleaning coins.
 
-<:test:{int(emote_id)}> ``eur!crh`` - Information on coin roll hunts.
+<:emote:{int(emote_id)}> ``{msg_prefix}!crh`` - Information on coin roll hunts.
 
-<:test:{int(emote_id)}> ``eur!rare`` - Information on rare euro coins.
+<:emote:{int(emote_id)}> ``{msg_prefix}!rare`` - Information on rare euro coins.
 
-<:test:{int(emote_id)}> ``eur!storage`` - Information on storing coins properly."""
+<:emote:{int(emote_id)}> ``{msg_prefix}!storage`` - Information on storing coins properly.
+
+<:emote:{int(emote_id)}> ``{msg_prefix}!info`` - Displays bot and server information.
+
+<:emote:{int(emote_id)}> ``{msg_prefix}!fotw`` - Displays information on find of the week."""
         )
 
     @client.command()
     async def banknote(ctx, arg1=None):  # eur!banknote command
         # display help info if arg1 is not set or if arg1 == "help"
+        msg_prefix = getprefix(ctx.message.content)
         if arg1 == None:
             await ctx.send(
                 f"""**EUR!BANKNOTE HELP**
-Use ``eur!banknote <ID>`` to get banknote information, where <ID> is the banknote serial. Do not add printer identification codes or vertical serial numbers.
+Use ``{msg_prefix}!banknote <ID>`` to get banknote information, where <ID> is the banknote serial. Do not add printer identification codes or vertical serial numbers.
 Here is the location of the euro banknote serials for both Series 1 (top) and Series 2 (bottom): https://imgur.com/u3IraLz"""
             )
             return
@@ -177,7 +194,7 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
 
             reaction_count = msg.reactions
             for reaction in reaction_count:
-                if str(reaction.emoji) == "<:test:1028178032680255488>":
+                if str(reaction.emoji) == f"<:emote:{emote_id}>":
 
                     if (
                         reaction.count == None
@@ -201,8 +218,8 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
         if len(winners) < 1:  # No victors
             vMsg = f"""**FIND OF THE WEEK:** <t:{int(time.time())}:D>
     It appears as if there aren't any winners for this week's find of the week :/
-    Remember: React to a message with <:test:{int(emote_id)}> to enter someone's find into next week's FOTW!
-    The member with the most <:test:{int(emote_id)}> reactions will win!
+    Remember: React to a message with <:emote:{int(emote_id)}> to enter someone's find into next week's FOTW!
+    The member with the most <:emote:{int(emote_id)}> reactions will win!
             """
 
         elif (
@@ -210,11 +227,11 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
         ):  # One victor. Returns immediately to not tamper with the FOTW class any further.
             vMsg = f"""**FIND OF THE WEEK:** <t:{int(time.time())}:D>
             
-    <:test:{int(emote_id)}> Congratulations <@{winners[0].author.id}> for winning this week's FOTW competition! 
+    <:emote:{int(emote_id)}> Congratulations <@{winners[0].author.id}> for winning this week's FOTW competition! 
     Submission: https://discordapp.com/channels/{winners[0].guild.id}/{winners[0].channel.id}/{winners[0].id}\n
     
-    Remember: React to a message with <:test:{int(emote_id)}> to enter someone's find into next week's FOTW!
-    The member with the most <:test:{int(emote_id)}> reactions will win!
+    Remember: React to a message with <:emote:{int(emote_id)}> to enter someone's find into next week's FOTW!
+    The member with the most <:emote:{int(emote_id)}> reactions will win!
             """
             await channel.send(vMsg)
             return
@@ -227,13 +244,13 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
     """
             for i in winners:
                 vMsg += f"""
-    <:test:{int(emote_id)}> Congratulations <@{i.author.id}> for winning this week's FOTW competition! 
+    <:emote:{int(emote_id)}> Congratulations <@{i.author.id}> for winning this week's FOTW competition! 
     Submission: https://discordapp.com/channels/{i.guild.id}/{i.channel.id}/{i.id}
     """
 
             vMsg += f"""
-    Remember: React to a message with <:test:{int(emote_id)}> to enter someone's find into next week's FOTW!
-    The member with the most <:test:{int(emote_id)}> reactions will win!"""
+    Remember: React to a message with <:emote:{int(emote_id)}> to enter someone's find into next week's FOTW!
+    The member with the most <:emote:{int(emote_id)}> reactions will win!"""
 
         await channel.send(vMsg)
 
@@ -262,21 +279,28 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
         arg2: typing.Optional[str],
         arg3: typing.Optional[str],
     ):
+        msg_prefix = getprefix(ctx.message.content)
         if arg1 is None or arg1.lower() == "help":
             await ctx.send(
-                """___***EUR!SEARCH HELP***___
+                f"""___***EUR!SEARCH HELP***___
     To search numista's euro coin database you can use ``eur!search``. There are two types of searches you can make: 
     
-    **1.) BROAD SEARCH:** To make a broad search, run the command ``eur!search <country> <year> <denomination>``. 
+    **1.) BROAD SEARCH:** To make a broad search, run the command ``{msg_prefix}!search <country> <year> <denomination>``. 
      * ``<country>`` must be either the english name of the country _without gaps_ (i.e. Austria, Sanmarino, Netherlands) or the two-letter country code (AT, SM, NL). This argument is __required__.
-     * ``<denomination>`` must be one of ``1c, 2c, 5c, 10c, 20c, 50c, 1, 2, 2cc``, where ``2`` only displays regular issue 2 euro coins, and ``2cc`` only displays commemoratives. This argument is _optional_.
+     * ``<denomination>`` must be one of ``1c, 2c, 5c, 10c, 20c, 50c, 1, 2, 2cc``. If it has a c in the end, it's a cent. ``1`` and ``2`` are 1 and 2 euro coins, ``2cc`` are 2 euro commemoratives only.
      * ``<year>`` must be between 1999 and 2029. This argument is _optional_. 
     ``<country>``, ``<year>``, and ``<denomination>`` may be in any order.
+    Examples:
+    * ``{msg_prefix}!search mc 2020`` - All Monégasque coins minted in 2020
+    * ``{msg_prefix}!search 2005 at 2cc`` - All 2 euro commemoratives minted by Austria in 2005
+    * ``{msg_prefix}!search 1 nl`` - All 1 euro coins minted by The Netherlands.
     
-    **2.) EXACT SEARCH:** Sometimes, broad searches will return multiple results. When that happens you can either add more arguments to narrow down the search, or use the IDs returned in the search to make an exact search. In this case you can run the command ``eur!search id <ID> <year>``. 
+    **2.) EXACT SEARCH:** Sometimes, broad searches will return multiple results. When that happens you can either add more arguments to narrow down the search, or use the IDs returned in the search to make an exact search. In this case you can run the command ``{msg_prefix}!search id <ID> <year>``. 
     * ``<ID>`` is required and is equivalent to the numista ID of the coin.
     * ``<year>`` is optional and can be used to narrow down mintage statistics if a coin was minted during a large period of time.
     Unlike before, ``<ID>`` and ``<year>`` must be in the order specified.
+    Examples:
+    * ``{msg_prefix}!search id 49385`` - Displays information of 2 euro coin with Numista ID 49385 (Monaco 2013)
     """
             )
             return
@@ -307,7 +331,7 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
         channel = client.get_channel(int(channel_id))
         embed = discord.Embed(
             title=f"Search results:",
-            description="Your search yielded multiple results. To view detailed information about a coin, run the command eur!search ID <ID>. Add <YEAR> to the end of the previous command to narrow things down a bit.",
+            description=f"Your search yielded multiple results. To view detailed information about a coin, run the command eur!search ID <ID>. Add <YEAR> to the end of the previous command to narrow things down a bit.",
         )
         embed.add_field(
             name="Displaying results for:",
@@ -527,6 +551,18 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
             icon_url="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         )
         await ctx.send(embed=embed)
+
+    def getprefix(msg: str) -> str:
+        """Returns prefix used for issued command
+        Inputs: The command (message.content, MUST be string)
+        Outputs: The string used"""
+        if msg.startswith("eur!"):
+            return "eur"
+        elif msg.startswith("Eur!"):
+            return "Eur"
+        else:
+            return "€"
+
 
     client.run(DISCORD_TOKEN)
 
