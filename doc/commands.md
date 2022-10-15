@@ -1,5 +1,7 @@
 Currently added commands. Note that any of the following prefixes can be used (by default): `eur!`, `Eur!`, `€`
 
+##USER COMMANDS
+
 - `eur!help`
 
   - Displays the help menu
