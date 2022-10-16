@@ -498,7 +498,7 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
             )
             embed.set_image(url="attachment://image.png")
             embed.set_footer(
-                text="Image to coin program created by @joaoperfig [GH] - https://github.com/joaoperfig"
+                text="CoinDesigner by @joaoperfig [GH] - https://github.com/joaoperfig"
             )
             await ctx.channel.send(file=file, embed=embed)
             os.remove("outputs//output.png")
