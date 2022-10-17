@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import argparse
-import os
+import os, logging
 from io import BytesIO
 
 import imageio.v2 as imageio
@@ -71,10 +71,10 @@ def euro_designer(img_url: str, sigma: float, intensity: float, nmd: float):
     # normal_map = normal_map/255
 
     normal_map = normal_map / 255
-    print("NORMAL MAP")
-    print(normal_map[3, 3, 0])
-    print(normal_map[3, 3, 1])
-    print(normal_map[3, 3, 2])
+    logging.debug("NORMAL MAP")
+    logging.debug(normal_map[3, 3, 0])
+    logging.debug(normal_map[3, 3, 1])
+    logging.debug(normal_map[3, 3, 2])
 
     # imageio.imsave(mapfile, normal_map)
 

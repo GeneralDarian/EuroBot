@@ -2,6 +2,7 @@ import os
 import time
 import typing
 import datetime
+import logging
 import discord
 from discord.ext import commands, tasks
 from discord.utils import get
@@ -31,9 +32,12 @@ def main():
         activity=activity,
     )
 
+
+    logging.basicConfig(format="[%(asctime)s] [%(levelname)s]: %(message)s (%(filename)s:%(lineno)d)" ,level=logging.INFO, datefmt="%H:%M:%S")
+
     @client.event
     async def on_ready():
-        print(f"{client.user} has logged in.")
+        logging.info(f"{client.user} has logged in.")
 
     @client.command()
     async def clean(ctx):  # Displays help information for cleaning coins
@@ -116,6 +120,7 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
         if banknoteInfo[0] == 0:
             if len(banknoteInfo) <= 1:
                 await ctx.send("Something went wrong... please contact an admin!")
+                logging.error("Executing banknote command returned len <= 1.")
                 return
             else:
                 await ctx.send(f"**Error:** {banknoteInfo[1]}")
@@ -267,8 +272,8 @@ The member with the most <:emote:{int(emote_id)}> reactions will win!"""
         try:
             await getFOTWWinner(findOfTheWeek.fotw.getList())
             findOfTheWeek.fotw.refreshList()
-        except Exception:
-            print("Something went wrong...")
+        except Exception as error:
+            logging.error(f"!getWinners : Encountered an error: {error}")
 
     @client.command()
     @commands.has_permissions(administrator=True)
@@ -286,25 +291,25 @@ The member with the most <:emote:{int(emote_id)}> reactions will win!"""
         if arg1 is None or arg1.lower() == "help":
             await ctx.send(
                 f"""___***EUR!SEARCH HELP***___
-    To search numista's euro coin database you can use ``eur!search``. There are two types of searches you can make: 
+To search numista's euro coin database you can use ``eur!search``. There are two types of searches you can make: 
     
-    **1.) BROAD SEARCH:** To make a broad search, run the command ``{msg_prefix}!search <country> <year> <denomination>``. 
-     * ``<country>`` must be either the english name of the country _without gaps_ (i.e. Austria, Sanmarino, Netherlands) or the two-letter country code (AT, SM, NL). This argument is __required__.
-     * ``<denomination>`` must be one of ``1c, 2c, 5c, 10c, 20c, 50c, 1, 2, 2cc``. If it has a c in the end, it's a cent. ``1`` and ``2`` are 1 and 2 euro coins, ``2cc`` are 2 euro commemoratives only.
-     * ``<year>`` must be between 1999 and 2029. This argument is _optional_. 
-    ``<country>``, ``<year>``, and ``<denomination>`` may be in any order.
-    Examples:
-    * ``{msg_prefix}!search mc 2020`` - All Monégasque coins minted in 2020
-    * ``{msg_prefix}!search 2005 at 2cc`` - All 2 euro commemoratives minted by Austria in 2005
-    * ``{msg_prefix}!search 1 nl`` - All 1 euro coins minted by The Netherlands.
-    
-    **2.) EXACT SEARCH:** Sometimes, broad searches will return multiple results. When that happens you can either add more arguments to narrow down the search, or use the IDs returned in the search to make an exact search. In this case you can run the command ``{msg_prefix}!search id <ID> <year>``. 
-    * ``<ID>`` is required and is equivalent to the numista ID of the coin.
-    * ``<year>`` is optional and can be used to narrow down mintage statistics if a coin was minted during a large period of time.
-    Unlike before, ``<ID>`` and ``<year>`` must be in the order specified.
-    Examples:
-    * ``{msg_prefix}!search id 49385`` - Displays information of 2 euro coin with Numista ID 49385 (Monaco 2013)
-    """
+**1.) BROAD SEARCH:** To make a broad search, run the command ``{msg_prefix}!search <country> <year> <denomination>``. 
+* ``<country>`` must be either the english name of the country _without gaps_ (i.e. Austria, Sanmarino, Netherlands) or the two-letter country code (AT, SM, NL). This argument is __required__.
+ * ``<denomination>`` must be one of ``1c, 2c, 5c, 10c, 20c, 50c, 1, 2, 2cc``. If it has a c in the end, it's a cent. ``1`` and ``2`` are 1 and 2 euro coins, ``2cc`` are 2 euro commemoratives only.
+ * ``<year>`` must be between 1999 and 2029. This argument is _optional_. 
+``<country>``, ``<year>``, and ``<denomination>`` may be in any order.
+Examples:
+* ``{msg_prefix}!search mc 2020`` - All Monégasque coins minted in 2020
+* ``{msg_prefix}!search 2005 at 2cc`` - All 2 euro commemoratives minted by Austria in 2005
+* ``{msg_prefix}!search 1 nl`` - All 1 euro coins minted by The Netherlands.
+
+**2.) EXACT SEARCH:** Sometimes, broad searches will return multiple results. When that happens you can either add more arguments to narrow down the search, or use the IDs returned in the search to make an exact search. In this case you can run the command ``{msg_prefix}!search id <ID> <year>``. 
+* ``<ID>`` is required and is equivalent to the numista ID of the coin.
+* ``<year>`` is optional and can be used to narrow down mintage statistics if a coin was minted during a large period of time.
+Unlike before, ``<ID>`` and ``<year>`` must be in the order specified.
+Examples:
+* ``{msg_prefix}!search id 49385`` - Displays information of 2 euro coin with Numista ID 49385 (Monaco 2013)
+"""
             )
             return
         elif arg1.lower() == "id":

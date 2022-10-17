@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+import logging
 from typing import Any, Dict, List, Union
 from uuid import uuid4
 
@@ -29,7 +30,7 @@ def refreshFiles() -> None:
     countries = textHelp.euro_country_list_fr
     path = "json_data"
 
-    print("Refreshing API...")
+    logging.info("Refreshing API files...")
     for country in countries:
         search_query = "euro"
         response = requests.get(
@@ -50,11 +51,17 @@ def refreshFiles() -> None:
             with open(finalpath, "w") as country_json:
                 country_json.truncate(0)
                 country_json.write(search_results)
-                print(f"Written! {country}")
+                logging.info(f"Refreshed API for: {country}")
         except FileNotFoundError:
-            with open(finalpath, "x") as country_json:
-                country_json.write(search_results)
-    print("API refresh complete")
+            logging.info(f"JSON file for {country} does not exist, creating one ...")
+            try:
+                with open(finalpath, "x") as country_json:
+                    country_json.write(search_results)
+                logging.info(f"Refreshed API for: {country}")
+            except Exception as error:
+                logging.error(f"JSON file for {country} could not be created because of {error}, skipping...")
+
+    logging.info("API Refresh complete")
 
 
 def searchProcessor(arglist: list[str]) -> dict:

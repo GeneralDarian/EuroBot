@@ -1,3 +1,6 @@
+import logging
+
+
 def emojiReplacer(t: str) -> str:
     """Given a string will replace all !<country_code> with their respective emoji. If there is no emoji present, it just returns the string.
     DO NOT LOWERCASE TEXT BEFORE PUTTING INTO FUNCTION!
@@ -86,7 +89,6 @@ def tocoin_argument_processor(content: str) -> dict:
     already_intensity = False
     already_NMD = False
 
-    print(content_list)
     for index, value in enumerate(content_list):
         if (
             value.lower() == "-s" and already_sigma == False
@@ -146,11 +148,17 @@ def tocoin_argument_processor(content: str) -> dict:
             return arguments
 
     # Final check to ensure nothing weird was fed through this command
-    if not (any([already_NMD, already_intensity, already_sigma])) == True:
+    if any([already_NMD, already_intensity, already_sigma]) != True:
         arguments[
             "Status"
         ] = "Invalid arguments given. Arguments must be: <-s>, <-i>, <-nmd>. Arguments may be optional."
+        logging.info(f"{already_sigma}, {already_intensity}, {already_NMD}")
+    else:
+        arguments[
+            "Status"
+        ] = ""
 
+    logging.info(f"!tocoin : Processed {content} as {arguments}")
     return arguments
 
 
