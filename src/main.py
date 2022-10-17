@@ -438,7 +438,7 @@ Examples:
         # Help menu
         msg_content = ctx.message.content
         if arg1 is not None and arg1.lower() == "help":
-            await ctx.channel.send("Help menu goes here...")
+            await ctx.channel.send(textHelp.tocoin_help_menu)
             using_tocoin = False
             return
 
@@ -486,13 +486,13 @@ Examples:
                         )
             else:  # msg does not contain image
                 await ctx.channel.send(
-                    "The message you replied to does not have a valid image! (The image needs to be uploaded, not supplied via link.)"
+                    "The message you replied to does not have a valid image! __(The image needs to be uploaded, not supplied via link.)__"
                 )
                 using_tocoin = False
                 return
         else:  # neither Case 1 or Case 2 means no image was supplied or an improper filetype was supplied.
             await ctx.channel.send(
-                "You must supply an image or reply to a message containing an image!"
+                "You must supply an image or reply to a message containing an image! Run ``eur!tocoin help`` for help with using this command."
             )
             using_tocoin = False
             return

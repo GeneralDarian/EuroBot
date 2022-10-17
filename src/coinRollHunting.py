@@ -54,7 +54,7 @@ TIP: At stations, you may find "Smullers" which will sometimes have an exchange 
 Millenium BCP: Free coin bags (for customers).""",
     "grece": """Cannot buy coin rolls anywhere.
 Getting coins from the bank is free for customers.
-National bank of Greece: Free coin rolls for everyone (you need to show ID card), also latest €2 commemoratives are sold at face value.""",
+Bank of Greece (Τράπεζα της Ελλάδος): Free coin rolls for everyone (you need to show ID card), also latest €2 commemoratives are sold at face value.""",
     "slovenie": """1.20 per roll.
 Bank of Slovenia sells commemorative coins for face value.
 Slovenian national bank: Free coin rolls for everyone.""",

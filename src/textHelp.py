@@ -362,3 +362,18 @@ Lastly, our community is very interested in live coin roll hunts! If you plan on
 rare_coins = """__Be sceptical of online listings of coins claiming that your coin is worth a lot of money.__ People like to put up listings for very common circulation coins claiming they are worth thousands, when in reality they are probably worth face value. There are many factors which go into what makes a coin rare, and it's best to do more research by looking into mintage figures and sold ebay listings. When in doubt, you can also ask the community in the #values channel to give their own opinion into the value of a coin.
     
 __Greece 2002S is not a rare coin, nor is it a mintage error.__ In 2002, Greece could not make enough 2 euro coins for the introduction of the euro, so they asked Finland to help them out by minting some 2 euro coins for them. Finland made approximately __70 million__ 2 euro coins for Greece and marked them with an "S" mintmark (S for "Suomi"). This is the most common coin listed on marketplaces for extremely high prices. """
+
+tocoin_help_menu = """___***EUR!TOCOIN HELP***___
+With ``eur!tocoin``, you can convert any coin design you want into a 2 euro coin! However, the command may be a bit tricky to figure out how to use.
+
+First, you must either add an image to your command, or reply to an already existing message with an image. Due to technical limitations __linked images will not work__. In order for the program to work properly, it is _recommended_ that your image is square (otherwise the program will squish it into one).
+
+It is also recommended that your image is _black and white_. The larger the contrast between two areas, the more it will show up on the coin design. Here are a few examples of designs which will look good on the coin: https://imgur.com/a/4PcuMoA
+(You can use a program like Photoshop, Gimp, or even Paint to make a design for the coin.)
+
+Lastly, running ``eur!tocoin`` returns the same as running ``eur!tocoin -s 0.1 -i 2.0 -nmd 1.5`` does. 
+``-s`` modifies how blurry (or sharp) the coin will appear to be. Higher ``-s`` = more blurriness. 
+``-i`` modifies how big the fields of the coin will be. Higher ``-i`` = more noticeable fields.
+``-nmd`` modifies how much dark areas of the coin pop out. Higher ``-nmd`` = more noticeable dark areas. This is hard to tell, however, so it is recommended to keep this at 1.5 - 5.
+Fool around with these numbers until you feel like the coin looks good enough!
+"""
