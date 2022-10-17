@@ -174,6 +174,9 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
         emote_id = (
             findOfTheWeek.EMOTE_ID
         )  # Gets EMOTE_ID which is defined in findOfTheWeek
+        emote_name = (
+            findOfTheWeek.EMOTE_NAME
+        )
         channel = client.get_channel(
             int(findOfTheWeek.CHANNEL_ID)
         )  # Gets CHANNEL_ID which is defined in findOfTheWeek
@@ -194,7 +197,7 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
 
             reaction_count = msg.reactions
             for reaction in reaction_count:
-                if str(reaction.emoji) == f"<:emote:{emote_id}>":
+                if str(reaction.emoji) == f"<:{emote_name}:{emote_id}>":
 
                     if (
                         reaction.count == None
@@ -217,9 +220,9 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
         # ASSEMBLE WIN MESSAGE
         if len(winners) < 1:  # No victors
             vMsg = f"""**FIND OF THE WEEK:** <t:{int(time.time())}:D>
-    It appears as if there aren't any winners for this week's find of the week :/
-    Remember: React to a message with <:emote:{int(emote_id)}> to enter someone's find into next week's FOTW!
-    The member with the most <:emote:{int(emote_id)}> reactions will win!
+It appears as if there aren't any winners for this week's find of the week :/
+Remember: React to a message with <:emote:{int(emote_id)}> to enter someone's find into next week's FOTW!
+The member with the most <:emote:{int(emote_id)}> reactions will win!
             """
 
         elif (
@@ -227,11 +230,11 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
         ):  # One victor. Returns immediately to not tamper with the FOTW class any further.
             vMsg = f"""**FIND OF THE WEEK:** <t:{int(time.time())}:D>
             
-    <:emote:{int(emote_id)}> Congratulations <@{winners[0].author.id}> for winning this week's FOTW competition! 
-    Submission: https://discordapp.com/channels/{winners[0].guild.id}/{winners[0].channel.id}/{winners[0].id}\n
+<:emote:{int(emote_id)}> Congratulations <@{winners[0].author.id}> for winning this week's FOTW competition! 
+Submission: https://discordapp.com/channels/{winners[0].guild.id}/{winners[0].channel.id}/{winners[0].id}\n
     
-    Remember: React to a message with <:emote:{int(emote_id)}> to enter someone's find into next week's FOTW!
-    The member with the most <:emote:{int(emote_id)}> reactions will win!
+Remember: React to a message with <:emote:{int(emote_id)}> to enter someone's find into next week's FOTW!
+The member with the most <:emote:{int(emote_id)}> reactions will win!
             """
             await channel.send(vMsg)
             return
@@ -240,17 +243,17 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
             len(winners) > 1
         ):  # Multiple victors. If this gets above 2000 chars please kill me
             vMsg = f"""**FIND OF THE WEEK:** <t:{int(time.time())}:D>
-    This week, there are multiple submissions with the same amount of reactions!
+This week, there are multiple submissions with the same amount of reactions!
     """
             for i in winners:
                 vMsg += f"""
-    <:emote:{int(emote_id)}> Congratulations <@{i.author.id}> for winning this week's FOTW competition! 
-    Submission: https://discordapp.com/channels/{i.guild.id}/{i.channel.id}/{i.id}
+<:emote:{int(emote_id)}> Congratulations <@{i.author.id}> for winning this week's FOTW competition! 
+Submission: https://discordapp.com/channels/{i.guild.id}/{i.channel.id}/{i.id}
     """
 
             vMsg += f"""
-    Remember: React to a message with <:emote:{int(emote_id)}> to enter someone's find into next week's FOTW!
-    The member with the most <:emote:{int(emote_id)}> reactions will win!"""
+Remember: React to a message with <:emote:{int(emote_id)}> to enter someone's find into next week's FOTW!
+The member with the most <:emote:{int(emote_id)}> reactions will win!"""
 
         await channel.send(vMsg)
 

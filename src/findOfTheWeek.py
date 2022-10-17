@@ -1,10 +1,13 @@
 import os
 
 from dotenv import load_dotenv
+from shutil import copyfile
+from time import time as unixtime
 
 load_dotenv()
 CHANNEL_ID = os.getenv("FOTW_CHANNEL_ID")
 EMOTE_ID = os.getenv("FOTW_EMOTE_ID")
+EMOTE_NAME = os.getenv("FOTW_EMOTE_NAME")
 TRADER_ROLE_ID = os.getenv("VERIFIED_TRADER_GROUP_ID")
 
 
@@ -64,11 +67,11 @@ class findOfTheWeek:
                 return True
             elif str(msg) in self.msgList:
                 self.msgList.remove(str(msg))
-                print(self.msgList)
+                #print(self.msgList)
                 with open("FOTW.txt", "a") as FOTWFile:
                     FOTWFile.truncate(0)
-                    for j in self.msgList:
-                        FOTWFile.write(j + "\n")
+                    for msg_id in self.msgList:
+                        FOTWFile.write(msg_id + "\n")
                 return True
         except Exception:
             return False
@@ -76,6 +79,19 @@ class findOfTheWeek:
     def refreshList(self) -> bool:
         """Refreshes the list, intended to be run on Sundays.
         WARNING: Only run this command after checking all messages for emotes!"""
+        current_dir = os.getcwd()
+        #Make a copy of the current FOTW file
+        try:
+            os.mkdir(current_dir + "/FOTW_BACKUPS/")
+        except FileExistsError:
+            pass
+
+        time = unixtime()
+        try:
+            copyfile("FOTW.txt", current_dir + f"/FOTW_BACKUPS/{time}.txt")
+        except Exception:
+            pass #log error here
+
         try:
             with open("FOTW.txt", "a") as FOTWFile:
                 FOTWFile.truncate(0)
