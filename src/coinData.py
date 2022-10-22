@@ -181,9 +181,8 @@ def searchEngine(params: dict) -> list[dict]:
 
     # return [issuer, year, type]
     if issuer is not None:
-        path = Path(f"src/json_data/{issuer}.json")
+        path = Path(f"json_data/{issuer}.json")
         with open(path, "r") as country_json:
-            print("file opened")
             json_dict = json.load(country_json)
 
         for entry in json_dict["types"]:  # Loop thru json_dict
@@ -321,18 +320,16 @@ def getCoinInfo(coin_id: str) -> dict:
         "max_year": None,
         "mintage": None,
     }
-    response = requests.get(
-        endpoint + f"/types/{coin_id}",
-        params={"lang": "en"},
-        headers={"Numista-API-Key": api_key},
-    )
-    search_results = response.json()
+
+    #os.path.exists()
     try:
-        if search_results["error_message"] is not None:
-            coin_info["status"] = "an error occurred"
-            return coin_info
-    except KeyError:
-        pass
+        path = Path(f"coin_data/{coin_id}.json")
+        with open(path, "r") as country_json:
+            search_results = json.load(country_json)
+    except FileNotFoundError:
+        coin_info["status"] = "ERROR: No coin with given ID in database"
+        return coin_info
+
     # if search_results["value"]["currency"]["id"] != 9007:
     #    coin_info["status"] = f"invalid currency {search_results['value']['currency']['id']}"
     #    return coin_info
@@ -376,12 +373,9 @@ def getCoinInfo(coin_id: str) -> dict:
 def getCoinMintage(coin_id: str, max_year: int, min_year: int) -> dict:
     mintages: dict[Any, Union[list[str], Any]] = {}
 
-    response = requests.get(
-        endpoint + "/types/" + str(coin_id) + "/issues",
-        params={"lang": "en"},
-        headers={"Numista-API-Key": api_key},
-    )
-    years = response.json()
+    path = Path(f"coin_mintages/{coin_id}.json")
+    with open(path, "r") as country_json:
+        years = json.load(country_json)
 
     for i in years:
         line_value = ""
