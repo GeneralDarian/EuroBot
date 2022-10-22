@@ -11,6 +11,7 @@ from dotenv import load_dotenv
 
 import banknote as cmdBanknote
 import coinData
+import coinRollHunting
 import designer
 import findOfTheWeek
 import textHelp
@@ -55,9 +56,20 @@ def main():
         return
 
     @client.command()
-    async def crh(ctx):  # coin roll hunting information command
-        await ctx.send(textHelp.crh_info)
-        return
+    async def crh(ctx, arg1:str=None):  # coin roll hunting information command
+        if arg1 is None:
+            await ctx.send(textHelp.crh_info)
+            return
+        else:
+            if arg1.lower() in textHelp.country_to_french:
+                country = textHelp.country_to_french[arg1.lower()]
+                await ctx.send(coinRollHunting.french_to_crhhelp[country])
+            elif arg1.lower() in textHelp.country_id_to_french:
+                country = textHelp.country_id_to_french[arg1.lower()]
+                await ctx.send(coinRollHunting.french_to_crhhelp[country])
+            else:
+                await ctx.send("You must either type a valid 2-letter country ID or the country name in English! For help with coin roll hunts use ``eur!crh``.")
+
 
     @client.command()
     async def fotw(ctx):
@@ -283,6 +295,7 @@ The member with the most <:emote:{int(emote_id)}> reactions will win!"""
         coinData.refreshFiles()
 
     @client.command()
+    #@commands.has_role('EuroBot')
     async def search(
         ctx,
         arg1: typing.Optional[str],
@@ -317,6 +330,10 @@ Examples:
         elif arg1.lower() == "id":
             await post_ID(arg2, int(ctx.channel.id), arg3)
             return
+        elif arg1.lower() == "countryid":
+            await ctx.send(textHelp.country_id_help_menu)
+            return
+
 
         search_list = [arg1, arg2, arg3]
         processed_search_list = coinData.searchProcessor(search_list)
@@ -546,7 +563,7 @@ Examples:
         )
         embed.add_field(
             name="Bot version:",
-            value="BETA",
+            value="BETA 0.9",
         )
         embed.add_field(
             name="EuroBot Discord:",
