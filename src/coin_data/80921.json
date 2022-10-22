@@ -1,0 +1,97 @@
+{
+    "id": 80921,
+    "url": "https://en.numista.com/catalogue/pieces80921.html",
+    "title": "2 Euro (Easter Rising)",
+    "category": "coin",
+    "issuer": {
+        "code": "irlande",
+        "name": "Ireland"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2858,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9009,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Emmet Mullins"
+        ],
+        "description": "The design shows the statue of Hibernia perched at the top of the General Post Office building \u2013 the seizure of which marked the beginning of the Easter rising back in 1916. She is a symbol of Ireland. Her name was taken from the ancient Greek reference for Ireland and her form was realised by the sculptor John Smyth. She is viewed as a witness to the events of 1916 and, in the 100 years since, she has seen the nation blossom before her based on the ideals set out in the Proclamation. She continues to look forward and is a symbol of the past, present and future of the country. At the top of the inner circle, the inscription \u2018HIBERNIA\u2019 appears in hand\u2011rendered lettering that takes influence from the historic Book of Kells. The sunrays reflect well the underlying concept of the Rising and the Proclamation, e.g. the dawning of the new nation/republic. The image of the statue is flanked by the years \u20181916\u2019 and \u20182016\u2019. At the bottom of the inner circle appears the name of the issuing country \u2018\u00e9ire\u2019 and, underneath it, the year of issuance \u20182016\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "HIBERNIA\r\n1916   2016\r\n\u00e9ire\r\n2016",
+        "picture": "https://en.numista.com/catalogue/photos/irlande/882-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/irlande/882-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/irlande/858-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/irlande/858-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "commemorated_topic": "100th Anniversary of the Easter Rising",
+    "comments": "This coin was issued into general circulation in January 2016, as part of the Ireland 2016 Centenary Programme.<br />\r\nThis is the first time Ireland issued its own commemorative \u20ac2 circulation coin.",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "88"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "86"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.25,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: three times the sequence \"2 * *\" upright and the sequence \"* * 2\" inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/irlande/861-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/irlande/861-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1318",
+            "name": "Irish Mint"
+        }
+    ]
+}

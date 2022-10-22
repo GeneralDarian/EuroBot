@@ -1,0 +1,132 @@
+{
+    "id": 314962,
+    "url": "https://en.numista.com/catalogue/pieces314962.html",
+    "title": "2 Euro (2nd type)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "description": "Depicts a tree with leaves and fruits of the oak and the olive tree. In the background is the hexagon, which symbolizes the outline of the map of France, in the upper three leaves the republican motto \"Freedom, Equality, Fraternity\". Below the monogram \"RF\" of the French Republic, on the left the year of issue \"2022\" and on the lower edge of the hexagon next to the trunk the mint mark of the mint on the left, the mint mark of the engraver general on the right and this name above. The twelve stars of the European flag are depicted on the outer ring.",
+        "lettering": "LIBERT\u00c9 \u00c9GALIT\u00c9 FRATERNIT\u00c9\r\n2022 RF\r\nJ. JIMENEZ",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/france/630397ad1088f5.70305062-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/630397ad1088f5.70305062-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/france/630397ad6c2075.44691008-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/630397ad6c2075.44691008-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "comments": "<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">BUNC Sets Released</span></span><br />\r\n<ul><li>2022 - BU, quadriptych set (1\u20ac &amp; 2\u20ac 2021 &amp; 2022), 10000 issues<br />\r\n</li><li>2022 - BU, New national sides coin set, 500 issues<br />\r\n</li></ul><br />\r\n<br />\r\n<br />\r\n<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">PROOF Sets Released</span></span><br />\r\n<ul><li>2022 - Proof, quadriptych set (1\u20ac &amp; 2\u20ac 2021 &amp; 2022), 2022 issues<br />\r\n</li></ul>",
+    "related_types": [
+        {
+            "id": 104,
+            "title": "2 Euro (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 1999,
+            "maxYear": 2006
+        },
+        {
+            "id": 6376,
+            "title": "2 Euro (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2007,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Map",
+        "Tree"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "3065"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: three times the sequence \"2 * *\" upright and the sequence \"* * 2\" inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/france/61cdffc5993d05.32634169-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/61cdffc5993d05.32634169-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

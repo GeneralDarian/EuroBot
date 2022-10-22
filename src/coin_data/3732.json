@@ -1,0 +1,115 @@
+{
+    "id": 3732,
+    "url": "https://en.numista.com/catalogue/pieces3732.html",
+    "title": "2 Euro - Henri I (Ch\u00e2teau de Berg)",
+    "category": "coin",
+    "issuer": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+    },
+    "min_year": 2008,
+    "max_year": 2008,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1575,
+            "name": "Henri",
+            "wikidata_id": "Q16004",
+            "group": {
+                "id": 129,
+                "name": "Grand Dukes of Nassau-Weilburg"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9011,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Alain Hoffmann"
+        ],
+        "description": "The coin shows Grand-Duke Henri and the \u2018Ch\u00e2teau de Berg\u2019, the official residence. The year of issue, 2008, flanked by the mint mark and the mark of the engraving workshop, is inscribed at the top. The word \u2018L\u00cbTZEBUERG\u2019 appears at the bottom of the design. The outer ring of the coin depicts the 12 stars of the European Union.",
+        "lettering": "L\u00cbTZEBUERG 2008",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Luxembourg 2008",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1961-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1961-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1962-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1962-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "commemorated_topic": "Grand-Duke Henri and the \u2018Ch\u00e2teau de Berg\u2019",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/56bd8b0ec8e86.jpg\"Group=\"bb1356941033\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56bd8b0ec8e86.jpg\" alt=\"\" width=\"200\" height=\"7\" /></a>",
+    "tags": [
+        "Castle or fortification",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "96"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "94"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * * \" alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1312-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1312-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "id": 140149,
+    "url": "https://en.numista.com/catalogue/pieces140149.html",
+    "title": "2 Euro - Albert II (Events of May 1968)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1171,
+            "name": "Philippe",
+            "wikidata_id": "Q155004",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The design represents students with a pamphlet and flag in their hands and refers to student demonstrations that took place in Belgium in connection with the socio-cultural changes of May 1968. It was an important national event that shaped Belgium\u2019s national politics and influenced subsequent Government reforms, now 50 years ago. The mintmark of Utrecht (the Mercury\u2019s wand) is located on the left together with the Belgian mint master mark (the coat of arms of the municipality Herzele). The year mark 2018 and the country code BE are located at the left as well, just like the initials LL of the designer of the coin, Luc Luycx. An auditorium marks the back, which is a reference to students. The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "MEI - MAI 1968\r\n2018 BE",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/3401-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3401-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/3402-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3402-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "commemorated_topic": "The 50th Anniversary of May 1968 Events in Belgium",
+    "tags": [
+        "Map",
+        "Flag"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-8.24"
+        },
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "374"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

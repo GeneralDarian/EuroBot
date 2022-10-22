@@ -1,0 +1,107 @@
+{
+    "id": 179823,
+    "url": "https://en.numista.com/catalogue/pieces179823.html",
+    "title": "2 Euro - Franciscus (Sistine Chapel)",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Daniela Longo"
+        ],
+        "description": "The design features the Last Judgment in the Sistine Chapel. At the left, in semi-circle is the\r\ninscription of the issuing country \u2018CITT\u00c0 DEL VATICANO\u2019. At the right, in semi-circle, are the inscriptions \u2018CAPPELLA\r\nSISTINA \u2014 FINE DEI RESTAURI\u2019 and \u20181994-2019\u2019. At the right side is the mintmark \u2018R\u2019 and at the bottom the name of the\r\nartist \u2018D. LONGO\u2019.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "CITTA' DEL VATICANO  CAPPELLA SISTINA - FINE DEI RESTAURI\r\n1994 \u2013 2019\r\nR\r\nD. LONGO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "VATICAN CITY  SISTINE CHAPEL - END OF THE RESTORATION\r\n1994 \u2013 2019\r\nR\r\nD. LONGO",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f60b802849cf8.48451303-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f60b802849cf8.48451303-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f60b802be4945.46741120-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f60b802be4945.46741120-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "25th anniversary of the restoration of the Sistine Chapel",
+    "comments": "This is the folder/coincard that the coin was issued in.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f77318f0b77c.jpg\"Group=\"bb1802966064\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f77318f0b77c.jpg\" alt=\"\" width=\"200\" height=\"163\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f77319b7e03c.jpg\"Group=\"bb1802966064\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f77319b7e03c.jpg\" alt=\"\" width=\"153\" height=\"250\" /></a>",
+    "tags": [
+        "Painting",
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "518"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * \" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f753594e690f4.52103062-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f753594e690f4.52103062-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

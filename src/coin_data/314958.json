@@ -1,0 +1,122 @@
+{
+    "id": 314958,
+    "url": "https://en.numista.com/catalogue/pieces314958.html",
+    "title": "1 Euro (2nd type)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "numerator": "1",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "description": "Depicts a tree with leaves and fruits of the oak and the olive tree. In the background is the hexagon, which symbolizes the outline of the map of France, in the upper three leaves the republican motto \"Freedom, Equality, Fraternity\". Below the monogram \"RF\" of the French Republic, on the left the year of issue \"2022\" and on the lower edge of the hexagon next to the trunk the mint mark of the mint on the left, the mint mark of the engraver general on the right and this name above. The twelve stars of the European flag are depicted on the outer ring.",
+        "lettering": "LIBERT\u00c9 \u00c9GALIT\u00c9 FRATERNIT\u00c9\r\n2022 RF\r\nJ. JIMENEZ",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/france/62ba0185314934.26381244-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/62ba0185314934.26381244-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "1 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/france/62ba0185c8b682.53837913-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/62ba0185c8b682.53837913-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "comments": "<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">BUNC Sets Released</span></span><br />\n<ul><li>2022 - BU, quadriptych set (1\u20ac &amp; 2\u20ac 2021 &amp; 2022), 10000 issues<br />\n</li><li>2022 - BU, New national sides coin set, 500 issues<br />\n</li></ul><br />\n<br />\n<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">PROOF Sets Released</span></span><br />\n<ul><li>2022 - Proof, quadriptych set (1\u20ac &amp; 2\u20ac 2021 &amp; 2022), 2022 issues<br />\n</li></ul>",
+    "related_types": [
+        {
+            "id": 103,
+            "title": "1 Euro (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 1999,
+            "maxYear": 2006
+        },
+        {
+            "id": 6375,
+            "title": "1 Euro (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2007,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Map",
+        "Tree"
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding",
+        "picture": "https://en.numista.com/catalogue/photos/france/61cdf9eb1b8472.18617572-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/61cdf9eb1b8472.18617572-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

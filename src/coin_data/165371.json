@@ -1,0 +1,103 @@
+{
+    "id": 165371,
+    "url": "https://en.numista.com/catalogue/pieces165371.html",
+    "title": "2 Euro (Leonardo da Vinci)",
+    "category": "coin",
+    "issuer": {
+        "code": "saint-marin",
+        "name": "San Marino"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1430,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9014,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Uliana Pernazza"
+        ],
+        "description": "The centre of the coin depicts an angel painted by Leonardo da Vinci in \u2018The Baptism of Christ\u2019; at the edge, on the left is the inscription \u2018SAN MARINO\u2019, on the right the inscription \u20181519 Leonardo 2019\u2019; on the left are the initials of the artist Uliana Pernazza \u2018UP\u2019 and on the bottom right, the letter \u2018R\u2019 identifying the Mint of Rome\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "SAN MARINO 1519 LEONARDO 2019\r\nUP\r\nR",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/627fb1eab487e0.85095296-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627fb1eab487e0.85095296-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/627fb1ec091cb0.39743200-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627fb1ec091cb0.39743200-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "The 500th Anniversary of the Death of Leonardo da Vinci",
+    "tags": [
+        "Painting",
+        "Map",
+        "Death anniversary",
+        "Artist"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "578"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 *\" or \"* 2\" alternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/627fb1ed634bb5.03520702-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627fb1ed634bb5.03520702-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

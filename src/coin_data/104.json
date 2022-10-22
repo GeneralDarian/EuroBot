@@ -1,0 +1,123 @@
+{
+    "id": 104,
+    "url": "https://en.numista.com/catalogue/pieces104.html",
+    "title": "2 Euro (1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 1999,
+    "max_year": 2006,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "description": "A tree, symbolising life, continuity and growth, is contained in a hexagon and encircled by the French motto \"LIBERT\u00c9 \u00c9GALIT\u00c9 FRATERNIT\u00c9\"  (liberty, equality, fraternity) and the twelve stars of Europe",
+        "lettering": "LIBERT\u00c9 \u00c9GALIT\u00c9 FRATERNIT\u00c9\r\nJ. JIMENEZ\r\nR F\r\n20 01",
+        "picture": "https://en.numista.com/catalogue/photos/france/612b60f308b778.39080981-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/612b60f308b778.39080981-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the fifteen states of the European Union",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/france/612b60f3b51139.67693305-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/612b60f3b51139.67693305-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "<span style=\"text-decoration:underline;\">Different Mint Master Marks</span><br />\r\n<ul><li><img src=\"https://en.numista.com/catalogue/images/5f8aeaba4c398.jpg\" alt=\"\" width=\"80\" height=\"40\" /> Pierre Rodier, from 1999 to 2000, a mark of a bee<br />\r\n</li><li><img src=\"https://en.numista.com/catalogue/images/5f8aeac4933fc.jpg\" alt=\"\" width=\"34\" height=\"36\" /> Gerard Buquoy, from 2001 to 2002, a mark of a horseshoe<br />\r\n</li><li><img src=\"https://en.numista.com/catalogue/images/5f8aeacd553b9.jpg\" alt=\"\" width=\"42\" height=\"42\" /> Serge Levet, in 2003, a mark of a stylised heart with the initials of the mint master (SL)<br />\r\n</li><li><img src=\"https://en.numista.com/catalogue/images/5f8aead69371f.jpg\" alt=\"\" width=\"34\" height=\"30\" /> Hubert Lariviere, from 2004 to 2006, a mark of a hunting horn with a wave and a fish<br />\r\n</li></ul><br />\r\n<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">BUNC Sets Released</span></span><br />\r\n<ul><li>1999 - 35000 Annual Coin Sets<br />\r\n</li><li>2000 - 35000 Annual Coin Sets<br />\r\n</li><li>2001 - 35000 Annual Coin Sets<br />\r\n</li><li>2002 - 145563 Annual Coin Sets + 19727 <span style=\"font-style:italic;\">The Little Prince</span> Coin Sets<br />\r\n</li><li>2003 - 109407 Annual Coin Sets + 10094 <span style=\"font-style:italic;\">The Little Prince</span> Coin Sets + 12638 Tourism Coin Sets (Eiffel Tower)<br />\r\n</li><li>2004 - 120000 Annual Coin Sets + 5399 <span style=\"font-style:italic;\">The Little Prince</span> Coin Sets + 3704 Tourism Coin Sets (Provence)<br />\r\n</li><li>2005 - 69999 Annual Coin Sets + 2611 <span style=\"font-style:italic;\">Moebius </span> Coin Sets + 2541 Tourism Coin Sets (Garonne)<br />\r\n</li><li>2006 - 70000 Annual Coin Sets + 20 different illustrated Coin Sets of 500 issues each<br />\r\n</li></ul><br />\r\n<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">PROOF Sets Released</span></span><br />\r\n<ul><li>From 1999 to 2006 - Annual Coin Sets<br />\r\n</li></ul><br />\r\n<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">Direction of the Mint Master Bee in 1999 and 2000</span></span><br />\r\nIn the 1999 coin the Bee from the engraver is pointing to the left.<br />\r\nIn the 2000 coin the Bee from the engraver is pointing to the right.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fa04fa51a41e.jpg\"Group=\"bb876275992\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fa04fa51a41e.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><a href=\"https://en.numista.com/catalogue/images/5fa04fab9e48d.jpg\"Group=\"bb876275992\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fa04fab9e48d.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a>",
+    "related_types": [
+        {
+            "id": 6376,
+            "title": "2 Euro (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2007,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Map",
+        "Tree"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "1289"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "658"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "8 (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * * \" alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/france/7468-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/7468-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

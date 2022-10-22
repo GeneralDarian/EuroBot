@@ -1,0 +1,104 @@
+{
+    "id": 85982,
+    "url": "https://en.numista.com/catalogue/pieces85982.html",
+    "title": "2 Euro (Donatello)",
+    "category": "coin",
+    "issuer": {
+        "code": "saint-marin",
+        "name": "San Marino"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1430,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9014,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Matt Bonaccorsi"
+        ],
+        "description": "The design depicts, in the foreground on the left, a portrait of David, being a detail of the bronze sculpture by Donatello. At centre top, the mintmark \u2018R\u2019; on the right, the name of the issuing country \u2018SAN MARINO\u2019; at bottom right, the inscription \u2018Donatello\u2019, the dates \u20181466-2016\u2019 and, in the centre, the initials of the artist \u2018MB\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "R\r\nSAN\r\nMARINO \r\nDONATELLO\r\n1466-2016\r\nMB",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/5fcdbcfc6a6381.65622799-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdbcfc6a6381.65622799-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/5fcdbcfcf0e6f1.35264346-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdbcfcf0e6f1.35264346-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "550th Anniversary of the Death of Donatello",
+    "comments": "Donatello was an Italian sculptor, a drawer and an goldsmith who died in Florence on the 13th December 1466. He ranks as the father of Florentine Renaissance together with Filippo Brunelleschi and Masaccio. On the 2 euro commemorative coin is reproduced an image of David, the bronze statue made by Donatello which &nbsp;dates back to 1440 and can be admired in the Museum Bargello in Florence. The young boy is the famous biblical hero who won the battle against the giant Golia and is represented completely naked, with the hat and a sword in his right hand. The coin underlines the natural expression of the face. <br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/57175a5a03ba1.jpg\"Group=\"bb834344707\"><img src=\"https://en.numista.com/catalogue/images/miniatures/57175a5a03ba1.jpg\" alt=\"\" width=\"133\" height=\"200\" /></a><a href=\"https://en.numista.com/catalogue/images/57175a633b121.jpg\"Group=\"bb834344707\"><img src=\"https://en.numista.com/catalogue/images/miniatures/57175a633b121.jpg\" alt=\"\" width=\"200\" height=\"187\" /></a>",
+    "tags": [
+        "Sculpture",
+        "Map",
+        "Death anniversary"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "548"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "548"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 *\" or \"* 2\" alternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/2039-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2039-180.jpg",
+        "picture_copyright": "Cyrillius"
+    }
+}

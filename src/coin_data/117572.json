@@ -1,0 +1,98 @@
+{
+    "id": 117572,
+    "url": "https://en.numista.com/catalogue/pieces117572.html",
+    "title": "2 Euro (Nikos Kazantzakis)",
+    "category": "coin",
+    "issuer": {
+        "code": "grece",
+        "name": "Greece"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1254,
+            "name": "Third Hellenic Republic",
+            "wikidata_id": "Q17765809"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9008,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "George Stamatopoulos"
+        ],
+        "description": "The design features a profile portrait of Nikos Kazantzakis, one of Greece\u2019s greatest 20th-century writers. Inscribed along the inner circle, at the left, is the wording \u2018HELLENIC REPUBLIC\u2019 and the name \u2018NIKOS KAZANTZAKIS\u2019 (in Greek). At the top is the year of issuance \u20182017\u2019 and at the center-left a palmette (the mint mark of the Greek Mint). Also visible at lower right is the monogram of the artist (George Stamatopoulos). The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391 2017\r\n\u039d\u0399\u039a\u039f\u03a3 \u039a\u0391\u0396\u0391\u039d\u03a4\u0396\u0391\u039a\u0397\u03a3",
+        "lettering_translation": "Hellenic Republic 2017\r\nNikos Kazantzakis",
+        "picture": "https://en.numista.com/catalogue/photos/grece/5fc9e574126df9.79976631-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/5fc9e574126df9.79976631-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/grece/5fc9e574b7a528.32052480-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/5fc9e574b7a528.32052480-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "60 Years in Memoriam of Nikos Kazantzakis",
+    "comments": "Nikos Kazantzakis (1883-1957) was one of Greece\u2019s greatest 20th-century writers. He is known across the world mostly for his novels, rich in metaphysical insight and iconic heroes, and translated into over 30 languages.<br />\r\nThe coin was issued in bankrolls and in Proof quality in a wooden box with a certificate of authenticity and in BU quality on a coincard blister.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5db3578854050.jpg\"Group=\"bb1169582466\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5db3578854050.jpg\" alt=\"\" width=\"182\" height=\"249\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5db35798a1da4.jpg\"Group=\"bb1169582466\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5db35798a1da4.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a>",
+    "tags": [
+        "Literature",
+        "Death anniversary",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "289"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391",
+        "lettering_translation": "Hellenic Republic",
+        "picture": "https://en.numista.com/catalogue/photos/grece/601c41ec912d15.31300646-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/601c41ec912d15.31300646-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "id": 282044,
+    "url": "https://en.numista.com/catalogue/pieces282044.html",
+    "title": "2 Euro (\u017duvintas Biosphere Reserve)",
+    "category": "coin",
+    "issuer": {
+        "code": "lituanie",
+        "name": "Lithuania"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2866,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9023,
+            "name": "Euro",
+            "full_name": "Euro (2015-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design depicts the characteristic surroundings of \u017duvintas Biosphere Reserve, which belongs to the World Network of Biosphere Reserves of UNESCO\u2019s Man and the Biosphere Programme: remote islands of a unique bird lake and Lithuania\u2019s largest wetland as well as its distinctive animals.\r\nIn the foreground there is a great bittern reaching for a fire-bellied toad floating in the water. In rushes depicted on the right there is an aquatic warbler, above \u2013 a flock of common cranes and a mute swan, symbolising the establishment of the Reserve.\r\nThe design is surrounded by inscriptions LIETUVA (LITHUANIA), \u017dUVINTAS, UNESCO, the year of issue (2021) and the mintmark of the Lithuanian Mint.\r\nThe design is realised by Egl\u0117 Ratkut\u0117 and Ernestas \u017demaitis.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "LIETUVA\r\n2021\r\nLMK \r\n\u017dUVINTAS     UNESCO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/60ae1fb0d6c8c0.94095472-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/60ae1fb0d6c8c0.94095472-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/60ae1fb118dac1.05980388-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/60ae1fb118dac1.05980388-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "UNESCO\u2019s Man and the Biosphere Programme - \u017duvintas Biosphere Reserve",
+    "comments": "Date of issue 19-05-2021<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/60ad17c85498b.jpg\"Group=\"bb534582438\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60ad17c85498b.jpg\" alt=\"\" width=\"200\" height=\"103\" /></a><br />\r\n\u00a9 Lietuvos Bankas<br />\r\n<br />\r\nThe edge has &nbsp;some wrong inscription!<br />\r\n\u2014\u2014<br />\r\nThe Bank of Lithuania informs that part of the 2 euro commemorative coins dedicated to the \u017duvintas Biosphere Reserve were minted with an error in the edge lettering. Instead of the Lithuanian inscription LAISV\u0116 * VIENYB\u0116 * GEROV\u0116 *, the Latvian inscription DIEVS * SV\u0112T\u012a * LATVIJU is used on the edge. The error only occurs on coins that are in the BU coincard. It is estimated that up to 10 percent of the BU coins got the Latvian edge lettering.<br />\r\n<br />\r\n&quot;The Bank of Lithuania asked the Lithuanian Mint to clarify the circumstances of the events and to ensure the prevention of errors in the future. An internal investigation is being carried out at the Lithuanian Mint, and additional process control and prevention actions have been taken. The Lithuanian Mint regrets the situation.&quot;<br />\r\n<br />\r\nSource: Lietuvos Bankas<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61d68dcf9bb0b.jpg\"Group=\"bb534582438\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61d68dcf9bb0b.jpg\" alt=\"\" width=\"200\" height=\"137\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/61d68dddaf3d8.jpg\"Group=\"bb534582438\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61d68dddaf3d8.jpg\" alt=\"\" width=\"200\" height=\"146\" /></a>",
+    "tags": [
+        "Amphibian",
+        "Bird",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "265"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "LAISV\u0116 \u2605 VIENYB\u0116 \u2605 GEROV\u0116 \u2605",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "FREEDOM \u2605 UNITY \u2605 PROSPERITY \u2605 in Lithuanian",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/61e5d96ac8f783.52424639-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/61e5d96ac8f783.52424639-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": 9899,
+    "url": "https://en.numista.com/catalogue/pieces9899.html",
+    "title": "20 Euro Cent (2nd type, 2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "numerator": "2",
+        "denominator": 10,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heikki Aulis H\u00e4iv\u00e4oja"
+        ],
+        "description": "The arms of Finland with the date to the left and the 12 stars of Europe around the rim",
+        "lettering": "2010\r\nFI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/532-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/532-180.jpg",
+        "picture_copyright": "CGB",
+        "picture_copyright_url": "http://www.cgb.fr"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "20\r\nLL\r\nEURO\r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/533-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/533-180.jpg",
+        "picture_copyright": "CGB",
+        "picture_copyright_url": "http://www.cgb.fr"
+    },
+    "comments": "Rim (edge) varieties on 2012 coins<br />\r\n<a href=\"https://en.numista.com/catalogue/images/560c477bca98f.jpg\"Group=\"bb512920355\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560c477bca98f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nOle<br />\r\n<br />\r\nIn 2010, mintmark changed and moved to the right of the coin (next to the hindleg).",
+    "related_types": [
+        {
+            "id": 93,
+            "title": "20 Euro Cent (1st type, 1st map)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 1999,
+            "maxYear": 2006
+        }
+    ],
+    "tags": [
+        "Cat or feline",
+        "Firearm or handheld weapon",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "127"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "130"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with seven indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1520-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1520-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

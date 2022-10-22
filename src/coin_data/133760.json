@@ -1,0 +1,132 @@
+{
+    "id": 133760,
+    "url": "https://en.numista.com/catalogue/pieces133760.html",
+    "title": "2 Euro (100th Anniversary of the Baltic States)",
+    "category": "coin",
+    "issuer": {
+        "code": "estonie",
+        "name": "Estonia"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2044,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9021,
+            "name": "Euro",
+            "full_name": "Euro (2011-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Justas Petrulis"
+        ],
+        "description": "The three Baltic sisters (Estonia, Latvia, and Lithuania) with braided hair. Above the coats of arms of the three Baltic countries, the date to the right and the country name to the left. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "EESTI\r\n2018\r\n100",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Estonia\r\n2018\r\n100",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/575-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/575-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/576-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/576-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "series": "Independent Baltic States",
+    "commemorated_topic": "Centenary of Independent Baltic States",
+    "comments": "The 15,000 BU coins are spread over 10,000 coin cards and 5,000 year sets (also including 1c to \u20ac2 2018 and <a href=\"https://en.numista.com/catalogue/pieces134284.html\">\u20ac2 Independence of Estonia</a>",
+    "related_types": [
+        {
+            "id": 132943,
+            "title": "2 Euro (100th Anniversary of the Baltic States)",
+            "category": "coin",
+            "country": {
+                "code": "lettonie",
+                "name": "Latvia"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        },
+        {
+            "id": 132495,
+            "title": "2 Euro (100th Anniversary of the Baltic States)",
+            "category": "coin",
+            "country": {
+                "code": "lituanie",
+                "name": "Lithuania"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        }
+    ],
+    "tags": [
+        "Coat of Arms",
+        "Map",
+        "Independence"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "84"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "\"O\" and \"EESTI\" repeated alternately upright and inverted.",
+        "lettering": "EESTI O EESTI O",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "* Estonia * Estonia *"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

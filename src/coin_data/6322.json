@@ -1,0 +1,106 @@
+{
+    "id": 6322,
+    "url": "https://en.numista.com/catalogue/pieces6322.html",
+    "title": "1 Euro (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heinz Hoyer",
+            "Sneschana Russewa-Hoyer"
+        ],
+        "description": "The eagle, the traditional symbol of German sovereignty, is surrounded with the twelve stars of Europe.",
+        "lettering": "2007 A",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1529-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1529-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "1 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1531-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1531-180.jpg"
+    },
+    "comments": "NOTE: Mintmark &nbsp;indicates<br />\r\nA - Berlin<br />\r\nD - Munich<br />\r\nF - Stuttgart<br />\r\nG - Karlsruhe<br />\r\nJ - Hamburg",
+    "related_types": [
+        {
+            "id": 111,
+            "title": "1 Euro (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2002,
+            "maxYear": 2006
+        }
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "257"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "488a"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "252"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2008-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2008-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

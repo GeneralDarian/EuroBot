@@ -1,0 +1,100 @@
+{
+    "id": 77312,
+    "url": "https://en.numista.com/catalogue/pieces77312.html",
+    "title": "2 Euro - Albert II (Foundation of the Fortress)",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 3127,
+            "name": "Albert II",
+            "wikidata_id": "Q3910",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design shows a tower on the top of the rock. At the top the name of the issuing country \u2018MONACO\u2019 flanked by the Paris mint mark and the mint master mark. At the bottom, the inscription \u2018FONDATION DE LA FORTERESSE\u2019 (Foundation of the fortress), flanked by the years \u20181215\u2019 and \u20182015\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "MONACO\r\n1215 - FONDATION DE LA FORTERESSE - 2015",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/1044-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/1044-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/1045-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/1045-180.jpg"
+    },
+    "commemorated_topic": "800th Anniversary of the Construction of the first Castle on the Rock",
+    "tags": [
+        "Castle or fortification",
+        "Map",
+        "Town"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC207"
+        },
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "204"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    }
+}

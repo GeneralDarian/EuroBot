@@ -1,0 +1,110 @@
+{
+    "id": 68396,
+    "url": "https://en.numista.com/catalogue/pieces68396.html",
+    "title": "2 Euro (20 Years in the Council of Europe)",
+    "category": "coin",
+    "issuer": {
+        "code": "andorre",
+        "name": "Andorra"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 4700,
+            "name": "Joan Enric Vives i Sic\u00edlia",
+            "wikidata_id": "Q57473",
+            "group": {
+                "id": 377,
+                "name": "Co-Principality"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9024,
+            "name": "Euro",
+            "full_name": "Euro (2014-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Orietta Rossi"
+        ],
+        "description": "The arms of Andorra in the centre-left followed by the inscription \"20\" where the zero is stylised to represent the Council of Europe's flag. At the top is the country name and underneath \"AL CONSELL D'EUROPA\". The date is at the bottom left followed by an oblique line. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "ANDORRA\r\nAL CONSELL D'EUROPA\r\nVIRTVS VNITA FORTIOR\r\n20\r\n2014",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/600-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/600-180.jpg",
+        "picture_copyright": "A.Gauthier"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/528-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/528-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "commemorated_topic": "20th Anniversary of Andorra&#039;s Membership in the Council of Europe",
+    "tags": [
+        "Coat of Arms",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "528"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "609"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely milled with \"2\" in incuse, followed by two five-pointed stars, repeated six times alternately from bottom to top and vice versa.",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

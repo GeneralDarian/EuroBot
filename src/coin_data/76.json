@@ -1,0 +1,154 @@
+{
+    "id": 76,
+    "url": "https://en.numista.com/catalogue/pieces76.html",
+    "title": "50 Euro Cent - Albert II (1st map, 1st type, 1st portrait)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 1999,
+    "max_year": 2006,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1170,
+            "name": "Albert II",
+            "wikidata_id": "Q3911",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "50 Euro Cent",
+        "numeric_value": 0.5,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jan Alfons Keustermans"
+        ],
+        "description": "The portrait in left profile of King Albert II is encircled by the twelve stars of Europe, among which is situated his monogram: a capital \"A\" with the Roman numeral \"II\" underneath a crown",
+        "lettering": "A II 2004",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/605d6a136bc2f3.10150438-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/605d6a136bc2f3.10150438-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "50 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/605d6a140758b0.47306112-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/605d6a140758b0.47306112-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 6291,
+            "title": "50 Euro Cent - Albert II (2nd map, 1st type, 1st portrait)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 6306,
+            "title": "50 Euro Cent - Albert II (2nd map, 2nd type, 2nd portrait)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2008,
+            "maxYear": 2008
+        },
+        {
+            "id": 6307,
+            "title": "50 Euro Cent - Albert II (2nd map, 2nd type, 1st portrait)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2009,
+            "maxYear": 2013
+        }
+    ],
+    "tags": [
+        "Map",
+        "Monarch",
+        "Monogram"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "229"
+        },
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-6.1"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "207"
+        }
+    ],
+    "weight": 7.8,
+    "size": 24.25,
+    "thickness": 2.38,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2701-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2701-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": 164656,
+    "url": "https://en.numista.com/catalogue/pieces164656.html",
+    "title": "2 Euro - Willem-Alexander (Maastricht red star Coloured)",
+    "category": "coin",
+    "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1304,
+            "name": "Willem-Alexander",
+            "wikidata_id": "Q154952"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9012,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled, coloured"
+    },
+    "obverse": {
+        "engravers": [
+            "Erwin Olaf"
+        ],
+        "lettering": "2019\r\nWillem-Alexander\r\nKoning der Nederlanden",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/5f5204f8bd6d55.88148020-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5f5204f8bd6d55.88148020-180.jpg",
+        "picture_copyright": "Koninklijke Nederlandse Munt",
+        "picture_copyright_url": "http://www.knm.nl"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2788-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2788-180.jpg",
+        "picture_copyright": "Koninklijke Nederlandse Munt",
+        "picture_copyright_url": "http://www.knm.nl"
+    },
+    "related_types": [
+        {
+            "id": 54960,
+            "title": "2 Euro - Willem-Alexander (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2014,
+            "maxYear": 2022
+        },
+        {
+            "id": 131803,
+            "title": "2 Euro - Willem-Alexander (50th Birthday; Coloured)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        }
+    ],
+    "tags": [
+        "Map",
+        "Town"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "lettering": "GOD * ZIJ * MET * ONS *",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2789-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2789-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

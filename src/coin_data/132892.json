@@ -1,0 +1,104 @@
+{
+    "id": 132892,
+    "url": "https://en.numista.com/catalogue/pieces132892.html",
+    "title": "2 Euro (Italian Republic Constitution)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Uliana Pernazza"
+        ],
+        "description": "Enrico De Nicola, the temporary head of state and the person who signed the act of promulgation of the Constitution of the Italian Republic on December 27, 1947, and Alcide De Gasperi, the president of the Council, to his right and Umberto Terracini, the president of the Italian Constituent Assembly, to this left. Above the inscription \"COSTITUZIONE\" and the monogram of the Italian Republic \"RI\"; below the words \"CON SICURA COSCIENZA\", the mint mark \"R\" and the dates \"1948 \u2022 2018\", respectively the year of the entry into force of the Italian Constitution and the year of issue of the coin; on the left the initials \"UP\" of the author Uliana Pernazza. On the outer edge, the twelve stars of the European Union.",
+        "lettering": "COSTITUZIONE\r\nUP\r\nRI\r\nCON SICURA COSCIENZA\r\nR\r\n1948 \u2022 2018",
+        "lettering_translation": "Constitution\r\nUP\r\nRI\r\nWith Safe Consciousness\r\nR\r\n1948 2018",
+        "picture": "https://en.numista.com/catalogue/photos/italie/5fcdc0aee35d63.27784371-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fcdc0aee35d63.27784371-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/5fcdc0af6e5db5.09744016-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fcdc0af6e5db5.09744016-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "70th anniversary of the Constitution of the Italian Republic",
+    "related_types": [
+        {
+            "id": 140679,
+            "title": "5 Euro (Constitution)",
+            "category": "coin",
+            "country": {
+                "code": "italie",
+                "name": "Italy"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "414"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with \u201c2\u201d and star, repeated six times,\r\nalternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/5fcdc0afd49900.58115851-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fcdc0afd49900.58115851-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

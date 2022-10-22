@@ -1,0 +1,113 @@
+{
+    "id": 318981,
+    "url": "https://en.numista.com/catalogue/pieces318981.html",
+    "title": "2 Euro - Beatrix (Erasmus - Pattern)",
+    "category": "coin",
+    "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+    },
+    "min_year": 2011,
+    "max_year": 2011,
+    "type": "Pattern",
+    "ruler": [
+        {
+            "id": 1303,
+            "name": "Beatrix",
+            "wikidata_id": "Q29574"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9012,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Dylan Shields"
+        ],
+        "description": "Whole image is larger than in the issued version. The inner part of the coin shows Erasmus writing his book on the right and the effigy of Queen Beatrix to the left. The two images are separated by the vertical inscription \"Beatrix Koningin der Nederlanden\". The year \"2011\", the Mint master\u2019s mark and the mintmark are positioned horizontally near the center of the coin. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "Beatrix Koningin der Nederlanden\r\n2011",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/61f6b690ec3304.10140853-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/61f6b690ec3304.10140853-180.jpg",
+        "picture_copyright": "Heritage Auctions Europe",
+        "picture_copyright_url": "http://www.mpoauctions.com"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/61f6b6911fee47.93758003-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/61f6b6911fee47.93758003-180.jpg",
+        "picture_copyright": "Heritage Auctions Europe",
+        "picture_copyright_url": "http://www.mpoauctions.com"
+    },
+    "commemorated_topic": "Erasmus, 500th Anniversary of &quot;The Praise of Folly&quot;",
+    "related_types": [
+        {
+            "id": 19021,
+            "title": "2 Euro - Beatrix (Erasmus)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2011,
+            "maxYear": 2011
+        }
+    ],
+    "tags": [
+        "Literature",
+        "Map",
+        "Monarch",
+        "Philosopher"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with inscription",
+        "lettering": "GOD * ZIJ * MET * ONS *",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "GOD * BE * WITH * US *"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

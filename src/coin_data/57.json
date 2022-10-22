@@ -1,0 +1,107 @@
+{
+    "id": 57,
+    "url": "https://en.numista.com/catalogue/pieces57.html",
+    "title": "1 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "autriche",
+        "name": "Austria"
+    },
+    "min_year": 2002,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 149,
+            "name": "Second Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "currency": {
+            "id": 9002,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Josef Kaiser"
+        ],
+        "description": "A gentian, which symbolizes a duty to the environment encircled by the face value, heraldic hatchings representing the Austrian flag and twelve five-pointed stars representing the European Union around the rim",
+        "lettering": "EIN EURO CENT 2007",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/62ca843026f837.34117868-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/62ca843026f837.34117868-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "1 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/62ca843116f7d5.49400449-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/62ca843116f7d5.49400449-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "Gentian Flower or Stemless Gentian Flower &nbsp;- Binomial Name: Gentiana acaulis<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/608ad98405ca2.jpg\"Group=\"bb1833194302\"><img src=\"https://en.numista.com/catalogue/images/miniatures/608ad98405ca2.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<br />\r\nThere are small differences in the oblique lines on the reverse in 2018:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c01b57e63ede.jpg\"Group=\"bb1833194302\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c01b57e63ede.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<br />\r\nSlightly modified obverse (thinner, longer and more numerous lines in the red fields of the Austrian flag):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ed5f731e352c.jpg\"Group=\"bb1833194302\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ed5f731e352c.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a>",
+    "tags": [
+        "Map",
+        "Flower"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "3082"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "277"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/autriche/3024-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3024-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "232",
+            "name": "Vienna"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": 122,
+    "url": "https://en.numista.com/catalogue/pieces122.html",
+    "title": "2 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "irlande",
+        "name": "Ireland"
+    },
+    "min_year": 2002,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2858,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro Cent",
+        "numeric_value": 0.02,
+        "currency": {
+            "id": 9009,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jarlath Hayes"
+        ],
+        "description": "The Celtic harp, a traditional symbol of Ireland, is accompanied with the inscription \"\u00e9ire\", the Irish word for Ireland. Around twelve five-pointed stars representing the European Union.",
+        "lettering": "\u00e9ire 2003",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Ireland",
+        "picture": "https://en.numista.com/catalogue/photos/irlande/979-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/irlande/979-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "2 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/irlande/980-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/irlande/980-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "comments": "Although still legal tender, these coins are no longer issued for circulation as of 2015. Cash transactions are now rounded to the nearest 5 Cents.",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "33"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "32"
+        }
+    ],
+    "weight": 3.06,
+    "size": 18.75,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with a groove running circumferentially around the edge of the coin",
+        "picture": "https://en.numista.com/catalogue/photos/irlande/1025-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/irlande/1025-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1318",
+            "name": "Irish Mint"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        },
+        {
+            "id": "16",
+            "name": "Royal Mint"
+        },
+        {
+            "id": "23",
+            "name": "Utrecht"
+        },
+        {
+            "id": "232",
+            "name": "Vienna"
+        }
+    ]
+}

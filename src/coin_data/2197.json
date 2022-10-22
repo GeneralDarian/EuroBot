@@ -1,0 +1,119 @@
+{
+    "id": 2197,
+    "url": "https://en.numista.com/catalogue/pieces2197.html",
+    "title": "2 Euro - Henri I (Guillaume)",
+    "category": "coin",
+    "issuer": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+    },
+    "min_year": 2006,
+    "max_year": 2006,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1575,
+            "name": "Henri",
+            "wikidata_id": "Q16004",
+            "group": {
+                "id": 129,
+                "name": "Grand Dukes of Nassau-Weilburg"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9011,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Patrice Bernabei",
+            "Erkki Vainio"
+        ],
+        "description": "The effigy of Grand-Duke Henri is superimposed on that of Grand-Duke Guillaume in the centre of the coin. The year of issue, 2006, appears below the effigies, flanked by the letter \u2018S\u2019 and the mintmark. The word \u2018L\u00cbTZEBUERG\u2019 appears above the effigies. The 12 stars of the European Union are shown in the outer ring of the coin.",
+        "lettering": "L\u00cbTZEBUERG \r\nS 2006",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Luxembourg",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/5fc9d494bfb5c8.39122350-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/5fc9d494bfb5c8.39122350-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/5fc9d4954a24e6.55683595-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/5fc9d4954a24e6.55683595-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "25th Birthday of Guillaume",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/56bd8a5f8ebf4.jpg\"Group=\"bb1322126899\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56bd8a5f8ebf4.jpg\" alt=\"\" width=\"200\" height=\"7\" /></a><br />\r\n<br />\r\nF - Pessac, France <br />\r\nS - Helsinki-Vantaa, Finland",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "88"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "81"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * * \" alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1308-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1308-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "id": 102697,
+    "url": "https://en.numista.com/catalogue/pieces102697.html",
+    "title": "2 Euro (Auguste Rodin)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "description": "The letters RF, standing for R\u00e9publique Fran\u00e7aise is drawn as sculpted on the top of the coin and the name of the artist, \u2018A. Rodin\u2019 and the relevant dates \u20181917-2017\u2019 are inscribed in his beard with the 12 stars of the European Union in the outer ring",
+        "lettering": "RF\r\nA. RODIN 1917 - 2017",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/france/8372-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/8372-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/france/8373-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/8373-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "commemorated_topic": "100th Anniversary of the Death of Auguste Rodin",
+    "comments": "There are 2 different types of edges A and B depending on the specific star, see:<br />\r\n<a href=\"http://www.amisdeleuro.org/fr/121\" rel=\"nofollow\">http://www.amisdeleuro.org/fr/121</a><br />\r\n<br />\r\nFor the 100th anniversary of his passing away, Monnaie de Paris pays tribute to the illustrious French sculptor Auguste Rodin. Born in 1840, he is one of the major icons of the realistic style. His works such as The Thinker, The Kiss, The Hell\u2019s Door or The Calais\u2019 Bourgeois remain timeless masterpieces of the world sculpture. The design represents Auguste Rodin and The Thinker, his best-known work, like forehead to forehead.",
+    "related_types": [
+        {
+            "id": 105100,
+            "title": "10 Euro (Auguste Rodin)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 108061,
+            "title": "100 Euro (Auguste Rodin)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        }
+    ],
+    "tags": [
+        "Sculpture",
+        "Map",
+        "Death anniversary"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "2362"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "25 (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/france/8422-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/8422-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

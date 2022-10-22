@@ -1,0 +1,126 @@
+{
+    "id": 94537,
+    "url": "https://en.numista.com/catalogue/pieces94537.html",
+    "title": "2 Euro - Franciscus (Jubilee of Mercy)",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Mariangela Crisciotti",
+            "Claudia Momoni"
+        ],
+        "description": "The national face features St Martin of Tours sharing his cloak with a poor man. The design is surrounded by the inscriptions 'GIUBILEO DELLA MISERICORDIA' at the left and 'CITT\u00c0 DEL VATICANO' at the right, both in semi-circle. At the right there is as well the year of issuance '2016' and at the bottom the mint mark 'R' and the name of the artist 'M. CRISCIOTTI'.\r\nThe coin's outer ring depicts the 12 stars of the European flag.",
+        "lettering": "GIUBILEO DELLA MISERICORDIA\r\nCITT\u00c0 DEL VATICANO\r\n2016\r\nR\r\nM. CRISCIOTTI MOMONI INC.",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "JUBILEE OF MERCY\r\nVATICAN CITY\r\n2016\r\nR\r\nM. CRISCIOTTI MOMONI INC.",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f772c59162fc3.98137279-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f772c59162fc3.98137279-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f772c59a8d118.19347001-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f772c59a8d118.19347001-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "Jubilee of Mercy",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/581b10e32992d.jpg\"Group=\"bb2008214629\"><img src=\"https://en.numista.com/catalogue/images/miniatures/581b10e32992d.jpg\" alt=\"\" width=\"200\" height=\"158\" /></a><a href=\"https://en.numista.com/catalogue/images/581b10ef9bb67.jpg\"Group=\"bb2008214629\"><img src=\"https://en.numista.com/catalogue/images/miniatures/581b10ef9bb67.jpg\" alt=\"\" width=\"200\" height=\"216\" /></a><br />\r\n<br />\r\nThis is the folder/coincard that the coin was issued in.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f772c2d75da5.jpg\"Group=\"bb2008214629\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f772c2d75da5.jpg\" alt=\"\" width=\"200\" height=\"161\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f772c36ceee3.jpg\"Group=\"bb2008214629\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f772c36ceee3.jpg\" alt=\"\" width=\"150\" height=\"250\" /></a>",
+    "related_types": [
+        {
+            "id": 96898,
+            "title": "5 Euro (Jubilee Year of Mercy)",
+            "category": "coin",
+            "country": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "minYear": 2016,
+            "maxYear": 2016
+        }
+    ],
+    "tags": [
+        "Horse or equine",
+        "Map",
+        "Hat",
+        "Religious figure"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "485"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "478"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * \" alternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2301-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2301-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

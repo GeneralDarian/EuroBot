@@ -1,0 +1,111 @@
+{
+    "id": 127894,
+    "url": "https://en.numista.com/catalogue/pieces127894.html",
+    "title": "2 Euro - Albert II (Prince's Company of Carabiniers)",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 3127,
+            "name": "Albert II",
+            "wikidata_id": "Q3910",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design shows a CARABINIER and in the background the Palace of Monaco. At the top is the inscription \u2018MONACO\u2019 flanked by the mintmark and the mint master mark. At the bottom are the years \u20181817-2017\u2019 and underneath the inscription \u2018CARABINIERS DU PRINCE\u2019.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "MONACO\r\n1817 - 2017\r\nCARABINIERS DU PRINCE",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "MONACO\r\n1817 - 2017\r\nPrince's Company of Carabiniers",
+        "picture": "https://en.numista.com/catalogue/photos/monaco/983-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/983-180.jpg",
+        "picture_copyright": "Coins-SPB",
+        "picture_copyright_url": "http://www.coins-spb.ru/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/984-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/984-180.jpg",
+        "picture_copyright": "Coins-SPB",
+        "picture_copyright_url": "http://www.coins-spb.ru/"
+    },
+    "commemorated_topic": "200th Anniversary of the Foundation of the Prince&#039;s Company of Carabiniers",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5a1c1fa58c5ce.jpg\"Group=\"bb1553144377\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a1c1fa58c5ce.jpg\" alt=\"\" width=\"199\" height=\"77\" /></a><br />\r\nwww.coins-spb.ru",
+    "tags": [
+        "Palace",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC210"
+        },
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "206"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

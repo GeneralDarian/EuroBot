@@ -1,0 +1,137 @@
+{
+    "id": 6320,
+    "url": "https://en.numista.com/catalogue/pieces6320.html",
+    "title": "50 Euro Cent (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "50 Euro Cent",
+        "numeric_value": 0.5,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Reinhart Heinsdorff"
+        ],
+        "description": "The Brandenburg Gate, a symbol of the division of Germany and its subsequent unification, with the date below and the twelve stars of Europe around the rim",
+        "lettering": "2007 A",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/605d72a2123c95.04190165-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/605d72a2123c95.04190165-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "50 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/605d72a2946a89.59446862-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/605d72a2946a89.59446862-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 110,
+            "title": "50 Euro Cent (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2002,
+            "maxYear": 2006
+        }
+    ],
+    "tags": [
+        "Other building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "256"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "487a"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "251"
+        }
+    ],
+    "weight": 7.8,
+    "size": 24.25,
+    "thickness": 2.38,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2012-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2012-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

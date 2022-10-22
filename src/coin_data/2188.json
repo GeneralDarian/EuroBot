@@ -1,0 +1,121 @@
+{
+    "id": 2188,
+    "url": "https://en.numista.com/catalogue/pieces2188.html",
+    "title": "2 Euro (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "malte",
+        "name": "Malta"
+    },
+    "min_year": 2008,
+    "max_year": 2021,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2864,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9019,
+            "name": "Euro",
+            "full_name": "Euro (2008-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Noel Galea Bason"
+        ],
+        "description": "Maltese cross dividing each letter of the country name and the date at the bottom",
+        "lettering": "MALTA\r\n2008\r\nF",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/125-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/125-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The face value, next to a map showing the European continent without borders",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/126-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/126-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "comments": "Two types of edges are known. R1 - large symbols. R2 - small symbols. <br />\r\nR1 is known in 2008, 2010, 2013.<br />\r\nR2 is known in 2013.<br />\r\n<a href=\"http://eucoins.net16.net/ma.html#98\" rel=\"nofollow\">http://eucoins.net16.net/ma.html#98</a>",
+    "related_types": [
+        {
+            "id": 2187,
+            "title": "1 Euro (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2008,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Map",
+        "Cross"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "132"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "132"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription: six times a \"2\" and two Maltese crosses, alternately upright and inverted",
+        "lettering": "2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720",
+        "picture": "https://en.numista.com/catalogue/photos/malte/435-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/435-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

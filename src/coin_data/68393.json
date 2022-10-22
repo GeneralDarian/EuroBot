@@ -1,0 +1,141 @@
+{
+    "id": 68393,
+    "url": "https://en.numista.com/catalogue/pieces68393.html",
+    "title": "50 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "andorre",
+        "name": "Andorra"
+    },
+    "min_year": 2014,
+    "max_year": 2021,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 4700,
+            "name": "Joan Enric Vives i Sic\u00edlia",
+            "wikidata_id": "Q57473",
+            "group": {
+                "id": 377,
+                "name": "Co-Principality"
+            }
+        }
+    ],
+    "value": {
+        "text": "50 Euro Cent",
+        "numeric_value": 0.5,
+        "numerator": "50",
+        "denominator": 100,
+        "currency": {
+            "id": 9024,
+            "name": "Euro",
+            "full_name": "Euro (2014-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Moles Disseny"
+        ],
+        "description": "At the center of the coin there is the Church of St. Coloma; right the year of mint and the inscription \"ANDORRA\". Around twelve five-pointed stars representing the European Union.",
+        "lettering": "ANDORRA\r\n2018",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/605efc43351515.27710749-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/605efc43351515.27710749-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "50 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/605efc43caa755.35806135-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/605efc43caa755.35806135-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 68390,
+            "title": "10 Euro Cent",
+            "category": "coin",
+            "country": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "minYear": 2014,
+            "maxYear": 2021
+        },
+        {
+            "id": 68392,
+            "title": "20 Euro Cent",
+            "category": "coin",
+            "country": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "minYear": 2014,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "525"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "506"
+        }
+    ],
+    "weight": 7.8,
+    "size": 24.25,
+    "thickness": 2.38,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/andorre/568-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/568-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        },
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "id": 76630,
+    "url": "https://en.numista.com/catalogue/pieces76630.html",
+    "title": "2 Euro - Philippe (European Year for Development)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1171,
+            "name": "Philippe",
+            "wikidata_id": "Q155004",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The inner part of the coin depicts a hand holding a globe of the Earth with a plant in the foreground. The inscription \u20182015 EUROPEAN YEAR FOR DEVELOPMENT\u2019 features in an arc above the globe. The country code \u2018BE\u2019 appears beneath the hand while the signature mark of the Master of the Mint and the mark of the Brussels mint, a helmeted profile of the archangel Michael, is to its left. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "2015 EUROPEAN YEAR FOR DEVELOPMENT\r\nBE",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2645-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2645-180.jpg",
+        "picture_copyright": "matcra"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2646-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2646-180.jpg",
+        "picture_copyright": "matcra"
+    },
+    "commemorated_topic": "2015 - European Year for Development",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "363"
+        },
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-8.18"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2726-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2726-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

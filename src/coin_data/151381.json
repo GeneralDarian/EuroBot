@@ -1,0 +1,142 @@
+{
+    "id": 151381,
+    "url": "https://en.numista.com/catalogue/pieces151381.html",
+    "title": "2 Euro (Cultural Heritage)",
+    "category": "coin",
+    "issuer": {
+        "code": "malte",
+        "name": "Malta"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2864,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9019,
+            "name": "Euro",
+            "full_name": "Euro (2008-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design was created by a school student and depicts a variety of themes intrinsic to\r\nMaltese heritage including: an allusion to the prehistoric temples, which are the world\u2019s oldest free-standing structures,\r\na church dome and spire, which is a characteristic feature of the Maltese town and village skyline and a representation\r\nof a traditional Maltese boat carrying a Maltese flag. The name of the issuing country \u2018Malta\u2019 is at the top of the inner\r\ncircle of the coin and the year \u20182018\u2019 at the bottom.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag",
+        "lettering": "Malta\r\n2018",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/653-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/653-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/654-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/654-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "commemorated_topic": "The Role of the Malta Community Chest Fund in Society: Cultural Heritage",
+    "comments": "Coin in coincard with a mint mark <a href=\"https://en.numista.com/catalogue/images/5bf0037b80fc8.jpg\"Group=\"bb260962352\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bf0037b80fc8.jpg\" alt=\"\" width=\"200\" height=\"201\" /></a>",
+    "related_types": [
+        {
+            "id": 95463,
+            "title": "2 Euro (Children and solidarity - Love)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2016,
+            "maxYear": 2016
+        },
+        {
+            "id": 127889,
+            "title": "2 Euro (The Peace)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 182718,
+            "title": "2 Euro (Nature and Environment)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 241752,
+            "title": "2 Euro (Games)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2020,
+            "maxYear": 2020
+        }
+    ],
+    "tags": [
+        "Map",
+        "Boat or watercraft"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "190"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 \u2720\u2720 \ufea1 \u2720\u2720 2 \u2720\u2720 \ufea1 \u2720\u2720 2 \u2720\u2720 \ufea1 \u2720\u2720"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

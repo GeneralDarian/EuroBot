@@ -1,0 +1,101 @@
+{
+    "id": 5075,
+    "url": "https://en.numista.com/catalogue/pieces5075.html",
+    "title": "2 Euro (Borghesi)",
+    "category": "coin",
+    "issuer": {
+        "code": "saint-marin",
+        "name": "San Marino"
+    },
+    "min_year": 2004,
+    "max_year": 2004,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1430,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9014,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Ettore Lorenzo Frapiccini"
+        ],
+        "description": "The twelve stars of the European Union positioned around the outer circle of the coin and the issuing year '2004', positioned bottom centre, surround the bust of Bartolomeo Borghesi. To the left of the bust is the inscription 'Bartolomeo Borghesi', and one above the other are the letter 'R' and the engraver's initials 'E.L.F.'. To the right of the bust is the word 'San Marino'.",
+        "lettering": "SAN MARINO\r\nR\r\nBARTOLOMEO BORGHESI\r\n2004",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/5fcdca1c3641b0.46458496-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdca1c3641b0.46458496-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/5fcdca1cc39281.97307213-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdca1cc39281.97307213-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "Bartolomeo Borghesi",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "467"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "453"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 *\" or \"* 2\" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/1715-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1715-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

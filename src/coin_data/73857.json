@@ -1,0 +1,116 @@
+{
+    "id": 73857,
+    "url": "https://en.numista.com/catalogue/pieces73857.html",
+    "title": "2 Euro - Henri (Accession)",
+    "category": "coin",
+    "issuer": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1575,
+            "name": "Henri",
+            "wikidata_id": "Q16004",
+            "group": {
+                "id": 129,
+                "name": "Grand Dukes of Nassau-Weilburg"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9011,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Alain Hoffmann"
+        ],
+        "description": "The coin depicts their Royal Highnesses Grand Duke Henri and the Grand Duchess. The year of accession \u20182000\u2019, the issuing country \u2018Luxembourg\u2019 and the year mark \u20182015\u2019 appear above them. Below them appears the inscription \u201815e anniversaire de l\u2019accession au tr\u00f4ne de S.A.R. le Grand-Duc\u2019 (15th anniversary of the accession to the throne of H.R.H. the Grand Duke). The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "2000\r\nLuxembourg\r\n2015\r\n15\u0364 anniversaire de l'accession au\r\ntr\u00f4ne de S.A.R. le Grand-Duc",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2000\r\nLuxembourg\r\n2015\r\n15th anniversary of the accession to \r\nthe throne of H.R.H. the Grand Duke",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1995-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1995-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1996-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1996-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "commemorated_topic": "15th Anniversary of the accession to the throne of H.R.H. the Grand Duke",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "136"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "127"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 * *\" or \"* * 2\" alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1120-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1120-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

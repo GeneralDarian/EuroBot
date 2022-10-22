@@ -1,0 +1,110 @@
+{
+    "id": 156358,
+    "url": "https://en.numista.com/catalogue/pieces156358.html",
+    "title": "2 Euro (Lithuanian Multipart Songs)",
+    "category": "coin",
+    "issuer": {
+        "code": "lituanie",
+        "name": "Lithuania"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2866,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9023,
+            "name": "Euro",
+            "full_name": "Euro (2015-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The national side of the coin depicts linear motifs, symbolising polyphonic melodies of the unique Lithuanian heritage \u2013 folk songs sutartin\u0117s. The lines are widening and narrowing again, spinning into a swirl decorated with various miniature geometric and nature figures. The coin features inscriptions LIETUVA (LITHUANIA) and SUTARTIN\u0116S (Lithuanian multipart songs), the year of issue (2019) and the mark of the Lithuanian Mint. 12 stars are incorporated in the outer part of the coin, set out as they are on the flag of the European Union.",
+        "lettering": "LIETUVA\r\nSUTARTIN\u0116S\r\n2019\r\nLMK",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/925-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/925-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/926-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/926-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "commemorated_topic": "Lithuanian multipart songs",
+    "comments": "Date of issue 10-07-2019",
+    "related_types": [
+        {
+            "id": 140885,
+            "title": "2 Euro (Song and Dance Celebration)",
+            "category": "coin",
+            "country": {
+                "code": "lituanie",
+                "name": "Lithuania"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        }
+    ],
+    "tags": [
+        "Music",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "246"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "LAISV\u0116 * VIENYB\u0116 * GEROV\u0116",
+        "lettering_translation": "FREEDOM * UNITY* WELL-BEING"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

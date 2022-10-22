@@ -1,0 +1,94 @@
+{
+    "id": 220248,
+    "url": "https://en.numista.com/catalogue/pieces220248.html",
+    "title": "2 Euro (University of Turku)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The grid-like design represents the interaction between universities and society. At the top of the design, there is the year of issuance \u20182020\u2019, at the right side the mintmark and underneath the mintmark is the indication of the issuing country \u2018FI\u2019. \r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "2020\r\nFI",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/5f6a27f45dfc75.46110006-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f6a27f45dfc75.46110006-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/5f6a27f4ae8d07.44510031-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f6a27f4ae8d07.44510031-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "100 Years of the University of Turku",
+    "tags": [
+        "Education",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "295"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Inscripted",
+        "lettering": "SUOMI FINLAND",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/5ff1ed7ab75340.33818544-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/5ff1ed7ab75340.33818544-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

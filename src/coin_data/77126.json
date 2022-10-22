@@ -1,0 +1,114 @@
+{
+    "id": 77126,
+    "url": "https://en.numista.com/catalogue/pieces77126.html",
+    "title": "2 Euro (Festival of the Federation; Coloured)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled, coloured"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "description": "The French national holiday brings the people of France together in celebration of the Republic. The design shows Marianne, the symbol of the Republic, depicted in profile in a graphic, contemporary style. She is wearing the Phrygian cap. On the right the colored tricolour cockade appears in outline above the letters RF. The year is written in the centre of the coin. The left side features a stanza from the poem \u2018Libert\u00e9\u2019 by the French poet Paul Eluard, an allusion to the motto of the French Republic. The mint marks appear alongside this extract. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "Sur toutes les pages lues\r\nSur toutes les pages blanches\r\nPierre sang papier ou cendre\r\nJ'\u00e9cris ton nom\r\nRF\r\n2015\r\nLibert\u00e9",
+        "picture": "https://en.numista.com/catalogue/photos/france/7630-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/7630-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/france/7631-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/7631-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "commemorated_topic": "225th Anniversary of the Festival of the Federation",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5698f6ade55f3.jpg\"Group=\"bb554137764\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5698f6ade55f3.jpg\" alt=\"\" width=\"200\" height=\"176\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5698f6b9a01cd.jpg\"Group=\"bb554137764\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5698f6b9a01cd.jpg\" alt=\"\" width=\"200\" height=\"177\" /></a>",
+    "related_types": [
+        {
+            "id": 74223,
+            "title": "2 Euro (Festival of the Federation)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        }
+    ],
+    "tags": [
+        "Map",
+        "Phrygian cap"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "2227"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "1481.2"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "21 (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    }
+}

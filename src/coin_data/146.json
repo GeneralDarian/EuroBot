@@ -1,0 +1,132 @@
+{
+    "id": 146,
+    "url": "https://en.numista.com/catalogue/pieces146.html",
+    "title": "2 Euro Cent - Beatrix",
+    "category": "coin",
+    "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+    },
+    "min_year": 1999,
+    "max_year": 2013,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1303,
+            "name": "Beatrix",
+            "wikidata_id": "Q29574"
+        }
+    ],
+    "value": {
+        "text": "2 Euro Cent",
+        "numeric_value": 0.02,
+        "currency": {
+            "id": 9012,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Bruno Ninaber van Eyben"
+        ],
+        "description": "An uncluttered portrait of Queen Beatrix encircled by the twelve stars of Europe and the legend \"BEATRIX KONINGIN DER NEDERLANDEN\" with the date at the bottom",
+        "lettering": "BEATRIX KONINGIN DER NEDERLANDEN 2007 GC",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Beatrix Queen of the Netherlands 2003 GC",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/61fcb9c920e740.36889428-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/61fcb9c920e740.36889428-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia",
+        "lettering": "2 EURO\r\nCENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/61fcb9ca08e385.73587269-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/61fcb9ca08e385.73587269-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 145,
+            "title": "1 Euro Cent - Beatrix",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 1999,
+            "maxYear": 2013
+        },
+        {
+            "id": 147,
+            "title": "5 Euro Cent - Beatrix",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 1999,
+            "maxYear": 2013
+        }
+    ],
+    "tags": [
+        "Map",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "235"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "118"
+        }
+    ],
+    "weight": 3.06,
+    "size": 18.75,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with a groove running circumferentially around the edge of the coin",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2294-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2294-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

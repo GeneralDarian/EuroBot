@@ -1,0 +1,99 @@
+{
+    "id": 134284,
+    "url": "https://en.numista.com/catalogue/pieces134284.html",
+    "title": "2 Euro (Independence of Estonia)",
+    "category": "coin",
+    "issuer": {
+        "code": "estonie",
+        "name": "Estonia"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2044,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9021,
+            "name": "Euro",
+            "full_name": "Euro (2011-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The official national logo for the centenary of Estonia in the center which can be read as the numbers 18 and 100, linking the year the state was founded with today.",
+        "lettering": "1OO\r\nSADA AASTAT EESTI VABARIIKI\r\nEESTI 2018",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "100\r\nYears of the Republic of Estonia\r\nEstonia 2018",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/577-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/577-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/578-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/578-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "commemorated_topic": "Independence of Estonia",
+    "comments": "The total mintage of 1,317,800 coins is symbolical for the Estonian population, one coin for every Estonian.",
+    "tags": [
+        "Bird",
+        "Map",
+        "Independence"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "85"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "\"O\" and \"EESTI\" repeated alternately upright and inverted.",
+        "lettering": "EESTI O EESTI O",
+        "lettering_translation": "* Estonia * Estonia *"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

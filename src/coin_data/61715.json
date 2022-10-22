@@ -1,0 +1,97 @@
+{
+    "id": 61715,
+    "url": "https://en.numista.com/catalogue/pieces61715.html",
+    "title": "2 Euro (Tove Jansson)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jari Lepist\u00f6"
+        ],
+        "description": "The inner part of the coin depicts Tove Jansson\u2019s portrait. Under the portrait the signature \u2018Tove Jansson\u2019 and the years \u20181914-2001\u2019. At the left the indication of the issuing country \u2018FI\u2019. At the right the year of issuance \u20182014\u2019 and the mint mark. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "FI\r\n2014\r\nTove Jansson 1914 - 2001",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1108-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1108-180.jpg",
+        "picture_copyright": "didi83"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1109-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1109-180.jpg",
+        "picture_copyright": "didi83"
+    },
+    "commemorated_topic": "100th birthday of Tove Jansson",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "194"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "204"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SUOMI FINLAND",
+        "lettering_translation": "Finland Finland",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1216-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1216-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

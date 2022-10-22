@@ -1,0 +1,114 @@
+{
+    "id": 56263,
+    "url": "https://en.numista.com/catalogue/pieces56263.html",
+    "title": "10 Euro Cent - Willem-Alexander (2nd map; Geluksdubbeltje)",
+    "category": "coin",
+    "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+    },
+    "min_year": 2014,
+    "max_year": 2016,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1304,
+            "name": "Willem-Alexander",
+            "wikidata_id": "Q154952"
+        }
+    ],
+    "value": {
+        "text": "10 Euro Cent",
+        "numeric_value": 0.1,
+        "numerator": "10",
+        "denominator": 100,
+        "currency": {
+            "id": 9012,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled, coloured"
+    },
+    "obverse": {
+        "engravers": [
+            "Erwin Olaf"
+        ],
+        "description": "Image of King Willem-Alexander\r\nDivided by vertical text\r\nSurrounded by 12 stars of the EU\r\nDate to lower left",
+        "lettering": "Willem-Alexander Koning der Nederlanden\r\n2014",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2802-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2802-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders with Coloured \"10\"",
+        "lettering": "10 EURO \r\nCENT LL",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2803-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2803-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "The Royal Netherlands Mint (Koninklijke Nederlandse Munt) occasionally releases a coloured 10 cent coin called &quot;Oranje Geluksdubbeltje&quot;. There has been one in 2012 with Queen Beatrix obverse, and two more in 2014 &amp; 2016 with King Willem-Alexander obverse.<br />\r\n<br />\r\nThe rough translation of &quot;Oranje Geluksdubbeltje&quot; to English means &quot;Lucky Orange Dime&quot;. <br />\r\nThe Dutch meaning of Dubbeltje is &quot;Double small coin&quot; A small coin is 5 cents, hence 10 cents or Dime. <br />\r\n<br />\r\nThe 2012 Coin was for luck to the Dutch Football Team in the UEFA Nations Cup.<br />\r\nThe 2014 Coin was for luck to the Dutch Olympic Team at the Sochi Winter Olympic Games and for &nbsp;the Dutch Football Team in &nbsp;the World Cup Soccer. &nbsp;<br />\r\nThe 2016 Coin was for luck to the Dutch Olympic Team at the Rio Summer Olympic Games. &nbsp;<br />\r\n<br />\r\nCoincard 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coincard 2016<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d01b3cc3d276.jpg\"Group=\"bb1037002815\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d01b3cc3d276.jpg\" alt=\"\" width=\"197\" height=\"250\" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://en.numista.com/catalogue/images/571232bf5da41.jpg\"Group=\"bb1037002815\"><img src=\"https://en.numista.com/catalogue/images/miniatures/571232bf5da41.jpg\" alt=\"\" width=\"158\" height=\"200\" /></a>",
+    "related_types": [
+        {
+            "id": 41998,
+            "title": "10 Euro Cent - Beatrix (2nd map; 2012 European Soccer Championship)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 54956,
+            "title": "10 Euro Cent - Willem-Alexander (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2014,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Monarch",
+        "Summer Olympic Games",
+        "Winter Olympic Games",
+        "Map",
+        "Soccer"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "347a"
+        }
+    ],
+    "weight": 4.1,
+    "size": 19.75,
+    "thickness": 1.93,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2006-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2006-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

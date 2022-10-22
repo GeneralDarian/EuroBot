@@ -1,0 +1,121 @@
+{
+    "id": 125,
+    "url": "https://en.numista.com/catalogue/pieces125.html",
+    "title": "20 Euro Cent (1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "irlande",
+        "name": "Ireland"
+    },
+    "min_year": 2002,
+    "max_year": 2006,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2858,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "currency": {
+            "id": 9009,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jarlath Hayes"
+        ],
+        "description": "The Celtic harp, a traditional symbol of Ireland, with the country name to the left, the date to the right, and the 12 stars of Europe around the rim",
+        "lettering": "\u00e9IRe 2004",
+        "lettering_scripts": [
+            {
+                "name": "Latin (Gaelic)"
+            }
+        ],
+        "lettering_translation": "Ireland",
+        "picture": "https://en.numista.com/catalogue/photos/irlande/985-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/irlande/985-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "20\r\nLL\r\nEURO\r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/irlande/986-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/irlande/986-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "related_types": [
+        {
+            "id": 6330,
+            "title": "20 Euro Cent (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "minYear": 2007,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "36"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "35"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with seven indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/irlande/1029-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/irlande/1029-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1318",
+            "name": "Irish Mint"
+        }
+    ]
+}

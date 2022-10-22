@@ -1,0 +1,331 @@
+{
+    "id": 76636,
+    "url": "https://en.numista.com/catalogue/pieces76636.html",
+    "title": "2 Euro (30 Years of European Union Flag)",
+    "category": "coin",
+    "issuer": {
+        "code": "grece",
+        "name": "Greece"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1254,
+            "name": "Third Hellenic Republic",
+            "wikidata_id": "Q17765809"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9008,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Ge\u00f3rgios Stamat\u00f3poulos"
+        ],
+        "description": "The designs show the European Union flag as a symbol that unites people and cultures with shared visions and ideals for a better common future. Twelve stars that morph into human figures are embracing the birth of a new Europe. At the top right, in semi-circle, are the issuing country and the years \u20181985-2015\u2019. At the bottom right are the initials of the artist (Georgios Stamatopoulos). The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391\r\n1985-2015\r\n\u0393\u03a3",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "HELLENIC REPUBLIC \r\n1985-2015\r\nGS",
+        "picture": "https://en.numista.com/catalogue/photos/grece/62907d554e9c91.14872206-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/62907d554e9c91.14872206-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/grece/62907d5675ca93.55484564-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/62907d5675ca93.55484564-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "series": "EU Flag",
+    "commemorated_topic": "30th Anniversary of the Flag of the European Union",
+    "comments": "The European flag was officially established in 1985, by decision of the leaders of the ten Member States of the<br />\r\nthen EEC, based on a design adopted by another European organisation, the Council of Europe, for its own use. The flag consists of twelve golden stars in a circle on a blue background. The stars symbolise the ideals of solidarity and harmony among the peoples of Europe, while the circle is a symbol of unity. The number of stars does not denote the number of member countries, but the number twelve traditionally represents a perfect circle.<br />\r\nThe coin was issued in bankrolls, in Proof quality in box with certificate of authenticity and in BU quality on a coincard blister.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dd0429e9201b.jpg\"Group=\"bb424619406\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd0429e9201b.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dd042bae65a4.jpg\"Group=\"bb424619406\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd042bae65a4.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a>",
+    "related_types": [
+        {
+            "id": 77180,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "autriche",
+                "name": "Austria"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77181,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76633,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77306,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "estonie",
+                "name": "Estonia"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 74920,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 78890,
+            "title": "2 Euro (30 Years of European Union Flag; Coloured)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76635,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76632,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77182,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76638,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "italie",
+                "name": "Italy"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76639,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "lettonie",
+                "name": "Latvia"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76640,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "lituanie",
+                "name": "Lithuania"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 78817,
+            "title": "2 Euro - Henri I (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "luxembourg",
+                "name": "Luxembourg"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77307,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76641,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77133,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76781,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "slovaquie",
+                "name": "Slovakia"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76645,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "slovenie",
+                "name": "Slovenia"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76634,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        }
+    ],
+    "tags": [
+        "Map",
+        "Flag"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "272"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "219"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with lettering",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "HELLENIC REPUBLIC",
+        "picture": "https://en.numista.com/catalogue/photos/grece/1530-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/1530-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        }
+    ]
+}

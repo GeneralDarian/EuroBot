@@ -1,0 +1,142 @@
+{
+    "id": 6376,
+    "url": "https://en.numista.com/catalogue/pieces6376.html",
+    "title": "2 Euro (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2007,
+    "max_year": 2021,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "lettering": "LIBERT\u00c9 \u00c9GALIT\u00c9 FRATERNIT\u00c9 \r\nJ. JIMENEZ \r\nR F \r\n20 13",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/france/612b61b9bdd238.90290042-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/612b61b9bdd238.90290042-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/france/612b61ba7b54d6.48806333-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/612b61ba7b54d6.48806333-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "<span style=\"text-decoration:underline;\">Different Mint Master Marks</span><br />\r\n<ul><li><img src=\"https://en.numista.com/catalogue/images/5fa02200bd651.jpg\" alt=\"\" width=\"47\" height=\"30\" /> Hubert Lariviere, from 2007 to 2010, a mark of a hunting horn with a wave and a fish<br />\r\n</li><li><img src=\"https://en.numista.com/catalogue/images/5fa0220ebaaa7.jpg\" alt=\"\" width=\"38\" height=\"39\" /> Yves Sampo, since 2011 to 2020, a mark of a Pentagon with letters AG, MP and YS<br />\r\n</li><li><img src=\"https://en.numista.com/catalogue/images/618fd7fa42005.jpg\" alt=\"\" width=\"38\" height=\"38\" /> Joaquin Jimenez, since 2021, a mark of a square with a circle and a broken line in the small square<br />\r\n</li></ul><br />\r\n<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">BUNC Sets Released</span></span><br />\r\n<ul><li>2007 - 50000 Annual Coin Sets + 20 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2008 - 50000 Annual Coin Sets + 20 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2009 - 50000 Annual Coin Sets + 3 different illustrated Coin Sets of 500 or 1000 issues each<br />\r\n</li><li>2010 - 50000 Annual Coin Sets + 9 different illustrated Coin Sets of 500 issues each + 1000 Coin Sets <span style=\"font-style:italic;\">Jour de la Monnaie (Guest Of Honour)</span><br />\r\n</li><li>2011 - 40000 Annual Coin Sets + 5 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2012 - 40000 Annual Coin Sets + 6 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2013 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2014 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2015 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2016 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2017 - 25000 Annual Coin Sets + 5 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2018 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2019 - 15000 Annual Coin Sets + 2 different illustrated Coin Sets of 500 issues each<br />\r\n</li><li>2020 - 15000 Annual Coin Sets + 5 different illustrated Coin Sets of 500 issues each + 2 different illustrated Coin Sets of 500 issues each with the 2\u20ac 2020 <span style=\"font-style:italic;\">Charles De Gaulle</span> commemorative coin instead of the regular 2\u20ac coin<br />\r\n</li></ul><br />\r\n<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">PROOF Sets Released</span></span><br />\r\n<ul><li>From 2007 to 2012 - Annual Coin Sets<br />\r\n</li><li>2013 - Annual Coin Sets + Annual Coin Sets <span style=\"font-style:italic;\">Prestige </span> with the 100\u20ac gold coin of <span style=\"font-style:italic;\">The Sower - Pessac Site</span><br />\r\n</li><li>From 2014 to the present - Annual Coin Sets<br />\r\n</li></ul>",
+    "related_types": [
+        {
+            "id": 104,
+            "title": "2 Euro (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 1999,
+            "maxYear": 2006
+        },
+        {
+            "id": 44506,
+            "title": "100 Euro (Pessac Site)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2013,
+            "maxYear": 2013
+        }
+    ],
+    "tags": [
+        "Map",
+        "Tree"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "1414"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "884"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "8a (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: three times the sequence \"2 * *\" upright and the sequence \"* * 2\" inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/france/7467-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/7467-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

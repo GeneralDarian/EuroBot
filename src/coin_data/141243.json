@@ -1,0 +1,103 @@
+{
+    "id": 141243,
+    "url": "https://en.numista.com/catalogue/pieces141243.html",
+    "title": "2 Euro (Landscape Koli)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design shows a drawing from the top of the Finnish national landscape Koli. The date is at the centre bottom. The indication of the issuing country \u2018FI\u2019 is at the centre-left and the mintmark at the centre-right. The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "FI\r\n2018",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1694-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1694-180.jpg",
+        "picture_copyright": "vitor.guise"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1695-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1695-180.jpg",
+        "picture_copyright": "vitor.guise"
+    },
+    "commemorated_topic": "Finnish national landscape Koli",
+    "related_types": [
+        {
+            "id": 140634,
+            "title": "5 Euro (Finnish National Landscapes: Koli National Park)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "269"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SUOMI FINLAND",
+        "lettering_translation": "Finland Finland",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1654-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1654-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

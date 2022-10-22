@@ -1,0 +1,121 @@
+{
+    "id": 236,
+    "url": "https://en.numista.com/catalogue/pieces236.html",
+    "title": "1 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "slovenie",
+        "name": "Slovenia"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1310,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "currency": {
+            "id": 9017,
+            "name": "Euro",
+            "full_name": "Euro (2007-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "M. Licul"
+        ],
+        "description": "A stork, a motif taken from the former 20 Tolar coin encircled by the twelve stars of Europe around the rim alternated with the letters of the country name",
+        "lettering": "S L O V E N I J A\r\n2007",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Slovenia\r\n2007",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/914-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/914-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "1 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/915-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/915-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/568d2bea54358.png\"Group=\"bb1345661128\"><img src=\"https://en.numista.com/catalogue/images/miniatures/568d2bea54358.png\" alt=\"\" width=\"175\" height=\"200\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c506516286a4.jpg\"Group=\"bb1345661128\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c506516286a4.jpg\" alt=\"\" width=\"200\" height=\"198\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/608ed489a9fe1.jpg\"Group=\"bb1345661128\"><img src=\"https://en.numista.com/catalogue/images/miniatures/608ed489a9fe1.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "tags": [
+        "Bird"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "68"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "73"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/800-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/800-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        },
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        },
+        {
+            "id": "23",
+            "name": "Utrecht"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

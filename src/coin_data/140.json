@@ -1,0 +1,132 @@
+{
+    "id": 140,
+    "url": "https://en.numista.com/catalogue/pieces140.html",
+    "title": "10 Euro Cent - Henri I (1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+    },
+    "min_year": 2002,
+    "max_year": 2006,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1575,
+            "name": "Henri",
+            "wikidata_id": "Q16004",
+            "group": {
+                "id": 129,
+                "name": "Grand Dukes of Nassau-Weilburg"
+            }
+        }
+    ],
+    "value": {
+        "text": "10 Euro Cent",
+        "numeric_value": 0.1,
+        "currency": {
+            "id": 9011,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Yvette Gastauer-Claire"
+        ],
+        "description": "A geometrical portrait of His Royal Highness Grand Duke Henri with the country name to the left and the 12 stars of Europe around the rim",
+        "lettering": "L\u00cbTZEBUERG 2002 GC",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Luxembourg 2002 GC",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1936-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1936-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "10 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1937-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1937-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "comments": "Cette pi\u00e8ce \u00e0 \u00e9t\u00e9 grav\u00e9e par plusieurs pays et plusieurs graveur selon les p\u00e9riodes suivantes&nbsp;:<br />\r\n<ul><li>Pour 2002 &nbsp;&nbsp;&nbsp;Pays-Bas&nbsp;: Caduc\u00e9e - Marque&nbsp;: Arc avec une \u00e9toile - W. J. van Schauwenburg (ma\u00eetre suppl\u00e9tif) <br />\r\n</li><li>2003 - 2004 Pays-Bas&nbsp;: Caduc\u00e9e - Marque&nbsp;: Voilier - Maarten Brouwer (ma\u00eetre titulaire) <br />\r\n</li><li>2005 - 2006 Finlande&nbsp;: La lettre &quot;S&quot; et le logo de l&#039;atelier de la Vanda<br />\r\n</li></ul>",
+    "related_types": [
+        {
+            "id": 6417,
+            "title": "10 Euro Cent - Henri I (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "luxembourg",
+                "name": "Luxembourg"
+            },
+            "minYear": 2007,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Map",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "78"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "69"
+        }
+    ],
+    "weight": 4.1,
+    "size": 19.75,
+    "thickness": 1.93,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1777-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1777-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

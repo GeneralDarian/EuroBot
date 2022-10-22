@@ -1,0 +1,129 @@
+{
+    "id": 105,
+    "url": "https://en.numista.com/catalogue/pieces105.html",
+    "title": "1 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2002,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Rolf Lederbogen"
+        ],
+        "description": "An oak twig, symbolizing stability, is surrounded with the twelve stars of Europe.",
+        "lettering": "D 2005",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1383-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1383-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia, engraver's initials to the right.",
+        "lettering": "1 EURO \r\nCENT \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1384-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1384-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "comments": "The 2002 coins have a KMB Variant.<br />\r\nThe KMB has a smaller (by about 10%) reverse design.<br />\r\nKMB = Kleines M\u00fcnz Bild &nbsp;[petite pi\u00e8ce de monnaie / small coin]<br />\r\n<br />\r\n<img src=\"https://en.numista.com/catalogue/images/5711410341194.jpg\" alt=\"\" width=\"800\" height=\"515\" /><br />\r\n<br />\r\n1, 2 &amp; 5 cents with large and small oak leaves<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63199dc258539.jpg\"Group=\"bb1256224241\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63199dc258539.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ce1d9723cb48.jpg\"Group=\"bb1256224241\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ce1d9723cb48.jpg\" alt=\"\" width=\"200\" height=\"118\" /></a><br />\r\n\u00a9 Ulmo<br />\r\n<br />\r\nOfficial Coincard of the Federal Ministry of Finance<br />\r\n2013<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58664e573f2c8.jpg\"Group=\"bb1256224241\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58664e573f2c8.jpg\" alt=\"\" width=\"200\" height=\"130\" /></a><br />\r\n2016<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58664e74c4227.jpg\"Group=\"bb1256224241\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58664e74c4227.jpg\" alt=\"\" width=\"200\" height=\"133\" /></a>",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "207"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "482"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "206"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2009-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2009-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

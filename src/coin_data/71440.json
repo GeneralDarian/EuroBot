@@ -1,0 +1,97 @@
+{
+    "id": 71440,
+    "url": "https://en.numista.com/catalogue/pieces71440.html",
+    "title": "2 Euro (First Flight from Malta)",
+    "category": "coin",
+    "issuer": {
+        "code": "malte",
+        "name": "Malta"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2864,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9019,
+            "name": "Euro",
+            "full_name": "Euro (2008-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Noel Galea Bason"
+        ],
+        "description": "The coin commemorates an important milestone in Maltese aviation history \u2014 the 100 years since the first flight from Malta. It was on 13 February 1915 that Captain Kilmer took off from the Grand Harbour on a seaplane that was carried by HMS Ark Royal. The plane landed in the harbour after a 55-minute flight. The coin depicts Captain Kilmer\u2019s seaplane with Senglea Point, a prominent feature in the Grand Harbour, in the background. At the top the inscription \u2018FIRST FLIGHT FROM MALTA\u2019 in semi-circle. At the right the years \u20181915-2015\u2019. At the bottom left the inscription \u2018100TH ANNIVERSARY\u2019 and at the bottom the initials of the designer \u2018NGB\u2019 (Noel Galea Bason). The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "FIRST FLIGHT FROM MALTA 1915 - 2015\r\n100TH\r\nANNIVERSARY\r\nNGB",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/418-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/418-180.jpg",
+        "picture_copyright": "liege_numismatique"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/419-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/419-180.jpg",
+        "picture_copyright": "liege_numismatique"
+    },
+    "commemorated_topic": "100th Anniversary of First Flight from Malta",
+    "comments": "The coin commemorates an important milestone in Maltese aviation history \u2014 the 100 years since the first flight from Malta. It was on 13 February 1915 that Captain Kilmer took off from the Grand Harbour on a seaplane that was carried by HMS Ark Royal. The plane landed in the harbour after a 55-minute flight. The coin depicts Captain Kilmer\u2019s seaplane with Senglea Point, a prominent feature in the Grand Harbour, in the background.",
+    "tags": [
+        "Plane or aircraft"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "168"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription: six times a \"2\" and two Maltese crosses, alternately upright and inverted",
+        "lettering": "2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720",
+        "picture": "https://en.numista.com/catalogue/photos/malte/436-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/436-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

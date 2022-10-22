@@ -1,0 +1,118 @@
+{
+    "id": 49944,
+    "url": "https://en.numista.com/catalogue/pieces49944.html",
+    "title": "2 Euro (Crete)",
+    "category": "coin",
+    "issuer": {
+        "code": "grece",
+        "name": "Greece"
+    },
+    "min_year": 2013,
+    "max_year": 2013,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1254,
+            "name": "Third Hellenic Republic",
+            "wikidata_id": "Q17765809"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9008,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Geogios Stamatopoulos"
+        ],
+        "description": "The inner part of the coin depicts Cretan rebels raising the Greek flag, a symbolic representation of Crete\u2019s struggle for Union with Greece. On the upper side, in circular sense and with capital letters the name of the issuing country \u2018Hellenic Republic\u2019 in Greek. Underneath the words: \u2018100 years of the union of Crete with Greece\u2019 in Greek. On the right: \u20181913-2013\u2019 and the monogram of the Greek Mint. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391\r\n1913-2013\r\n100 \u03a7\u03a1\u039f\u039d\u0399\u0391 \u0391\u03a0\u039f \u03a4\u0397\u039d \u0395\u039d\u03a9\u03a3\u0397 \u03a4\u0397\u03a3 \u039a\u03a1\u0397\u03a4\u0397\u03a3 \u039c\u0395 \u03a4\u0397\u039d \u0395\u039b\u039b\u0391\u0394\u0391",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "HELLENIC REPUBLIC\r\n1913-2013\r\n100 YEARS FROM THE UNION OF CRETE WITH GREECE",
+        "picture": "https://en.numista.com/catalogue/photos/grece/6290735cb8b694.14992416-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/6290735cb8b694.14992416-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/grece/6290735dc9ca23.35735061-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/6290735dc9ca23.35735061-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "100th Anniversary of the Union of Crete and Greece",
+    "comments": "The history and fate of the \u2018Great Island\u2019 of Crete were always inextricably connected with those of mainland<br />\r\nGreece. Strategically situated between Europe, Asia and Africa, Crete fell to a series of conquerors, from the<br />\r\nRomans and the Saracens to the Venetians and the Ottomans. Union with the modern Greek state was hard<br />\r\nwon by the Cretans after several violent uprisings, including the Cretan Revolt of 1866 marked by the selfsacrifice of hundreds of besieged at the Arkadi Monastery. After the revolt of 1897-98, the island was<br />\r\ndeclared an autonomous \u2018Cretan State\u2019, with Prince George of Greece appointed its High Commissioner. Crete was formally integrated into Greece under the Treaty of London in 1913, after the Balkan Wars of 1912-13.<br />\r\nThe coin was issued in bankrolls, in Proof quality along with the proof year set and in BU quality on a coincard blister.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e3dc8655c520.jpg\"Group=\"bb1236295025\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e3dc8655c520.jpg\" alt=\"\" width=\"200\" height=\"123\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e3dc870be518.jpg\"Group=\"bb1236295025\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e3dc870be518.jpg\" alt=\"\" width=\"200\" height=\"149\" /></a>",
+    "tags": [
+        "Flag"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "253"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "202"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "HELLENIC REPUBLIC",
+        "picture": "https://en.numista.com/catalogue/photos/grece/1527-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/1527-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": 324799,
+    "url": "https://en.numista.com/catalogue/pieces324799.html",
+    "title": "2 Euro (Financial Literacy)",
+    "category": "coin",
+    "issuer": {
+        "code": "lettonie",
+        "name": "Latvia"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2046,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9022,
+            "name": "Euro",
+            "full_name": "Euro (2014-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The coin features a prosperity tree that can blossom for everyone if planted in the soil of financial literacy.",
+        "lettering": "20 22\r\nLATVIJA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lettonie/62a5dbe923a737.77475804-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lettonie/62a5dbe923a737.77475804-180.jpg",
+        "picture_copyright": "Ponpandi Perumal"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lettonie/62a5dbea222508.64017053-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lettonie/62a5dbea222508.64017053-180.jpg",
+        "picture_copyright": "Ponpandi Perumal"
+    },
+    "commemorated_topic": "Financial Literacy",
+    "comments": "BU Coincard <br />\r\n<a href=\"https://en.numista.com/catalogue/images/6277cb0dddbf1.jpg\"Group=\"bb2071122265\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6277cb0dddbf1.jpg\" alt=\"\" width=\"199\" height=\"126\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6277cb22d076b.jpg\"Group=\"bb2071122265\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6277cb22d076b.jpg\" alt=\"\" width=\"200\" height=\"130\" /></a>",
+    "tags": [
+        "Map",
+        "Tree"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "218"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "DIEVS \u2606 SV\u0112T\u012a \u2606 LATVIJU \u2606",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ]
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

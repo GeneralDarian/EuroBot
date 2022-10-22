@@ -1,0 +1,164 @@
+{
+    "id": 84920,
+    "url": "https://en.numista.com/catalogue/pieces84920.html",
+    "title": "2 Euro (\u0120gantija Temples)",
+    "category": "coin",
+    "issuer": {
+        "code": "malte",
+        "name": "Malta"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2864,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9019,
+            "name": "Euro",
+            "full_name": "Euro (2008-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Noel Galea Bason"
+        ],
+        "description": "The \u0120gantija Temples situated on the Island of Gozo. \u0120gantija is a megalithic temple complex dating to the Neolithic ages. It is one of the world's oldest free-standing structures, as well as one of the oldest religious structures. Built approximately in the 36th century BC, \u0120gantija pre-dates Stonehenge and the Egyptian Pyramids. At the top right the inscription \u2018\u0120GANTIJA TEMPLES\u2019 and underneath the years \u20183600-3200 BC\u2019. At the bottom left the name of the country of issuance \u2018MALTA\u2019 and underneath the year of issuance \u20182016\u2019, flanked by the mint master mark and the mintmark. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "\u0120GANTIJA \r\nTEMPLES\r\n3800-3200 BC\r\nNGB\r\nMALTA\r\n2016\r\nF",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/496-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/496-180.jpg",
+        "picture_copyright": "bofried"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/497-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/497-180.jpg",
+        "picture_copyright": "bofried"
+    },
+    "series": "Malta's Prehistoric Monuments",
+    "commemorated_topic": "\u0120gantija Temples",
+    "comments": "The \u0120gantija Temples complex in Gozo is one of the best-preserved on the Maltese islands. The site dates to 3,600 - 3,200 B.C. and is one of the oldest free-standing monuments in the world. \u0120gantija was listed by UNESCO as a World Heritage Site in 1980.<br />\r\n<br />\r\nThis coin is the first of a series of seven that will be issued by the Bank which will depict Malta&#039;s prehistoric monuments that are listed by UNESCO as World Heritage Sites.<br />\r\n<br />\r\nCoincard with the Monnaie de Paris mintmark:<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/585697bb6c7ff.jpg\"Group=\"bb1617220185\"><img src=\"https://en.numista.com/catalogue/images/miniatures/585697bb6c7ff.jpg\" alt=\"\" width=\"200\" height=\"135\" /></a><a href=\"https://en.numista.com/catalogue/images/585697c47e1b1.jpg\"Group=\"bb1617220185\"><img src=\"https://en.numista.com/catalogue/images/miniatures/585697c47e1b1.jpg\" alt=\"\" width=\"200\" height=\"133\" /></a><a href=\"https://en.numista.com/catalogue/images/585697d017b38.jpg\"Group=\"bb1617220185\"><img src=\"https://en.numista.com/catalogue/images/miniatures/585697d017b38.jpg\" alt=\"\" width=\"200\" height=\"193\" /></a>",
+    "related_types": [
+        {
+            "id": 113393,
+            "title": "2 Euro (\u0126a\u0121ar Qim Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 132944,
+            "title": "2 Euro (Mnajdra Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        },
+        {
+            "id": 167679,
+            "title": "2 Euro (TA\u2019 \u0126A\u0120RAT Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 215435,
+            "title": "2 Euro (Skorba Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2020,
+            "maxYear": 2020
+        },
+        {
+            "id": 309264,
+            "title": "2 Euro (Tarxien Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "177"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription: six times a \"2\" and two Maltese crosses.",
+        "lettering": "2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720 2 \u2720\u2720",
+        "picture": "https://en.numista.com/catalogue/photos/malte/516-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/516-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        },
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

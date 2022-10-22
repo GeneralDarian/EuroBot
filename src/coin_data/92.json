@@ -1,0 +1,119 @@
+{
+    "id": 92,
+    "url": "https://en.numista.com/catalogue/pieces92.html",
+    "title": "10 Euro Cent (1st type, 1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 1999,
+    "max_year": 2006,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "10 Euro Cent",
+        "numeric_value": 0.1,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heikki Aulis H\u00e4iv\u00e4oja"
+        ],
+        "description": "The Finnish heraldic lion is encircled by the twelve stars of Europe",
+        "lettering": "1999 M",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/536-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/536-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "10 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/767-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/767-180.jpg",
+        "picture_copyright": "CGB",
+        "picture_copyright_url": "http://www.cgb.fr"
+    },
+    "comments": "Die error in the year on the 2000 coin<br />\r\n<a href=\"https://en.numista.com/catalogue/images/560c438b0f3c1.jpg\"Group=\"bb861927387\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560c438b0f3c1.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nOle",
+    "related_types": [
+        {
+            "id": 9898,
+            "title": "10 Euro Cent (2nd type, 2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2007,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "101"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "102"
+        }
+    ],
+    "weight": 4.1,
+    "size": 19.75,
+    "thickness": 1.93,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1519-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1519-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

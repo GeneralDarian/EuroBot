@@ -1,0 +1,110 @@
+{
+    "id": 218,
+    "url": "https://en.numista.com/catalogue/pieces218.html",
+    "title": "1 Euro - Ioannes Paulus II",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2002,
+    "max_year": 2005,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1522,
+            "name": "John Paul II",
+            "wikidata_id": "Q989"
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Guido Veroi",
+            "Uliana Pernazza"
+        ],
+        "description": "The portrait in left profile of His Holiness John Paul II is encircled by the inscription \"CITTA' DEL VATICANO\" (Vatican City) and the twelve stars of Europe.",
+        "lettering": "GV \u2802UP INC.\r\nCITTA' DEL VATICANO\r\nR\r\n2004",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Vatican City",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/62fe6629b09826.19506734-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/62fe6629b09826.19506734-180.jpg",
+        "picture_copyright": "MMowiec"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the gathering of the fifteen states of the European Union.",
+        "lettering": "1 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/62fe662aa69270.44380279-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/62fe662aa69270.44380279-180.jpg",
+        "picture_copyright": "MMowiec"
+    },
+    "tags": [
+        "Monarch",
+        "Religious figure",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "347"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "349"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding.",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/1783-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/1783-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

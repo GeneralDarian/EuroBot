@@ -1,0 +1,105 @@
+{
+    "id": 220976,
+    "url": "https://en.numista.com/catalogue/pieces220976.html",
+    "title": "2 Euro (Hill of Crosses)",
+    "category": "coin",
+    "issuer": {
+        "code": "lituanie",
+        "name": "Lithuania"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2866,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9023,
+            "name": "Euro",
+            "full_name": "Euro (2015-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The national side of the coin depicts the Hill of Crosses: fragments of wooden and forged crosses, symbolising Lithuanian cross-crafting and folk culture. Cross-crafting and cross-symbolism in Lithuania are included in the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. The coin features the inscriptions LIETUVA (LITHUANIA) and KRY\u017dI\u0172 KALNAS (THE HILL OF CROSSES), the year of issue (2020) and the mintmark of the Lithuanian Mint.",
+        "lettering": "2020 LIETUVA\r\nKRY\u017dI\u0172 \r\nKALNAS\r\nLMK",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/60780fca2594e9.52463975-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/60780fca2594e9.52463975-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/60780fca86f1b4.31115279-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/60780fca86f1b4.31115279-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "Hill of Crosses (cross-crafting inscribed on the UNESCO Representative List of the Intangible Culture Heritage of Humanity)",
+    "comments": "Date of issue 04-11-2020",
+    "tags": [
+        "Map",
+        "Cross"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "256"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "LAISV\u0116 * VIENYB\u0116 * GEROV\u0116",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/5ff1f373012327.73132227-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/5ff1f373012327.73132227-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

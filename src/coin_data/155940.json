@@ -1,0 +1,95 @@
+{
+    "id": 155940,
+    "url": "https://en.numista.com/catalogue/pieces155940.html",
+    "title": "2 Euro (Leonardo da Vinci)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Maria Angela Cassol"
+        ],
+        "description": "The design shows a detail of the painting \u2018Dama con l'ermellino\u2019 (Lady with an Ermine) by\r\nLeonardo da Vinci (Czartoryski Museum in Krakow). On the left, the inscription \u2018Leonardo\u2019, the initials of the author\r\nMaria Angela Cassol \u2018MAC\u2019 and the logo \u2018RI\u2019 acronym of the Italian Republic; on the right, \u2018R\u2019, mintmark of the Mint of\r\nRome and the dates \u20181519-2019\u2019, respectively the year of Leonardo\u2019s death and the year of the coin issuance.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "LEONARDO\r\nMAC\r\nRI\r\nR\r\n1519\r\n2019",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/62c8243ae00027.68014100-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/62c8243ae00027.68014100-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/62c8243b6f50b2.55915835-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/62c8243b6f50b2.55915835-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "commemorated_topic": "The 500th anniversary of the death of Leonardo da Vinci",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5d246b998dc31.jpg\"Group=\"bb1961267112\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d246b998dc31.jpg\" alt=\"\" width=\"107\" height=\"250\" /></a>",
+    "tags": [
+        "Map",
+        "Death anniversary"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2910-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2910-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

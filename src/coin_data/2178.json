@@ -1,0 +1,139 @@
+{
+    "id": 2178,
+    "url": "https://en.numista.com/catalogue/pieces2178.html",
+    "title": "50 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "chypre",
+        "name": "Cyprus"
+    },
+    "min_year": 2008,
+    "max_year": 2021,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1795,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "50 Euro Cent",
+        "numeric_value": 0.5,
+        "currency": {
+            "id": 9018,
+            "name": "Euro",
+            "full_name": "Euro (2008-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Tatiana Sotiropoulou",
+            "Erik Maell"
+        ],
+        "description": "Kyrenia ship, a trading vessel which dates back to the fourth century BC and a symbol of Cyprus\u2019s seafaring history and its importance as a centre of trade.",
+        "lettering": "\u039a\u03a5\u03a0\u03a1\u039f\u03a3\u00b72008\u00b7KIBRIS",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            },
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/chypre/605d6fb0cba4a0.61763198-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/chypre/605d6fb0cba4a0.61763198-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The reverse of the coin shows a geographical image of Europe; it also features the numeral 50 and the inscription EURO CENT.",
+        "lettering": "50 \r\nLL\r\nEURO \r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/chypre/605d6fb16932d3.04128821-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/chypre/605d6fb16932d3.04128821-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 2176,
+            "title": "10 Euro Cent",
+            "category": "coin",
+            "country": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "minYear": 2008,
+            "maxYear": 2021
+        },
+        {
+            "id": 2177,
+            "title": "20 Euro Cent",
+            "category": "coin",
+            "country": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "minYear": 2008,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Map",
+        "Sea",
+        "Boat or watercraft"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "83"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "96"
+        }
+    ],
+    "weight": 7.8,
+    "size": 24.25,
+    "thickness": 2.38,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/chypre/646-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/chypre/646-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        }
+    ]
+}

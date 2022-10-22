@@ -1,0 +1,155 @@
+{
+    "id": 2994,
+    "url": "https://en.numista.com/catalogue/pieces2994.html",
+    "title": "2 Euro (Bundesl\u00e4nder - \"Hamburg\")",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2008,
+    "max_year": 2008,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Erich Ott"
+        ],
+        "description": "The coin depicts the baroque church of St. Michaelis, or \u201cMichel\u201d as it is popularly known. It is a symbol of the city and federal state of Hamburg, as the inscription below the image indicates. The year of issue, 2008, the 12 stars of the European Union and the words \u2018BUNDESREPUBLIK DEUTSCHLAND\u2019 appear on the outer ring. The mintmark is shown in the upper right part of the coin.",
+        "lettering": "HAMBURG G OE\r\nBUNDESREPUBLIK DEUTSCHLAND 2008",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Hamburg\r\nFederal State of Germany 2008",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/627f62bdaef157.66072696-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/627f62bdaef157.66072696-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/627f62bf09d7d5.28528275-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/627f62bf09d7d5.28528275-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "series": "German states",
+    "commemorated_topic": "Federal State of Hamburg",
+    "comments": "This coin was issued in 2008 by the Stuttgart Mint. It was supposed to have the &quot;New&quot; Europe Map on the reverse. The Stuttgart Mint (F) accidentally issued 600,000 of them with the &quot;Old&quot; Europe Map on the reverse. They realised their error and issued their remaining allocation, 9,000,000, with the correct reverse. The Mule coin has got a separate KM# (KM# A261) from the correctly issued coin (KM# 261)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61e6cc1856e65.jpg\"Group=\"bb2145652146\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61e6cc1856e65.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "related_types": [
+        {
+            "id": 327881,
+            "title": "2 Euro Bundesl\u00e4nder - &quot;Hamburg&quot; (Mule)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2008,
+            "maxYear": 2008
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "261"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "534"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "262"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Unity and Justice and Freedom",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2027-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2027-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "id": 212,
+    "url": "https://en.numista.com/catalogue/pieces212.html",
+    "title": "1 Euro Cent - Ioannes Pavlvs II",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2002,
+    "max_year": 2005,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1522,
+            "name": "John Paul II",
+            "wikidata_id": "Q989"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Guido Veroi",
+            "Uliana Pernazza"
+        ],
+        "description": "The portrait in left profile of His Holiness John Paul II is encircled by the inscription \"CITTA' DEL VATICANO\" (Vatican City) and the twelve stars of Europe",
+        "lettering": "CITTA' DEL VATICANO\r\n2002\r\nR\r\nGV \u2802UP INC.",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/622c320cccc653.94593364-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/622c320cccc653.94593364-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia",
+        "lettering": "1 EURO\r\nCENT \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/622c320d7574d1.88265160-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/622c320d7574d1.88265160-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "tags": [
+        "Map",
+        "Religious figure"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "341"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "343"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/1802-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/1802-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

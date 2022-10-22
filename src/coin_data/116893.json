@@ -1,0 +1,117 @@
+{
+    "id": 116893,
+    "url": "https://en.numista.com/catalogue/pieces116893.html",
+    "title": "2 Euro (Vilnius)",
+    "category": "coin",
+    "issuer": {
+        "code": "lituanie",
+        "name": "Lithuania"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2866,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9023,
+            "name": "Euro",
+            "full_name": "Euro (2015-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The old town of Vilnius as the centre of Lithuanian culture represented by the free-standing bell tower of the St. John's Church of Vilnius University, In the background, the Orthodox Church of the Holy Ghost is to the left along with the two towers of the Church of St. Catherin to the right. The country name is to the upper right above the date and mintmark. The twelve stars of the European flag are shown on the outer coin ring.",
+        "lettering": "VILNIUS LIETUVA 2017 \r\nLMK",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Vilnius Lithuania 2017\r\nLMK",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/5fcdbf26127794.07713120-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/5fcdbf26127794.07713120-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/5fcdbf269e9808.25935086-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/5fcdbf269e9808.25935086-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "Vilnius \u2014 capital of culture and art",
+    "comments": "The shown design is the winning design for the coin issue designed by Vladas Or\u017eekauskas.<br />\r\n<br />\r\nDate of issue 31-08-2017",
+    "related_types": [
+        {
+            "id": 112816,
+            "title": "2 Euro (Paphos)",
+            "category": "coin",
+            "country": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Map",
+        "Town"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "228"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "LAISV\u0116 * VIENYB\u0116 * GEROV\u0116 *",
+        "lettering_translation": "Freedom * Unity * Well-Being",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/844-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/844-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

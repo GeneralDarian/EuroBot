@@ -1,0 +1,107 @@
+{
+    "id": 307109,
+    "url": "https://en.numista.com/catalogue/pieces307109.html",
+    "title": "2 Euro - Franciscus (Dante Alighieri)",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Annalisa Masini"
+        ],
+        "description": "The design features a portrait of Dante and Palazzo Vecchio in Florence. At the top right, in semi-circle, is the name of the issuing country \u2018CITT\u00c0 DEL VATICANO\u2019. At the bottom is the inscription \u2018Dante\u2019 and underneath are the years \u20181321-2021\u2019 and the name of the artist \u2018P. DANIELE\u2019.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "CITTA' DEL VATICANO\r\nR\r\nDante\r\nP. DANIELE\r\n1321 \u2013 2021",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/627fb416e4bd00.11332388-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/627fb416e4bd00.11332388-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/627fb418481529.61085003-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/627fb418481529.61085003-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "700th Anniversary of the Death of Dante Alighieri",
+    "tags": [
+        "Literature",
+        "Other building",
+        "Map",
+        "Death anniversary"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "544"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 * \" alternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/617075ce626042.78628751-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/617075ce626042.78628751-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

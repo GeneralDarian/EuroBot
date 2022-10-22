@@ -1,0 +1,123 @@
+{
+    "id": 58570,
+    "url": "https://en.numista.com/catalogue/pieces58570.html",
+    "title": "10 Euro Cent - Franciscus",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2014,
+    "max_year": 2016,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "10 Euro Cent",
+        "numeric_value": 0.1,
+        "numerator": "10",
+        "denominator": 100,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Orietta Rossi",
+            "Luciana De Simoni"
+        ],
+        "description": "The frontal portrait of His Holiness Pope Francis is encircled by the inscription \"CITTA' DEL VATICANO\" (Vatican City) and the twelve stars of Europe.",
+        "lettering": "CITTA' DEL VATICANO\r\nR\r\n2015\r\nLDS INC.\r\nO.ROSSI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "VATICAN CITY\r\nR\r\n2015\r\nLDS INC.\r\nO.ROSSI",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/628a4de52db1c1.80741375-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/628a4de52db1c1.80741375-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "10\r\nEURO\r\nCENT\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/628a4de6459776.35757913-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/628a4de6459776.35757913-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 105612,
+            "title": "10 Euro Cent - Franciscus",
+            "category": "coin",
+            "country": {
+                "code": "vatican",
+                "name": "Vatican City"
+            },
+            "minYear": 2017,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Map",
+        "Religious figure"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "458"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "451"
+        }
+    ],
+    "weight": 4.1,
+    "size": 19.75,
+    "thickness": 1.93,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented (40 indentations)",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/1793-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/1793-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

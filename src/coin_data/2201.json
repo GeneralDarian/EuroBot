@@ -1,0 +1,134 @@
+{
+    "id": 2201,
+    "url": "https://en.numista.com/catalogue/pieces2201.html",
+    "title": "2 Euro (Bundesl\u00e4nder - \"Mecklenburg-Vorpommern\")",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2007,
+    "max_year": 2007,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heinz Hoyer"
+        ],
+        "description": "The coin shows Schwerin Castle and bears the inscription \u2018Mecklenburg-Vorpommern\u2019 - the federal state of Mecklenburg-West Pomerania where the castle is located. The mintmark, \u2018A\u2019, \u2018D\u2019, \u2018F\u2019, \u2018G\u2019 or \u2018J\u2019, appears above the image, and the engraver\u2019s initials \u2018HH\u2019 below it. The year of mintage, 2007, the 12 stars of the European Union and the words \u2018Bundesrepublik Deutschland\u2019 appear in the outer ring.",
+        "lettering": "2007\r\nJ\r\nMECKLENBURG- \r\nVORPOMMERN\r\nHH\r\nBUNDESREPUBLIK DEUTSCHLAND",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2007\r\nF\r\nMeckelenburg-\r\nVorpommern \r\nHH \r\nFederal Republic of Germany",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/5fc9f05b43a777.04520224-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5fc9f05b43a777.04520224-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/5fc9f05c605f76.74087568-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5fc9f05c605f76.74087568-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "series": "German states",
+    "commemorated_topic": "State of Mecklenburg-Vorpommern",
+    "tags": [
+        "Castle or fortification",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "260"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "526"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "254"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription.",
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "lettering_translation": "Unity and Justice and Freedom",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2029-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2029-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

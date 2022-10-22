@@ -1,0 +1,110 @@
+{
+    "id": 284594,
+    "url": "https://en.numista.com/catalogue/pieces284594.html",
+    "title": "2 Euro (Bundesl\u00e4nder - \"Hessen\" - Pattern)",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Pattern",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper-nickel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heinz Hoyer"
+        ],
+        "description": "A classic perspective on St. Paul\u2019s Church in Frankfurt (the \u2018Paulskirche', the seat of Germany\u2019s first freely elected legislative body in 1849 and is regarded as the cradle of German democracy) and is the perspective possessing the greatest recognition value. The design incisively brings out the tension between the dominant tower and the elliptical structure of the church. The slightly exaggerated flight of steps has an inviting quality while simultaneously offering support to the subjacent inscription \u2018HESSEN\u2019 (the Federal State of Hessen in which St. Paul\u2019s Church is situated). The inner part also features the date and mintmark to the left and the engraver\u2019s mark (the initials \u2018HH\u2019 \u2014 Heinz Hoyer) to the right. The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "2015   D\r\nG   HH\r\nHESSEN",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "unabridged_legend": "Deutschland",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/6070cc1c3f4ba7.81654804-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6070cc1c3f4ba7.81654804-180.jpg",
+        "picture_copyright": "M\u00fcnzenhandlung Harald M\u00f6ller GmbH",
+        "picture_copyright_url": "http://www.muenzen-moeller.de"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/6070cc1c7d56b5.31015185-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6070cc1c7d56b5.31015185-180.jpg",
+        "picture_copyright": "M\u00fcnzenhandlung Harald M\u00f6ller GmbH",
+        "picture_copyright_url": "http://www.muenzen-moeller.de"
+    },
+    "commemorated_topic": "State of Hessen",
+    "related_types": [
+        {
+            "id": 69263,
+            "title": "2 Euro (Bundesl\u00e4nder - &quot;Hessen&quot;)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "weight": 8.3,
+    "size": 25.75,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Unity and Justice and Freedom"
+    },
+    "mints": [
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        }
+    ]
+}

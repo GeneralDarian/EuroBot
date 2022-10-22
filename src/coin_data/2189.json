@@ -1,0 +1,105 @@
+{
+    "id": 2189,
+    "url": "https://en.numista.com/catalogue/pieces2189.html",
+    "title": "2 Euro (Enlargement of the European Union)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2004,
+    "max_year": 2004,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Pertti Kalervo M\u00e4kinen"
+        ],
+        "description": "A stylised pillar from which the sprouts grow upwards with the sprouts representing the enlargement of the European Union and the pillar representing the foundation for growth with the letters \"EU\" to the left of the pillar, and the date at the top in the outer ring along with the twelve stars of Europe",
+        "lettering": "2004 EU M M",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/5fcdc7c56b7cb9.07350487-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fcdc7c56b7cb9.07350487-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/5fcdc7c5e9ee06.84444659-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fcdc7c5e9ee06.84444659-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "Fifth Enlargement of the European Union",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "114"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "115"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SUOMI FINLAND",
+        "lettering_translation": "Finland Finland",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1264-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1264-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

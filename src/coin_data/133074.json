@@ -1,0 +1,88 @@
+{
+    "id": 133074,
+    "url": "https://en.numista.com/catalogue/pieces133074.html",
+    "title": "2 Euro (Ministry of Health)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Silvia Petrassi"
+        ],
+        "description": "An allegorical representation of Health with some symbolic elements of the activities of the Ministry: environment, research, food and medicine. In the left field, the monogram \u00abRI\u00bb, the acronym of Italian Republic; above \u00abR\u00bb, identifier of the Mint of Rome; at the base of the female figure, initials of the author Silvia Petrassi; on the top, curved, the words \u00abMINISTRY OF HEALTH\u00bb, on the left, curved, the dates \u00ab1958 - 2018\u00bb. The 12 stars of the European Union are depicted on the coin\u2019s outer ring.",
+        "lettering": "MINISTERO DELLA SALUTE\r\nR\r\n1958-2018\r\nRI",
+        "lettering_translation": "Ministry of Health\r\nR\r\n1958-2018\r\nRI",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2904-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2904-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2905-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2905-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "commemorated_topic": "60th Anniversary of the Italian Ministry of Health",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "415"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": 162097,
+    "url": "https://en.numista.com/catalogue/pieces162097.html",
+    "title": "2 Euro (Final of the Alpine Ski World Cup)",
+    "category": "coin",
+    "issuer": {
+        "code": "andorre",
+        "name": "Andorra"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 4700,
+            "name": "Joan Enric Vives i Sic\u00edlia",
+            "wikidata_id": "Q57473",
+            "group": {
+                "id": 377,
+                "name": "Co-Principality"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9024,
+            "name": "Euro",
+            "full_name": "Euro (2014-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design of the coin shows in the foreground a skier sliding down a slope. In the background, four curved lines, from the\r\nofficial logo of these Ski World Cup Finals (11.-17.3.2019), represent the slopes where the competition will take place. Some snowflakes\r\ncomplete the design together with the inscription \u2018FINALS DE LA COPA DEL M\u00d3N D\u2019ESQU\u00cd ANDORRA 2019\u2019 (Andorra\r\n2019 Ski World Cup Finals).\r\nThe coin\u2019s outer ring depicts the twelve stars of the European flag.",
+        "lettering": "FINALS DE LA COPA DEL MON D\u2019ESQUI ANDORRA 2019",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/961-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/961-180.jpg",
+        "picture_copyright": "liege_numismatique"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/962-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/962-180.jpg",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "Final of the Alpine Ski World Cup",
+    "tags": [
+        "Map",
+        "Ski"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "563"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    }
+}

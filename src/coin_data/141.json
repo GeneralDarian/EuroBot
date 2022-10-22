@@ -1,0 +1,130 @@
+{
+    "id": 141,
+    "url": "https://en.numista.com/catalogue/pieces141.html",
+    "title": "20 Euro Cent - Henri I (1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+    },
+    "min_year": 2002,
+    "max_year": 2006,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1575,
+            "name": "Henri",
+            "wikidata_id": "Q16004",
+            "group": {
+                "id": 129,
+                "name": "Grand Dukes of Nassau-Weilburg"
+            }
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "currency": {
+            "id": 9011,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Yvette Gastauer-Claire"
+        ],
+        "description": "A geometrical portrait of His Royal Highness Grand Duke Henri is encircled by the inscription \"L\u00cbTZEBUERG\" (Luxembourg) & the 12 stars of Europe",
+        "lettering": "L\u00cbTZEBUERG\r\n2005\r\nGC",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1938-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1938-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "20\r\nLL\r\nEURO\r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1939-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1939-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "comments": "This piece was engraved by severals contries and by severals engravers according to the following periods&nbsp;:<br />\r\n<ul><li>Pour 2002 &nbsp;&nbsp;&nbsp;Nederland&nbsp;: caduceus - Mark&nbsp;: bow and star - W. J. van Schauwenburg (interim) <br />\r\n</li><li>2003 - 2004 Nederland&nbsp;: caduceus - Mark&nbsp;: Sails - Maarten Brouwer (holder) <br />\r\n</li><li>2005 - 2006 Finland&nbsp;: &nbsp;&quot;S&quot; and logo of Vanda mint<br />\r\n</li></ul>",
+    "related_types": [
+        {
+            "id": 6418,
+            "title": "20 Euro Cent - Henri I (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "luxembourg",
+                "name": "Luxembourg"
+            },
+            "minYear": 2007,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "79"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "70"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with seven indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1781-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1781-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

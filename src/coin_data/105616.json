@@ -1,0 +1,115 @@
+{
+    "id": 105616,
+    "url": "https://en.numista.com/catalogue/pieces105616.html",
+    "title": "2 Euro - Franciscus",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2017,
+    "max_year": 2022,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Daniela Longo",
+            "Claudia Momoni"
+        ],
+        "description": "The designs feature the coat of arms of the Sovereign of the Vatican City State, Pope Francis. The mintmark 'R' appears at the bottom\r\nleft and the year of issuance '2017' at the bottom right.\r\nThe coins' outer ring depicts the 12 stars of the European flag.",
+        "lettering": "CITTA' DEL VATICANO\r\nR\r\n2017\r\nIHS\r\nMISERANDO ATQUE ELIGENDO\r\nD.LONGO M.C. INC.",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/6058f8d13d1373.74713326-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/6058f8d13d1373.74713326-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/6058f8d1812777.71873318-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/6058f8d1812777.71873318-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/58e7cc7de54e7.jpg\"Group=\"bb1488930791\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58e7cc7de54e7.jpg\" alt=\"\" width=\"199\" height=\"141\" /></a>",
+    "related_types": [
+        {
+            "id": 58574,
+            "title": "2 Euro - Franciscus",
+            "category": "coin",
+            "country": {
+                "code": "vatican",
+                "name": "Vatican City"
+            },
+            "minYear": 2014,
+            "maxYear": 2016
+        }
+    ],
+    "tags": [
+        "Coat of Arms",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "462.1"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2341-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2341-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

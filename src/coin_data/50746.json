@@ -1,0 +1,100 @@
+{
+    "id": 50746,
+    "url": "https://en.numista.com/catalogue/pieces50746.html",
+    "title": "2 Euro (Giovanni Boccaccio)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2013,
+    "max_year": 2013,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Roberto Mauri"
+        ],
+        "description": "The design shows the head of Giovanni BOCCACCIO in three quarter view facing right, drawn from the fresco by Andrea del Castagno, around 1450 ca. (Florence, Galleria degli Uffizi); around, on the bottom, BOCCACCIO 1313 2013; on the right, superimposed letters R (monogram of the Mint of Rome)/RI (monogram of Italian Republic)/m (monogram of the author Roberto Mauri). The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "R\r\nRI\r\nm\r\nBOCCACCIO 1313 2013",
+        "picture": "https://en.numista.com/catalogue/photos/italie/61d6a87372efe9.28748826-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61d6a87372efe9.28748826-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/61d6a873ca2cf1.00936630-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61d6a873ca2cf1.00936630-180.jpg"
+    },
+    "commemorated_topic": "700th Anniversary of the Birth of Giovanni Boccaccio",
+    "comments": "Giovanni Boccaccio &nbsp;was an Italian writer, poet, correspondent of Petrarch, and an important Renaissance humanist. Boccaccio wrote a number of notable works, including The Decameron and On Famous Women.",
+    "tags": [
+        "Literature",
+        "Map",
+        "Birth anniversary"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "358"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "350"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2344-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2344-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

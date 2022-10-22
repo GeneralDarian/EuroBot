@@ -1,0 +1,105 @@
+{
+    "id": 102652,
+    "url": "https://en.numista.com/catalogue/pieces102652.html",
+    "title": "2 Euro (10th Anniversary of the Euro in Slovenia)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovenie",
+        "name": "Slovenia"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1310,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9017,
+            "name": "Euro",
+            "full_name": "Euro (2007-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Matej Ram\u0161ak"
+        ],
+        "description": "10 flying swallows which are forming a circle, the inscription \u201810 LET SKUPNE EVROPSKE VALUTE\u2019 to the lower-left around the rim, the country name and date in the top-left with a dot in between the two inscriptions. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "SLOVENIJA 2017\r\n10 LET SKUPNE EVROPSKE VALUTE",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Slovenia 2017\r\n10 Years of common European currency",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/6280a462c34c32.51079679-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/6280a462c34c32.51079679-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/6280a46412ebc5.82769647-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/6280a46412ebc5.82769647-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "10th Anniversary of the Euro in Slovenia",
+    "tags": [
+        "Bird",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "130"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SLOVENIJA",
+        "lettering_translation": "Slovenia",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/939-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/939-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

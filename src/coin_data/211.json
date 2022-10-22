@@ -1,0 +1,110 @@
+{
+    "id": 211,
+    "url": "https://en.numista.com/catalogue/pieces211.html",
+    "title": "2 Euro - Rainier III",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2001,
+    "max_year": 2004,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3126,
+            "name": "Rainier III",
+            "wikidata_id": "Q185025",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Pierre Givaudin"
+        ],
+        "description": "The portrait of HSH Prince Rainier III is encircled by the inscription \"MONACO\" and the twelve stars of Europe",
+        "lettering": "MONACO\r\n2002",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/612b686d6b45a6.84074200-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/612b686d6b45a6.84074200-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the 15 states of the European Union",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/612b686e1ce4a8.13224875-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/612b686e1ce4a8.13224875-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "tags": [
+        "Map",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "174"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC179"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * * \" alternately upright and inverted",
+        "lettering": "2 * * 2 * * 2 * * 2 * * 2 * * 2 * *",
+        "picture": "https://en.numista.com/catalogue/photos/monaco/553-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/553-180.jpg",
+        "picture_copyright": "Kev2"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

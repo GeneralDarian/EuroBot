@@ -1,0 +1,113 @@
+{
+    "id": 117670,
+    "url": "https://en.numista.com/catalogue/pieces117670.html",
+    "title": "1 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "saint-marin",
+        "name": "San Marino"
+    },
+    "min_year": 2017,
+    "max_year": 2022,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1430,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "numerator": "1",
+        "denominator": 100,
+        "currency": {
+            "id": 9014,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Antonella Napolione",
+            "Maria Grazia Urbani"
+        ],
+        "description": "The official coat of arms of the Republic.",
+        "lettering": "SAN MARINO 2018\r\nR\r\nLIBERTAS\r\nA.N. U. INC.",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/62be8990540903.56972624-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62be8990540903.56972624-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "1 \r\nEURO\r\nCENT\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/62be8991a028d4.46736797-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62be8991a028d4.46736797-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 196,
+            "title": "1 Euro Cent",
+            "category": "coin",
+            "country": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "minYear": 2002,
+            "maxYear": 2016
+        }
+    ],
+    "tags": [
+        "Coat of Arms",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "555"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Plain.",
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/2511-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2511-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

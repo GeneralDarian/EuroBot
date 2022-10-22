@@ -1,0 +1,111 @@
+{
+    "id": 8108,
+    "url": "https://en.numista.com/catalogue/pieces8108.html",
+    "title": "2 Euro (Louis Braille)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2009,
+    "max_year": 2009,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Maria Carmela Colaneri"
+        ],
+        "description": "An hand upon an open book as is the act of reading. Above the monogram of the Italian Republic and  two seagulls in flight, symbols of free and universal knowledge. Below the book the name Louis Braille written in his relief writing system and the initials of the author, with mintmark at right.\r\nIn the outer ring the twelve stars of European Union.",
+        "lettering": "LOUIS BRAILLE 1809-2009\r\nRI\r\nR\r\nM.C.C.",
+        "lettering_scripts": [
+            {
+                "name": "Braille"
+            },
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/61a755235d3c71.02630325-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61a755235d3c71.02630325-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "Left the numer 2 indicating the value. At right six straight lines run vertically between the lower and upper right part of the coin. Twelve stars are superimposed on the lines, one just before the ends of each line. Below these lines there is a representation of  the European continent. Above all is superimposed horizontally the word 'EURO'. Under the letter O, right, near the edge of the coin appears the monogram of the engraver (LL).",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/61a75523a5bf07.79640815-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61a75523a5bf07.79640815-180.jpg",
+        "picture_copyright": "whitegandalf"
+    },
+    "commemorated_topic": "200th Anniversary of the birth of Louis Braille",
+    "tags": [
+        "Map",
+        "Birth anniversary",
+        "Hand"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "310"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "305"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2337-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2337-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

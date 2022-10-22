@@ -1,0 +1,116 @@
+{
+    "id": 59828,
+    "url": "https://en.numista.com/catalogue/pieces59828.html",
+    "title": "2 Euro - Philippe (WW I Anniversary)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1171,
+            "name": "Philippe",
+            "wikidata_id": "Q155004",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The coin\u2019s central field depicts a poppy above the years 2014-18. Below these years appears the inscription \u2018The Great War Centenary\u2019, under which are the signature mark of the Master of the Mint and the mark of the Brussels mint, a helmeted profile of the archangel Michael. The top of the central field features the trilingual inscription \u2018BELGIE \u2014 BELGIQUE \u2014 BELGIEN\u2019 - the name of the country in Dutch, French and German. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "BELGIE - BELGIQUE - BELGIEN\r\n2014-18\r\nThe Great War Centenary",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "BELGIUM - BELGIUM - BELGIUM\r\n2014-18\r\nThe Great War Centenary",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2461-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2461-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2462-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2462-180.jpg",
+        "picture_copyright": "kevin4430"
+    },
+    "commemorated_topic": "100th Anniversary of the Beginning of WW I",
+    "tags": [
+        "Map",
+        "War",
+        "Flower"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "345"
+        },
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-8.16"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2729-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2729-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

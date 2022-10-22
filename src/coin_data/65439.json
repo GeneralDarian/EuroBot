@@ -1,0 +1,112 @@
+{
+    "id": 65439,
+    "url": "https://en.numista.com/catalogue/pieces65439.html",
+    "title": "2 Euro - Henri I (Golden Jubilee)",
+    "category": "coin",
+    "issuer": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1575,
+            "name": "Henri",
+            "wikidata_id": "Q16004",
+            "group": {
+                "id": 129,
+                "name": "Grand Dukes of Nassau-Weilburg"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9011,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Alain Hoffmann"
+        ],
+        "description": "The coin\u2019s inner part depicts the effigies of Their Royal Highnesses, the Grand-Duke Henri and the Grand-Duke Jean, both looking to the left. It is surmounted by the year \u20181964\u2019 above the effigy of the Grand-Duke Jean and by a crown. At the bottom, the names \u2018Jean\u2019 and \u2018Henri\u2019 appear below the respective effigy as well as the year \u20182014\u2019. The inscription \u201850e ANNIVERSAIRE DE L\u2019ACCESSION AU TR\u00d4NE DU GRAND-DUC JEAN\u2019 encloses in circular form the upper inner part of the coin. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "50e ANNI\u00adVERSAIRE DE L\u2019ACCESSION AU TR\u00d4NE DU GRAND-DUC JEAN\r\nJEAN 2014 HENRI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "50th Anniversary of the Accession of Grand Duke-Jean to the Throne 2014 Henri",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1989-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1989-180.jpg",
+        "picture_copyright": "smy77"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1990-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1990-180.jpg",
+        "picture_copyright": "smy77"
+    },
+    "commemorated_topic": "50th Anniversary of the Accession of Grand Duke Jean",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "134"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "122"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 * *\" or \"* * 2\" alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1297-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1297-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

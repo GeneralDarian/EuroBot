@@ -1,0 +1,113 @@
+{
+    "id": 105613,
+    "url": "https://en.numista.com/catalogue/pieces105613.html",
+    "title": "20 Euro Cent - Franciscus",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2017,
+    "max_year": 2022,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "numerator": "20",
+        "denominator": 100,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Daniela Longo",
+            "Silvia Petrassi"
+        ],
+        "description": "The designs feature the coat of arms of the Sovereign of the Vatican City State, Pope Francis. The mintmark 'R' appears at the bottom left and the year of issuance '2017' at the bottom right.\r\nThe coins' outer ring depicts the 12 stars of the European flag.",
+        "lettering": "CITTA' DEL VATICANO\r\nR\r\n2017\r\nIHS\r\nMISERANDO ATQUE ELIGENDO\r\nD.LONGO SP INC.",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2322-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2322-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "lettering": "20\r\nEURO\r\nCENT\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2323-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2323-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/58e7cd03e1e4b.jpg\"Group=\"bb967592579\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58e7cd03e1e4b.jpg\" alt=\"\" width=\"199\" height=\"141\" /></a>",
+    "related_types": [
+        {
+            "id": 58728,
+            "title": "20 Euro Cent - Franciscus",
+            "category": "coin",
+            "country": {
+                "code": "vatican",
+                "name": "Vatican City"
+            },
+            "minYear": 2014,
+            "maxYear": 2016
+        }
+    ],
+    "tags": [
+        "Coat of Arms",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "459.1"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with 7 Indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2356-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2356-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

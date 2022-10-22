@@ -1,0 +1,101 @@
+{
+    "id": 332623,
+    "url": "https://en.numista.com/catalogue/pieces332623.html",
+    "title": "2 Euro (For Ukraine)",
+    "category": "coin",
+    "issuer": {
+        "code": "estonie",
+        "name": "Estonia"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2044,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9021,
+            "name": "Euro",
+            "full_name": "Euro (2011-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring (Ring: 75% Cu, 25% Ni.    Core: 75% Cu, 20% Zn, 5% Ni)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The two-euro coin dedicated to Ukraine and freedom features a girl as a symbol of tenderness, protecting a bird in her hand. The design also features an ear of wheat.",
+        "lettering": "SLAVA UKRAINI  \r\nEESTI 2022",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "GLORY TO UKRAINE\r\nESTONIA 2022",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/62d7b8feeb85e9.19229315-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/62d7b8feeb85e9.19229315-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/62d7b8ff44f603.54843723-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/62d7b8ff44f603.54843723-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "Aid to Ukraine",
+    "tags": [
+        "Bird",
+        "Map",
+        "Hand",
+        "Peace",
+        "Allegory"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "\"O\" and \"EESTI\" repeated alternately upright and inverted.",
+        "lettering": "EESTI O EESTI O",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/62c54b54867ef6.76633587-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/62c54b54867ef6.76633587-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

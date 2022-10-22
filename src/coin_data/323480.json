@@ -1,0 +1,131 @@
+{
+    "id": 323480,
+    "url": "https://en.numista.com/catalogue/pieces323480.html",
+    "title": "2 Euro (Circumnavigation)",
+    "category": "coin",
+    "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 150,
+            "name": "Felipe VI",
+            "wikidata_id": "Q191045",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9004,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "In the center of the coin and on a background of a terrestrial globe, reproduces the image of Juan Sebasti\u00e1n Elcano, taken from the portrait preserved in the Naval Museum of Madrid.",
+        "lettering": "ESPA\u00d1A\r\n2022\r\nJUAN SEBASTI\u00c1N ELCANO\r\nPRIMUS CIRCUMDEDISTI ME\r\n1519 \u2013 1522\r\nM",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/62a5cd9ee032a2.26839912-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62a5cd9ee032a2.26839912-180.jpg",
+        "picture_copyright": "Ponpandi Perumal"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/62a5cd9febfee5.31971602-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62a5cd9febfee5.31971602-180.jpg",
+        "picture_copyright": "Ponpandi Perumal"
+    },
+    "commemorated_topic": "500th anniversary of Elcano&#039;s first round-the-world voyage",
+    "comments": "The expedition of Magellan and Elcano was a 16th century maritime expedition financed by the Spanish Crown and captained by Ferdinand Magellan. This expedition, led by Juan Sebasti\u00e1n Elcano on his return, completed the first circumnavigation of the Earth in history.<br />\r\nThe expedition had the purpose of opening a commercial route with the Pacific islands through the West, looking for a passage between the Atlantic Ocean and the Pacific Ocean. It was formed by five ships that departed from Sanl\u00facar de Barrameda on September 20, 1519. The fleet, after having explored the American coastline south of Brazil for months, managed to cross the Strait of Magellan on November 21, 1520. In his voyage through the Pacific they reached the Philippine Islands, where, on April 27, 1521, Fernando de Magellan died in the battle of Mact\u00e1n. The expeditionary continued the navigation to the Moluccas, objective of their trip, where they chose Juan Sebasti\u00e1n Elcano to captain the return trip. Sailing westward through the Indian Ocean and around Africa, on September 6, 1522 the Victoria, the only ship left on the expedition, returned to Sanl\u00facar de Barrameda with its cargo of spices, becoming the first ship in history to circumnavigate the world.<br />\r\nThe expedition was financed mainly by King Charles I of Spain and V of the Holy Roman Empire, in the hope that he would discover a profitable route west to the Moluccas, as the eastern route was controlled by Portugal under the Treaty of Tordesillas. Although the expedition found a route, it was much longer and more arduous than expected and was therefore not commercially useful. However, the first circumnavigation has been regarded as a great achievement in navigation and had a significant impact on European understanding of the world.",
+    "related_types": [
+        {
+            "id": 181863,
+            "title": "10 Euro (Magellan-Elcano Expedition - Departure)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 277209,
+            "title": "10 Euro (Magellan-Elcano Expedition - Strait of Magellan)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2020,
+            "maxYear": 2020
+        },
+        {
+            "id": 300248,
+            "title": "10 Euro (Magellan-Elcano Expedition - Spice Islands)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Map",
+        "Hat",
+        "Mustache",
+        "Explorer"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Inscribed (lettered) \r\nThe sequence \"2 \u2605 \u2605\" repeated six times alternately upright and inverted.\r\n\r\n2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605",
+        "lettering": "2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/6235e89c1a5358.32250990-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/6235e89c1a5358.32250990-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "id": 240,
+    "url": "https://en.numista.com/catalogue/pieces240.html",
+    "title": "20 Euro Cent (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovenie",
+        "name": "Slovenia"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1310,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "currency": {
+            "id": 9017,
+            "name": "Euro",
+            "full_name": "Euro (2007-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "M. Licul"
+        ],
+        "description": "A pair of Lipizzaner horses, accompanied by the legend 'LIPICANEC\", encircled by the twelve stars of Europe representing the European Union alternating with the letters of the word \"SLOVENIJA\"",
+        "lettering": "LIPICANEC\r\nS L O V E N I J A\r\n2007",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/922-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/922-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A geographical map of the European Union accompanies the face value.",
+        "lettering": "20 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/923-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/923-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "comments": "2007, extra alloy:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c44cd8fbc916.jpg\"Group=\"bb1041715423\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c44cd8fbc916.jpg\" alt=\"\" width=\"200\" height=\"185\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c44cd99eb31b.jpg\"Group=\"bb1041715423\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c44cd99eb31b.jpg\" alt=\"\" width=\"200\" height=\"115\" /></a><br />\r\n&nbsp;\u00a9 Akadotour",
+    "tags": [
+        "Horse or equine",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "72"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "77"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with seven indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/945-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/945-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        },
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

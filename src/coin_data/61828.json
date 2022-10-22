@@ -1,0 +1,95 @@
+{
+    "id": 61828,
+    "url": "https://en.numista.com/catalogue/pieces61828.html",
+    "title": "2 Euro (Carabinieri)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luciana De Simoni"
+        ],
+        "description": "The design shows a reinterpretation of the sculpture \u2018Pattuglia di Carabinieri nella tormenta\u2019 made in 1973 by Antonio Berti; on the right, superimposed letters of the Italian Republic monogram \u2018RI\u2019/2014; on the left, 1814; up, superimposed letters R (monogram of the Mint of Rome); in exergue, LDS (monogram of the Author Luciana De Simoni)/CARABINIERI. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "R\r\nRI \r\n1814 2014\r\nLDS\r\nCARABINIERI",
+        "picture": "https://en.numista.com/catalogue/photos/italie/61db2cddc04cc3.45975541-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61db2cddc04cc3.45975541-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/61db2cde233a97.24319460-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61db2cde233a97.24319460-180.jpg"
+    },
+    "commemorated_topic": "200th Anniversary of the Foundation of Arma dei Carabinieri",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/574c3b864dbaa.jpg\"Group=\"bb350679483\"><img src=\"https://en.numista.com/catalogue/images/miniatures/574c3b864dbaa.jpg\" alt=\"\" width=\"136\" height=\"200\" /></a><a href=\"https://en.numista.com/catalogue/images/574c3b90d82c9.jpg\"Group=\"bb350679483\"><img src=\"https://en.numista.com/catalogue/images/miniatures/574c3b90d82c9.jpg\" alt=\"\" width=\"138\" height=\"200\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/574c3b9d16448.jpg\"Group=\"bb350679483\"><img src=\"https://en.numista.com/catalogue/images/miniatures/574c3b9d16448.jpg\" alt=\"\" width=\"200\" height=\"191\" /></a>",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "367"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "360"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2345-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2345-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

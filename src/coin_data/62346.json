@@ -1,0 +1,121 @@
+{
+    "id": 62346,
+    "url": "https://en.numista.com/catalogue/pieces62346.html",
+    "title": "2 Euro (Bramante)",
+    "category": "coin",
+    "issuer": {
+        "code": "saint-marin",
+        "name": "San Marino"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1430,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9014,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Maria Carmela Colaneri"
+        ],
+        "description": "The coin depicts Bramante\u2019s portrait, and part of Tempietto (Italian: \u2018small temple\u2019), which is a small commemorative tomb built by Donato Bramante, possibly as early as 1502, in the courtyard of San Pietro in Montorio and considered a masterpiece of the High Renaissance Italian architecture. The inscription \u2018BRAMANTE LAZZARI DELLE PENNE DI SAN MARINO\u2019 surrounds almost completely the design. At the left and right the years \u20181514\u2019 and \u20182014\u2019, respectively. At the bottom the initials of the artist \u2018MCC\u2019 (Maria Carmela Colaneri) and the mint mark. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "BRAMANTE LAZZARI DELLE PENNE DI SAN MARINO\r\n1514\r\n2014\r\nMCC\r\nR",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/2374-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2374-180.jpg",
+        "picture_copyright": "Comptoir des Monnaies",
+        "picture_copyright_url": "http://www.comptoir-des-monnaies.com"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/2375-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2375-180.jpg",
+        "picture_copyright": "Comptoir des Monnaies",
+        "picture_copyright_url": "http://www.comptoir-des-monnaies.com"
+    },
+    "commemorated_topic": "500th Anniversary of the Death of Bramante Lazzari delle Penne",
+    "related_types": [
+        {
+            "id": 94714,
+            "title": "5 Euro (Bramante)",
+            "category": "coin",
+            "country": {
+                "code": "italie",
+                "name": "Italy"
+            },
+            "minYear": 2014,
+            "maxYear": 2014
+        }
+    ],
+    "tags": [
+        "Other building",
+        "Map",
+        "Death anniversary",
+        "Birth anniversary",
+        "Artist"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "531"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 *\" or \"* 2\" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/1714-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1714-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

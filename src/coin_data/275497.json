@@ -1,0 +1,106 @@
+{
+    "id": 275497,
+    "url": "https://en.numista.com/catalogue/pieces275497.html",
+    "title": "2 Euro (Caravaggio)",
+    "category": "coin",
+    "issuer": {
+        "code": "saint-marin",
+        "name": "San Marino"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1430,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9014,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design depicts the penitent Magdalene, detail of the homonymous work by Caravaggio, kept at the Doria Pamphilj Gallery in Rome. At the top left is the inscription \u2018SAN MARINO\u2019, and underneath are the dates \u20181571-2021\u2019. At the left are the initials of the author Silvia Petrassi, \u2018SP\u2019. At the top right are the inscription \u2018CARAVAGGIO\u2019 and the mintmark.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "SAN MARINO \u2022 CARAVAGGIO\r\n1571 \u2013 2021 \r\nR\r\nSP",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/60740a1f516c61.81755362-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60740a1f516c61.81755362-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean.\r\n12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/602e504ef1f773.45073390-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/602e504ef1f773.45073390-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "450th Anniversary of the Birth of Caravaggio",
+    "tags": [
+        "Painting",
+        "Map",
+        "Birth anniversary",
+        "Artist"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "602"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 *\" or \"* 2\" alternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/602ec6d1da0153.79332606-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/602ec6d1da0153.79332606-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

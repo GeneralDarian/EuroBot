@@ -1,0 +1,111 @@
+{
+    "id": 84061,
+    "url": "https://en.numista.com/catalogue/pieces84061.html",
+    "title": "2 Euro (Portuguese Olympic Team for Rio 2016)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Joana Vasconcelos"
+        ],
+        "description": "The design shows an image based on the well-known artwork \u2018Heart of Viana\u2019, signed by the author Joana Vasconcelos, which was inspired by traditional jewelry from the north of Portugal (the area around the city of Viana do Castelo). It symbolizes the Portuguese people\u2019s support for the national team on the occasion of the Olympics. At the left and the right, in a semi-circle, are the inscriptions \u2018JOANA VASCONCELOS\u2019 and \u2018EQUIPA OL\u00cdMPICA DE PORTUGAL 2016\u2019, respectively. At the bottom is the mintmark \u2018INCM\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "JOANA VASCONCELOS\r\nEQUIPA OL\u00cdMPICA DE PORTUGAL 2016",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Portuguese Olympic Team 2016",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/6280886e36b042.73539075-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280886e36b042.73539075-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/6280886fb0c5d0.72926579-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280886fb0c5d0.72926579-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "Portuguese Olympic Team for Rio 2016",
+    "comments": "Double die obverse varieties are known to exist.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/615d60ee91796.jpg\"Group=\"bb1594180190\"><img src=\"https://en.numista.com/catalogue/images/miniatures/615d60ee91796.jpg\" alt=\"\" width=\"200\" height=\"104\" /></a>",
+    "tags": [
+        "Map",
+        "Summer Olympic Games"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "867"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "360"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: seven castles and five coats of arms",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/4006-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/4006-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1337",
+            "name": "Lisbon"
+        }
+    ]
+}

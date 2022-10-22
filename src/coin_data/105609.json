@@ -1,0 +1,116 @@
+{
+    "id": 105609,
+    "url": "https://en.numista.com/catalogue/pieces105609.html",
+    "title": "1 Euro Cent - Franciscus (Second Type)",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2017,
+    "max_year": 2022,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "numerator": "1",
+        "denominator": 100,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Daniela Longo",
+            "Uliana Pernazza"
+        ],
+        "description": "The designs feature the coat of arms of the Sovereign of the Vatican City State, Pope Francis. The mintmark 'R' appears at the bottom left and the year of issuance '2017' at the bottom right.\r\nThe coins' outer ring depicts the 12 stars of the European flag.",
+        "lettering": "CITTA' DEL VATICANO\r\nR\r\n2017\r\nIHS\r\nMISERANDO ATQUE ELIGENDO\r\nD.LONGO UP INC.",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/622c3bdb499a36.98177621-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/622c3bdb499a36.98177621-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "1\r\nEURO\r\nCENT\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/622c3bdc69c446.43650472-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/622c3bdc69c446.43650472-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/58e7caf337168.jpg\"Group=\"bb2058854414\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58e7caf337168.jpg\" alt=\"\" width=\"199\" height=\"141\" /></a>",
+    "related_types": [
+        {
+            "id": 58567,
+            "title": "1 Euro Cent - Franciscus",
+            "category": "coin",
+            "country": {
+                "code": "vatican",
+                "name": "Vatican City"
+            },
+            "minYear": 2014,
+            "maxYear": 2016
+        }
+    ],
+    "tags": [
+        "Coat of Arms",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "455.1"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2344-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2344-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

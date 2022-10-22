@@ -1,0 +1,110 @@
+{
+    "id": 38505,
+    "url": "https://en.numista.com/catalogue/pieces38505.html",
+    "title": "2 Euro - Benedictus XVI (7th World Meeting of Families)",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2012,
+    "max_year": 2012,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1524,
+            "name": "Benedict XVI",
+            "wikidata_id": "Q2494"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Gabriella Titotto"
+        ],
+        "description": "The inner part of the coin features a family, with the Cathedral of Milan, the host city of the Seventh World Meeting of Families, in the background. The event is held every three years to highlight the family as a common human heritage, reflecting the fact that the family is universal and that it contributes to the human element of life everywhere in the world. Inscribed around the family scene are the names of the event and of the Vatican City in Italian and the year \u201c2012\u201d. The mintmark \u201cR\u201d appears between the boy and his mother. The coin\u2019s outer ring depicts the 12 stars of the European Union.",
+        "lettering": "CITTA' DEL VATICANO\r\nR 2012\r\nG.TITOTTO\r\nVII INCONTRO MONDIALE DELLE FAMIGLIE",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f752d9960f661.32316014-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f752d9960f661.32316014-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f771794f19093.04402452-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f771794f19093.04402452-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "7th World Meeting of Families In Milan",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5f416239b7f86.jpg\"Group=\"bb67738002\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f416239b7f86.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<br />\r\nThis is the folder/coincard that the coin was issued in.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f77174bb59a7.jpg\"Group=\"bb67738002\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f77174bb59a7.jpg\" alt=\"\" width=\"200\" height=\"157\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f77175956563.jpg\"Group=\"bb67738002\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f77175956563.jpg\" alt=\"\" width=\"155\" height=\"250\" /></a>",
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "435"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "426"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * \" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f752d9a561893.70940435-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f752d9a561893.70940435-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

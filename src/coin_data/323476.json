@@ -1,0 +1,230 @@
+{
+    "id": 323476,
+    "url": "https://en.numista.com/catalogue/pieces323476.html",
+    "title": "2 Euro (Garajonay National Park)",
+    "category": "coin",
+    "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 150,
+            "name": "Felipe VI",
+            "wikidata_id": "Q191045",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9004,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "\"Roque de Agando\" and a detail of the laurisilva forest.",
+        "lettering": "ESPA\u00d1A\r\n2022\r\nM",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Spain",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/62a5cf0b4edd46.17235323-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62a5cf0b4edd46.17235323-180.jpg",
+        "picture_copyright": "Ponpandi Perumal"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean.\r\n\r\n12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/62a5cf0c5a9790.11362050-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62a5cf0c5a9790.11362050-180.jpg",
+        "picture_copyright": "Ponpandi Perumal"
+    },
+    "series": "UNESCO World Heritage",
+    "commemorated_topic": "Garajonay National Park",
+    "comments": "Garajonay National Park is located in the center and north of the island of La Gomera, one of the Canary Islands (Spain). It was declared a national park in 1981 and a World Heritage Site by UNESCO in 1986. It occupies 40 km2 (15 sq mi) and it extends into each of the six municipalities on the island.",
+    "related_types": [
+        {
+            "id": 10364,
+            "title": "2 Euro (Mosque\u2013Cathedral of C\u00f3rdoba)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2010,
+            "maxYear": 2010
+        },
+        {
+            "id": 19979,
+            "title": "2 Euro (Alhambra of Granada)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2011,
+            "maxYear": 2011
+        },
+        {
+            "id": 30072,
+            "title": "2 Euro (Burgos Cathedral)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 42976,
+            "title": "2 Euro (Escorial)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2013,
+            "maxYear": 2013
+        },
+        {
+            "id": 57612,
+            "title": "2 Euro (Park G\u00fcell)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2014,
+            "maxYear": 2014
+        },
+        {
+            "id": 69425,
+            "title": "2 Euro (Cave of Altamira)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 81058,
+            "title": "2 Euro (Aqueduct of Segovia)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2016,
+            "maxYear": 2016
+        },
+        {
+            "id": 101994,
+            "title": "2 Euro (Churches of the Kingdom of Asturias)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 131881,
+            "title": "2 Euro (Old Town of Santiago de Compostela)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        },
+        {
+            "id": 155939,
+            "title": "2 Euro (Old Town of Avila)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 193508,
+            "title": "2 Euro (Mudejar Architecture of Aragon)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2020,
+            "maxYear": 2020
+        },
+        {
+            "id": 264789,
+            "title": "2 Euro (Historic City of Toledo)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Map",
+        "Park"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Inscribed (lettered) \r\nThe sequence \"2 \u2605 \u2605\" repeated six times alternately upright and inverted.\r\n\r\n2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605",
+        "lettering": "2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605 2 \u2605 \u2605",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/62359a6316dbc3.06428626-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62359a6316dbc3.06428626-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

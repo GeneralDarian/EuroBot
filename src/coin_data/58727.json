@@ -1,0 +1,123 @@
+{
+    "id": 58727,
+    "url": "https://en.numista.com/catalogue/pieces58727.html",
+    "title": "50 Euro Cent - Franciscus",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2014,
+    "max_year": 2016,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "50 Euro Cent",
+        "numeric_value": 0.5,
+        "numerator": "50",
+        "denominator": 100,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Orietta Rossi",
+            "Luciana De Simoni"
+        ],
+        "description": "The frontal portrait of His Holiness Pope Franciscus is encircled by the inscription \"CITTA' DEL VATICANO\" (Vatican City) and the twelve stars of Europe.",
+        "lettering": "CITTA' DEL VATICANO\r\nR\r\n2014\r\nLDS INC.\r\nO.ROSSI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "VATICAN CITY\r\nR\r\n2014\r\nLDS INC.\r\nO.ROSSI",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2797-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2797-180.jpg",
+        "picture_copyright": "Joseph Kunnappally"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "50\r\nEURO\r\nCENT\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2798-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2798-180.jpg",
+        "picture_copyright": "Joseph Kunnappally"
+    },
+    "related_types": [
+        {
+            "id": 105614,
+            "title": "50 Euro Cent - Franciscus",
+            "category": "coin",
+            "country": {
+                "code": "vatican",
+                "name": "Vatican City"
+            },
+            "minYear": 2017,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Map",
+        "Religious figure"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "460"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "453"
+        }
+    ],
+    "weight": 7.8,
+    "size": 24.25,
+    "thickness": 2.38,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded (50 indentations).",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/1788-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/1788-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

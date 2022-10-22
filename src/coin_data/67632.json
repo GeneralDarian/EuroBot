@@ -1,0 +1,114 @@
+{
+    "id": 67632,
+    "url": "https://en.numista.com/catalogue/pieces67632.html",
+    "title": "2 Euro",
+    "category": "coin",
+    "issuer": {
+        "code": "lituanie",
+        "name": "Lithuania"
+    },
+    "min_year": 2015,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2866,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9023,
+            "name": "Euro",
+            "full_name": "Euro (2015-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The coin features the arms of Lithuania, with the date on the right and the country name below. The coin's outer ring bears the 12 stars of the European Union.",
+        "lettering": "2015\r\nLMK \r\nLIETUVA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2015\r\nLMK\r\nLithuania",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/883-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/883-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/884-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/884-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "tags": [
+        "Horse or equine",
+        "Firearm or handheld weapon",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "212"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "143"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Fine milled with the inscription LAISVE*VIENYBE*GEROVE",
+        "lettering": "LAISV\u0116*VIENYB\u0116*GEROV\u0116",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Freedom, Unity, Well-being",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/658-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/658-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "id": 51670,
+    "url": "https://en.numista.com/catalogue/pieces51670.html",
+    "title": "2 Euro (Frans Eemil Sillanp\u00e4\u00e4)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2013,
+    "max_year": 2013,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Reijo Juhani Paavilainen"
+        ],
+        "description": "The inner part of the coin depicts Sillanp\u00e4\u00e4's portrait. At the top, in a semi-circle, the words \u2018F. E. SILLANP\u00c4\u00c4\u2019. At the left, the year \u20181888\u2019 and the mintmark. At the right, the year \u20181964\u2019, the indication of the issuing country \u2018FI\u2019 and the year of issuance \u20182013\u2019. This is a special coin to commemorate the grandfather of a whole nation. F. E. SILLANP\u00c4\u00c4 was a master of style who brought deep insights about the relationship between people and nature into Finnish literature. He was awarded the Nobel prize in 1939 based in particular on the works Meek Heritage and The Maid Silja. This masterful author gained even more national renown with his popular radio appearances and memorable Christmas columns. After the war years, the master writer evolved into the long-bearded \u2018Taata\u2019, the unofficial grandfather to the country. From recollections of his childhood Christmases emerged a well-loved tradition: Grandpa gathered the whole nation devoutly around their radios with his easy-going Christmas \u2018talks\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "F. E. SILLANP\u00c4\u00c4\r\n2013 \r\n1888 1964\r\nFI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/5fc9dc9c6c1f20.02871094-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9dc9c6c1f20.02871094-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/5fc9dc9ce81e30.91084649-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9dc9ce81e30.91084649-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "125th Anniversary of Frans Eemil Sillanp\u00e4\u00e4",
+    "related_types": [
+        {
+            "id": 45087,
+            "title": "10 Euro (Frans Eemil Sillanp\u00e4\u00e4)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2013,
+            "maxYear": 2013
+        }
+    ],
+    "tags": [
+        "Map",
+        "Birth anniversary",
+        "Mustache"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "193"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "194"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SUOMI FINLAND",
+        "lettering_translation": "Finland Finland",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1218-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1218-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

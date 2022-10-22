@@ -1,0 +1,119 @@
+{
+    "id": 7927,
+    "url": "https://en.numista.com/catalogue/pieces7927.html",
+    "title": "20 Euro Cent (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "autriche",
+        "name": "Austria"
+    },
+    "min_year": 2008,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 149,
+            "name": "Second Republic"
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "currency": {
+            "id": 9002,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Josef Kaiser"
+        ],
+        "description": "The Belvedere Palace, one of the most beautiful baroque palaces in Austria where the treaty re-establishing the sovereignty of Austria was signed in 1955, making its name synonymous with freedom, encircled by the face value, heraldic hatchings representing the Austrian flag and the twelve stars of Europe around the rim",
+        "lettering": "EURO CENT \r\n20 \r\n2008",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/937-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/937-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "20 \r\nLL\r\nEURO \r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/938-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/938-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "related_types": [
+        {
+            "id": 61,
+            "title": "20 Euro Cent (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "autriche",
+                "name": "Austria"
+            },
+            "minYear": 2002,
+            "maxYear": 2007
+        }
+    ],
+    "tags": [
+        "Castle or fortification",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "3140"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "344"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with 7 Indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/autriche/3272-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3272-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "232",
+            "name": "Vienna"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": 131,
+    "url": "https://en.numista.com/catalogue/pieces131.html",
+    "title": "5 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2002,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "5 Euro Cent",
+        "numeric_value": 0.05,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Ettore Lorenzo Frapiccini"
+        ],
+        "description": "The Flavius amphitheatre, which Emperor Vespasian began building around 75 AD and Emperor Titus inaugurated in 80 AD, is encircled by the twelve stars of Europe",
+        "lettering": "R\r\nRI\r\nELF\r\n2009",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/61ff724b0bc689.51779243-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61ff724b0bc689.51779243-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia",
+        "lettering": "EURO\r\nCENT\r\n5 LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/61ff724c3a0db7.02698926-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61ff724c3a0db7.02698926-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/62e406f0020b5.jpg\"Group=\"bb1639659897\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62e406f0020b5.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e2f5cb7eaf92.jpg\"Group=\"bb1639659897\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e2f5cb7eaf92.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><br />\r\nThe differences between 2002 and 2017",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "212"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "230"
+        }
+    ],
+    "weight": 3.92,
+    "size": 21.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2319-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2319-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

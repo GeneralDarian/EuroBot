@@ -1,0 +1,71 @@
+{
+    "id": 225688,
+    "url": "https://en.numista.com/catalogue/pieces225688.html",
+    "title": "2 Euro (Institute of Neurology and Genetics)",
+    "category": "coin",
+    "issuer": {
+        "code": "chypre",
+        "name": "Cyprus"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1795,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9018,
+            "name": "Euro",
+            "full_name": "Euro (2008-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design depicts a \u2018neuron with its synapses\u2019 about the activities performed by the Cyprus Institute of Neurology and Genetics, which celebrates 30 years of existence. The Cyprus Institute of Neurology and Genetics receives international recognition and plays an active and essential role as a national, regional, and international center of excellence for the provision of high-quality services, innovative research, and postgraduate education. The issuing country\u2019s name \u2018KY\u03a0\u03a1\u039f\u03a3 - KIBRIS\u2019 and the phrase \u2018\u0399\u039d\u03a3\u03a4\u0399TOY\u03a4\u039f \u039d\u0395\u03a5\u03a1\u039f\u039b\u039f\u0393\u038a\u0391\u03a3 & \u0393\u0395\u039d\u0395\u03a4\u0399KH\u03a3 KY\u03a0\u03a1\u039fY 1990-2020\u2019 (i.e. Cyprus Institute of Neurology and Genetics 1990-2020) are inscribed in a circle around the design. The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "\u0399\u039d\u03a3\u03a4\u0399\u03a4\u039f\u03a5\u03a4\u039f \u039d\u0395\u03a5\u03a1\u039f\u039b\u039f\u0393\u0399\u0391\u03a3 & \u0393\u0395\u039d\u0395\u03a4\u0399\u039a\u0397\u03a3 \u039a\u03a5\u03a0\u03a1\u039f\u03a5 1990-2020\r\nKY\u03a0PO\u03a3 \u2013 CYPRUS",
+        "lettering_translation": "Institute of Neurology & Genetics 1990-2020\r\nCyprus - Cyprus",
+        "picture": "https://en.numista.com/catalogue/photos/chypre/62d6f0aec32484.24864807-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/chypre/62d6f0aec32484.24864807-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/chypre/62d6f0af3b3548.18624543-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/chypre/62d6f0af3b3548.18624543-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "commemorated_topic": "30 years of the Cyprus Institute of Neurology and Genetics",
+    "tags": [
+        "Map",
+        "Health"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 \u0395\u03a5\u03a1\u03a9 2 EURO 2 \u0395\u03a5\u03a1\u03a9 2 EURO"
+    }
+}

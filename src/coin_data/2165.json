@@ -1,0 +1,105 @@
+{
+    "id": 2165,
+    "url": "https://en.numista.com/catalogue/pieces2165.html",
+    "title": "2 Euro - Albert II (Belgium-Luxembourg Economic Union)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2005,
+    "max_year": 2005,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1170,
+            "name": "Albert II",
+            "wikidata_id": "Q3911",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The effigies of Grand Duke Henri of Luxembourg and King Albert II of Belgium are depicted in profile (from left to right) in the center of the coin, above the year of issue, 2005. The engraver's initials, \u2018LL', appear to the lower right. The two effigies and the date are surrounded by the outer ring bearing the 12 stars of the European Union and the monograms of Grand Duke Henri on the left and of King Albert II on the right. The mintmarks appear between two stars near the bottom of the coin.",
+        "lettering": "H A II\r\nLL\r\n2005",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/3527-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3527-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/3528-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3528-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "commemorated_topic": "Renewal of the Belgium-Luxembourg economic union",
+    "comments": "coincard<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5be1da185f85e.jpg\"Group=\"bb863208786\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5be1da185f85e.jpg\" alt=\"\" width=\"180\" height=\"250\" /></a>",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "240"
+        },
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-8.2"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "218"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * * \" alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2738-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2738-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

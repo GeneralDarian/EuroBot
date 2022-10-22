@@ -1,0 +1,118 @@
+{
+    "id": 150281,
+    "url": "https://en.numista.com/catalogue/pieces150281.html",
+    "title": "2 Euro (ESRO-2B)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1171,
+            "name": "Philippe",
+            "wikidata_id": "Q155004",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The design shows the ESRO 2B satellite, the first successful satellite of the European Space\r\nResearch Organization and launched in May 1968, circling around planet Earth. The ESRO 2B, also renamed as \u2018IRIS\u2019\r\n(International Radiation Investigation Satellite) once in orbit, was concentrated on solar X-rays, cosmic radiation and\r\nEarth\u2019s radiation belts.\r\nThe mintmark of Utrecht (the Mercury\u2019s wand) is located on the bottom together with the Belgian mint master mark,\r\nthe coat of arms of the municipality Herzele, the country code BE and the initials LL referring to the designer of the\r\ncoin, Mr Luc Luycx.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "ESRO-2B\r\n1968\r\n2018\r\nIRIS\r\nBE\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/5fcdc04f7565d6.66800678-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/5fcdc04f7565d6.66800678-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/5fcdc04ff22fc4.95113673-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/5fcdc04ff22fc4.95113673-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "50th Anniversary of launched satellite ESRO - 2B",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5bb1fa6fafdba.jpg\"Group=\"bb53361244\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bb1fa6fafdba.jpg\" alt=\"\" width=\"200\" height=\"129\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5bb1fa90f2c1e.jpg\"Group=\"bb53361244\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bb1fa90f2c1e.jpg\" alt=\"\" width=\"200\" height=\"129\" /></a>",
+    "related_types": [
+        {
+            "id": 278386,
+            "title": "20 Euro (ESRO-2B)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        }
+    ],
+    "tags": [
+        "Map",
+        "Science",
+        "Space"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-8.25"
+        },
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "373"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/5fcdc0505fa2b6.71414477-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/5fcdc0505fa2b6.71414477-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": 107086,
+    "url": "https://en.numista.com/catalogue/pieces107086.html",
+    "title": "2 Euro (St. Mark's Basilica)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luciana De Simoni"
+        ],
+        "description": "Fa\u00e7ade of St. Mark \u2019s Basilica in Venice; in exergue, \u201c1617\u201d and \u201c2017\u201d, the year of completion of the Basilica and that of the coin\u2019s issue respectively, flank the monogram of the Italian Republic \u201cRI\u201d; below, the inscription \u201cSAN MARCO\u201d; on the right \u201cLDS\u201d, initials of the designer Luciana De Simoni; above, \u201cVENEZIA\u201d and the letter \u201cR\u201d identifying the Mint of Rome; around, the twelve stars of the European Union.",
+        "lettering": "VENEZIA\r\nR\r\n1617 RI 2017\r\nLDS\r\nSAN MARCO",
+        "picture": "https://en.numista.com/catalogue/photos/italie/5fc9f30bbbb929.32596487-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fc9f30bbbb929.32596487-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/5fc9f30ccb2fe5.10398738-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fc9f30ccb2fe5.10398738-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "400th Anniversary of the completion of St. Mark\u2019s Basilica in Venice",
+    "comments": "The most famous and impressive monument in Venice is St. Mark&#039;s Basilica, one of the finest examples of Byzantine architecture and a real symbol of the greatness of the &quot;Serenissima&quot; or the Most Serene, as the the Republic of Venice was better known. The construction of the present Basilica started in 1063 i &nbsp;the place where a first chapel had already been built in the 9th century to house and honour the earthly remains of St. Mark transferred to Venice from Alexandria.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5912d2b2153ef.jpg\"Group=\"bb503559531\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5912d2b2153ef.jpg\" alt=\"\" width=\"200\" height=\"192\" /></a>",
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "411"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with \u201c2\u201d and star, repeated six times,\r\nalternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2566-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2566-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

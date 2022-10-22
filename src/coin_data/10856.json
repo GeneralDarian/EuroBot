@@ -1,0 +1,137 @@
+{
+    "id": 10856,
+    "url": "https://en.numista.com/catalogue/pieces10856.html",
+    "title": "1 Euro Cent (2nd type)",
+    "category": "coin",
+    "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+    },
+    "min_year": 2010,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 150,
+            "name": "Felipe VI",
+            "wikidata_id": "Q191045",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        },
+        {
+            "id": 151,
+            "name": "Juan Carlos I",
+            "wikidata_id": "Q19943",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "numerator": "1",
+        "denominator": 100,
+        "currency": {
+            "id": 9004,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Garcilaso Roll\u00e1n"
+        ],
+        "description": "The cathedral of Santiago de Compostela, a jewel of Spanish Romanesque architecture and one of the most famous pilgrimage destinations in the world, is encircled by the lettering \"ESPA\u00d1A\" (Spain), the royal monogram and the twelve stars of Europe",
+        "lettering": "ESPA\u00d1A 2010 M",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Spain 2010 M",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/62729515dfc227.81121665-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62729515dfc227.81121665-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia",
+        "lettering": "1 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/6277dca7361d70.47033965-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/6277dca7361d70.47033965-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "New version of the common side seen from 2018 onwards. Main differences:<br />\r\n&nbsp;- Thicker and shorter numeral<br />\r\n&nbsp;- Rounded edges of the numeral<br />\r\n&nbsp;- Thicker font in &quot;EURO CENT&quot;<br />\r\n&nbsp;- Thicker lines with longer ends outside of stars<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ec133599b8ff.jpg\"Group=\"bb2073330241\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ec133599b8ff.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/60895276cf4c3.jpg\"Group=\"bb2073330241\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60895276cf4c3.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "related_types": [
+        {
+            "id": 81,
+            "title": "1 Euro Cent (1st type)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 1999,
+            "maxYear": 2009
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "1144"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "463"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/3371-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/3371-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

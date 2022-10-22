@@ -1,0 +1,116 @@
+{
+    "id": 80936,
+    "url": "https://en.numista.com/catalogue/pieces80936.html",
+    "title": "2 Euro (Independence)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovenie",
+        "name": "Slovenia"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1310,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9017,
+            "name": "Euro",
+            "full_name": "Euro (2007-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jernej Kej\u017ear"
+        ],
+        "description": "Over the left part of the inner circle is obliquely positioned a line. At its right, in the upper part of the coin is the inscription \u201825 LET\u2019 and below it the inscription \u2018REPUBLIKA SLOVENIJA\u2019. Underneath these inscriptions is the original Pre\u0161eren\u2019s written record of the part of the Slovenian hymn Zdravljica \u2018do\u010d\u00e1kat\u2019 dan\u2019. At the bottom of the inner circle is the year \u20182016\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "25 LET\r\nREPUBLIKA SLOVENIJA\r\ndo\u010d\u00e1kat dan\r\n2016",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "25 Years\r\nRepublic of Slovenia\r\nto see the day (an end of second verse from Slovenian anthem)\r\n2016",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/868-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/868-180.jpg",
+        "picture_copyright": "papilio",
+        "picture_license_name": "CC BY-NC",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/869-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/869-180.jpg",
+        "picture_copyright": "papilio",
+        "picture_license_name": "CC BY-NC",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+    },
+    "commemorated_topic": "25th Anniversary of Independence",
+    "comments": "The Ten-Day War or the Slovenian Independence War was a civil war in Yugoslavia that followed the Slovenian declaration of independence on 25 June 1991. It was fought between the Slovenian Territorial Defence and the Yugoslav People&#039;s Army (JNA) in 1991 after Slovenia declared its independence. It lasted from 27 June 1991 until 7 July 1991, when the Brijuni Accords were signed. It marked the beginning of the Yugoslav Wars.",
+    "tags": [
+        "Independence"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "126"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "125"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SLOVENIJA",
+        "lettering_translation": "Slovenia",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/930-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/930-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

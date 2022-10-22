@@ -1,0 +1,110 @@
+{
+    "id": 38359,
+    "url": "https://en.numista.com/catalogue/pieces38359.html",
+    "title": "2 Euro (Giovanni Pascoli)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2012,
+    "max_year": 2012,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Maria Carmela Colaneri"
+        ],
+        "description": "The inner part of the coin features a portrait of Giovanni Pascoli, a poet from the Romagna region who is a prominent representative of late 19th century Italian literature. The portrait is flanked by the poet\u2019s year of death \u201c1912\u201d, the mintmark \u201cR\u201d and the letters \u201cM.C.C.\u201d, the initials of the designer Maria Carmela Colaneri, on the left and by the year of issue \u201c2012\u201d\u2019 immediately above the monogram of the Italian Republic \u201cRI\u201d on the right. The inscription \u201cG. PASCOLI\u201d forms an arch along the bottom edge of the coin\u2019s inner part below the portrait. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "1912 2012\r\nR RI\r\nM.C.C.\r\nG. PASCOLI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/61c998e7cf8f75.17315752-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61c998e7cf8f75.17315752-180.jpg",
+        "picture_copyright": "kevin4430"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/61c998e82dd202.91547122-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61c998e82dd202.91547122-180.jpg",
+        "picture_copyright": "kevin4430"
+    },
+    "commemorated_topic": "100th Anniversary of Death of Giovanni Pascoli",
+    "tags": [
+        "Literature",
+        "Death anniversary"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "355"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "339"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2342-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2342-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

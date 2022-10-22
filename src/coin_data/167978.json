@@ -1,0 +1,110 @@
+{
+    "id": 167978,
+    "url": "https://en.numista.com/catalogue/pieces167978.html",
+    "title": "2 Euro (Ast\u00e9rix)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "Asterix surrounded by laurels and Roman inscriptions referring to 60 years of the series. The inscription \"ASTERIX\" is above along with the monogram is the issuing country below. The date is at the bottom along with the mintmark and mintmaster mark. The outer ring has the 12 stars of the European flag.",
+        "lettering": "AST\u00c9RIX\r\nRF\r\nLX ANS 2019 MMXIX",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "unabridged_legend": "R\u00e9publique Fran\u00e7aise",
+        "lettering_translation": "Asterix\r\nRF\r\n60 Years 2019 2019",
+        "picture": "https://en.numista.com/catalogue/photos/france/12064-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/12064-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/france/12065-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/12065-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "commemorated_topic": "The 60th anniversary of Asterix",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5cff8a510e236.jpg\"Group=\"bb1262418008\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cff8a510e236.jpg\" alt=\"\" width=\"128\" height=\"249\" /></a><br />\r\n<br />\r\nThe 300,000 copies in coincards were distributed as follows:<br />\r\n- 100,000 Id\u00e9fix copies<br />\r\n- 100,000 Obelix copies<br />\r\n- 100,000 Ast\u00e9rix copies<br />\r\n<br />\r\nFor 60 years, Asterix has been a true icon of the French culture. Created in 1959 by scenarist Ren\u00e9 Goscinny and cartoonist Albert Uderzo, this character embodies the Frenchman with his smartness and sharpness through the Gallic identity. Apart from its artistic line, depicting contemporary society with humour has brought Asterix great international fame for many years. Since its inception, it has been translated into all the languages of the European Union meeting a huge success. The reputation of Asterix is for example as strong in Germany as in France. It has also been very well established in the United Kingdom, the Netherlands, Spain, Portugal, Italy, and Scandinavia for many years. Beyond the French icon, Asterix has become a true figure of the European 9th art.",
+    "tags": [
+        "Map",
+        "Fictional character"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "2560"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "29 (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

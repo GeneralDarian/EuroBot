@@ -1,0 +1,115 @@
+{
+    "id": 82330,
+    "url": "https://en.numista.com/catalogue/pieces82330.html",
+    "title": "2 Euro (Donatello)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Claudia Momoni"
+        ],
+        "description": "Head of the \"David di Donatello\", the bronze sculpture from the Museum of the Bargello in Florence. On the left side can be seen the monogram of the Italian Republic \"RI\" and below two lines of the dates of the anniversary. Above the head the mintmark and at right the letters \"CM\", initials of the designer Claudia Momoni.\r\nThe outer ring of the coin depicts the twelve stars of the European Union flag.",
+        "lettering": "R\r\nRI\r\n1466\r\n2016\r\nC.M.\r\nDONATELLO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/2429-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2429-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/2430-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2430-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "commemorated_topic": "550th Anniversary of the Death of Donatello",
+    "comments": "Donato di Niccolo di Betto Bardi - Donatello (Florence, 1386 - Florence, Dec. 13, 1466), was a sculptor, goldsmith and italian designer. During his long career he was one of the three fathers of the Florentine Renaissance, as well as one of the most celebrated sculptors of all that time.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/574c427db12d6.jpg\"Group=\"bb1966994412\"><img src=\"https://en.numista.com/catalogue/images/miniatures/574c427db12d6.jpg\" alt=\"\" width=\"200\" height=\"129\" /></a><a href=\"https://en.numista.com/catalogue/images/574c428dd6bad.jpg\"Group=\"bb1966994412\"><img src=\"https://en.numista.com/catalogue/images/miniatures/574c428dd6bad.jpg\" alt=\"\" width=\"200\" height=\"129\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/574c42bcdfc28.jpg\"Group=\"bb1966994412\"><img src=\"https://en.numista.com/catalogue/images/miniatures/574c42bcdfc28.jpg\" alt=\"\" width=\"200\" height=\"196\" /></a>",
+    "tags": [
+        "Map",
+        "Death anniversary"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "393"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "384"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2352-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2352-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

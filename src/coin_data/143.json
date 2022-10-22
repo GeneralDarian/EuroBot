@@ -1,0 +1,129 @@
+{
+    "id": 143,
+    "url": "https://en.numista.com/catalogue/pieces143.html",
+    "title": "1 Euro - Henri I (1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+    },
+    "min_year": 2002,
+    "max_year": 2006,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1575,
+            "name": "Henri",
+            "wikidata_id": "Q16004",
+            "group": {
+                "id": 129,
+                "name": "Grand Dukes of Nassau-Weilburg"
+            }
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "currency": {
+            "id": 9011,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Yvette Gastauer-Claire"
+        ],
+        "description": "A geometrical portrait of His Royal Highness Grand Duke Henri facing righty from the left with the lettering \"L\u00cbTZEBUERG\" to the right of the date with the twelve stars of Europe in the outer ring",
+        "lettering": "2002\r\nL\u00cbTZEBUERG\r\nGC",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2002\r\nLuxembourg\r\nGC",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/6054bde0bc2820.68314091-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/6054bde0bc2820.68314091-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the gathering of the fifteen states of the European Union",
+        "lettering": "1 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/6054bde15b06b3.00151328-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/6054bde15b06b3.00151328-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "Cette pi\u00e8ce \u00e0 \u00e9t\u00e9 grav\u00e9e par plusieurs pays et plusieurs graveur selon les p\u00e9riodes suivantes&nbsp;:<br />\r\n<ul><li>Pour 2002 &nbsp;&nbsp;&nbsp;Pays-Bas&nbsp;: Caduc\u00e9e - Marque&nbsp;: Arc avec une \u00e9toile - W. J. van Schauwenburg (ma\u00eetre suppl\u00e9tif) <br />\r\n</li><li>2003 - 2004 Pays-Bas&nbsp;: Caduc\u00e9e - Marque&nbsp;: Voilier - Maarten Brouwer (ma\u00eetre titulaire) <br />\r\n</li><li>2005 - 2006 Finlande&nbsp;: La lettre &quot;S&quot; et le logo de l&#039;atelier de la Vanda<br />\r\n</li></ul>",
+    "related_types": [
+        {
+            "id": 6419,
+            "title": "1 Euro - Henri I (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "luxembourg",
+                "name": "Luxembourg"
+            },
+            "minYear": 2007,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "81"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "72"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Alternating segments: three smooth, three finely ribbed",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1288-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1288-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

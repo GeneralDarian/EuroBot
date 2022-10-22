@@ -1,0 +1,127 @@
+{
+    "id": 19341,
+    "url": "https://en.numista.com/catalogue/pieces19341.html",
+    "title": "20 Euro Cent - Albert II (2nd type, 2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2009,
+    "max_year": 2020,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 3127,
+            "name": "Albert II",
+            "wikidata_id": "Q3910",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "numerator": "2",
+        "denominator": 10,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Roger Bertrand Baron"
+        ],
+        "lettering": "MONACO\r\n2013",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/1040-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/1040-180.jpg",
+        "picture_copyright": "http://mycoinsworld.com - &quot; In The World of Coins &quot;"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "20\r\nLL\r\nEURO\r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/1041-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/1041-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5a0458bb8ff9a.jpg\"Group=\"bb611766184\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a0458bb8ff9a.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "related_types": [
+        {
+            "id": 5032,
+            "title": "20 Euro Cent - Albert II (2nd type, 1st map)",
+            "category": "coin",
+            "country": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "minYear": 2006,
+            "maxYear": 2006
+        }
+    ],
+    "tags": [
+        "Map",
+        "Crown",
+        "Monogram"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "192"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC189"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with seven indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/monaco/963-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/963-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

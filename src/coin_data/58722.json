@@ -1,0 +1,121 @@
+{
+    "id": 58722,
+    "url": "https://en.numista.com/catalogue/pieces58722.html",
+    "title": "1 Euro - Franciscus",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2014,
+    "max_year": 2016,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "numerator": "1",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Patrizio Daniele",
+            "Maria Carmela Colaneri"
+        ],
+        "description": "The three-quarters portrait of His Holiness Pope Franciscus is encircled by the inscription \"CITTA' DEL VATICANO\" (Vatican City) and the twelve stars of Europe.",
+        "lettering": "CITTA' DEL VATICANO\r\nR\r\n2014\r\nMCC INC.\r\nP. DANIELE",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "VATICAN CITY\r\nR\r\n2014\r\nMCC INC.\r\nP. DANIELE",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/6054ca15714604.16136190-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/6054ca15714604.16136190-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "1 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/6054ca16026cb1.73077209-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/6054ca16026cb1.73077209-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 105615,
+            "title": "1 Euro - Franciscus",
+            "category": "coin",
+            "country": {
+                "code": "vatican",
+                "name": "Vatican City"
+            },
+            "minYear": 2017,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Map",
+        "Religious figure"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "461"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "454"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding.",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2201-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2201-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": 268894,
+    "url": "https://en.numista.com/catalogue/pieces268894.html",
+    "title": "2 Euro (Health Professions)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design depicts in the centre, a man and a woman in medical clothing with masks, a stethoscope and a medical folder representing doctors and nurses working on the front line in the fight against COVID-19. Above, the word \"GRAZIE\" followed, on the right, by a heart symbol; on the left, a reproduction of the medical cross; in the centre, \"RI\", acronym of the Italian Republic; on the right, \"R\", identifying the Mint of Rome; below, on the left, \"CM\", initials of the designer Claudia Momoni; in exergue, the year of the coin\u2019s issue \"2021\".",
+        "lettering": "GRAZIE\r\nRI\r\nR\r\nC.M. 2021",
+        "lettering_translation": "THANK YOU\r\nRI\r\nR\r\nC.M. 2021",
+        "picture": "https://en.numista.com/catalogue/photos/italie/62c740504f7152.00418712-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/62c740504f7152.00418712-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean.\r\n12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/62c74050cbb426.94984821-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/62c74050cbb426.94984821-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "commemorated_topic": "Health Professions - Covid19",
+    "tags": [
+        "Map",
+        "Health",
+        "Cross"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Fine knurling with star and \"2\" repeated six times, alternately straight and upside down",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/601da8392fc3d2.87005959-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/601da8392fc3d2.87005959-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": 42726,
+    "url": "https://en.numista.com/catalogue/pieces42726.html",
+    "title": "2 Euro (Oporto Cl\u00e9rigos Tower)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2013,
+    "max_year": 2013,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Hugo Maciel"
+        ],
+        "description": "The tower is depicted as it can be seen by the people on the street when standing close to it, side by side with the typical Oporto skyline as seen from Douro River south bank. At the top, in a semi-circle, the inscription \u2018250 ANOS TORRE DOS CL\u00c9RIGOS \u2014 2013\u2019. At the bottom right, the Portuguese coat of arms and underneath the indication of the issuing country \u2018PORTUGAL\u2019. At the left, the mint mark and the name of the artist \u2018INCM \u2014 HUGO MACIEL\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "250 ANOS TORRE DOS CL\u00c9RIGOS - 2013\r\nINCM HUGO MACIEL\r\nPORTUGAL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "250 Years of the Torre dos Cl\u00e9rigos 2013\r\nINCM Hugo Maciel\r\nPortugal",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3509-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3509-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3510-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3510-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "commemorated_topic": "The 250th Anniversary of the Construction of \u2018Torre dos Cl\u00e9rigos\u2019",
+    "comments": "The Cl\u00e9rigos Church is a Baroque church in the city of Porto, in Portugal. Its 75-meter-tall bell tower, the Torre dos Cl\u00e9rigos, can be seen from various points of the city and is one of its most characteristic symbols.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/62ecd39a876bc.jpg\"Group=\"bb1972720089\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62ecd39a876bc.jpg\" alt=\"\" width=\"128\" height=\"250\" /></a>",
+    "tags": [
+        "Tower"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "848"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: seven castles and five coats of arms",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3790-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3790-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 8070,
+    "url": "https://en.numista.com/catalogue/pieces8070.html",
+    "title": "2 Euro - Albert II (Louis Braille)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2009,
+    "max_year": 2009,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1170,
+            "name": "Albert II",
+            "wikidata_id": "Q3911",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jan Alfons Keustermans"
+        ],
+        "description": "The coin features a portrait of Louis Braille with his initials, L and B, in the alphabet that he designed. His name appears above the portrait and, below it, the code of the issuing country, \u2018BE\u2019 and the dates \u20181809\u2019 and \u20182009\u2019. To the left and right respectively are the mint mark and the signature mark of the Master of the Mint. The coin\u2019s outer ring shows the 12 stars of the European Union.",
+        "lettering": "LOUIS BRAILLE \r\n1809 BE 2009",
+        "lettering_scripts": [
+            {
+                "name": "Braille"
+            },
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/1419-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/1419-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/1420-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/1420-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "commemorated_topic": "200th anniversary of Louis Braille\u2019s birth",
+    "comments": "There are 2 different types of edges A and B depending on the specific star, more about: <a href=\"http://www.amisdeleuro.org/fr/121\" rel=\"nofollow\">http://www.amisdeleuro.org/fr/121</a><br />\r\n<br />\r\ncoincard<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c5df55b1c80b.jpg\"Group=\"bb28335165\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c5df55b1c80b.jpg\" alt=\"\" width=\"179\" height=\"250\" /></a>",
+    "tags": [
+        "Map",
+        "Birth anniversary"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "288"
+        },
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-8.9"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "266"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 * *\" or \"* * 2\" alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2740-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2740-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

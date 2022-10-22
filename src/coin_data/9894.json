@@ -1,0 +1,112 @@
+{
+    "id": 9894,
+    "url": "https://en.numista.com/catalogue/pieces9894.html",
+    "title": "1 Euro (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2008,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "numerator": "1",
+        "denominator": 1,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "V. M. Fernandes dos Santos"
+        ],
+        "description": "The third royal seal of 1144 of Afonso Henriques, the first king of Portugal, is encircled by alternately the seven country's castles and the five coats of arms, which appear on the Portuguese flag, and the letters of the word \"PORTUGAL\", all encircled by the twelve stars of Europe",
+        "lettering": "P O R T U G A L\r\nPO RT\r\nVG AL\r\nVS INCM\r\n2 0 0 9",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/6054c6638a0f02.86051347-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6054c6638a0f02.86051347-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "1 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/6054c664151d05.88940419-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6054c664151d05.88940419-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "From 2011 onwards the design of the Obverse changed to display more thin and delicate lines and motifs, this can be seen in the following image below (comparison between 2002 design, and the new 2011-date one):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f874869abaa7.jpg\"Group=\"bb1230393559\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f874869abaa7.jpg\" alt=\"\" width=\"199\" height=\"122\" /></a>",
+    "related_types": [
+        {
+            "id": 159,
+            "title": "1 Euro (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "minYear": 2002,
+            "maxYear": 2008
+        }
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "766"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "285"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3795-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3795-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

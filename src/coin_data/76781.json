@@ -1,0 +1,328 @@
+{
+    "id": 76781,
+    "url": "https://en.numista.com/catalogue/pieces76781.html",
+    "title": "2 Euro (30 Years of European Union Flag)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovaquie",
+        "name": "Slovakia"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3765,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9020,
+            "name": "Euro",
+            "full_name": "Euro (2009-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Ge\u00f3rgios Stamat\u00f3poulos"
+        ],
+        "description": "The designs show the European Union flag as a symbol that unites people and cultures with shared visions and ideals for a better common future. Twelve stars that morph into human figures are embracing the birth of a new Europe. At the top right, in a semi-circle, are the issuing country and the years 1985-2015\u2019. At the bottom right are the initials of the artist (Georgios Stamatopoulos). The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "SLOVENSKO\r\n1985-2015\r\nMK\r\n\u0393\u03a3",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/560-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/560-180.jpg",
+        "picture_copyright": "didi83"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/561-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/561-180.jpg",
+        "picture_copyright": "didi83"
+    },
+    "series": "EU Flag",
+    "commemorated_topic": "30th Anniversary of the Flag of the European Union",
+    "comments": "coincard<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c4d960ac79fe.jpg\"Group=\"bb872428232\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c4d960ac79fe.jpg\" alt=\"\" width=\"200\" height=\"158\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c4d96125b2dd.jpg\"Group=\"bb872428232\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c4d96125b2dd.jpg\" alt=\"\" width=\"200\" height=\"157\" /></a>",
+    "related_types": [
+        {
+            "id": 77180,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "autriche",
+                "name": "Austria"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77181,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76633,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77306,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "estonie",
+                "name": "Estonia"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 74920,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 78890,
+            "title": "2 Euro (30 Years of European Union Flag; Coloured)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76635,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76632,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76636,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "grece",
+                "name": "Greece"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77182,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76638,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "italie",
+                "name": "Italy"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76639,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "lettonie",
+                "name": "Latvia"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76640,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "lituanie",
+                "name": "Lithuania"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 78817,
+            "title": "2 Euro - Henri I (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "luxembourg",
+                "name": "Luxembourg"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77307,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76641,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 77133,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76645,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "slovenie",
+                "name": "Slovenia"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 76634,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        }
+    ],
+    "tags": [
+        "Map",
+        "Flag"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "138"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "132"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription: country name in Slovak language with two stars and a linden leaf in the middle  (Note: Type A - national design up lettering in readable position; Type B - national design down lettering in readable position)",
+        "lettering": "\u2605 SLOVENSK\u00c1 REPUBLIKA \u2605",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/566-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/566-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

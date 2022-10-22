@@ -1,0 +1,127 @@
+{
+    "id": 13318,
+    "url": "https://en.numista.com/catalogue/pieces13318.html",
+    "title": "2 Euro Cent (2nd type)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro Cent",
+        "numeric_value": 0.02,
+        "numerator": "2",
+        "denominator": 100,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heikki Aulis H\u00e4iv\u00e4oja"
+        ],
+        "description": "The Finnish heraldic lion is encircled by the twelve stars of Europe",
+        "lettering": "2008 FI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/546-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/546-180.jpg",
+        "picture_copyright": "CGB",
+        "picture_copyright_url": "http://www.cgb.fr"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "2 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/547-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/547-180.jpg",
+        "picture_copyright": "CGB",
+        "picture_copyright_url": "http://www.cgb.fr"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5fe1e672d16a4.jpg\"Group=\"bb1339164452\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fe1e672d16a4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "related_types": [
+        {
+            "id": 90,
+            "title": "2 Euro Cent (1st type)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 1999,
+            "maxYear": 2006
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "99"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "100"
+        }
+    ],
+    "weight": 3.06,
+    "size": 18.75,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Grooved",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1517-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1517-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": 66314,
+    "url": "https://en.numista.com/catalogue/pieces66314.html",
+    "title": "2 Euro (Family Farming)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "H\u00e9lder Batista"
+        ],
+        "description": "Tools typically used in traditional agriculture in the centre, together with farming products: a chicken in the centre, surrounded by pumpkins, a basket of potatoes, and other vegetables and flowers. On the left side, in a semi-circle, the subject of the commemoration \u2018AGRICULTURA FAMILIAR\u2019 (Family Farming) and on the right side, in a semi-circle, the name of the country name followed by the date. At the bottom left the mintmark. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "AGRICULTURA FAMILIAR\r\nPORTUGAL 2014\r\nINCM - H. BATISTA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Familiar Agriculture\r\nPortugal 2014\r\nINCM - H. Batista",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3511-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3511-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3512-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3512-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "commemorated_topic": "International Year of Family Farming",
+    "comments": "The 2014 International Year of Family Farming (IYFF) aims to raise the profile of family farming and smallholder farming by focusing world attention on its significant role in eradicating hunger and poverty, providing food security and nutrition, improving livelihoods, managing natural resources, protecting the environment, and achieving sustainable development, in particular in rural areas.",
+    "tags": [
+        "Agriculture"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "839"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: seven castles and five coats of arms",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3788-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3788-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1337",
+            "name": "Lisbon"
+        }
+    ]
+}

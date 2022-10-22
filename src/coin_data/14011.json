@@ -1,0 +1,126 @@
+{
+    "id": 14011,
+    "url": "https://en.numista.com/catalogue/pieces14011.html",
+    "title": "1 Euro Cent (2nd type)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "numerator": "1",
+        "denominator": 100,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heikki Aulis H\u00e4iv\u00e4oja"
+        ],
+        "description": "The Finnish heraldic lion with year on the left and inscription FI below and twelve five-pointed stars representing the European Union around the rim",
+        "lettering": "2009 FI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/62b73a68ec9c95.13001105-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/62b73a68ec9c95.13001105-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "1 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/62b73a6a017e80.98724469-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/62b73a6a017e80.98724469-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "This documentation is also valid for the 1 cent coins<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fe1e591431c7.jpg\"Group=\"bb130611482\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fe1e591431c7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "related_types": [
+        {
+            "id": 89,
+            "title": "1 Euro Cent (1st type)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 1999,
+            "maxYear": 2006
+        }
+    ],
+    "tags": [
+        "Cat or feline",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "98"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "99"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1516-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1516-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

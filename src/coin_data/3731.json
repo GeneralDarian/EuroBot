@@ -1,0 +1,98 @@
+{
+    "id": 3731,
+    "url": "https://en.numista.com/catalogue/pieces3731.html",
+    "title": "2 Euro (Human Rights)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2008,
+    "max_year": 2008,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Maria Carmela Colaneri"
+        ],
+        "description": "The coin depicts a man and a woman with an olive branch, an ear of corn, a cogwheel and some barbed wire \u2013 symbols of the right to peace, food, work and freedom respectively. The monogram of the Italian Republic \u2018RI\u2019 is placed between the two figures, as is the year of issue \u20182008\u2019. At the bottom of the image are the links of a chain forming the number \u201860\u2019 and the inscription \u2018DIRITTI UMANI\u2019 (human rights). The initials \u2018MCC\u2019 of the artist Maria Carmela Colaneri and the mint mark \u2018R\u2019 are shown on the right. The outer ring of the coin depicts the 12 stars of the European Union.",
+        "lettering": "2008 MCC\r\nRI  R\r\n60 DIRITTI UMANI",
+        "lettering_translation": "(RI) = Italian Republic\r\n60 Human Rights",
+        "picture": "https://en.numista.com/catalogue/photos/italie/5fc36d94526307.44276319-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fc36d94526307.44276319-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/5fc36d94a9e600.29274982-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fc36d94a9e600.29274982-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "commemorated_topic": "60th Anniversary of the Universal Declaration of Human Rights",
+    "tags": [
+        "Human rights"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "301"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "294"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * \" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2336-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2336-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

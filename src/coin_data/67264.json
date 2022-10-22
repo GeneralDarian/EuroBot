@@ -1,0 +1,116 @@
+{
+    "id": 67264,
+    "url": "https://en.numista.com/catalogue/pieces67264.html",
+    "title": "2 Euro (World AIDS Day)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The red ribbon, symbolising the fight against AIDS, is featured in the coin\u2019s central field. The ribbon was created by the Visual AIDS Artists Caucus and the US painter Frank Moore. It should be worn close to the heart to symbolise solidarity with AIDS sufferers and is in the shape of an upside-down V. The idea is for it to be worn as a V one day to signify victory over the disease. There are three ribbons in the central field. One is in the conventional position and will be coloured red for the brilliant uncirculated (BU) and proof (PRF) versions. The other two ribbons are inverted and associated with two Vs to strengthen the symbolism of the much-hoped-for victory over the disease. The date 1 December, Unesco World AIDS Day, appears at the top of the central field. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "1er D\u00c9CEMBRE\r\nJOURN\u00c9E\r\nMONDIALE\r\nCONTRE\r\nLE SIDA\r\n\r\nRF\r\n2014",
+        "lettering_translation": "1st of December\r\nWorld AIDS Day\r\n\r\nRF\r\n2014",
+        "picture": "https://en.numista.com/catalogue/photos/france/5fc9df824ffc84.40615231-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/5fc9df824ffc84.40615231-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/france/5fc9df82e12a38.12482217-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/5fc9df82e12a38.12482217-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "World AIDS Day",
+    "related_types": [
+        {
+            "id": 67424,
+            "title": "2 Euro (World AIDS Day; Colored)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2014,
+            "maxYear": 2014
+        }
+    ],
+    "tags": [
+        "Health",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "1399.1"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "19 (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with lettering",
+        "lettering": "2 * * 2 * * 2 * * 2 * * 2 * * 2 * *",
+        "picture": "https://en.numista.com/catalogue/photos/france/7456-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/7456-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

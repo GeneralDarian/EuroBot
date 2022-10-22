@@ -1,0 +1,131 @@
+{
+    "id": 199,
+    "url": "https://en.numista.com/catalogue/pieces199.html",
+    "title": "10 Euro Cent (1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "saint-marin",
+        "name": "San Marino"
+    },
+    "min_year": 2002,
+    "max_year": 2007,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1430,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "10 Euro Cent",
+        "numeric_value": 0.1,
+        "currency": {
+            "id": 9014,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Frantisek Chochola",
+            "Ettore Lorenzo Frapiccini"
+        ],
+        "description": "The Basilica of San Marino.",
+        "lettering": "SAN MARINO 2007 \r\nCh\r\nR\r\nELF INC.",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/626eae99461bb2.96240285-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626eae99461bb2.96240285-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union.",
+        "lettering": "10\r\nEURO\r\nCENT\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/626eae9a4caa42.87555739-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626eae9a4caa42.87555739-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 9916,
+            "title": "10 Euro Cent (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "minYear": 2008,
+            "maxYear": 2016
+        },
+        {
+            "id": 117673,
+            "title": "10 Euro Cent (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "minYear": 2017,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "443"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "437"
+        }
+    ],
+    "weight": 4.1,
+    "size": 19.75,
+    "thickness": 1.93,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented.",
+        "picture": "https://en.numista.com/catalogue/photos/saint-marin/1700-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1700-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

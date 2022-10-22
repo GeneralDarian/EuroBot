@@ -1,0 +1,137 @@
+{
+    "id": 85,
+    "url": "https://en.numista.com/catalogue/pieces85.html",
+    "title": "20 Euro Cent (1st type; 1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+    },
+    "min_year": 1999,
+    "max_year": 2006,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 151,
+            "name": "Juan Carlos I",
+            "wikidata_id": "Q19943",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "currency": {
+            "id": 9004,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Bego\u00f1a Castellanos Garc\u00eda"
+        ],
+        "description": "A portrait of Miguel de Cervantes, the father of Spanish literature, is accompanied with his name, a quill, the lettering \"ESPA\u00d1A\" (Spain) and  the mintmark for the Madrid Mint is encircled by the twelve stars of Europe of which four are bound by a band",
+        "lettering": "ESPA\u00d1A\r\nCervantes\r\nM\r\n1999",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Spain\r\nCervantes\r\nM\r\n2001",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/627287312bb885.13329376-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/627287312bb885.13329376-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "20\r\nLL\r\nEURO\r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/627287323c35e4.15853079-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/627287323c35e4.15853079-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "There is at least 2 types of variations in the Obverse for this coin in 1999 in regular circulation:<br />\r\n<ul><li><span style=\"font-weight:bold;\">Type A </span>- More thick lettering and extra serifs in some letters (ex. &quot;S&quot; of ESPANA)<br />\r\n</li><li><span style=\"font-weight:bold;\">Type B</span> - More slim lettering and no extra serifs in some letters (ex. &quot;S&quot; of ESPANA)<br />\r\n</li></ul><br />\r\nThese variations can be seen in the following images:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f8c28b7bcb6c.jpg\"Group=\"bb1225246732\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f8c28b7bcb6c.jpg\" alt=\"\" width=\"199\" height=\"105\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f8c28c1e8cf1.jpg\"Group=\"bb1225246732\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f8c28c1e8cf1.jpg\" alt=\"\" width=\"199\" height=\"38\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f8c28ca4cb62.jpg\"Group=\"bb1225246732\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f8c28ca4cb62.jpg\" alt=\"\" width=\"200\" height=\"92\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f8c28d8a17c7.jpg\"Group=\"bb1225246732\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f8c28d8a17c7.jpg\" alt=\"\" width=\"200\" height=\"42\" /></a>",
+    "related_types": [
+        {
+            "id": 6361,
+            "title": "20 Euro Cent (1st type; 2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2007,
+            "maxYear": 2009
+        },
+        {
+            "id": 10859,
+            "title": "20 Euro Cent (2nd type; 2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2010,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Literature",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "1044"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "336"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with seven indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/4265-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/4265-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

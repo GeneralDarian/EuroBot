@@ -1,0 +1,114 @@
+{
+    "id": 69469,
+    "url": "https://en.numista.com/catalogue/pieces69469.html",
+    "title": "1 Euro - Felipe VI",
+    "category": "coin",
+    "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+    },
+    "min_year": 2015,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 150,
+            "name": "Felipe VI",
+            "wikidata_id": "Q191045",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "numerator": "1",
+        "denominator": 1,
+        "currency": {
+            "id": 9004,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luis Jos\u00e9 D\u00edaz Salas"
+        ],
+        "description": "A portrait of King Felipe VI is encircled by the lettering \"ESPA\u00d1A\" (Spain), the Madrid Mint mintmark and the twelve stars of Europe",
+        "lettering": "ESPA\u00d1A 2015\r\nM",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/6054c8a150bb33.06767620-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/6054c8a150bb33.06767620-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "1 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/6054c8a1d38ed9.97148333-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/6054c8a1d38ed9.97148333-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "Two types of &nbsp;Obverse are known:<br />\r\n<span style=\"font-weight:bold;\">A</span> - &nbsp;Thick flat script.<br />\r\n<span style=\"font-weight:bold;\">B</span> - &nbsp;Thin bulged script.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b656d671f564.jpg\"Group=\"bb2020208642\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b656d671f564.jpg\" alt=\"\" width=\"200\" height=\"239\" /></a><br />\r\nBusiness strike of type <span style=\"font-weight:bold;\">A</span> is in 2015-2016, &nbsp;of type <span style=\"font-weight:bold;\">B</span> is in 2016-2018",
+    "tags": [
+        "Map",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "1327"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "635"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/3362-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/3362-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

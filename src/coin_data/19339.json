@@ -1,0 +1,127 @@
+{
+    "id": 19339,
+    "url": "https://en.numista.com/catalogue/pieces19339.html",
+    "title": "10 Euro Cent - Albert II (2nd type, 2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2009,
+    "max_year": 2020,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 3127,
+            "name": "Albert II",
+            "wikidata_id": "Q3910",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "10 Euro Cent",
+        "numeric_value": 0.1,
+        "numerator": "1",
+        "denominator": 10,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Roger Bertrand Baron"
+        ],
+        "description": "Monogram of Prince Albert in the inner circle surrounded by the 12 stars of the European Flag.",
+        "lettering": "MONACO\r\nAA\r\n2009",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/1038-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/1038-180.jpg",
+        "picture_copyright": "http://mycoinsworld.com - &quot; In The World of Coins &quot;"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "10 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/1039-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/1039-180.jpg",
+        "picture_copyright": "http://mycoinsworld.com - &quot; In The World of Coins &quot;"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5a0458bb8ff9a.jpg\"Group=\"bb1210845067\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a0458bb8ff9a.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "related_types": [
+        {
+            "id": 5031,
+            "title": "10 Euro Cent - Albert II (2nd type, 1st map)",
+            "category": "coin",
+            "country": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "minYear": 2006,
+            "maxYear": 2006
+        }
+    ],
+    "tags": [
+        "Map",
+        "Crown",
+        "Monogram"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "191"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC187"
+        }
+    ],
+    "weight": 4.1,
+    "size": 19.75,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/monaco/960-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/960-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

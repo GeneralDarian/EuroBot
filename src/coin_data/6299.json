@@ -1,0 +1,140 @@
+{
+    "id": 6299,
+    "url": "https://en.numista.com/catalogue/pieces6299.html",
+    "title": "2 Euro Cent - Albert II (2nd type, 2nd portrait)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2008,
+    "max_year": 2008,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1170,
+            "name": "Albert II",
+            "wikidata_id": "Q3911",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro Cent",
+        "numeric_value": 0.02,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jan Alfons Keustermans"
+        ],
+        "lettering": "A II 2008 BE",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/62bec658334009.87499828-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/62bec658334009.87499828-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "lettering": "2 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/62bec658a959b0.18924420-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/62bec658a959b0.18924420-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "Privy mark: <br />\r\n<ul><li>Scales: Romain Coenen, 1987-2009<br />\r\n</li></ul>",
+    "related_types": [
+        {
+            "id": 33401,
+            "title": "Token - World Heritage (Belforten; colorized)",
+            "category": "exonumia",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2008,
+            "maxYear": 2008
+        },
+        {
+            "id": 26518,
+            "title": "Token - World Heritage (Belforten)",
+            "category": "exonumia",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2008,
+            "maxYear": 2008
+        }
+    ],
+    "tags": [
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "275"
+        },
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-2.2a"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "242"
+        }
+    ],
+    "weight": 3.06,
+    "size": 18.75,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with a groove running circumferentially around the edge of the coin",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2707-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2707-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

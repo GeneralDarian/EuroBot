@@ -1,0 +1,129 @@
+{
+    "id": 109,
+    "url": "https://en.numista.com/catalogue/pieces109.html",
+    "title": "20 Euro Cent (1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2002,
+    "max_year": 2007,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Reinhart Heinsdorff"
+        ],
+        "description": "The Brandenburg Gate, the symbol of the division of Germany and its subsequent unification, with the 12 stars of Europe around the rim",
+        "lettering": "2002\r\nJ",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1894-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1894-180.jpg",
+        "picture_copyright": "nalaberong"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "20\r\nLL\r\nEURO\r\nCENT",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1895-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1895-180.jpg",
+        "picture_copyright": "nalaberong"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/603920f743adf.jpg\"Group=\"bb1340768408\"><img src=\"https://en.numista.com/catalogue/images/miniatures/603920f743adf.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "related_types": [
+        {
+            "id": 6319,
+            "title": "20 Euro Cent (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2007,
+            "maxYear": 2022
+        }
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "211"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "486"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "210"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with seven indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2237-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2237-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

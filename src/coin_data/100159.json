@@ -1,0 +1,104 @@
+{
+    "id": 100159,
+    "url": "https://en.numista.com/catalogue/pieces100159.html",
+    "title": "2 Euro (University Istropolitana)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovaquie",
+        "name": "Slovakia"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3765,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9020,
+            "name": "Euro",
+            "full_name": "Euro (2009-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "M\u00e1ria Poldaufov\u00e1"
+        ],
+        "description": "The design shows the figure of a teacher and two students positioned before the facade of the building of the former Universitas Istropolitana in Bratislava. In the upper left of the design is a medallion of King Matthias Corvinus, the founder of the university. Above the medallion is the inscription \u20181467\u2019, the year in which the university was opened. The country of issuance \u2018SLOVENSKO\u2019 appears at the base of the inner circle, above the year of issuance \u20182017\u2019. Along the left edge of the inner circle is the inscription \u2018UNIVERZITA\u2019, and along the right edge \u2018ISTROPOLITANA\u2019. In the lower left of the design is the mint mark of the Kremnica Mint (Mincov\u0148a Kremnica), consisting of the initials \u2018MK\u2019 placed between two dies. Below the mint mark are the stylised letters \u2018MP\u2019, the initials of the designer, M\u00e1ria Poldaufov\u00e1.",
+        "lettering": "1467\r\nUNIVERZITA ISTROPOLITANA\r\nMP\r\nSLOVENSKO\r\n2017",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/728-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/728-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/729-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/729-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "commemorated_topic": "550 Years of University Istropolitana",
+    "comments": "coincard<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c4d94b6b7104.jpg\"Group=\"bb2129371456\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c4d94b6b7104.jpg\" alt=\"\" width=\"200\" height=\"158\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c4d94c24ce85.jpg\"Group=\"bb2129371456\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c4d94c24ce85.jpg\" alt=\"\" width=\"200\" height=\"158\" /></a>",
+    "tags": [
+        "Education",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "149"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SLOVENSK\u00c1 REPUBLIKA",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/730-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/730-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

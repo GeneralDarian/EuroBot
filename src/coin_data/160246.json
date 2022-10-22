@@ -1,0 +1,122 @@
+{
+    "id": 160246,
+    "url": "https://en.numista.com/catalogue/pieces160246.html",
+    "title": "2 Euro (Berlin Wall)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "Thirty years ago, the Berlin Wall fell. Beyond the impact on German society, it was an event with global consequences. On November 9th, 1989, this occasion marks the end of the cold war and announces  an appeasement after several decades of international tensions. At the European level, it is the first step towards the reunification of one of the leading countries of the European Union. This major change was after materialized by the \u2018Two Plus Four\u2019 Treaty (Moscow, 12 September 1990) of which France was a signatory. The European Union welcomed then 16 million new citizens in just one year; almost the structural and economic effect of welcoming a new country!\n\nThe design represents the Berlin Wall, opened in its centre, letting the doves (allegories of the international appeasement),  and the jubilant crowd pass. In the background, the Brandenburg Gate, Berlin\u2019s symbol par excellence, is represented. The mention \u201830 years of the fall of the Berlin Wall/30 Jahre Mauerfall\u2019 is inscribed on one side of the wall. At the bottom of the design is the year of issuance \u20182019\u2019 and at its right the indication of the issuing country \u2018RF\u2019 (standing for R\u00e9publique Fran\u00e7aise). The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "30 ANS DE LA CHUTE DU MUR DE BERLIN \u2013 30 JAHRE MAUERFALL\r\n2019\r\nRF",
+        "picture": "https://en.numista.com/catalogue/photos/france/12104-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/12104-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/france/12105-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/12105-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "30 years of the fall of the Berlin Wall",
+    "related_types": [
+        {
+            "id": 160045,
+            "title": "10 Euro (30 years of fall of Berlin wall)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 160408,
+            "title": "10 Euro (30 years of fall of Berlin wall)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "2559"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/france/11202-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/11202-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

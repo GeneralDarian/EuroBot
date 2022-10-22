@@ -1,0 +1,103 @@
+{
+    "id": 100577,
+    "url": "https://en.numista.com/catalogue/pieces100577.html",
+    "title": "2 Euro - Henri I (Volunteer Army)",
+    "category": "coin",
+    "issuer": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1575,
+            "name": "Henri",
+            "wikidata_id": "Q16004",
+            "group": {
+                "id": 129,
+                "name": "Grand Dukes of Nassau-Weilburg"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9011,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The effigy of Grand-Duke Henri facing right with the inscription \u201850 Joer Fr\u00e4iw\u00ebllegen-Arm\u00e9i\u2019 to the right as a logo with the date at the top flanked by the mintmark and initials of the Mintmaster, the country name at the bottom, and the 12 stars of the European Union in the outer ring",
+        "lettering": "2017\r\n50\r\nJOER\r\nFRA\u00cfW\u00cbLLEGEN-ARM\u00c9I\r\nL\u00cbTZEBUERG",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2017\r\n50\r\nYears\r\nof the Volunteer Army\r\nLuxembourg",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1557-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1557-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1556-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1556-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "commemorated_topic": "The 50th Anniversary of the Voluntariness of the Luxembourg Army",
+    "comments": "Minted by the Dutch mint. First released in a bag with 5 x 2 Euro and 5 x 8 values 2017<br />\r\nLater this year second release in rolls.<br />\r\n<br />\r\nThere are 2 different types of edges A and B depending on the specific star, more about <a href=\"http://www.amisdeleuro.org/fr/121\" rel=\"nofollow\">http://www.amisdeleuro.org/fr/121</a>",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "147"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.22,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/2040-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/2040-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

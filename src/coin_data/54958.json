@@ -1,0 +1,113 @@
+{
+    "id": 54958,
+    "url": "https://en.numista.com/catalogue/pieces54958.html",
+    "title": "50 Euro Cent - Willem-Alexander (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+    },
+    "min_year": 2014,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1304,
+            "name": "Willem-Alexander",
+            "wikidata_id": "Q154952"
+        }
+    ],
+    "value": {
+        "text": "50 Euro Cent",
+        "numeric_value": 0.5,
+        "numerator": "50",
+        "denominator": 100,
+        "currency": {
+            "id": 9012,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Erwin Olaf"
+        ],
+        "lettering": "Willem-Alexander Koning der Nederlanden\r\n2014",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/605d7a57e3e0a5.30740673-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/605d7a57e3e0a5.30740673-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "50 EURO\r\nCENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/605d7a58991449.42277682-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/605d7a58991449.42277682-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "This piece was engraved by the monetary workshop of Utrecht by several engravers according to the following periods&nbsp;:<br />\r\n<ul><li> 2014 - 2015&nbsp;: Sails ; Maarten Brouwer (holder)<br />\r\n</li><li> 2016 - 2017&nbsp;: Sails and star ; Kees Bruinsma (interim)<br />\r\n</li><li> 2017 - 2020&nbsp;: Sint Servaas bridge; Stephan Satijn (holder)<br />\r\nIn 2020 Dutch coins minted for general circulation did not depict the mintmark and mintmastermark<br />\r\n</li><li> 2021 - 2021&nbsp;: Sint Servaas bridge and star; {no holder or interim}<br />\r\n</li><li> 2022 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Raven; Bert van Ravenswaaij (holder)</li></ul>",
+    "tags": [
+        "Map",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "349"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "227"
+        }
+    ],
+    "weight": 7.8,
+    "size": 24.25,
+    "thickness": 2.38,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2001-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2001-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "4668",
+            "name": "Royal Dutch Mint"
+        },
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

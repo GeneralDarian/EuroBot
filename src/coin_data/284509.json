@@ -1,0 +1,90 @@
+{
+    "id": 284509,
+    "url": "https://en.numista.com/catalogue/pieces284509.html",
+    "title": "2 Euro (Pattern)",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2002,
+    "max_year": 2002,
+    "type": "Pattern",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper-nickel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heinz Hoyer",
+            "Sneschana Russewa-Hoyer"
+        ],
+        "description": "The eagle, the traditional symbol of German sovereignty, is surrounded with the twelve stars of Europe.",
+        "lettering": "2002 F",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/607028605cac41.13622376-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/607028605cac41.13622376-180.jpg",
+        "picture_copyright": "Fritz Rudolf K\u00fcnker GmbH & Co. KG, Osnabr\u00fcck and L\u00fcbke & Wiedemann KG, Leonberg",
+        "picture_copyright_url": "http://www.kuenker.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the gathering of the fifteen states of the European Union",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/60702860942de1.20733337-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/60702860942de1.20733337-180.jpg",
+        "picture_copyright": "Fritz Rudolf K\u00fcnker GmbH & Co. KG, Osnabr\u00fcck and L\u00fcbke & Wiedemann KG, Leonberg",
+        "picture_copyright_url": "http://www.kuenker.com/"
+    },
+    "related_types": [
+        {
+            "id": 112,
+            "title": "2 Euro (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2002,
+            "maxYear": 2006
+        }
+    ],
+    "weight": 8.7,
+    "size": 25.75,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with incuse lettering",
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "lettering_translation": "Unity and Justice and Freedom"
+    },
+    "mints": [
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        }
+    ]
+}

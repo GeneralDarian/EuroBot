@@ -1,0 +1,98 @@
+{
+    "id": 154,
+    "url": "https://en.numista.com/catalogue/pieces154.html",
+    "title": "2 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2002,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro Cent",
+        "numeric_value": 0.02,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "V. M. F. dos Santos"
+        ],
+        "description": "The first royal seal of 1134 of Afonso Henriques, the first king of Portugal, encircled by alternately the seven country's castles and the five coats of arms, which appear on the Portuguese flag, and the letters of the word \"PORTUGAL\", themselves encircled by the twelve stars of Europe",
+        "lettering": "P O R T U G A L\r\nPOR TV\r\nGA L\r\nVS INCM\r\n2 0 0 2",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/5973-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/5973-180.jpg",
+        "picture_copyright": "Joseph Kunnappally"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia",
+        "lettering": "2 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/5974-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/5974-180.jpg",
+        "picture_copyright": "Joseph Kunnappally"
+    },
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "741"
+        }
+    ],
+    "weight": 3.06,
+    "size": 18.75,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with a groove running circumferentially around the edge of the coin",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3777-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3777-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1337",
+            "name": "Lisbon"
+        }
+    ]
+}

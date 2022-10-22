@@ -1,0 +1,114 @@
+{
+    "id": 243,
+    "url": "https://en.numista.com/catalogue/pieces243.html",
+    "title": "2 Euro (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovenie",
+        "name": "Slovenia"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1310,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9017,
+            "name": "Euro",
+            "full_name": "Euro (2007-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "M. Licul"
+        ],
+        "description": "The profile board of the poet France Pre\u0161eren is accompanied with a legend indicating his name and the first line of the 7th stanza of Zdravljica (Slovenian national anthem) and is encircled by the twelve stars of Europe alternated with the letters of the word \"SLOVENIJA\" (Slovenia).",
+        "lettering": "S L O V E N I J A\r\nFRANCE PRE\u0160EREN \r\nShiv\u00e9 naj vsi nar\u00f3di \r\n20\r\n07",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "God's blessing on all nations",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/928-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/928-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A geographical map of the European Union accompany the face value.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/929-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/929-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "75"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SLOVENIJA",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/810-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/810-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        },
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

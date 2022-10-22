@@ -1,0 +1,114 @@
+{
+    "id": 113,
+    "url": "https://en.numista.com/catalogue/pieces113.html",
+    "title": "1 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "grece",
+        "name": "Greece"
+    },
+    "min_year": 2002,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1254,
+            "name": "Third Hellenic Republic",
+            "wikidata_id": "Q17765809"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "currency": {
+            "id": 9008,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Areti Michelioudaki",
+            "Georgios Stamatopoulos"
+        ],
+        "description": "An advanced model of an Athenian boat, a trireme, the largest warship afloat for more than 200 years, dating from the time of the Athenian democracy (fifth century BC), is accompanied by the face value. Around twelve five-pointed stars representing the European Union.",
+        "lettering": "2002\r\n\u0393\u03a3\r\n1 \u039b\u0395\u03a0\u03a4\u039f",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2015\r\nGS\r\n1 Cent",
+        "picture": "https://en.numista.com/catalogue/photos/grece/61f90d68c77f68.89536303-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/61f90d68c77f68.89536303-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "1 \r\nEURO\r\nCENT \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/grece/61f90d696bc7d5.25158717-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/61f90d696bc7d5.25158717-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "Images of Dutch and Greek mintsets of 2002 are presented in the 2 Euro article &nbsp;<a href=\"https://en.numista.com/catalogue/pieces120.html\">https://en.numista.com/catalogue/pieces120.html</a>",
+    "tags": [
+        "Map",
+        "Boat or watercraft"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "181"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "131"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/grece/1281-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/1281-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        },
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

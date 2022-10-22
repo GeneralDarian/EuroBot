@@ -1,0 +1,106 @@
+{
+    "id": 80919,
+    "url": "https://en.numista.com/catalogue/pieces80919.html",
+    "title": "2 Euro (Paul Keres)",
+    "category": "coin",
+    "issuer": {
+        "code": "estonie",
+        "name": "Estonia"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2044,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9021,
+            "name": "Euro",
+            "full_name": "Euro (2011-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Riho Luuse"
+        ],
+        "description": "Paul Keres, an Estonian chess grandmaster, and a renowned chess writer, who was among the world's top players from the mid-1930s to the mid-1960s, facing left\r\n\r\nKeres narrowly missed a chance at a world championship match on five occasions. He won the 1938 AVRO tournament, which led to negotiations for a title match against champion Alexander Alekhine, but the match never took place due to World War II. After the war Keres was runner-up in the Candidates' Tournament on four consecutive occasions. \r\n\r\nDue to these and other strong results, many chess historians consider Keres the strongest player never to become world champion and one of the greatest players in history. He was nicknamed \"Paul the Second\", \"The Eternal Second\" and \"The Crown Prince of Chess\".",
+        "lettering": "PAUL KERES\r\nEESTI\r\n2016",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Paul Keres\r\nEstonia\r\n2016",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/353-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/353-180.jpg",
+        "picture_copyright": "iwantallcoins"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The face value, next to a map showing the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/354-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/354-180.jpg",
+        "picture_copyright": "iwantallcoins"
+    },
+    "commemorated_topic": "100th Anniversary of the Birth of Paul Keres",
+    "comments": "Coincard<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5da24fbc139ec.jpg\"Group=\"bb1204145516\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da24fbc139ec.jpg\" alt=\"\" width=\"200\" height=\"136\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5da24fc7848cd.jpg\"Group=\"bb1204145516\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da24fc7848cd.jpg\" alt=\"\" width=\"200\" height=\"169\" /></a>",
+    "tags": [
+        "Map",
+        "Birth anniversary"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "78"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.25,
+    "orientation": "medal",
+    "edge": {
+        "description": "\"O\" and \"E E S T I\" repeated alternately upright and inverted",
+        "lettering": "EESTI O EESTI O",
+        "lettering_translation": "Estonia Estonia",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/360-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/360-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

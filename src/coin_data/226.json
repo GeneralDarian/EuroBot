@@ -1,0 +1,99 @@
+{
+    "id": 226,
+    "url": "https://en.numista.com/catalogue/pieces226.html",
+    "title": "1 Euro - Sede Vacante",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2005,
+    "max_year": 2005,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1523,
+            "name": "Sede vacante"
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Daniela Longo",
+            "Ettore Lorenzo Frapiccini"
+        ],
+        "description": "The coat of arms of the Cardinal Chamberlain Eduardo Martinez Somalo, the interim Head of the State of Vatican City, superimposed on the emblem of the Apostolic Chamber, is surrounded with the inscription \"SEDE VACANTE\" (the seat being vacant), the date in Roman numerals \"MMV\" (2005), the inscription \"CITTA' DEL VATICANO\" (Vatican City) and the twelve stars of Europe",
+        "lettering": "CITTA' DEL VATICANO\r\n\u2802SEDE\u2802VACANTE\u2802MMV\r\nD. LONGO ELF INC. \r\nR\r\nCARITAS ET VERITAS",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/1006-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/1006-180.jpg",
+        "picture_copyright": "World Coin Gallery",
+        "picture_copyright_url": "http://worldcoingallery.com"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the gathering of the fifteen states of the European Union.",
+        "lettering": "1 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/1008-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/1008-180.jpg",
+        "picture_copyright": "World Coin Gallery",
+        "picture_copyright_url": "http://worldcoingallery.com"
+    },
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "371"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "370"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding.",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/1784-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/1784-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

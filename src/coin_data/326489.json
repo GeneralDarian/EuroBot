@@ -1,0 +1,140 @@
+{
+    "id": 326489,
+    "url": "https://en.numista.com/catalogue/pieces326489.html",
+    "title": "2 Euro (Suvalkija)",
+    "category": "coin",
+    "issuer": {
+        "code": "lituanie",
+        "name": "Lithuania"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2866,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9023,
+            "name": "Euro",
+            "full_name": "Euro (2015-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The national side of the coin depicts a Taurus on the escutcheon, while the escutcheon is decorated on both sides with silver oak branches with acorns joined at the bottom with a silver ribbon with an inscription VIENYB\u0116 TE\u017dYDI (UNITY MAY BLOSSOM). Oak branches symbolize the rich history of the region that goes back to the pagan times of the Lithuanian state. In the past, Taurus was the most widespread animal in this region. The composition is surrounded by an inscription LIETUVA (LITHUANIA) and the year of issue 2022 on the top and an inscription SUVALKIJA and the mintmark of the Lithuanian Mint at the bottom. 12 stars are incorporated on the outer part of the coin, set out as they are on the flag of the European Union.",
+        "lettering": "LIETUVA\r\n2022\r\nVIENYB\u0116 TE\u017dYDI\r\nLMK\r\nSUVALKIJA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/626d42dcbfd9e3.47999375-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/626d42dcbfd9e3.47999375-180.jpg",
+        "picture_copyright": "Lietuvos Bankas",
+        "picture_copyright_url": "http://www.lb.lt"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/626d42dd131ca2.87324005-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/626d42dd131ca2.87324005-180.jpg",
+        "picture_copyright": "Lietuvos Bankas",
+        "picture_copyright_url": "http://www.lb.lt"
+    },
+    "series": "Lithuanian Ethnographic Regions",
+    "related_types": [
+        {
+            "id": 161190,
+            "title": "2 Euro (Samogitia)",
+            "category": "coin",
+            "country": {
+                "code": "lituanie",
+                "name": "Lithuania"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 215429,
+            "title": "2 Euro (Auk\u0161taitija)",
+            "category": "coin",
+            "country": {
+                "code": "lituanie",
+                "name": "Lithuania"
+            },
+            "minYear": 2020,
+            "maxYear": 2020
+        },
+        {
+            "id": 264790,
+            "title": "2 Euro (Dz\u016bkija)",
+            "category": "coin",
+            "country": {
+                "code": "lituanie",
+                "name": "Lithuania"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Map",
+        "Coat of Arms"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "276"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "LAISV\u0116 \u2605 VIENYB\u0116 \u2605 GEROV\u0116 \u2605",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "FREEDOM \u2605 UNITY \u2605 WELL-BEING \u2605",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/627187e5735541.55855361-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/627187e5735541.55855361-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": 176637,
+    "url": "https://en.numista.com/catalogue/pieces176637.html",
+    "title": "2 Euro (Jan van Eyck)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1171,
+            "name": "Philippe",
+            "wikidata_id": "Q155004",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The motif of the piece shows the portrait of the famous Belgian artist Jan van Eyck on the right. On the left, the edition \"J van Eyck\", his signature and a palette of painter with the initials of the creator Luc Luycx. At the bottom of the picture you can see the coin signs of the Dutch Mint in Utrecht and the mint sign by Ingrid van Herzele. On the right edge of the image are the country abbreviation \"BE\" and the typing year \"2020\". The twelve stars of the European flag are represented on the outer ring of the coin.",
+        "lettering": "J. van Eyck\r\n2020\r\nBE\r\nIohannes de Eyck\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/5fa5150bb248f8.62127225-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/5fa5150bb248f8.62127225-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map of the European continent is represented on a dynamic canvas composed of the twelve stars of the European Union.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/5f74f5099339d4.84309788-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/5f74f5099339d4.84309788-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "Jan van Eyck",
+    "tags": [
+        "Painting",
+        "Map",
+        "Hat",
+        "Artist"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-8.29"
+        },
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "408"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Fine flute engraving: the inscription \"2 **\", repeated six times, is oriented alternately from bottom to top and from top to bottom.",
+        "lettering": "Inscription : 2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

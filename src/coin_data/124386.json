@@ -1,0 +1,97 @@
+{
+    "id": 124386,
+    "url": "https://en.numista.com/catalogue/pieces124386.html",
+    "title": "2 Euro (Anthem of Andorra)",
+    "category": "coin",
+    "issuer": {
+        "code": "andorre",
+        "name": "Andorra"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 4700,
+            "name": "Joan Enric Vives i Sic\u00edlia",
+            "wikidata_id": "Q57473",
+            "group": {
+                "id": 377,
+                "name": "Co-Principality"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9024,
+            "name": "Euro",
+            "full_name": "Euro (2014-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design depicts a partial reproduction of the anthem of Andorra published in 1914. The central part of the design reproduces the first notes of the anthem flanked by an ornamentation of floral style and the inscription \u2018Himne Andorr\u00e0\u2019 (Andorran anthem).\r\nThe upper part of the design shows the year of issuance \u20182017\u2019 and the inscription \u2018100 anys de l\u2019himne d\u2019Andorra\u2019 (100 years of the anthem of Andorra).\r\nThis coin commemorates the 100th anniversary of its admission as the national anthem of Andorra by agreement of the Consell General (Andorran Parliament) of 2 April 1917.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "2017\r\n100 anys de l'himne d'Andorra\r\nHimne Andorra\r\n\r\nhimne Andorr\u00e0",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/5fcdbddd5514d7.99458095-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/5fcdbddd5514d7.99458095-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/5fcdbdddd9fec0.09068539-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/5fcdbdddd9fec0.09068539-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "100 Years of the Anthem of Andorra",
+    "comments": "Coincard<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5aa39186d8a80.jpg\"Group=\"bb1690753744\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5aa39186d8a80.jpg\" alt=\"\" width=\"188\" height=\"250\" /></a>",
+    "tags": [
+        "Music",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "533"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.25,
+    "orientation": "medal",
+    "edge": {
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/andorre/5fcdbdde5ce898.66104297-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/5fcdbdde5ce898.66104297-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    }
+}

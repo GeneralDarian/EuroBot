@@ -1,0 +1,99 @@
+{
+    "id": 96326,
+    "url": "https://en.numista.com/catalogue/pieces96326.html",
+    "title": "2 Euro (Radio and Television of Andorra)",
+    "category": "coin",
+    "issuer": {
+        "code": "andorre",
+        "name": "Andorra"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 4700,
+            "name": "Joan Enric Vives i Sic\u00edlia",
+            "wikidata_id": "Q57473",
+            "group": {
+                "id": 377,
+                "name": "Co-Principality"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9024,
+            "name": "Euro",
+            "full_name": "Euro (2014-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design shows a microphone and an antenna circled by several circular lines with the inscription '25\u00e8 ANIVERSARI DE R\u00c0DIO I TELEVISI\u00d3 D\u2019ANDORRA', the year of issuance '2016' and the name of the State of issuance 'ANDORRA'. This commemorative coin celebrates the 25th anniversary of the establishment of the Andorran public media with the beginning of the broadcast of the Andorran public radio and public television. The coin's outer ring depicts the 12 stars of the European flag.",
+        "lettering": "25\u00e8 ANIVERSARI DE R\u00c0DIO I TELEVISI\u00d3 D\u2019ANDORRA\r\n2016\r\nANDORRA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/823-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/823-180.jpg",
+        "picture_copyright": "liege-numismatique"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/824-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/824-180.jpg",
+        "picture_copyright": "liege-numismatique"
+    },
+    "commemorated_topic": "25 years of Radio and Television of Andorra",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "532"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely milled with \"2\" in incuse, followed by two five-pointed stars, repeated six times alternately from bottom to top and vice versa.",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

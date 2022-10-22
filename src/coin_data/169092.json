@@ -1,0 +1,112 @@
+{
+    "id": 169092,
+    "url": "https://en.numista.com/catalogue/pieces169092.html",
+    "title": "2 Euro (Manolis Andronicos)",
+    "category": "coin",
+    "issuer": {
+        "code": "grece",
+        "name": "Greece"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1254,
+            "name": "Third Hellenic Republic",
+            "wikidata_id": "Q17765809"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9008,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Ge\u00f3rgios Stamat\u00f3poulos"
+        ],
+        "description": "Manolis Andronicos (1919-1992) was one of Greece\u2019s greatest archaeologists. His discovery of the royal tombs at Vergina in 1977 brought to light exquisite finds that attest to the splendour of ancient Macedonian civilisation.\r\nThe design features a portrait of Manolis Andronicos. Inscribed along the inner edge at left is the name \u2018MANOLIS ANDRONICOS 1919-1992\u2019, along with the minting year and a palmette (mintmark of the Greek Mint); inscribed along the inner edge at right is the wording \u2018HELLENIC REPUBLIC\u2019. Also visible at the right is the monogram of the artist (George Stamatopoulos).\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "\u039c\u0391\u039d\u039f\u039b\u0397\u03a3 \u0391\u039d\u0394\u03a1\u039f\u039d\u0399\u039a\u039f\u03a3 1919-1992\r\n2019\r\n\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "MANOLIS ANDRONICOS 1919-1992\r\n2019\r\nHELLENIC REPUBLIC",
+        "picture": "https://en.numista.com/catalogue/photos/grece/6290911d2ee257.43428383-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/6290911d2ee257.43428383-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/grece/6290911e5efea8.13794677-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/6290911e5efea8.13794677-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "Centenary of the birth of Manolis Andronicos",
+    "tags": [
+        "Map",
+        "Birth anniversary",
+        "Mustache"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "314"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "Hellenic Republic",
+        "picture": "https://en.numista.com/catalogue/photos/grece/601c41eed443f1.79395173-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/601c41eed443f1.79395173-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        }
+    ]
+}

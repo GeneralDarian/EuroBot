@@ -1,0 +1,104 @@
+{
+    "id": 215401,
+    "url": "https://en.numista.com/catalogue/pieces215401.html",
+    "title": "2 Euro (Ibero-American Summit)",
+    "category": "coin",
+    "issuer": {
+        "code": "andorre",
+        "name": "Andorra"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 4700,
+            "name": "Joan Enric Vives i Sic\u00edlia",
+            "wikidata_id": "Q57473",
+            "group": {
+                "id": 377,
+                "name": "Co-Principality"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9024,
+            "name": "Euro",
+            "full_name": "Euro (2014-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The 27th Ibero-American Summit of Heads of State and Government will be held in the\r\nPrincipality of Andorra in 2020.\r\nAndorra, the newest and smallest member of the Ibero-American Conference, will host this meeting of the highest political\r\nlevel, which comprises 19 Latin American countries together with Spain, Portugal and Andorra, in order to work towards\r\ncommon goals such as Sustainable Development.\r\nThe design of the coin shows a tree made up by human silhouettes and tine wheels. The human silhouettes symbolize the\r\nintegration of society, culture and education for the realization of a sustainable future. The tine wheels symbolize the\r\nsynergy of movement between the ideas and proposals of participants to this Summit.\r\nNext to the tree, there is the logo of this 27th Summit. On its upper side, three triangles represent the colours of the\r\nAndorran flag. On its lower side, six triangles represent Andorra\u2019s opening towards Sustainable Development Goals.\r\nAround the design, there is the inscription \u2018XXVII CIMERA IBEROAMERICANA ANDORRA 2020\u2019 (27th Ibero-American\r\nSummit Andorra 2020).\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "XXVII CIMERA IBEROAMERICANA \r\nANDORRA \r\n2020",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/62b563b762ef82.77569280-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/62b563b762ef82.77569280-180.jpg",
+        "picture_copyright": "MMowiec"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/62b563b8716829.36209874-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/62b563b8716829.36209874-180.jpg",
+        "picture_copyright": "MMowiec"
+    },
+    "commemorated_topic": "The 27th Ibero-American Summit in Andorra",
+    "tags": [
+        "Map",
+        "Tree"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "565"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/andorre/5ff1e094e3ab56.48821298-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/5ff1e094e3ab56.48821298-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

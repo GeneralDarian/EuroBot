@@ -1,0 +1,140 @@
+{
+    "id": 104607,
+    "url": "https://en.numista.com/catalogue/pieces104607.html",
+    "title": "50 Euro Cent - Willem-Alexander (2nd map; birthday of Willem-Alexander)",
+    "category": "coin",
+    "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1304,
+            "name": "Willem-Alexander",
+            "wikidata_id": "Q154952"
+        }
+    ],
+    "value": {
+        "text": "50 Euro Cent",
+        "numeric_value": 0.5,
+        "numerator": "50",
+        "denominator": 100,
+        "currency": {
+            "id": 9012,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled, coloured"
+    },
+    "obverse": {
+        "engravers": [
+            "Erwin Olaf"
+        ],
+        "lettering": "Willem-Alexander Koning der Nederlanden\r\n2017",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/605d7a9d10b671.44033251-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/605d7a9d10b671.44033251-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders .\r\nColourized \"50\".",
+        "lettering": "50\r\nLL\r\nEURO\r\nCENT",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/605d7a9d913539.44990501-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/605d7a9d913539.44990501-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "50th birthday of King Willem-Alexander",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/58a6c0720707e.jpg\"Group=\"bb500281793\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58a6c0720707e.jpg\" alt=\"\" width=\"200\" height=\"133\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/58a6c09a09255.jpg\"Group=\"bb500281793\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58a6c09a09255.jpg\" alt=\"\" width=\"199\" height=\"130\" /></a>",
+    "related_types": [
+        {
+            "id": 54958,
+            "title": "50 Euro Cent - Willem-Alexander (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2014,
+            "maxYear": 2022
+        },
+        {
+            "id": 131803,
+            "title": "2 Euro - Willem-Alexander (50th Birthday; Coloured)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 110227,
+            "title": "10 Euro - Willem-Alexander (50th Birthday)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 110462,
+            "title": "10 Euro - Willem-Alexander (50th Birthday, silver)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 110547,
+            "title": "20 Euro - Willem-Alexander (50th birthday)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 115270,
+            "title": "50 Euro - Willem-Alexander (50th Birthday)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "weight": 7.8,
+    "size": 24.25,
+    "thickness": 2.38,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented"
+    }
+}

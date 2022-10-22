@@ -1,0 +1,114 @@
+{
+    "id": 5091,
+    "url": "https://en.numista.com/catalogue/pieces5091.html",
+    "title": "2 Euro",
+    "category": "coin",
+    "issuer": {
+        "code": "slovaquie",
+        "name": "Slovakia"
+    },
+    "min_year": 2009,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3765,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9020,
+            "name": "Euro",
+            "full_name": "Euro (2009-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Ivan \u0158eh\u00e1k"
+        ],
+        "description": "The Coat of arms of Slovakia (the Double Cross on Three Mountains) and the date to the left",
+        "lettering": "SLOVENSKO 2017 IR",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Slovakia 2009 IR",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/62717768b18f07.26722617-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/62717768b18f07.26722617-180.jpg",
+        "picture_copyright": "Mihajlo Ne\u0161i\u0107 (MihajloNesic)"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/62717769653cf4.40438136-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/62717769653cf4.40438136-180.jpg",
+        "picture_copyright": "Mihajlo Ne\u0161i\u0107 (MihajloNesic)"
+    },
+    "tags": [
+        "Map",
+        "Cross"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "102"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "100"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with the inscription (the country name in the Slovak language with two stars and a linden leaf in the middle)\r\nType A - national design up lettering in a readable position\r\nType B - national design down lettering in readable position",
+        "lettering": "\u2605 SLOVENSK\u00c1 REPUBLIKA \u2605",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Republic of Slovakia",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/576-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/576-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

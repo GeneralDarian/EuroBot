@@ -1,0 +1,108 @@
+{
+    "id": 5085,
+    "url": "https://en.numista.com/catalogue/pieces5085.html",
+    "title": "2 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "slovaquie",
+        "name": "Slovakia"
+    },
+    "min_year": 2009,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3765,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro Cent",
+        "numeric_value": 0.02,
+        "currency": {
+            "id": 9020,
+            "name": "Euro",
+            "full_name": "Euro (2009-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Drahom\u00edr Zobek"
+        ],
+        "description": "Kriv\u00e1\u0148, a symbolic mountain in the High Tatras surrounded by 12 stars",
+        "lettering": "SLOVENSKO 2017  Z",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Slovakia 2017 Z",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/6213523ca8ea48.07698825-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/6213523ca8ea48.07698825-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "View of the Earth",
+        "lettering": "2 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/6213523dadf619.82938572-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/6213523dadf619.82938572-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "New version of the common side seen from 2020 onwards. Main differences:<br />\r\n&nbsp;- Thicker and shorter numeral<br />\r\n&nbsp;- Rounded edges of the numeral<br />\r\n&nbsp;- Thicker font in &quot;EURO CENT&quot;<br />\r\n&nbsp;- Thicker lines with longer ends outside of stars<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/62c150400bcd2.jpg\"Group=\"bb1282036157\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62c150400bcd2.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a>",
+    "tags": [
+        "Map",
+        "Mountain"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "96"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "94"
+        }
+    ],
+    "weight": 3.06,
+    "size": 18.75,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Grooved",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/745-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/745-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

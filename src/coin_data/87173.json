@@ -1,0 +1,107 @@
+{
+    "id": 87173,
+    "url": "https://en.numista.com/catalogue/pieces87173.html",
+    "title": "2 Euro (Child Focus)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1171,
+            "name": "Philippe",
+            "wikidata_id": "Q155004",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The inner part of the coin shows the face of a child surrounded by the inscription \"MISSING-DISPARU-VERMIST\", \"WWW.CHILDFOCUS.BE\" and the trilingual indication of nationality \"BELGIQUE-BELGIE-BELGIEN. The mintmark of Brussels, a helmeted head of St. Michael the Archangel, and the mark the designer are also depicted to the left and right of the face respectively.",
+        "lettering": "BELGIQUE-BELGIE-BELGIEN-2016\r\nMISSING-DISPARU-VERMIST\r\nWWW.CHILDFOCUS.BE",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2827-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2827-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2828-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2828-180.jpg",
+        "picture_copyright": "Iwantallcoins"
+    },
+    "commemorated_topic": "Child Focus",
+    "comments": "The second commemorative coin issued by Belgium in 2016 is dedicated to the International Day of the Disappeared Children. It advertises the Charitable Foundation Child Focus, an organization that works with missing or sexually exploite children and young people. <br />\r\nMay 25 is the International Day of the Disappeared Children, an initiative that began in 1982 in the United States after the disappearance of a 6-year-old in New York. Since then more countries have been gradually joining in and in 2005 the European Union also supported the initiative.<br />\r\n<br />\r\nMore information here:<br />\r\n<a href=\"https://www.primarytimes.co.uk/news/2016/07/child-focus-coin-of-hope-rolls-across-europe\" rel=\"nofollow\">https://www.primarytimes.co.uk/news/2016/07/child-focus-coin-of-hope-rolls-across-europe</a><br />\r\n<br />\r\ncoincard<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5bf07bc1202de.jpg\"Group=\"bb734287147\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bf07bc1202de.jpg\" alt=\"\" width=\"181\" height=\"249\" /></a>",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "365"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "335"
+        },
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-8.21"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2**2**2**2**2**2**"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

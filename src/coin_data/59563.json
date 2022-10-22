@@ -1,0 +1,100 @@
+{
+    "id": 59563,
+    "url": "https://en.numista.com/catalogue/pieces59563.html",
+    "title": "2 Euro - Willem-Alexander (Accession; Coloured)",
+    "category": "coin",
+    "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1304,
+            "name": "Willem-Alexander",
+            "wikidata_id": "Q154952"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9012,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled, coloured"
+    },
+    "obverse": {
+        "engravers": [
+            "Pannos Goutzemisis"
+        ],
+        "description": "The inner part of the coin depicts the effigies of both the King Willem-Alexander and the former Queen Beatrix. At the left, in semi-circle, the inscription \u2018WILLEM-ALEXANDER KONING DER NEDERLANDEN\u2019 and at the right, in semi-circle, the inscription \u2018BEATRIX PRINSES DER NEDERLANDEN\u2019. Between the two inscriptions, at the top, the coloured crown symbol and at the bottom the mint master mark, the mint mark and in between the year of issuance \u20182014\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "WILLEM-ALEXANDER KONING DER NEDERLANDEN BEATRIX PRINSES DER NEDERLANDEN\r\n2014",
+        "lettering_translation": "Willem-Alexander, King of the Netherlands; Beatrix, Princess of the Netherlands",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2737-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2737-180.jpg",
+        "picture_copyright": "Koninklijke Nederlandse Munt",
+        "picture_copyright_url": "http://www.knm.nl"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2738-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2738-180.jpg",
+        "picture_copyright": "Koninklijke Nederlandse Munt",
+        "picture_copyright_url": "http://www.knm.nl"
+    },
+    "commemorated_topic": "Accession of King Willem-Alexander",
+    "comments": "The Royal Dutch Mint released this proof quality 2 Euro coin as part of a four coin combination set in 2014.<br />\r\n<br />\r\nThe King &amp; Queen double portrait commemorative 2 Euro coin is featured, with 3 of the coins sporting the colours of the Dutch Flag, with a coloured crown in red, white and blue. A standard non-coloured proof coin was also included as part of the set which was supplied in a luxury case with Certificate of Authenticity.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d0639b75929d.jpg\"Group=\"bb1852078349\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d0639b75929d.jpg\" alt=\"\" width=\"200\" height=\"217\" /></a>",
+    "related_types": [
+        {
+            "id": 59483,
+            "title": "2 Euro - Willem-Alexander (Accession)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2014,
+            "maxYear": 2014
+        }
+    ],
+    "tags": [
+        "Map",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "356a"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "GOD * ZIJ * MET * ONS *"
+    }
+}

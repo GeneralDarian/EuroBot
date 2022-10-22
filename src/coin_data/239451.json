@@ -1,0 +1,106 @@
+{
+    "id": 239451,
+    "url": "https://en.numista.com/catalogue/pieces239451.html",
+    "title": "2 Euro (OECD)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovaquie",
+        "name": "Slovakia"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3765,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9020,
+            "name": "Euro",
+            "full_name": "Euro (2009-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The upper right half of the national side design depicts a representation of the concept of\r\ndigital humanism: printed circuits in the shape of a human brain, in the centre of which is a circle representing a\r\nmicroprocessor. The Slovak coat of arms is placed next to the lower right edge. Inscribed inside a square outline that partly\r\noverlaps the main image are the words \u201820. V\u00ddRO\u010cIE\u2019 and \u2018VSTUP SR DO OECD\u2019 (the 20th anniversary of Slovakia\u2019s\r\naccession to the OECD). Below the square is the name of the issuing country \u2018SLOVENSKO\u2019 and the year of issuance\r\n\u20182020\u2019, one above the other. Between the square and the left edge of the design is the mint mark of the Kremnica Mint\r\n(Mincov\u0148a Kremnica), consisting of the letters \u2018MK\u2019 placed between two dies. Below the mint mark are the stylised letters\r\n\u2018PV\u2019 referring to the designer Peter Valach.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "20\r\nV\u00ddRO\u010cIE\r\nVSTUP SR DO\r\nOECD\r\nSLOVENSKO\r\n2020\r\nPV",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/62848bb8c41460.36189482-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/62848bb8c41460.36189482-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/62848bba1aa581.20888328-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/62848bba1aa581.20888328-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "20th anniversary of the accession of the Slovak Republic to the Organisation for Economic Co-operation and Development (OECD)",
+    "comments": "Coin was issued in this coincard.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/62848b1066418.jpg\"Group=\"bb1227522344\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62848b1066418.jpg\" alt=\"\" width=\"200\" height=\"156\" /></a> <a href=\"https://en.numista.com/catalogue/images/62848b2e4ff3d.jpg\"Group=\"bb1227522344\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62848b2e4ff3d.jpg\" alt=\"\" width=\"200\" height=\"160\" /></a>",
+    "tags": [
+        "Coat of Arms",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "170"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SLOVENSK\u00c1 REPUBLIKA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/5f7f5e8cd33a20.40179481-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/5f7f5e8cd33a20.40179481-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

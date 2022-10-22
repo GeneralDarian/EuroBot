@@ -1,0 +1,141 @@
+{
+    "id": 53570,
+    "url": "https://en.numista.com/catalogue/pieces53570.html",
+    "title": "2 Euro (Federal states - \"Lower Saxony\")",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Erich Ott"
+        ],
+        "description": "The design shows the Church of St. Michael in Hildesheim, Lower Saxony which has been on the Unesco World Cultural Heritage list since 1985. At the top of the year of issuance \u20182014\u2019 and at the left the mintmark (A, D, F, G, J). At the bottom, the inscription \u2018NIEDERSACHSEN\u2019 and underneath the indication of the issuing country \u2018D\u2019. At the top right, the initials of the engraver OE (Ott Erich). The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "2014\r\n\u0152\r\nA\r\nNIEDERSACHSEN\r\nD",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2014\r\n\u0152\r\nA\r\nLower Saxony\r\nD",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/628c840a819189.09817032-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/628c840a819189.09817032-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/628c840baaf5c7.35303126-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/628c840baaf5c7.35303126-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "series": "German states",
+    "commemorated_topic": "State of Lower Saxony",
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "334"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "586"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "314"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Unity and Justice and Freedom",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2019-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2019-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

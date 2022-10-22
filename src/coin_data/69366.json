@@ -1,0 +1,113 @@
+{
+    "id": 69366,
+    "url": "https://en.numista.com/catalogue/pieces69366.html",
+    "title": "2 Euro (Peace)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "description": "In the coin\u2019s central field is a modern graphic representation of a dove. It is carrying an olive branch, the symbol of peace, whose branches have been replaced by the 12 stars of the European flag. The 28 countries of the European Union are represented by the ISO code for each country. The letters RF (R\u00e9publique Fran\u00e7aise) are at the bottom of the coin. The mint marks are on the left-hand side and the year 2015 on the right. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "AT\u00b0BE\u00b0BG\u00b0CY\u00b0CZ\u00b0DE\r\nDK\u00b0EE\u00b0EL\u00b0ES\u00b0FI\u00b0FR\r\nHR\u00b0HU\u00b0IE\u00b0IT\u00b0LT\r\nLU\u00b0LV\u00b0MT\u00b0NL\r\nPL\u00b0PT\u00b0RO\r\nSE\u00b0SI\u00b0SK\r\nUK\r\n2015\r\nRF",
+        "picture": "https://en.numista.com/catalogue/photos/france/5fc9e197043759.67646991-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/5fc9e197043759.67646991-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/france/5fc9e1978188d2.76130035-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/5fc9e1978188d2.76130035-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "70th Anniversary of the End of World War II",
+    "tags": [
+        "Bird",
+        "Map",
+        "Peace"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "2256"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "1480"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "20 (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/france/7451-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/7451-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

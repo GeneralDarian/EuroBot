@@ -1,0 +1,171 @@
+{
+    "id": 35856,
+    "url": "https://en.numista.com/catalogue/pieces35856.html",
+    "title": "2 Euro (Birth of Abb\u00e9 Pierre)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2012,
+    "max_year": 2012,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Yves Sampo"
+        ],
+        "description": "The inner part of the coin shows a portrait of Abb\u00e9 Pierre wearing his well-known beret, positioned slightly off-centre to the left, and the logo of the foundation that bears his name to the right, including micro-lettering with the question \u201cEt les autres?\u201d, his favourite words to remind us that we should never forget to help others. The inscription \u201cCentenaire de la naissance de l\u2019abb\u00e9 Pierre\u201d forms an arch around the portrait along the edge of the coin\u2019s inner part, flanked by the horn of plenty (mintmark of Monnaie de Paris) and the letters \u201cRF\u201d to denote the issuing country on the left and the \u201cfleurette\u201d (hallmark of the engraving workshop) on the right. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "Centenaire de la naissance de l'abb\u00e9 Pierre\r\nRF\r\nET LES AUTRES?...\r\n2012",
+        "picture": "https://en.numista.com/catalogue/photos/france/4672-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/4672-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/france/4673-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/4673-180.jpg"
+    },
+    "series": "Abb\u00e9 Pierre",
+    "commemorated_topic": "100th Anniversary of Birth of Abb\u00e9 Pierre",
+    "related_types": [
+        {
+            "id": 239582,
+            "title": "5 Euro (Abb\u00e9 Pierre)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 37021,
+            "title": "10 Euro (Abb\u00e9 Pierre)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 124511,
+            "title": "50 Euro (Abb\u00e9 Pierre)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 117126,
+            "title": "200 Euro (Abb\u00e9 Pierre)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 171488,
+            "title": "500 Euro (Abb\u00e9 PIERRE)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        }
+    ],
+    "tags": [
+        "Map",
+        "Hat",
+        "Birth anniversary",
+        "Mustache",
+        "Religious figure"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "1894"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "1238"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "15 (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: three times the sequence \"2 * *\" upright and the sequence \"* * 2\" inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/france/7460-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/7460-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

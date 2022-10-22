@@ -1,0 +1,133 @@
+{
+    "id": 2169,
+    "url": "https://en.numista.com/catalogue/pieces2169.html",
+    "title": "2 Euro (Bundesl\u00e4nder - \"Schleswig-Holstein\")",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2006,
+    "max_year": 2006,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heinz Hoyer"
+        ],
+        "description": "The Holstentor, the gate symbolising of the town of L\u00fcbeck, is shown in the centre of the coin and below it the word \u2018Schleswig-Holstein\u2019, the first of Germany\u2019s 16 federal states to be commemorated in a euro coin. The engraver\u2019s initials \u2018HH\u2019 appear to the right of the image and the mintmark \u2018A\u2019, \u2018D\u2019, \u2018F\u2019, \u2018G\u2019 or \u2018J\u2019, depending on the mint, to the left. The year of mintage, 2006, the 12 stars of the European Union and the words \u2018Bundesrepublik Deutschland\u2019 are shown in the outer ring.",
+        "lettering": "SCHLESWIG-HOLSTEIN J HH\r\nBUNDESREPUBLIK DEUTSCHLAND 2006",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1331-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1331-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1332-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1332-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "series": "German states",
+    "commemorated_topic": "State of Schleswig-Holstein",
+    "tags": [
+        "Castle or fortification",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "253"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "519"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "242"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "lettering_translation": "Unity and justice and freedom",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2031-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2031-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

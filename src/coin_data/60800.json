@@ -1,0 +1,115 @@
+{
+    "id": 60800,
+    "url": "https://en.numista.com/catalogue/pieces60800.html",
+    "title": "2 Euro (D-Day)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2014,
+    "max_year": 2014,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "description": "In the coin\u2019s central field the word D-DAY is written in such a way as to depict a landing craft and a tank gun barrel. The years 1944-2014 appear above the tank gun, with the inscription \u201870e anniversaire du d\u00e9barquement\u2019 (70th anniversary of the landings) further down. The distinctive footprints left by the boots worn by American, British and Canadian troops are gradually disappearing in the sand, washed away by a wave. The words of a poem by Verlaine used as a code for the start of the landings are engraved on the wave: \u2018Les sanglots longs des violons de l\u2019automne blessent mon coeur d\u2019une langueur monotone\u2019 (the long sobs of the violins of autumn wound my heart with a monotonous languor). The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "1944-2014\r\nD-Day\r\nRF\r\n70e ANNIVERSAIRE DU D\u00c9BARQUEMENT \r\nLes sanglots longs des violons de l\u2019automne \r\nBlessent mon coeur \r\nd\u2019une langueur monotone",
+        "picture": "https://en.numista.com/catalogue/photos/france/6503-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/6503-180.jpg",
+        "picture_copyright": "papilio",
+        "picture_license_name": "CC BY-NC",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/france/6504-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/6504-180.jpg",
+        "picture_copyright": "papilio",
+        "picture_license_name": "CC BY-NC",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+    },
+    "commemorated_topic": "70th Anniversary of D-DAY",
+    "tags": [
+        "Map",
+        "War"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "2174"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "1398"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "18 (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: three times the sequence \"2 * *\" upright and the sequence \"* * 2\" inverted",
+        "picture": "https://en.numista.com/catalogue/photos/france/7457-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/7457-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

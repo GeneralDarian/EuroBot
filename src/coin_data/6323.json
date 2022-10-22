@@ -1,0 +1,131 @@
+{
+    "id": 6323,
+    "url": "https://en.numista.com/catalogue/pieces6323.html",
+    "title": "2 Euro (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2008,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Heinz Hoyer",
+            "Sneschana Russewa-Hoyer"
+        ],
+        "description": "The eagle, the traditional symbol of German sovereignty, is surrounded with the twelve stars of Europe.",
+        "lettering": "2008 J",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/612b63d6c944f7.84952732-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/612b63d6c944f7.84952732-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the gathering of the fifteen states of the European Union",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/612b63d7773d64.38130857-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/612b63d7773d64.38130857-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "NOTE: Mintmark &nbsp;indicates<br />\r\nA - Berlin<br />\r\nD - Munich<br />\r\nF - Stuttgart<br />\r\nG - Karlsruhe<br />\r\nJ - Hamburg",
+    "related_types": [
+        {
+            "id": 112,
+            "title": "2 Euro (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2002,
+            "maxYear": 2006
+        }
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "258"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "489a"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "253"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2028-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2028-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

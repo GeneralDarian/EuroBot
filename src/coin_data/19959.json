@@ -1,0 +1,110 @@
+{
+    "id": 19959,
+    "url": "https://en.numista.com/catalogue/pieces19959.html",
+    "title": "2 Euro (Franc Rozman-Stane)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovenie",
+        "name": "Slovenia"
+    },
+    "min_year": 2011,
+    "max_year": 2011,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1310,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9017,
+            "name": "Euro",
+            "full_name": "Euro (2007-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Edi Berk"
+        ],
+        "description": "The design shows the effigy of Franc Rozman-Stane (1911 \u2013 1944), a leading partisan and national hero of the national liberation struggle. The coin depicts on the left hand of its inner part his effigy with a star, his name, years of his birth and death, and \"Slovenia 2011\". The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "FRANC \r\nROZMAN\r\nSTANE\r\n1911\r\n1944\r\nSLOVENIJA\r\n2011",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "FRANC \r\nROZMAN\r\nSTANE\r\n1911\r\n1944\r\nSLOVENIA\r\n2011",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/62809aa73568c1.98414051-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/62809aa73568c1.98414051-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/62809aa86b8ad1.45512463-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/62809aa86b8ad1.45512463-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "100th Anniversary of the birth of the national hero Franc Rozman-Stane",
+    "tags": [
+        "Map",
+        "Birth anniversary"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "100"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SLOVENIJA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Slovenia",
+        "picture": "https://en.numista.com/catalogue/photos/slovenie/808-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovenie/808-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

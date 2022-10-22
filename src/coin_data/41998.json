@@ -1,0 +1,96 @@
+{
+    "id": 41998,
+    "url": "https://en.numista.com/catalogue/pieces41998.html",
+    "title": "10 Euro Cent - Beatrix (2nd map; 2012 European Soccer Championship)",
+    "category": "coin",
+    "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+    },
+    "min_year": 2012,
+    "max_year": 2012,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1303,
+            "name": "Beatrix",
+            "wikidata_id": "Q29574"
+        }
+    ],
+    "value": {
+        "text": "10 Euro Cent",
+        "numeric_value": 0.1,
+        "numerator": "10",
+        "denominator": 100,
+        "currency": {
+            "id": 9012,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled, coloured"
+    },
+    "obverse": {
+        "engravers": [
+            "Bruno Ninaber van Eyben"
+        ],
+        "description": "An uncluttered portrait of Queen Beatrix is encircled by the twelve stars of Europe and the legend \"BEATRIX KONINGIN DER NEDERLANDEN\" (Beatrix queen of the Netherlands).",
+        "lettering": "BEATRIX KONINGIN DER NEDERLANDEN\r\n2012",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/1034-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/1034-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "Coloured \"10\"",
+        "lettering": "10\r\nEURO\r\nCENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/1035-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/1035-180.jpg"
+    },
+    "commemorated_topic": "2012 European Soccer Championship",
+    "tags": [
+        "Map",
+        "Monarch",
+        "Soccer"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "268a"
+        }
+    ],
+    "weight": 4.1,
+    "size": 19.75,
+    "thickness": 1.93,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2007-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2007-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

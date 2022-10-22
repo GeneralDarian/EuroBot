@@ -1,0 +1,327 @@
+{
+    "id": 28321,
+    "url": "https://en.numista.com/catalogue/pieces28321.html",
+    "title": "2 Euro (10 Years of Euro Cash)",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2012,
+    "max_year": 2012,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Helmut Andexlinger"
+        ],
+        "description": "Coin features the world in the form of a euro symbol in the centre, showing how the euro has become a true global player over the last ten years. The surrounding elements symbolise the importance of the euro to ordinary people (represented by a family group), to the financial world (the Eurotower), to trade (a ship), to industry (a factory), and to the energy sector and research and development (two wind turbines). The designer\u2019s initials, \u201cA.H.\u201d, can be found (if you look very carefully) between the ship and the Eurotower. Along the upper and lower edges of the inner part of the coin are, respectively, the country of issue and the years \u201c2002 \u2013 2012\u201d. The coin will be issued by all euro area countries. The coin\u2019s outer ring depicts the 12 stars of the European Union.",
+        "lettering": "BUNDESREPUBLIK DEUTSCHLAND\r\nA.H.\r\n\u20ac\r\n2002 2012 J",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Federal Republic of Germany\r\nA.H.\r\n\u20ac\r\n2002 2012 J",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1545-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1545-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/1546-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1546-180.jpg"
+    },
+    "commemorated_topic": "10 Years of Euro Cash",
+    "related_types": [
+        {
+            "id": 28191,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "autriche",
+                "name": "Austria"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28325,
+            "title": "2 Euro - Albert II (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28326,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28192,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "estonie",
+                "name": "Estonia"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28328,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28330,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28102,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "grece",
+                "name": "Greece"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28194,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28324,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "italie",
+                "name": "Italy"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28323,
+            "title": "2 Euro - Henri I (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "luxembourg",
+                "name": "Luxembourg"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28322,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28327,
+            "title": "2 Euro - Beatrix (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28329,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 30276,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28064,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "slovaquie",
+                "name": "Slovakia"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28110,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "slovenie",
+                "name": "Slovenia"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 28193,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        }
+    ],
+    "tags": [
+        "Map",
+        "Industry"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "306"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "567"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "296"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Unity and Justice and Freedom",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2016-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2016-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

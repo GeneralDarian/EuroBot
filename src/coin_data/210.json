@@ -1,0 +1,111 @@
+{
+    "id": 210,
+    "url": "https://en.numista.com/catalogue/pieces210.html",
+    "title": "1 Euro - Rainier III",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2001,
+    "max_year": 2004,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3126,
+            "name": "Rainier III",
+            "wikidata_id": "Q185025",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Henri Thiebaud"
+        ],
+        "description": "Beneath the portrait of HSH Prince Rainier III, the portrait of HSH Hereditary Prince Albert is encircled by the inscription \"MONACO\" and the twelve stars of Europe",
+        "lettering": "MONACO\r\n2002",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/6054c4bb04f5b6.29210740-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/6054c4bb04f5b6.29210740-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the gathering of the fifteen states of the European Union",
+        "lettering": "1 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/6054c4bb8eb7a8.68321997-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/6054c4bb8eb7a8.68321997-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "tags": [
+        "Map",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "173"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC178"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding",
+        "picture": "https://en.numista.com/catalogue/photos/monaco/840-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/840-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

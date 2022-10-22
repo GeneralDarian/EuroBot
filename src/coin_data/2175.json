@@ -1,0 +1,139 @@
+{
+    "id": 2175,
+    "url": "https://en.numista.com/catalogue/pieces2175.html",
+    "title": "5 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "chypre",
+        "name": "Cyprus"
+    },
+    "min_year": 2008,
+    "max_year": 2021,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1795,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "5 Euro Cent",
+        "numeric_value": 0.05,
+        "currency": {
+            "id": 9018,
+            "name": "Euro",
+            "full_name": "Euro (2008-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Tatiana Sotiropoulou",
+            "Erik Maell"
+        ],
+        "description": "Mouflon, a species of wild sheep found on Cyprus and representative of the island\u2019s wildlife.",
+        "lettering": "\u039a\u03a5\u03a0\u03a1\u039f\u03a3\u00b72010\u00b7KIBRIS",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            },
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/chypre/62c90b3f212cf3.13056628-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/chypre/62c90b3f212cf3.13056628-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The reverse of the coin shows Europe in relation to Africa and Asia on a globe; it also features the numeral 5 and the inscription EURO CENT.",
+        "lettering": "5 \r\nEURO \r\nCENT\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/chypre/62c90b401315b3.35059836-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/chypre/62c90b401315b3.35059836-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "On the edge 2018-2019 modification of Rev. happened.<br />\r\nOld modification - all details larger and closer to rim, numeral &#039;5&#039; larger, thinner, higher to edges and has angles at corners; stars with sharp tops of rays..<br />\r\nNew modification - all details smaller and closer to center, numeral &#039;5&#039; smaller, thicker, flatter with curved lines; stars with blunt tops of rays..<br />\r\nPicture: \u00a9 Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61e20b58eceaa.jpg\"Group=\"bb1537077061\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61e20b58eceaa.jpg\" alt=\"\" width=\"200\" height=\"158\" /></a><br />\r\n<br />\r\nMore information at <a href=\"http://eucoins.byethost9.com/intro.html#107\" rel=\"nofollow\">http://eucoins.byethost9.com/intro.html#107</a> .",
+    "related_types": [
+        {
+            "id": 2173,
+            "title": "1 Euro Cent",
+            "category": "coin",
+            "country": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "minYear": 2008,
+            "maxYear": 2021
+        },
+        {
+            "id": 2174,
+            "title": "2 Euro Cent",
+            "category": "coin",
+            "country": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "minYear": 2008,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Sheep or ovine",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "80"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "93"
+        }
+    ],
+    "weight": 3.92,
+    "size": 21.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/chypre/645-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/chypre/645-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        }
+    ]
+}

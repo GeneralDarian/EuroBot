@@ -1,0 +1,119 @@
+{
+    "id": 63,
+    "url": "https://en.numista.com/catalogue/pieces63.html",
+    "title": "1 Euro (1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "autriche",
+        "name": "Austria"
+    },
+    "min_year": 2002,
+    "max_year": 2007,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 149,
+            "name": "Second Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "currency": {
+            "id": 9002,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Josef Kaiser"
+        ],
+        "description": "A portrait of Wolfgang Amadeus Mozart, the famous Austrian composer, in reference to Austria as a land of music, is accompanied with the face value",
+        "lettering": "1 EURO 2002",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/6054b75246f966.89678113-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/6054b75246f966.89678113-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the gathering of the fifteen states of the European Union",
+        "lettering": "1 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/6054b752daced7.65683680-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/6054b752daced7.65683680-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 7905,
+            "title": "1 Euro (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "autriche",
+                "name": "Austria"
+            },
+            "minYear": 2008,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Music",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "3088"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "283"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding",
+        "picture": "https://en.numista.com/catalogue/photos/autriche/3020-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3020-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "232",
+            "name": "Vienna"
+        }
+    ]
+}

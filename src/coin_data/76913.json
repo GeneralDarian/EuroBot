@@ -1,0 +1,127 @@
+{
+    "id": 76913,
+    "url": "https://en.numista.com/catalogue/pieces76913.html",
+    "title": "2 Euro (\u013dudov\u00edt \u0160t\u00far)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovaquie",
+        "name": "Slovakia"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3765,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9020,
+            "name": "Euro",
+            "full_name": "Euro (2009-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Ivan \u0158eh\u00e1k"
+        ],
+        "description": "The design depicts a portrait of \u013dudov\u00edt \u0160t\u00far. Inscribed to the right of the portrait, parallel to the edge of the inner part of the coin, are the year of issuance \u20182015\u2019 and, further right along the edge, the name of issuing country \u2018SLOVENSKO\u2019. Inscribed to the left of the portrait, parallel to the inner edge, are the dates of \u0160t\u00far\u2019s birth and death \u20181815\u20131856\u2019 and, further left along the edge, the name \u2018\u013dUDOV\u00cdT \u0160T\u00daR\u2019. In the upper right part of the design is the mint mark of the Kremnica Mint (Mincov\u0148a Kremnica), consisting of the initials \u2018MK\u2019 placed between two dies. In the lower right part are the stylised letters \u2018I\u0158\u2019, the initials of the designer, Ivan \u0158eh\u00e1k.",
+        "lettering": "2015\r\nSLOVENSKO\r\n1815-1856\r\n\u013dUDOV\u00cdT \u0160T\u00daR\r\nMK\r\nI\u0158",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2015\r\nSlovakia\r\n1815-1856\r\nL\u2019udov\u00ect \u0160t\u00far",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/564-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/564-180.jpg",
+        "picture_copyright": "didi83"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/565-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/565-180.jpg",
+        "picture_copyright": "didi83"
+    },
+    "commemorated_topic": "200th Anniversary of the Birth of \u013dudov\u00edt \u0160t\u00far",
+    "comments": "Coincard<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c684149adcd5.jpg\"Group=\"bb1890787208\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c684149adcd5.jpg\" alt=\"\" width=\"200\" height=\"159\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c6841528d7a3.jpg\"Group=\"bb1890787208\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c6841528d7a3.jpg\" alt=\"\" width=\"200\" height=\"159\" /></a>",
+    "related_types": [
+        {
+            "id": 78825,
+            "title": "10 Euro (\u013dudov\u00edt \u0160t\u00far)",
+            "category": "coin",
+            "country": {
+                "code": "slovaquie",
+                "name": "Slovakia"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        }
+    ],
+    "tags": [
+        "Map",
+        "Birth anniversary",
+        "Mustache"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "137"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "131"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription: country name in Slovak language with two stars and a linden leaf in the middle (Note: Type A - national design up lettering in readable position; Type B - national design down lettering in readable position)",
+        "lettering": "\u2605 SLOVENSK\u00c1 REPUBLIKA \u2605",
+        "lettering_translation": "\u2605 Slovak Republic \u2605",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/575-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/575-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

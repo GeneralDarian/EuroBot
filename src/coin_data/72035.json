@@ -1,0 +1,97 @@
+{
+    "id": 72035,
+    "url": "https://en.numista.com/catalogue/pieces72035.html",
+    "title": "2 Euro (Expo Milano 2015)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Maria Grazia Urbani"
+        ],
+        "description": "In the field a composition symbolizing the fertility of Earth: on a semicircle standing for the terrestrial globe, a seed fed by water and about to germinate; above the Earth, a vine shoot, an olive branch and a sheaf of wheat growing out of a tree trunk; above, archshaped inscription \u201cNUTRIRE IL PIANETA\u201d; on the left, initials  of  the designer Maria Grazia Urbani \u201cMGU\u201d; on the right, acronym of the Italian Republic \u201cRI\u201d and the letter \u201cR\u201d identifying  the Mint  of Rome; in the middle, logo of the EXPO MILANO 2015; all around, the twelve stars of the European Union.",
+        "lettering": "NUTRIRE IL PIANETA\r\nRI\r\nMGU R\r\nEXPO 2015\r\nMILANO 2015",
+        "picture": "https://en.numista.com/catalogue/photos/italie/5fc9e2765c8658.24931935-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fc9e2765c8658.24931935-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/5fc9e276f23592.14649671-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fc9e276f23592.14649671-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "Expo Milano 2015",
+    "comments": "Milano was the location for the Expo 2015, a great event on food and nutrition.<br />\r\nFor six months, from May 1 to October 31 2015, Milano hosted the Universal Exposition, an international kermesse where all participating countries showed the best of their food technologies to take on a world challenge, promoting healthy and safe foods which are available to all mankind as a guarantee of a sustainable and peaceful future.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5858f5f0df26c.jpg\"Group=\"bb513001967\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5858f5f0df26c.jpg\" alt=\"\" width=\"199\" height=\"129\" /></a><a href=\"https://en.numista.com/catalogue/images/5858f5fbd19e6.jpg\"Group=\"bb513001967\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5858f5fbd19e6.jpg\" alt=\"\" width=\"200\" height=\"130\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5858f609e0db3.jpg\"Group=\"bb513001967\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5858f609e0db3.jpg\" alt=\"\" width=\"200\" height=\"202\" /></a>",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "380"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "371"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * * \" alternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2347-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2347-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

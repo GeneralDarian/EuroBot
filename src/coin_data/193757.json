@@ -1,0 +1,85 @@
+{
+    "id": 193757,
+    "url": "https://en.numista.com/catalogue/pieces193757.html",
+    "title": "2 Euro (National Firefighters Corps)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luciana De Simoni"
+        ],
+        "description": "The logo of the Italian National Fire Corps in the centre, the monogram of the Italian Republic to the left, the date to the right along with the mintmark. The initials of the designer are below along with an inscription around the centre ring and the 12 stars of Europe in the outer ring",
+        "lettering": "CORPO NAZIONALE DEI VIGILI DEL FUOCO\r\nRI\r\n2020\r\nR\r\nLDS",
+        "lettering_translation": "National Fire Corps\r\nRI\r\n2020\r\nR\r\nLDS",
+        "picture": "https://en.numista.com/catalogue/photos/italie/62a102fe0b48b6.08102708-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/62a102fe0b48b6.08102708-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/62a102fe87ee77.05733769-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/62a102fe87ee77.05733769-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "commemorated_topic": "National Firefighters Corps",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5e3c27f503c5f.jpg\"Group=\"bb725801411\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e3c27f503c5f.jpg\" alt=\"\" width=\"200\" height=\"89\" /></a><br />\r\n<span style=\"font-weight:bold;\">special wrapped roll</span>",
+    "tags": [
+        "Map"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/601c430c89b2a5.50447743-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/601c430c89b2a5.50447743-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

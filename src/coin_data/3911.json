@@ -1,0 +1,102 @@
+{
+    "id": 3911,
+    "url": "https://en.numista.com/catalogue/pieces3911.html",
+    "title": "2 Euro (Human Rights)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2008,
+    "max_year": 2008,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "J. Duarte"
+        ],
+        "description": "The coin shows the Portuguese coat of arms at the top, with the name of the issuing country (\u2018PORTUGAL\u2019) and the year \u20182008\u2019 just below. The lower half of the coin features a geometric design and the legend \u201860 ANOS DA DECLARA\u00c7\u00c3O UNIVERSAL DOS DIREITOS HUMANOS\u2019, followed by the inscription \u2018Esc. J. Duarte INCM\u2019 in very small characters. The outer ring of the coin shows the 12 stars of the European Union.",
+        "lettering": "PORTUGAL\r\n2008\r\n60 ANOS DA DECLARA\u00c7\u00c3O UNIVERSAL DOS DIREITOS HUMANOS\r\nEsc. J. Duarte INCM",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Portugal\r\n2008\r\n60th Anniversary of the Universal Declaration of Human Rights",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/4608-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/4608-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/4609-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/4609-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "commemorated_topic": "60th Anniversary of the Declaration of Human Rights",
+    "tags": [
+        "Human rights"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "784"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: seven castles and five coats of arms",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3781-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3781-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1337",
+            "name": "Lisbon"
+        }
+    ]
+}

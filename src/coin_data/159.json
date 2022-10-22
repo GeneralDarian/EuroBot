@@ -1,0 +1,116 @@
+{
+    "id": 159,
+    "url": "https://en.numista.com/catalogue/pieces159.html",
+    "title": "1 Euro (1st map)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2002,
+    "max_year": 2008,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "V. M. Fernandes dos Santos"
+        ],
+        "description": "The 3rd royal seal of 1144 of Afonso Henriques, the 1st king of Portugal, is encircled by alternately the 7 country's castles and the five coats of arms, which appear on the Portuguese flag, and the letters of the word \"PORTUGAL\", all encircled by the 12 stars of Europe",
+        "lettering": "P O R T U G A L\r\nPO RT\r\nVG AL\r\nVS INCM\r\n2 0 0 2",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/6054bec615be84.47463277-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6054bec615be84.47463277-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the gathering of the fifteen states of the European Union",
+        "lettering": "1 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/6054bec6af98e6.52952779-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6054bec6af98e6.52952779-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5d9d7e95c656f.jpg\"Group=\"bb1035262399\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d9d7e95c656f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d9d7ea347fe4.jpg\"Group=\"bb1035262399\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d9d7ea347fe4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d9f79179b0b1.jpg\"Group=\"bb1035262399\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d9f79179b0b1.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "related_types": [
+        {
+            "id": 9894,
+            "title": "1 Euro (2nd map)",
+            "category": "coin",
+            "country": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "minYear": 2008,
+            "maxYear": 2022
+        }
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "746"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "247"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding. 3 segments with 28 or 29 reeds.",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3773-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3773-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1337",
+            "name": "Lisbon"
+        }
+    ]
+}

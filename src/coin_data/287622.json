@@ -1,0 +1,82 @@
+{
+    "id": 287622,
+    "url": "https://en.numista.com/catalogue/pieces287622.html",
+    "title": "2 Euro (Finno-Ugric peoples)",
+    "category": "coin",
+    "issuer": {
+        "code": "estonie",
+        "name": "Estonia"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2044,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9021,
+            "name": "Euro",
+            "full_name": "Euro (2011-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The national side of the coin depicts a design based on the cave drawings of Lake \u00c4\u00e4nisj\u00e4rv. The symbols for the hunter, the elk, the water bird and the sun form the symbolic circle of life for the Finno-Ugric peoples. The central figure is a water bird, as they are represented in the art and folklore of all Finno-Ugric peoples. On the top right, in semi-circle, are the name of the country \u2018EESTI\u2019 followed by the year \u20182021\u2019. At the bottom left is the inscription \u2018FENNOUGRIA\u2019.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "EESTI 2021\r\nFENNO-UGRIA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/62a0fe1fc1c1e8.82804112-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/62a0fe1fc1c1e8.82804112-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean.\r\n12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/62a0fe202af723.54239715-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/62a0fe202af723.54239715-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "commemorated_topic": "Finno-Ugric peoples",
+    "tags": [
+        "Map"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "\"O\" and \"EESTI\" repeated alternately upright and inverted.",
+        "lettering": "EESTI O EESTI O"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

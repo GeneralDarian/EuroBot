@@ -1,0 +1,123 @@
+{
+    "id": 309301,
+    "url": "https://en.numista.com/catalogue/pieces309301.html",
+    "title": "2 Euro (Carolus V coins)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1171,
+            "name": "Philippe",
+            "wikidata_id": "Q155004",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The most famous coin is the Golden Carolus Guilder. Charles V\u2019s pursuit of uniformity and centralization was also expressed in this series of coins. Almost 500 years after Charles V introduced his silver Carolus guilder, he was depicted on some ECU coins. The ECU, standing for European Currency Unit, was the forerunner of the euro.\r\nThe national side of the coin depicts in the inner part of the piece the portrait of the Charles V, together with the text Carolus V. At the left you can find the 500 year old golden Carolus guilder, issued after the ordinance of the second period of coin issuance during the reign of Charles V. As the Royal Dutch Mint will strike the coins, the mintmark of Utrecht, a mercury staff is located on the bottom together with the Belgian mint director mintmark, the coat of arms of the municipality Herzele. It also contains the initials LL, referring to the designer of the coin, Mr. Luc Luycx. The country code BE and the year mark 2021 are located on the left. The coin\u2019s outer ring depicts the 12 stars of the European flag",
+        "lettering": "KAROLVS\u00b7D:G\u00b7ROMANOR\u00b7IMP\u00b7Z\u00b7HISPAR.REX\r\nBE\r\n2021\r\nCAROLUS V\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/618ac416d334a8.99223997-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/618ac416d334a8.99223997-180.jpg",
+        "picture_copyright": "liege-numismatique"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/61791ea069c005.60774892-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/61791ea069c005.60774892-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "500 Years of Carolus V coins",
+    "related_types": [
+        {
+            "id": 324670,
+            "title": "10 Euro (Carolus V coins)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Firearm or handheld weapon",
+        "Map",
+        "Hat",
+        "Mustache",
+        "Crown",
+        "Monarch",
+        "Coin depiction",
+        "Cross"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "420"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Fine flute engraving: the inscription \"2 **\", repeated six times, is oriented alternately from bottom to top and from top to bottom.",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/61795785ce8d06.23484961-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/61795785ce8d06.23484961-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "4668",
+            "name": "Royal Dutch Mint"
+        }
+    ]
+}

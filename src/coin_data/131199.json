@@ -1,0 +1,84 @@
+{
+    "id": 131199,
+    "url": "https://en.numista.com/catalogue/pieces131199.html",
+    "title": "2 Euro (Republic of Austria)",
+    "category": "coin",
+    "issuer": {
+        "code": "autriche",
+        "name": "Austria"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 149,
+            "name": "Second Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9002,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "In its brass core, the coin shows a detail of the statue of Pallas Athena that stands in front of the neoclassical Parliament building in Vienna. The goddess of wisdom wears an Attic helmet decorated with a sphinx. Both the Parliament (completed in 1883) and the Pallas Athena fountain (1902) were based on designs by Theophil von Hansen. Pallas Athena serves as a symbol of Austrian parliamentarianism and signifies knowledge, reason and strategic ability.",
+        "lettering": "REPUBLIK \u00d6STERREICH\r\n100 JAHRE\r\n2018",
+        "lettering_translation": "Republic of Austria",
+        "picture": "https://en.numista.com/catalogue/photos/autriche/3552-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3552-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/autriche/3553-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3553-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "commemorated_topic": "100 years republic of Austria",
+    "tags": [
+        "Map",
+        "Mythology"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "3275"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "lettering": "2 EURO *** 2 EURO *** 2 EURO *** 2 EURO ***"
+    },
+    "mints": [
+        {
+            "id": "232",
+            "name": "Vienna"
+        }
+    ]
+}

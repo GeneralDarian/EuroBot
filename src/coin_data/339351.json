@@ -1,0 +1,104 @@
+{
+    "id": 339351,
+    "url": "https://en.numista.com/catalogue/pieces339351.html",
+    "title": "15 Euro Cent - Felipe VI Iberian (Lynx - Gold Bullion Coin)",
+    "category": "coin",
+    "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 150,
+            "name": "Felipe VI",
+            "wikidata_id": "Q191045",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        }
+    ],
+    "value": {
+        "text": "15 Euro Cent",
+        "numeric_value": 0.15,
+        "numerator": "15",
+        "denominator": 100,
+        "currency": {
+            "id": 9004,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Gold (.9999)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "Motifs and legends of a \"Columnario type of an 8 Reales coin\": two hemispheres under the royal crown, flanked by the columns of Hercules with the motto PLUS VLTRA, all over a sea with waves.",
+        "lettering": "FELIPE VI REY DE ESPA\u00d1A\r\nPLUS VLTRA\r\n1/10 ONZA 999,9 ORO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "FELIPE VI KING OF SPAIN\r\nPLUS VLTRA\r\n1/10 OUNCE 999,9 GOLD",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/633b2d9e515ac1.70740936-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/633b2d9e515ac1.70740936-180.jpg",
+        "picture_copyright": "ValerioHispa",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "description": "Head of an Iberian lynx (Lynx pardinus)",
+        "lettering": "15 EURO CENT\r\nM\r\n2022\r\nLINCE IB\u00c9RICO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/633b2d9ea75c18.55690910-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/633b2d9ea75c18.55690910-180.jpg",
+        "picture_copyright": "ValerioHispa",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "related_types": [
+        {
+            "id": 315302,
+            "title": "1\u00bd Euro - Felipe VI (Iberian Lynx - Gold Bullion Coin)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Cat or feline",
+        "Crown",
+        "Allegory"
+    ],
+    "weight": 3.111,
+    "size": 16.5,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

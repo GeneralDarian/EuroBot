@@ -1,0 +1,111 @@
+{
+    "id": 15840,
+    "url": "https://en.numista.com/catalogue/pieces15840.html",
+    "title": "2 Euro - Benedictus XVI (Year for Priests)",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2010,
+    "max_year": 2010,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1524,
+            "name": "Benedict XVI",
+            "wikidata_id": "Q2494"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Guido Veroi"
+        ],
+        "description": "The coin commemorates the Year for Priests, proclaimed by Pope Benedict XVI to run from of 19 June 2009 to 19 June 2010, that was concluded with an international gathering of priests attended by the pope. The coin features a shepherd pulling a lamb from a lion\u2019s mouth. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "ANNO SACERDOTALE R\r\nCITT\u00c0 DEL VATICANO 2010\r\nVEROI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Year for Priests\r\nCity State of Vatican 2010\r\nVeroi",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/981-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/981-180.jpg",
+        "picture_copyright": "CGB",
+        "picture_copyright_url": "http://www.cgb.fr"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f7715ab155e59.46558153-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f7715ab155e59.46558153-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "Year for Priests",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5f41605e93d3c.jpg\"Group=\"bb99994976\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f41605e93d3c.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<br />\r\nThis is the folder/coincard that the coin was issued in.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f77157890078.jpg\"Group=\"bb99994976\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f77157890078.jpg\" alt=\"\" width=\"200\" height=\"160\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f7715856ecf6.jpg\"Group=\"bb99994976\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f7715856ecf6.jpg\" alt=\"\" width=\"155\" height=\"250\" /></a>",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "420"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "413"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * \" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f752bbb64c3f1.90505866-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f752bbb64c3f1.90505866-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

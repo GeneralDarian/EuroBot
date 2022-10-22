@@ -1,0 +1,119 @@
+{
+    "id": 267621,
+    "url": "https://en.numista.com/catalogue/pieces267621.html",
+    "title": "2 Euro (Bundesl\u00e4nder - \"Sachsen-Anhalt\")",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design shows the Magdeburg Cathedral, the first Gothic-style cathedral to be constructed on German soil. The inner part also features the name \u2018SACHSEN-ANHALT\u2019 and the issuing country\u2019s country code \u2018D\u2019 at the bottom, the mint mark of the respective mint (\u2018A\u2019, \u2018D\u2019, \u2018F\u2019, \u2018G\u2019 or \u2018J\u2019) as well as the the year \u20182021\u2019 on the left and the engraver\u2019s mark on the right.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "2021\r\nA \r\nSACHSEN-ANHALT\r\nD",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/6058b1ae922851.03589029-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6058b1ae922851.03589029-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/6006b090d7c8d6.78524966-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6006b090d7c8d6.78524966-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "series": "German states",
+    "commemorated_topic": "Bundesl\u00e4nder series \u2013 Saxony-Anhalt",
+    "tags": [
+        "Religious building",
+        "Map",
+        "Region"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "400"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "edge": {
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "lettering_translation": "unity and law  and liberty",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/6032a8d72c24e6.68810215-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6032a8d72c24e6.68810215-180.jpg",
+        "picture_copyright": "ilsesee"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

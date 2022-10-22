@@ -1,0 +1,125 @@
+{
+    "id": 50013,
+    "url": "https://en.numista.com/catalogue/pieces50013.html",
+    "title": "2 Euro - Willem-Alexander (200 Years of the Kingdom)",
+    "category": "coin",
+    "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+    },
+    "min_year": 2013,
+    "max_year": 2013,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1304,
+            "name": "Willem-Alexander",
+            "wikidata_id": "Q154952"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9012,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Roosje Klap",
+            "Claudia Linders"
+        ],
+        "description": "The inner part of the design shows a continuing ribbon that starts from the outside depicting the effigy of King Willem-Alexander and continues to depict the effigies of his six predecessors: Queen Beatrix, Queen Juliana, Queen Wilhelmina, King Willem III, King Willem II and King Willem I. The effigies are surrounded by the inscription \u2018Willem-Alexander Koning der Nederlanden\u2019 followed by the Royal Dutch mintmark, the mint master mark, the year 2013, the initials of the designer, and at the left side of the effigies the inscription \u2018200 Jaar Koninkrijk\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "WILLEM-ALEXANDER KONING DER NEDERLANDEN\r\n200 JAAR KONINKRIJK\r\n2013",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Willem-Alexander, King of the Netherlands\r\n200 Years of the Kingdom\r\n2013",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/627f6bd62be7d5.75611846-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/627f6bd62be7d5.75611846-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/627f6bd7666596.88215156-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/627f6bd7666596.88215156-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "200 Years Kingdom of the Netherlands",
+    "related_types": [
+        {
+            "id": 54432,
+            "title": "2 Euro - Willem-Alexander (200 Years of the Kingdom; Coloured)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2013,
+            "maxYear": 2013
+        }
+    ],
+    "tags": [
+        "Map",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "324"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "GOD * ZIJ * MET * ONS *",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "* God * Be * With * Us *",
+        "picture": "https://en.numista.com/catalogue/photos/pays-bas/2020-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2020-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

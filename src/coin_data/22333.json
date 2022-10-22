@@ -1,0 +1,105 @@
+{
+    "id": 22333,
+    "url": "https://en.numista.com/catalogue/pieces22333.html",
+    "title": "2 Euro (Special Olympics)",
+    "category": "coin",
+    "issuer": {
+        "code": "grece",
+        "name": "Greece"
+    },
+    "min_year": 2011,
+    "max_year": 2011,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1254,
+            "name": "Third Hellenic Republic",
+            "wikidata_id": "Q17765809"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9008,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Georgios Stamatopoulos"
+        ],
+        "description": "The inner part of the coin shows the emblem of the Games, a radiant sun, the source of life that underlines the excellence and power of the athletes who take part in the Games, with excellence represented by the olive branch and power by the spiral starting from the center of the sun. Inscribed around the outer right-hand edge of the inner part are the caption \u201cXIII SPECIAL OLYMPICS W.S.G. ATHENS 2011\u201d and the name of the issuing country \u201c\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391\u201d, separated from one another by the mintmark. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "XIII SPECIAL OLYPICS GAMES W.S.G. ATHENS 2011\r\n\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391",
+        "lettering_translation": "XIII Special Olympics Games W.S.G. Athens 2011\r\nHellenic Republic",
+        "picture": "https://en.numista.com/catalogue/photos/grece/794-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/794-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/grece/793-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/793-180.jpg",
+        "picture_copyright": "Florino28"
+    },
+    "commemorated_topic": "XIIIth Special Olympics",
+    "comments": "The 2011 Special Olympics World Summer Games was a sporting event held from June 25th, 2011 to July 4th, 2011 in Athens, Greece. The opening ceremony of the games took place on June 25, 2011, at the Panathenaic Stadium, with the closing ceremony held on July 4, 2011. Over 7,500 athletes from 185 countries competed in 22 sports.<br />\r\nThis coin was in rolls and BU along with the official year KMS blister.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e3dd32b2c351.jpg\"Group=\"bb425094615\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e3dd32b2c351.jpg\" alt=\"\" width=\"200\" height=\"176\" /></a>",
+    "tags": [
+        "Map",
+        "Summer Olympic Games",
+        "Wreath"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "239"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "188"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391",
+        "lettering_translation": "Hellenic Republic",
+        "picture": "https://en.numista.com/catalogue/photos/grece/1524-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/1524-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        }
+    ]
+}

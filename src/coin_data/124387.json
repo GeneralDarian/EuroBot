@@ -1,0 +1,92 @@
+{
+    "id": 124387,
+    "url": "https://en.numista.com/catalogue/pieces124387.html",
+    "title": "2 Euro (The Pyrenean country)",
+    "category": "coin",
+    "issuer": {
+        "code": "andorre",
+        "name": "Andorra"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 4700,
+            "name": "Joan Enric Vives i Sic\u00edlia",
+            "wikidata_id": "Q57473",
+            "group": {
+                "id": 377,
+                "name": "Co-Principality"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9024,
+            "name": "Euro",
+            "full_name": "Euro (2014-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design reproduces on its upper part a triangle, consisting of three undulating strips representing a simplified version of the map of the country, with the inscriptions \u2018Andorra\u2019 and \u2018EL PA\u00cdS DELS PIRINEUS\u2019 (the Pyrenean country).\r\n\r\nThese three elements make up the brand owned by the Government of Andorra, which is used to provide a uniform, consistent and coordinated image to all graphic communication and, at the same time, achieve an unmistakable and instant identification.\r\n\r\nThe lower part of the design depicts the year of issuance \u20182017\u2019.\r\n\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "Andorra\r\nEL PA\u00cdS DELS PIRINEUS\r\n2017",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/918-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/918-180.jpg",
+        "picture_copyright": "boule02de"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/andorre/919-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/andorre/919-180.jpg"
+    },
+    "commemorated_topic": "Andorra - The Pyrenean country",
+    "comments": "There is also a coincard which &nbsp;Contains &nbsp;the 100 Years of Andorra Hymn<a href=\"https://en.numista.com/catalogue/images/5aa3907bb7de8.jpg\"Group=\"bb1706240680\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5aa3907bb7de8.jpg\" alt=\"\" width=\"174\" height=\"250\" /></a><br />\r\n<br />\r\nNormal Coincard<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5aa390b19983d.jpg\"Group=\"bb1706240680\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5aa390b19983d.jpg\" alt=\"\" width=\"171\" height=\"250\" /></a>",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "534"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.25,
+    "orientation": "medal",
+    "edge": {
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "id": 8898,
+    "url": "https://en.numista.com/catalogue/pieces8898.html",
+    "title": "2 Euro (Freedom)",
+    "category": "coin",
+    "issuer": {
+        "code": "slovaquie",
+        "name": "Slovakia"
+    },
+    "min_year": 2009,
+    "max_year": 2009,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3765,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9020,
+            "name": "Euro",
+            "full_name": "Euro (2009-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Pavel K\u00e1roly",
+            "Dalibor Schmidt"
+        ],
+        "description": "The coin shows a stylized bell with keys serving as clappers. It recalls the demonstration on 17 November 1989 when protesters jangled their keys to symbolize the unlocking of doors, an event which marked the beginning of the \u2018Velvet Revolution\u2019 in Czechoslovakia, as it then was. Under the bell are the artist\u2019s mark and the mint mark of Mincov\u0148a Kremnica (the Slovak mint). Encircling the bell are the legend \u201817. NOVEMBER SLOBODA DEMOKRACIA\u2019, the dates \u20181989-2009\u2019 and the name of the issuing country, \u2018SLOVENSKO\u2019. The coin\u2019s outer ring depicts the 12 stars of the European Union.",
+        "lettering": "17. NOVEMBER SLOBODA DEMOKRACIA\r\n1989 - 2009\r\nSLOVENSKO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "17. NOVEMBER FREEDOM DEMOCRACY\r\n1989 - 2009\r\nSlovakia",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/497-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/497-180.jpg",
+        "picture_copyright": "gef"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/498-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/498-180.jpg",
+        "picture_copyright": "gef"
+    },
+    "commemorated_topic": "20th Anniversary of Freedom",
+    "comments": "coincard 1<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c683d3cb77e0.jpg\"Group=\"bb1034124760\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c683d3cb77e0.jpg\" alt=\"\" width=\"200\" height=\"160\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c683d4986bb2.jpg\"Group=\"bb1034124760\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c683d4986bb2.jpg\" alt=\"\" width=\"200\" height=\"159\" /></a><br />\r\n<br />\r\ncoincard 2 - personally signed by Pavel Karoly<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c683e160f2a9.jpg\"Group=\"bb1034124760\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c683e160f2a9.jpg\" alt=\"\" width=\"200\" height=\"148\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c683e1dd615d.jpg\"Group=\"bb1034124760\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c683e1dd615d.jpg\" alt=\"\" width=\"200\" height=\"146\" /></a>",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "107"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "102"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription: country name in Slovak language with two stars and a linden leaf in the middle (Note: Type A - national design up lettering in readable position; Type B - national design down lettering in readable position)",
+        "lettering": "\u2605 SLOVENSK\u00c1 REPUBLIKA \u2605",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Slovak Republic",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/578-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/578-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

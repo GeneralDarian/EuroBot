@@ -1,0 +1,140 @@
+{
+    "id": 5053,
+    "url": "https://en.numista.com/catalogue/pieces5053.html",
+    "title": "2 Euro (Bundesl\u00e4nder - \"Saarland\")",
+    "category": "coin",
+    "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+    },
+    "min_year": 2009,
+    "max_year": 2009,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2860,
+            "name": "Federal Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9007,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Friedrich Brenner"
+        ],
+        "description": "The coin features the Ludwigskirche, a symbol of Saarbr\u00fccken, the capital of the Saarland. It shows the distinctive east facade and bell tower of the church, with the word \u2018SAARLAND\u2019 and \u2018J\u2019, a mint mark, underneath. It was designed by Friedrich Brenner, whose initials appear to the right of the image. The year of mintage, 2009, the 12 stars of the European Union and the words \u2018BUNDESREPUBLIK DEUTSCHLAND\u2019 are depicted on the outer ring.",
+        "lettering": "SAARLAND J FB\r\nBUNDESREPUBLIK DEUTSCHLAND 2009",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Saarland\r\nFederal Republic of Germany 2009",
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/628c6b6c6f6104.24375791-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/628c6b6c6f6104.24375791-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/628c6b6db4b091.16787105-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/628c6b6db4b091.16787105-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "series": "German states",
+    "commemorated_topic": "Federal State of Saarland",
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "276"
+        },
+        {
+            "catalogue": {
+                "id": 80,
+                "code": "J"
+            },
+            "number": "541"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "270"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/allemagne/2026-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2026-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "5",
+            "name": "Berlin"
+        },
+        {
+            "id": "1",
+            "name": "Munich"
+        },
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "3",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        },
+        {
+            "id": "4",
+            "name": "Hamburgische M\u00fcnze"
+        }
+    ]
+}

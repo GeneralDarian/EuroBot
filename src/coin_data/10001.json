@@ -1,0 +1,120 @@
+{
+    "id": 10001,
+    "url": "https://en.numista.com/catalogue/pieces10001.html",
+    "title": "2 Euro - Benedictus XVI (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2008,
+    "max_year": 2013,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1524,
+            "name": "Benedict XVI",
+            "wikidata_id": "Q2494"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Daniela Longo"
+        ],
+        "lettering": "CITTA' DEL VATICANO\r\n2011\r\nR  \r\nD. L.  \r\nM.C.C INC.",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "VATICAN CITY\r\n2011  \r\nR  \r\nD. L.  \r\nM.C.C INC.",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f7538cba33d88.53001569-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f7538cba33d88.53001569-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f7712cfc22977.17923694-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f7712cfc22977.17923694-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 235,
+            "title": "2 Euro - Benedictus XVI (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "vatican",
+                "name": "Vatican City"
+            },
+            "minYear": 2006,
+            "maxYear": 2007
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "389"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "400"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * \" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f7538cc858f01.17234221-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f7538cc858f01.17234221-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

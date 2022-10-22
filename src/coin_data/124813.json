@@ -1,0 +1,116 @@
+{
+    "id": 124813,
+    "url": "https://en.numista.com/catalogue/pieces124813.html",
+    "title": "2 Euro - Philippe (200 years of the University of Ghent)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1171,
+            "name": "Philippe",
+            "wikidata_id": "Q155004",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The logo of the Ghent University, with the dates 1817 - 2017 below, surrounded by the inscription \"200 JAAR UNIVERSITEIT GENT \u2013 200 YEARS GHENT UNIVERSITY\" and the country indication BE. The mintmark of Brussels, a helmeted head of the Archangel Michael and the mint directors\u2019 mintmark, the coat of arms of the municipality Herzele, are located respectively on the right and left of the country indication. The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "1817 2017\r\n200 JAAR UNIVERSITEIT GENT \u2014 200 YEARS GHENT UNIVERSITY  \r\nBE",
+        "lettering_translation": "1817-2017\r\n200 Years of the University of Ghent - 200 Years of the University of Ghent\r\nBE",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/5fcdbe5ed85ee0.15814821-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/5fcdbe5ed85ee0.15814821-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/5fcdbe5f68e2b2.87117870-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/5fcdbe5f68e2b2.87117870-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "200 years of the University of Ghent",
+    "comments": "The edge of the type r1 - the outline star at the beginning of a segment. See details at <a href=\"http://eucoins.byethost9.com/be.html\" rel=\"nofollow\">http://eucoins.byethost9.com/be.html</a>",
+    "related_types": [
+        {
+            "id": 108778,
+            "title": "2 Euro - Philippe (200 years of the University of Li\u00e8ge)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-8.23"
+        },
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "369"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription: next numeral \"2\" everted with respect to the pervious, one of the stars is outlined.",
+        "lettering": "2**2**2**2**2**2**",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/3190-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3190-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

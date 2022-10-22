@@ -1,0 +1,101 @@
+{
+    "id": 157845,
+    "url": "https://en.numista.com/catalogue/pieces157845.html",
+    "title": "2 Euro (600th Anniversary of the discovery of the Madeira archipelago)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2019,
+    "max_year": 2019,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "J\u00falio Pomar"
+        ],
+        "description": "The event, known as the first Portuguese territorial discovery, marked a historic milestone in\r\nthe consolidation of Portugal as a maritime power and gave rise to the Portuguese Age of Discoveries (1418-1522).\r\nThe design depicts the Madeira Archipelago and the island of Porto Santo. In semicircle are the inscriptions \u2018600 anos do\r\nDescobrimento da Madeira e de Porto Santo\u2019 and \u2018PORTUGAL 2019\u2019.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "600 anos do Descobrimento da Madeira e de Porto Santo\r\nPortugal 2019\r\nINCM",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/6280854e4fec30.51739855-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280854e4fec30.51739855-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/6280854f9b0509.97938157-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280854f9b0509.97938157-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "600th Anniversary of the discovery of the Madeira archipelago",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "896"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with inscription: seven castles and five coats of arms",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/5942-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/5942-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1337",
+            "name": "Lisbon"
+        }
+    ]
+}

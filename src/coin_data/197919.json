@@ -1,0 +1,93 @@
+{
+    "id": 197919,
+    "url": "https://en.numista.com/catalogue/pieces197919.html",
+    "title": "2 Euro (75th anniversary of United Nations)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Andr\u00e9 Letria"
+        ],
+        "description": "The design depicts the UN logo. At the top is the year of issuance \u20182020\u2019, the name of the\nissuing country \u2018PORTUGAL\u2019 and the inscription \u2018UN 75 YEARS\u2019. Under the words \u2018UN\u2019 and \u2018YEARS\u2019 is their translation in\nPortuguese \u2018ONU\u2019 and \u2018ANOS\u2019. At the left side is the name of the mint \u2018CASA DA MOEDA\u2019 and at the right side is the\nengraver\u2019s name \u2018ANDR\u00c9 LETRIA\u2019.\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "2020\r\nPORTUGAL\r\nUN\r\nONU\r\n75 \r\nYEARS\r\nANOS\r\nCASA DA MOEDA\r\nANDR\u00c9 LETRIA",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/606f1d114f4f79.77067044-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/606f1d114f4f79.77067044-180.jpg",
+        "picture_copyright": "Ponpandi Perumal"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/606f1d126fc9b1.79070022-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/606f1d126fc9b1.79070022-180.jpg",
+        "picture_copyright": "Ponpandi Perumal"
+    },
+    "commemorated_topic": "75th anniversary of United Nations",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5f884759eb01c.jpg\"Group=\"bb64064303\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f884759eb01c.jpg\" alt=\"\" width=\"171\" height=\"249\" /></a> @guise",
+    "tags": [
+        "Map",
+        "United Nations"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "910"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with inscription: seven castles and five coats of arms",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/5f6bb282165b50.06260802-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f6bb282165b50.06260802-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1337",
+            "name": "Lisbon"
+        }
+    ]
+}

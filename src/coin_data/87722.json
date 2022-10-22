@@ -1,0 +1,111 @@
+{
+    "id": 87722,
+    "url": "https://en.numista.com/catalogue/pieces87722.html",
+    "title": "2 Euro - Albert II (Foundation of Monte Carlo)",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 3127,
+            "name": "Albert II",
+            "wikidata_id": "Q3910",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design shows CHARLES III within the background MONTE CARLO. At the top is the name of the issuing country \u2018MONACO\u2019 flanked by the mint mark and the mint master mark. At the bottom, in semi-circle from left to right is the inscription \u20181866 CHARLES III FONDE MONTE CARLO 2016\u2019. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "MONACO\r\n1866 CHARLES III FONDE MONTE CARLO 2016",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "MONACO\r\n1866 Charles III Foundation of Monte Carlo 2016",
+        "picture": "https://en.numista.com/catalogue/photos/monaco/859-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/859-180.jpg",
+        "picture_copyright": "bofried"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/860-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/860-180.jpg",
+        "picture_copyright": "bofried"
+    },
+    "commemorated_topic": "150th Anniversary of Foundation of Monte Carlo by Charles III",
+    "comments": "Certificate<br />\r\n<a href=\"https://en.numista.com/catalogue/images/576bc88e0e6b6.jpg\"Group=\"bb1218570441\"><img src=\"https://en.numista.com/catalogue/images/miniatures/576bc88e0e6b6.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><br />\r\nPackaging (Etui)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/576bc8a10f37e.jpg\"Group=\"bb1218570441\"><img src=\"https://en.numista.com/catalogue/images/miniatures/576bc8a10f37e.jpg\" alt=\"\" width=\"200\" height=\"95\" /></a>",
+    "tags": [
+        "Map",
+        "Town",
+        "Mustache",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC209"
+        },
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "205"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

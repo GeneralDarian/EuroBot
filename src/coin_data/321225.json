@@ -1,0 +1,107 @@
+{
+    "id": 321225,
+    "url": "https://en.numista.com/catalogue/pieces321225.html",
+    "title": "2 Euro (Basketball in Lithuania)",
+    "category": "coin",
+    "issuer": {
+        "code": "lituanie",
+        "name": "Lithuania"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2866,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9023,
+            "name": "Euro",
+            "full_name": "Euro (2015-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The national side of the coin depicts the contour of the map of Lithuania arranged as a basketball court in the centre, which signifies that basketball has been played in Lithuania already for 100 years. The coin also features the inscriptions LIETUVA (Lithuania), 1922-2022 and the logo of the Lithuanian mint, its manufacturer, arranged in a semi-circle around the centre. The coin\u2019s outer ring bears the 12 stars of the European Union flag.",
+        "lettering": "LIETUVA\r\n1922 - 2022\r\nLMK",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/628e536c619e71.26489923-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/628e536c619e71.26489923-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/628e536cbc0a13.67987309-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/628e536cbc0a13.67987309-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "100 years of Basketball in Lithuania",
+    "tags": [
+        "Map",
+        "Basketball"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "274"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "LAISV\u0116 \u2605 VIENYB\u0116 \u2605 GEROV\u0116 \u2605",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "FREEDOM \u2605 UNITY \u2605 PROSPERITY \u2605 in Lithuanian",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/622684d0b0fd36.23541122-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/622684d0b0fd36.23541122-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

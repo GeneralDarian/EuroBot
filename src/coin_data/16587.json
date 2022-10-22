@@ -1,0 +1,121 @@
+{
+    "id": 16587,
+    "url": "https://en.numista.com/catalogue/pieces16587.html",
+    "title": "1 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "estonie",
+        "name": "Estonia"
+    },
+    "min_year": 2011,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2044,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "numerator": "1",
+        "denominator": 100,
+        "currency": {
+            "id": 9021,
+            "name": "Euro",
+            "full_name": "Euro (2011-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "L. L\u00f5hmus"
+        ],
+        "description": "A silhouette map of Estonia with the year above and the country name below and twelve five-pointed stars around the rim representing the European Union",
+        "lettering": "2011\r\nEESTI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2018\r\nEstonia",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/62be75db9346c5.93389793-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/62be75db9346c5.93389793-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "1 \r\nEURO \r\nCENT \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/62be75dc7ef863.01774380-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/62be75dc7ef863.01774380-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "Minted 2018 with large stars.<br />\n<br />\n<a href=\"https://en.numista.com/catalogue/images/5bd47464c1050.jpg\"Group=\"bb158462956\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd47464c1050.jpg\" alt=\"\" width=\"200\" height=\"102\" /></a>",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "61"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "57"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/362-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/362-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        },
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

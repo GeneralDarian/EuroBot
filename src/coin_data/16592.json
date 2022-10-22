@@ -1,0 +1,109 @@
+{
+    "id": 16592,
+    "url": "https://en.numista.com/catalogue/pieces16592.html",
+    "title": "1 Euro (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "estonie",
+        "name": "Estonia"
+    },
+    "min_year": 2011,
+    "max_year": 2018,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2044,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "numerator": "1",
+        "denominator": 1,
+        "currency": {
+            "id": 9021,
+            "name": "Euro",
+            "full_name": "Euro (2011-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "L. L\u00f5hmus"
+        ],
+        "description": "A silhouette map of Estonia with the year above and the country name below and twelve five-pointed stars around the rim representing the European Union",
+        "lettering": "2018\r\nEESTI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2018\r\nEstonia",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/573-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/573-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "1 EURO \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/574-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/574-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "comments": "Coins from 2018 have large stars.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5bd47668769fe.jpg\"Group=\"bb1811009946\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd47668769fe.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a>",
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "67"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "63"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/364-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/364-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

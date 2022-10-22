@@ -1,0 +1,120 @@
+{
+    "id": 80926,
+    "url": "https://en.numista.com/catalogue/pieces80926.html",
+    "title": "2 Euro (Anniversary of the National Bank)",
+    "category": "coin",
+    "issuer": {
+        "code": "autriche",
+        "name": "Austria"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 149,
+            "name": "Second Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9002,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Herbert W\u00e4hner"
+        ],
+        "description": "The \u00d6sterreichische Nationalbank was started in 1816 by Johann Philipp Stadion, Count von Warthausen in the reign of Francis I (Franz I.), the first Emperor of Austria. The foundation of this bank followed a period of high currency devaluation in Austria during the war times when paper money was issued by the Habsburg state.\r\n\r\nThe design depicts two gods of Roman mythology featured in the carved relief above the entrance to the main building of the Oesterreichische Nationalbank.\r\n\r\nTo the left, Mercury, the messenger of the gods and the god of merchants and commerce; to the right, Fortuna, the goddess of fate and prosperity, who is portrayed with a horn of plenty. The background picture, running from the left to the right edges of the core, shows the OeNB\u2019s main premises. An ornamental band hugging the bottom of the coin centre evokes the red-white-red pattern of the Austrian national flag, with hatched vertical lines symbolizing the colour red, as laid down in the rules of heraldic design.\r\n\r\nThe years \u20181816\u2019 and \u20182016\u2019 to the left of Mercury refer to the OeNB\u2019s founding year and its bicentennial. The inscriptions are running along the edges of the gold-coloured centre.",
+        "lettering": "REPUBLIK \u00d6STERREICH\r\n1816\r\n2016\r\n200 JAHRE OESTERREICHISCHE NATIONALBANK",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/3053-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3053-180.jpg",
+        "picture_copyright": "boule02de"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/3054-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3054-180.jpg",
+        "picture_copyright": "boule02de"
+    },
+    "commemorated_topic": "200th Anniversary of the National Bank",
+    "comments": "issued by Austrian mint in rolls with 25 coins<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56a14d30aff74.jpg\"Group=\"bb394464279\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56a14d30aff74.jpg\" alt=\"\" width=\"200\" height=\"86\" /></a>",
+    "tags": [
+        "Other building",
+        "Map",
+        "Hand",
+        "Mythology",
+        "Caduceus",
+        "Cornucopia"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "3248"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "432"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription. Combination of 2 EURO and *** repeated four times",
+        "lettering": "2 EURO *** 2 EURO *** 2 EURO *** 2 EURO ***",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/3030-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3030-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "232",
+            "name": "Vienna"
+        }
+    ]
+}

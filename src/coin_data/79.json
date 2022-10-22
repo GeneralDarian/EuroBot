@@ -1,0 +1,139 @@
+{
+    "id": 79,
+    "url": "https://en.numista.com/catalogue/pieces79.html",
+    "title": "20 Euro Cent - Albert II (1st map, 1st type, 1st portrait)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 1999,
+    "max_year": 2006,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1170,
+            "name": "Albert II",
+            "wikidata_id": "Q3911",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "20 Euro Cent",
+        "numeric_value": 0.2,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Spanish flower",
+    "composition": {
+        "text": "Nordic gold"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jan Alfons Keustermans"
+        ],
+        "description": "The portrait in left profile of King Albert II is encircled by the twelve stars of Europe, among which is situated his monogram: a capital \"A\" with the Roman numeral \"II\" underneath a crown",
+        "lettering": "A II \r\n2004",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/3168-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3168-180.jpg",
+        "picture_copyright": "moi4992"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "20 \r\nLL\r\nEURO \r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/belgique/3169-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3169-180.jpg",
+        "picture_copyright": "moi4992"
+    },
+    "comments": "Later issues show smaller date letters and stars surrounding the portrait.<br />\r\n<br />\r\nHow to understand if stars are small or big for 2002:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/57ca780ba0362.jpg\"Group=\"bb986932027\"><img src=\"https://en.numista.com/catalogue/images/miniatures/57ca780ba0362.jpg\" alt=\"\" width=\"199\" height=\"74\" /></a>",
+    "related_types": [
+        {
+            "id": 6290,
+            "title": "20 Euro Cent - Albert II (2nd map, 1st type, 1st portrait)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 6303,
+            "title": "20 Euro Cent - Albert II (2nd map, 2nd type, 1st portrait)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2009,
+            "maxYear": 2013
+        }
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "228"
+        },
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-5.1"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "206"
+        }
+    ],
+    "weight": 5.74,
+    "size": 22.25,
+    "thickness": 2.14,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with seven indentations (\"Spanish flower\")",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/3064-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3064-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "id": 309264,
+    "url": "https://en.numista.com/catalogue/pieces309264.html",
+    "title": "2 Euro (Tarxien Temples)",
+    "category": "coin",
+    "issuer": {
+        "code": "malte",
+        "name": "Malta"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2864,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9019,
+            "name": "Euro",
+            "full_name": "Euro (2008-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Noel Galea Bason"
+        ],
+        "description": "The design depicts a detail of the prehistoric structure. At the top is the inscription \u2018TARXIEN TEMPLES 3600-2500 BC\u2019. At the bottom is the name of the issuing country \u2018MALTA\u2019 and underneath it is the year of issuance \u20182021\u2019.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "TARXIEN \r\nTEMPLES \r\n3.600 - 2.500 BC\r\nNGB\r\nMALTA \r\n2021",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/618acd74ac6cb6.97298773-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/618acd74ac6cb6.97298773-180.jpg",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/6178627848b515.02381332-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/6178627848b515.02381332-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "series": "Malta's Prehistoric Monuments",
+    "commemorated_topic": "Tarxien Temples",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/618acadeb5810.jpg\"Group=\"bb307092213\"><img src=\"https://en.numista.com/catalogue/images/miniatures/618acadeb5810.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\n&nbsp;the official mintmark of the Monnaie de Paris",
+    "related_types": [
+        {
+            "id": 84920,
+            "title": "2 Euro (\u0120gantija Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2016,
+            "maxYear": 2016
+        },
+        {
+            "id": 113393,
+            "title": "2 Euro (\u0126a\u0121ar Qim Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 132944,
+            "title": "2 Euro (Mnajdra Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        },
+        {
+            "id": 167679,
+            "title": "2 Euro (TA\u2019 \u0126A\u0120RAT Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 215435,
+            "title": "2 Euro (Skorba Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2020,
+            "maxYear": 2020
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription: six times a \"2\" and two Maltese crosses.",
+        "lettering": "2 \u2720\u2720 \ufea1 \u2720\u2720 2 \u2720\u2720 \ufea1 \u2720\u2720 2 \u2720\u2720 \ufea1 \u2720\u2720",
+        "picture": "https://en.numista.com/catalogue/photos/malte/617ab78b516ea5.64043800-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/617ab78b516ea5.64043800-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": 5087,
+    "url": "https://en.numista.com/catalogue/pieces5087.html",
+    "title": "10 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "slovaquie",
+        "name": "Slovakia"
+    },
+    "min_year": 2009,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3765,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "10 Euro Cent",
+        "numeric_value": 0.1,
+        "currency": {
+            "id": 9020,
+            "name": "Euro",
+            "full_name": "Euro (2009-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "J\u00e1n \u010cernaj",
+            "Pavol K\u00e1roly"
+        ],
+        "description": "Bratislava Castle in circle surrounded by 12 stars",
+        "lettering": "MK J\u010c PK\r\n2009\r\nSLOVENSKO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/62717722e3eee0.21370446-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/62717722e3eee0.21370446-180.jpg",
+        "picture_copyright": "Mihajlo Ne\u0161i\u0107 (MihajloNesic)"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "10\r\nLL\r\nEURO\r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/627177238b5ec3.30238046-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/627177238b5ec3.30238046-180.jpg",
+        "picture_copyright": "Mihajlo Ne\u0161i\u0107 (MihajloNesic)"
+    },
+    "tags": [
+        "Castle or fortification",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "98"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "96"
+        }
+    ],
+    "weight": 4.1,
+    "size": 19.75,
+    "thickness": 1.93,
+    "orientation": "medal",
+    "edge": {
+        "description": "Indented (40 indentations)",
+        "picture": "https://en.numista.com/catalogue/photos/slovaquie/746-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/746-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1262",
+            "name": "Kremnica / K\u00f6rm\u00f6cb\u00e1nya / Kremnitz"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": 87772,
+    "url": "https://en.numista.com/catalogue/pieces87772.html",
+    "title": "2 Euro - Franciscus (Vatican Gendarmerie)",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Daniela Longo",
+            "Silvia Petrassi"
+        ],
+        "description": "Vatican Guard in front of the Dome of St. Peter\u2019s Basilica. At the top, in semi-circle is the inscription \"CORPO DELLA GENDARMERIA 1816-2016\". At the bottom, in semi-circle is the name of the issuing country \"CITTA' DEL VATICANO\". The mint mark \"R\" appears at the left of the design and the name of the designer \"D. Longo\" appears at the right.",
+        "lettering": "CORPO DELLA GENDARMERIA 1816\u28022016 \u2802CITTA' DEL VATICANO\u2802\r\nR\r\nD. LONGO\r\nSP INC.",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "GENDARMERIE CORPS 1816\u28022016 \u2802VATICAN CITY\u2802\r\nR\r\nD. LONGO\r\nSP ENG.",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f772bd3842bd2.25028317-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f772bd3842bd2.25028317-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/5f772bd4262c40.28311969-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f772bd4262c40.28311969-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "Bicentenary of the Vatican Gendarmerie",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5787a5f7d66f6.jpg\"Group=\"bb985248867\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5787a5f7d66f6.jpg\" alt=\"\" width=\"200\" height=\"163\" /></a><a href=\"https://en.numista.com/catalogue/images/5787a607054b9.jpg\"Group=\"bb985248867\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5787a607054b9.jpg\" alt=\"\" width=\"200\" height=\"218\" /></a><br />\r\n<br />\r\nThis is the folder/coincard that the coin was issued in.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f772b80c1951.jpg\"Group=\"bb985248867\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f772b80c1951.jpg\" alt=\"\" width=\"200\" height=\"158\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f772b9ba7756.jpg\"Group=\"bb985248867\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f772b9ba7756.jpg\" alt=\"\" width=\"149\" height=\"250\" /></a>",
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "484"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "477"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.25,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * \" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/vatican/2251-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/2251-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

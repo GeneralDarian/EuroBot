@@ -1,0 +1,161 @@
+{
+    "id": 113393,
+    "url": "https://en.numista.com/catalogue/pieces113393.html",
+    "title": "2 Euro (\u0126a\u0121ar Qim Temples)",
+    "category": "coin",
+    "issuer": {
+        "code": "malte",
+        "name": "Malta"
+    },
+    "min_year": 2017,
+    "max_year": 2017,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2864,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9019,
+            "name": "Euro",
+            "full_name": "Euro (2008-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Noel Galea Bason"
+        ],
+        "description": "The coin depicts the \u0126a\u0121ar Qim Temples on thecrest of a ridge overlooking the south-west coast of Malta about two kilometres away from the village of Qrendi. At the top right the inscription \u2018\u0126a\u0121ar Qim TEMPLES\u2019 and underneath the years \u20183600-3200 BC\u2019. At the bottom left the name of the issuing country \u2018MALTA\u2019 and underneath the issuing date \u20182017\u2019.",
+        "lettering": "\u0126A\u0120AR QIM TEMPLES\r\n3600 - 3200 BC\r\nMALTA\r\n2017\r\nNGB\r\nF",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/591-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/591-180.jpg",
+        "picture_copyright": "liege-numismatique"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/malte/592-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/592-180.jpg",
+        "picture_copyright": "liege-numismatique"
+    },
+    "series": "Malta's Prehistoric Monuments",
+    "commemorated_topic": "\u0126a\u0121ar Qim Temples.",
+    "comments": "The \u0126a\u0121ar Qim Temples complex is a megalithic temple complex found on the Mediterranean island of Malta, dating from the \u0120gantija phase (3600-3200 BC). The Megalithic Temples of Malta are among the most ancient religious sites on Earth. \u0126a\u0121ar Qim was listed by UNESCO as a World Heritage Site in 1992.<br />\r\n<br />\r\nThis coin is the second of a series of seven that will be issued by the Bank which will depict Malta&#039;s prehistoric monuments that are listed by UNESCO as World Heritage Sites.<br />\r\n<br />\r\nCoincard:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/62cd629d4b790.jpg\"Group=\"bb2069992620\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62cd629d4b790.jpg\" alt=\"\" width=\"200\" height=\"128\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/62cd62a3a993c.jpg\"Group=\"bb2069992620\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62cd62a3a993c.jpg\" alt=\"\" width=\"200\" height=\"127\" /></a>",
+    "related_types": [
+        {
+            "id": 84920,
+            "title": "2 Euro (\u0120gantija Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2016,
+            "maxYear": 2016
+        },
+        {
+            "id": 132944,
+            "title": "2 Euro (Mnajdra Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        },
+        {
+            "id": 167679,
+            "title": "2 Euro (TA\u2019 \u0126A\u0120RAT Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 215435,
+            "title": "2 Euro (Skorba Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2020,
+            "maxYear": 2020
+        },
+        {
+            "id": 309264,
+            "title": "2 Euro (Tarxien Temples)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "183"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "lettering": "2 \u2720\u2720 \ufea1 \u2720\u2720 2 \u2720\u2720 \ufea1 \u2720\u2720 2 \u2720\u2720 \ufea1 \u2720\u2720",
+        "picture": "https://en.numista.com/catalogue/photos/malte/589-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/malte/589-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

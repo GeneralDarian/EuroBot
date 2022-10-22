@@ -1,0 +1,110 @@
+{
+    "id": 6383,
+    "url": "https://en.numista.com/catalogue/pieces6383.html",
+    "title": "1 Euro (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2008,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Laura Cretara"
+        ],
+        "description": "A reproduction of the Vitruvian Man, a world renowned drawing created by Leonardo da Vinci around the year 1492, is encircled by the twelve stars of Europe",
+        "lettering": "RI\r\nR 2008\r\nLC",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2540-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2540-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "1 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2541-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2541-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "related_types": [
+        {
+            "id": 135,
+            "title": "1 Euro (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "italie",
+                "name": "Italy"
+            },
+            "minYear": 2002,
+            "maxYear": 2007
+        }
+    ],
+    "tags": [
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "250"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "292"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Alternating segments: three smooth, three finely ribbed",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2323-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2323-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": 67630,
+    "url": "https://en.numista.com/catalogue/pieces67630.html",
+    "title": "50 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "lituanie",
+        "name": "Lithuania"
+    },
+    "min_year": 2015,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 2866,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "50 Euro Cent",
+        "numeric_value": 0.5,
+        "numerator": "5",
+        "denominator": 10,
+        "currency": {
+            "id": 9023,
+            "name": "Euro",
+            "full_name": "Euro (2015-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Antanas \u017dukauskas"
+        ],
+        "description": "The coin features the arms of Lithuania with the date on the right and the country name below. The coin's outer ring bears the 12 stars of the European Union.",
+        "lettering": "2015\r\nLMK \r\nLIETUVA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2015\r\nLMK\r\nLithuania",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/814-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/814-180.jpg",
+        "picture_copyright": "Kladokop",
+        "picture_copyright_url": "http://www.kladokop.ru"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+        "lettering": "50 \r\nLL\r\nEURO \r\nCENT",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/815-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/815-180.jpg",
+        "picture_copyright": "Kladokop",
+        "picture_copyright_url": "http://www.kladokop.ru"
+    },
+    "tags": [
+        "Horse or equine",
+        "Firearm or handheld weapon",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "210"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "141"
+        }
+    ],
+    "weight": 7.8,
+    "size": 24.25,
+    "thickness": 2.38,
+    "orientation": "medal",
+    "edge": {
+        "description": "Shaped edge with fine scallops",
+        "picture": "https://en.numista.com/catalogue/photos/lituanie/660-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/660-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1332",
+            "name": "Lithuanian Mint"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": 143883,
+    "url": "https://en.numista.com/catalogue/pieces143883.html",
+    "title": "2 Euro (Zemgale)",
+    "category": "coin",
+    "issuer": {
+        "code": "lettonie",
+        "name": "Latvia"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2046,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9022,
+            "name": "Euro",
+            "full_name": "Euro (2014-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "J\u0101nis Strupulis"
+        ],
+        "description": "The design shows the coat of arms of the region of Zemgale. At the top, the name of the issuing country \u2018LATVIJA\u2019 and at the bottom the inscription \u2018ZEMGALE\u2019. At the right hand side, the year of issuance \u20182018\u2019.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "LATVIJA\r\n2018\r\nZEMGALE",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Latvia\r\n2018\r\nZemgale",
+        "picture": "https://en.numista.com/catalogue/photos/lettonie/937-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lettonie/937-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/lettonie/938-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/lettonie/938-180.jpg",
+        "picture_copyright": "Ulmo"
+    },
+    "series": "Regions of Latvia",
+    "commemorated_topic": "Zemgale",
+    "comments": "Date of issue 26-09-2018",
+    "related_types": [
+        {
+            "id": 95462,
+            "title": "2 Euro (Vidzeme)",
+            "category": "coin",
+            "country": {
+                "code": "lettonie",
+                "name": "Latvia"
+            },
+            "minYear": 2016,
+            "maxYear": 2016
+        },
+        {
+            "id": 125266,
+            "title": "2 Euro (Kurzeme)",
+            "category": "coin",
+            "country": {
+                "code": "lettonie",
+                "name": "Latvia"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 125267,
+            "title": "2 Euro (Latgale)",
+            "category": "coin",
+            "country": {
+                "code": "lettonie",
+                "name": "Latvia"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        }
+    ],
+    "tags": [
+        "Coat of Arms",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "196"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "DIEVS \u2606 SV\u0112T\u012a \u2606 LATVIJU \u2606",
+        "lettering_translation": "God Bless Latvia"
+    },
+    "mints": [
+        {
+            "id": "2",
+            "name": "Staatliche M\u00fcnze Baden-W\u00fcrttemberg"
+        }
+    ]
+}

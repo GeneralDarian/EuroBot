@@ -1,0 +1,89 @@
+{
+    "id": 275664,
+    "url": "https://en.numista.com/catalogue/pieces275664.html",
+    "title": "2 Euro (Wolf)",
+    "category": "coin",
+    "issuer": {
+        "code": "estonie",
+        "name": "Estonia"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 2044,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9021,
+            "name": "Euro",
+            "full_name": "Euro (2011-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design depicts the silhouette of the wolf and a forest. Close to the edge of the inner ring the country name \u2018EESTI\u2019 at the left, the year of issuance \u20182021\u2019 at the right and the text \u2018CANIS LUPUS\u2019 (the wolf in Latin) at the top are depicted.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "CANIS LUPUS\r\nEESTI    2021",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/618ac94e67e2f6.70212640-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/618ac94e67e2f6.70212640-180.jpg",
+        "picture_copyright": "liege-numismatique"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean.\r\n12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/estonie/602fa2e4028df2.74437880-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/602fa2e4028df2.74437880-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "The Estonian national animal \u2013 the wolf",
+    "comments": "<a href=\"https://www.eestipank.ee/en/press/two-euro-commemorative-coin-dedicated-estonian-national-animal-wolf-will-use-design-maria-meos-08062020\" rel=\"nofollow\">https://www.eestipank.ee/en/press/two-euro-commemorative-coin-dedicated-estonian-national-animal-wolf-will-use-design-maria-meos-08062020</a><br />\r\n<br />\r\nMore appropriate link + &nbsp;please add coin card, mintage 12000<br />\r\n<a href=\"https://www.eestipank.ee/en/press/eesti-pank-issuing-two-euro-coin-dedicated-estonian-national-animal-wolf-20102021\" rel=\"nofollow\">https://www.eestipank.ee/en/press/eesti-pank-issuing-two-euro-coin-dedicated-estonian-national-animal-wolf-20102021</a>",
+    "tags": [
+        "Dog or canid",
+        "Map"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "\"O\" and \"EESTI\" repeated alternately upright and inverted.",
+        "lettering": "EESTI O EESTI O",
+        "lettering_translation": "Estonia Estonia",
+        "picture": "https://en.numista.com/catalogue/photos/estonie/602fa661deffd2.41688484-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/estonie/602fa661deffd2.41688484-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "id": 193508,
+    "url": "https://en.numista.com/catalogue/pieces193508.html",
+    "title": "2 Euro (Mudejar Architecture of Aragon)",
+    "category": "coin",
+    "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 150,
+            "name": "Felipe VI",
+            "wikidata_id": "Q191045",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9004,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design shows the image of the tower of El Salvador de Teruel. On the left side in capital letters is the word \u2018ESPA\u00d1A\u2019 and on the right side the mintmark and underneath it the year of issuance 2020. At the top in the central part, in a circular sense and in capital letters the legend \u2018ARQUITECTURA MUDEJAR DE ARAG\u00d3N\u2019. The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "ARQUITECTURA MUD\u00c9JAR DE ARAG\u00d3N\r\nESPA\u00d1A\r\nM\r\n2020",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Mudejar Architecture of Aragon\r\nSpain",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/5f229e507f7c30.92980196-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/5f229e507f7c30.92980196-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "The face value, next to a map showing the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/5f229e50ba7796.62188763-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/5f229e50ba7796.62188763-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "series": "UNESCO World Heritage",
+    "commemorated_topic": "Mudejar Architecture of Aragon",
+    "comments": "Spain started the commemorative coin series Patrimonio de la Humanidad de la UNESCO (UNESCO World Heritage) in 2010, commemorating all of Spain&#039;s UNESCO World Heritage Sites, which could continue until 2050. The order in which the coin for a specific site is issued coincides with the order in which they were declared a UNESCO World Heritage site.<br />\r\nMud\u00e9jar architecture of Aragon is an aesthetic trend in the Mud\u00e9jar style, which is centered in Aragon (Spain) and has been recognized in some representative buildings as a World Heritage Site by UNESCO. The chronology of the Aragonese Mud\u00e9jar occupies 12th to the 17th century and includes more than a hundred architectural monuments located predominantly in the valleys of the Ebro, Jal\u00f3n and Jiloca.",
+    "related_types": [
+        {
+            "id": 10364,
+            "title": "2 Euro (Mosque\u2013Cathedral of C\u00f3rdoba)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2010,
+            "maxYear": 2010
+        },
+        {
+            "id": 19979,
+            "title": "2 Euro (Alhambra of Granada)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2011,
+            "maxYear": 2011
+        },
+        {
+            "id": 30072,
+            "title": "2 Euro (Burgos Cathedral)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 42976,
+            "title": "2 Euro (Escorial)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2013,
+            "maxYear": 2013
+        },
+        {
+            "id": 57612,
+            "title": "2 Euro (Park G\u00fcell)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2014,
+            "maxYear": 2014
+        },
+        {
+            "id": 69425,
+            "title": "2 Euro (Cave of Altamira)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 81058,
+            "title": "2 Euro (Aqueduct of Segovia)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2016,
+            "maxYear": 2016
+        },
+        {
+            "id": 101994,
+            "title": "2 Euro (Churches of the Kingdom of Asturias)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 131881,
+            "title": "2 Euro (Old Town of Santiago de Compostela)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        },
+        {
+            "id": 155939,
+            "title": "2 Euro (Old Town of Avila)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 264789,
+            "title": "2 Euro (Historic City of Toledo)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        },
+        {
+            "id": 323476,
+            "title": "2 Euro (Garajonay National Park)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Religious building",
+        "Tower",
+        "Map"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription: the number \"2\" and two stars, repeated six times alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/601c43dc80d0f2.73081260-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/601c43dc80d0f2.73081260-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": 133674,
+    "url": "https://en.numista.com/catalogue/pieces133674.html",
+    "title": "2 Euro (Imprensa Nacional - National Mint)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Eduardo Aires"
+        ],
+        "description": "Eight lines of Portuguese text in the centre divided by horizontal lines and the 12 stars of Europe in the outer ring",
+        "lettering": "1768 - 2018\r\nIMPRENSA\r\nNACIONAL\r\nDUZENTOS E\r\nCINQUENTA\r\n250 ANOS\r\nPORTUGAL\r\nMMXVIII\r\nEduardo Aires\r\nINCM",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/628081b9d2dd14.26796232-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/628081b9d2dd14.26796232-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/628081bb39a214.10501160-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/628081bb39a214.10501160-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "250th Anniversary of the Imprensa Nacional - Casa da Moeda",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "886"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with inscription: seven castles and five coats of arms",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/5865-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/5865-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1337",
+            "name": "Lisbon"
+        }
+    ]
+}

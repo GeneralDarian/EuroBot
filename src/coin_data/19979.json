@@ -1,0 +1,252 @@
+{
+    "id": 19979,
+    "url": "https://en.numista.com/catalogue/pieces19979.html",
+    "title": "2 Euro (Alhambra of Granada)",
+    "category": "coin",
+    "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+    },
+    "min_year": 2011,
+    "max_year": 2011,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 151,
+            "name": "Juan Carlos I",
+            "wikidata_id": "Q19943",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9004,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Alfonso Morales M\u00fanoz"
+        ],
+        "description": "The inner part of the coin depicts the Court of the Lions in the Alhambra, the fortified castle in the city of Granada, which was declared a UNESCO World Heritage site in 1984. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "M\r\nESPA\u00d1A 2011",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "M\r\nSpain 2011",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/627f678034f618.65437641-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/627f678034f618.65437641-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/627f67817b0652.97085620-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/627f67817b0652.97085620-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "series": "UNESCO World Heritage",
+    "commemorated_topic": "Alhambra, Generalife and Albayz\u00edn",
+    "comments": "Spain started the commemorative coin series Patrimonio de la Humanidad de la UNESCO (UNESCO World Heritage) in 2010, commemorating all of Spain&#039;s UNESCO World Heritage Sites, which could continue until 2050. The order in which the coin for a specific site is issued coincides with the order in which they were declared a UNESCO World Heritage site.<br />\r\nThe Alhambra is a palace and fortress complex located in Granada, Andalusia, Spain. It was originally constructed as a small fortress in 889 CE on the remains of ancient Roman fortifications, and then largely ignored until its ruins were renovated and rebuilt in the mid-13th century by the Arab Nasrid emir Mohammed ben Al-Ahmar of the Emirate of Granada, who built its current palace and walls. It was converted into a royal palace in 1333 by Yusuf I, Sultan of Granada. After the conclusion of the Christian Reconquista in 1492, the site became the Royal Court of Ferdinand and Isabella (where Christopher Columbus received royal endorsement for his expedition), and the palaces were partially altered in the Renaissance style. In 1526, Charles I of Spain commissioned a new Renaissance palace better befitting the Holy Roman Emperor in the revolutionary Mannerist style influenced by humanist philosophy in direct juxtaposition with the Nasrid Andalusian architecture, but it was ultimately never completed due to Morisco rebellions in Granada.",
+    "related_types": [
+        {
+            "id": 10364,
+            "title": "2 Euro (Mosque\u2013Cathedral of C\u00f3rdoba)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2010,
+            "maxYear": 2010
+        },
+        {
+            "id": 30072,
+            "title": "2 Euro (Burgos Cathedral)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2012,
+            "maxYear": 2012
+        },
+        {
+            "id": 42976,
+            "title": "2 Euro (Escorial)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2013,
+            "maxYear": 2013
+        },
+        {
+            "id": 57612,
+            "title": "2 Euro (Park G\u00fcell)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2014,
+            "maxYear": 2014
+        },
+        {
+            "id": 69425,
+            "title": "2 Euro (Cave of Altamira)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 81058,
+            "title": "2 Euro (Aqueduct of Segovia)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2016,
+            "maxYear": 2016
+        },
+        {
+            "id": 101994,
+            "title": "2 Euro (Churches of the Kingdom of Asturias)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2017,
+            "maxYear": 2017
+        },
+        {
+            "id": 131881,
+            "title": "2 Euro (Old Town of Santiago de Compostela)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        },
+        {
+            "id": 155939,
+            "title": "2 Euro (Old Town of Avila)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2019,
+            "maxYear": 2019
+        },
+        {
+            "id": 193508,
+            "title": "2 Euro (Mudejar Architecture of Aragon)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2020,
+            "maxYear": 2020
+        },
+        {
+            "id": 264789,
+            "title": "2 Euro (Historic City of Toledo)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        },
+        {
+            "id": 323476,
+            "title": "2 Euro (Garajonay National Park)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Castle or fortification",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "1184"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "539"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2**2**2**2**2**2**",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/3382-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/3382-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

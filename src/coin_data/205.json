@@ -1,0 +1,121 @@
+{
+    "id": 205,
+    "url": "https://en.numista.com/catalogue/pieces205.html",
+    "title": "2 Euro Cent - Rainier III",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2001,
+    "max_year": 2005,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3126,
+            "name": "Rainier III",
+            "wikidata_id": "Q185025",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro Cent",
+        "numeric_value": 0.02,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Robert Cochet"
+        ],
+        "description": "The coat of arms of the Sovereign Princes of Monaco are encircled by the inscription \"MONACO\" and the twelve stars of Europe",
+        "lettering": "MONACO\r\n2001",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/61f9524d40d692.30688586-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/61f9524d40d692.30688586-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia",
+        "lettering": "2 EURO\r\nCENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/61f9524e381597.11408750-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/61f9524e381597.11408750-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "related_types": [
+        {
+            "id": 5029,
+            "title": "2 Euro Cent - Albert II (2nd type)",
+            "category": "coin",
+            "country": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "minYear": 2006,
+            "maxYear": 2020
+        }
+    ],
+    "tags": [
+        "Coat of Arms",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "168"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC173"
+        }
+    ],
+    "weight": 3.06,
+    "size": 18.75,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth with a groove running circumferentially around the edge of the coin",
+        "picture": "https://en.numista.com/catalogue/photos/monaco/958-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/958-180.jpg"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

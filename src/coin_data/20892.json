@@ -1,0 +1,101 @@
+{
+    "id": 20892,
+    "url": "https://en.numista.com/catalogue/pieces20892.html",
+    "title": "2 Euro (Unification of Italy)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2011,
+    "max_year": 2011,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Ettore Lorenzo Frapiccini"
+        ],
+        "description": "The inner part of the coin shows, in the centre, three Italian flags fluttering in the wind, to mark three past periods of 50 years each \u2013 the periods ending in 1911, 1961 and 2011 respectively \u2013 in illustration of a perfect link between generations: this is the logo of the 150th anniversary of the unification of Italy. Written in a semi-circle along the upper outer edge around the three flags is the inscription \u201c150\u00b0 DELL\u2019 UNIT\u00c1 D\u2019ITALIA\u201d (150th anniversary of the unification of Italy), with the letters \u201cRI\u201d superimposed on one another off-centre to the right in indication of the issuing country, the Republic of Italy. Beneath the three flags stand the dates \u201c1861 \u203a 2011 \u203a \u203a\u201d. Centred below the dates is the mintmark \u201cR\u201d, with the letters \u201cELF INC.\u201d, the initials of the artist Ettore Lorenzo Frapiccini and the first three letters of the Italian name of his profession (incisore) along the bottom edge to the right. The 12 stars of the European Union are depicted on the coin\u2019s outer ring.",
+        "lettering": "150\u00b0 DELL' UNITA\u2019 D\u2019ITALIA\r\nRI\r\n1861 > 2011 >>\r\nR ELF INC.",
+        "lettering_translation": "150th anniversary of the unification of Italy",
+        "picture": "https://en.numista.com/catalogue/photos/italie/61c7465cb4ac27.18683276-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61c7465cb4ac27.18683276-180.jpg",
+        "picture_copyright": "Numista"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/61c7465d0fa1c1.18739146-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61c7465d0fa1c1.18739146-180.jpg",
+        "picture_copyright": "Numista"
+    },
+    "commemorated_topic": "150th Anniversary of Italian Unification",
+    "comments": "This coin is released for circulation but is available also in these forms:<br />\r\n- In official mint Mint folder (or coincard) with initial mintage of 20000 then reduced to 13350<br />\r\n- Inserted in Mint BU Sets (both 9 and 10 valued) and Mint Proof Sets",
+    "tags": [
+        "Flag"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "338"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "326"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2340-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2340-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

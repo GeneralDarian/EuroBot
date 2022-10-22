@@ -1,0 +1,120 @@
+{
+    "id": 49903,
+    "url": "https://en.numista.com/catalogue/pieces49903.html",
+    "title": "2 Euro (Platonic Academy)",
+    "category": "coin",
+    "issuer": {
+        "code": "grece",
+        "name": "Greece"
+    },
+    "min_year": 2013,
+    "max_year": 2013,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1254,
+            "name": "Third Hellenic Republic",
+            "wikidata_id": "Q17765809"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9008,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Georgios Stamatopoulos"
+        ],
+        "description": "Portrait of Plato (in profile). On the left: the words \u20182 400 years since the founding of Plato\u2019s Academy\u2019 and \u2018The Hellenic Republic\u2019 in ancient Greek lettering. On the right: \u20182013\u2019 and the monogram of the Greek Mint. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "2.400 \u03a7\u03a1\u039f\u039d\u0399\u0391 \u0391\u03a0\u039f \u03a4\u0397\u039d \u0399\u0394\u03a1\u03a5\u03a3\u0397 \u03a4\u0397\u03a3 \u0391\u039a\u0391\u0394\u0397\u039c\u0399\u0391\u03a3 \u03a0\u039b\u0391\u03a4\u03a9\u039d\u039f\u03a3\r\n\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391\r\n2013",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "2,400 Since the Founding of Plato's Academy\r\nHellenic Republic\r\n2013",
+        "picture": "https://en.numista.com/catalogue/photos/grece/1069-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/1069-180.jpg",
+        "picture_copyright": "V. GLADYSH"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/grece/1070-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/1070-180.jpg",
+        "picture_copyright": "V. GLADYSH"
+    },
+    "commemorated_topic": "2400th Anniversary of the Foundation of the Platonic Academy",
+    "comments": "The Athenian philosopher Plato (427-347 B.C.) was the most distinguished disciple of Socrates and the one most credited with preserving the Socratic teachings for posterity in his Dialogues. Upon his return to Athens from the first journey to Italy in 387 B.C., he founded a philosophical school in the area of Academia (today\u2019s Kolonos) named after the local hero Academos. For nearly 1,000 years (until 529 A.D.), the Academy enjoyed a reputation for excellence, building on and renewing the teachings of its founder. The ideas of the Academy were transmitted to the Arab world and, from there, to Medieval Europe. The word academy and its derivatives are now used in almost all languages for notions associated with higher learning, the scholarly community and prestigious cultural institutions.<br />\r\nThe coin was issued in bankrolls, in Proof quality along with the proof year set and in BU quality on a coincard blister.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e3dce6394194.jpg\"Group=\"bb202651364\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e3dce6394194.jpg\" alt=\"\" width=\"200\" height=\"216\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e3dce745c7aa.jpg\"Group=\"bb202651364\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e3dce745c7aa.jpg\" alt=\"\" width=\"200\" height=\"149\" /></a>",
+    "tags": [
+        "Map",
+        "Education",
+        "Philosopher"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "252"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "201"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "Hellenic Republic",
+        "picture": "https://en.numista.com/catalogue/photos/grece/1526-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/1526-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        }
+    ]
+}

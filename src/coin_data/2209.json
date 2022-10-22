@@ -1,0 +1,247 @@
+{
+    "id": 2209,
+    "url": "https://en.numista.com/catalogue/pieces2209.html",
+    "title": "2 Euro (Treaty of Rome)",
+    "category": "coin",
+    "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+    },
+    "min_year": 2007,
+    "max_year": 2007,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 151,
+            "name": "Juan Carlos I",
+            "wikidata_id": "Q19943",
+            "group": {
+                "id": 44,
+                "name": "House of Bourbon"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9004,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Helmut Andexlinger"
+        ],
+        "description": "The coin shows the Treaty document signed by the six founding countries on a background evoking the paving (designed by Michelangelo) of the Piazza del Campidoglio in Rome, where the signing took place on 25 March 1957. \u2018Treaty of Rome 50 years\u2019, \u2018EUROPE\u2019 and the name of the issuing country appear in the respective languages of the euro area or in Latin. Thus, the legend differs from country to country, but the image is the same. The Treaty of Rome established the European Economic Community and ultimately led to the introduction of the euro in 1999 and the euro banknotes and coins in 2002. The anniversary was celebrated on 25 March 2007. The euro area countries have marked the occasion by jointly issuing this commemorative coin. Its design was selected following a competition organised by the European mints. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "TRATADO DE ROMA\r\n50 A\u00d1OS\r\nEUROPA\r\n2007 M\r\nESPA\u00d1A",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Treaty of Rome\r\n50 Years\r\nEurope\r\nSpain",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/62806e07ba9617.05501076-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62806e07ba9617.05501076-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/espagne/62806e0917e3f0.21397890-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62806e0917e3f0.21397890-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "series": "Treaty of Rome",
+    "commemorated_topic": "50th Anniversary of the Treaty of Rome",
+    "related_types": [
+        {
+            "id": 2163,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "autriche",
+                "name": "Austria"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2167,
+            "title": "2 Euro - Albert II (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2205,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2161,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2162,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2213,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "grece",
+                "name": "Greece"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2211,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2210,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "italie",
+                "name": "Italy"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2212,
+            "title": "2 Euro - Henri I (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "luxembourg",
+                "name": "Luxembourg"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2207,
+            "title": "2 Euro - Beatrix (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2206,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        },
+        {
+            "id": 2208,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "country": {
+                "code": "slovenie",
+                "name": "Slovenia"
+            },
+            "minYear": 2007,
+            "maxYear": 2007
+        }
+    ],
+    "tags": [
+        "Map",
+        "Treaty"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "1130"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "414"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 * * 2 * * 2 * * 2 * * 2 * * 2 * *",
+        "picture": "https://en.numista.com/catalogue/photos/espagne/3373-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/espagne/3373-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "24",
+            "name": "Royal Mint of Spain"
+        }
+    ]
+}

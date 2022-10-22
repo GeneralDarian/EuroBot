@@ -1,0 +1,94 @@
+{
+    "id": 7639,
+    "url": "https://en.numista.com/catalogue/pieces7639.html",
+    "title": "2 Euro (Lusophony Games)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2009,
+    "max_year": 2009,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "J. Aur\u00e9lio"
+        ],
+        "description": "A gymnast swirling a long ribbon and the Portuguese shield at the top together with the name of the issuing country. At the bottom, the legend \u20182.os JOGOS DA LUSOFONIA LISBOA\u2019 is inscribed between the initials \u2018INCM\u2019 on the left and the artist's name \u2018J. AUR\u00c9LIO\u2019 on the right. The year \u20182009\u2019 appears above the gymnast. The coin's outer ring shows the 12 stars of the European Union on a background of concentric circular lines.",
+        "lettering": "PORTUGAL\r\n2.os JOGOS DA LUSOFONIA LISBOA\r\n2009\r\nINCM\r\nJ.AUR\u00c9LIO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Portugal\r\n2nd Lusophony Games Lisbon\r\n2009\r\nINCM\r\nJ.AUR\u00c9LIO",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/4610-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/4610-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/4611-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/4611-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "commemorated_topic": "2nd Lusophony Games",
+    "comments": "The coin was issued to mark the games held for Portuguese-speaking countries.",
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "786"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: seven castles and five Coats of Arms",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3779-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3779-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

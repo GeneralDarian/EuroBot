@@ -1,0 +1,107 @@
+{
+    "id": 129,
+    "url": "https://en.numista.com/catalogue/pieces129.html",
+    "title": "1 Euro Cent",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2002,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "1 Euro Cent",
+        "numeric_value": 0.01,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Copper plated steel"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Eugenio Driutti"
+        ],
+        "description": "The Castel del Monte, a 13th-century castle situated in the Apulia region of southeast Italy with the mintmark, the monogram RI of the Italian Republic, and the initial of the author below and the twelve five-pointed stars representing the European Union around the rim",
+        "lettering": "2012\r\nED RI R",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/61fccce824b820.92416870-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61fccce824b820.92416870-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+        "lettering": "1 EURO CENT LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/italie/61fccce8c39305.18290716-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/61fccce8c39305.18290716-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "Although still legal tender, these coins are no longer issued for circulation as of 2018. Cash transactions are now rounded to the nearest 5 Cents.<br />\r\n<br />\r\nThere are small differences between 2016 and 2017.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c0837691ae44.jpg\"Group=\"bb246620784\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c0837691ae44.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "tags": [
+        "Castle or fortification",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "210"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "228"
+        }
+    ],
+    "weight": 2.3,
+    "size": 16.25,
+    "thickness": 1.67,
+    "orientation": "medal",
+    "edge": {
+        "description": "Smooth",
+        "picture": "https://en.numista.com/catalogue/photos/italie/2318-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/2318-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

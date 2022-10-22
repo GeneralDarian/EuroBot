@@ -1,0 +1,108 @@
+{
+    "id": 134283,
+    "url": "https://en.numista.com/catalogue/pieces134283.html",
+    "title": "2 Euro (Bleuet de France; Colored)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled, coloured"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "description": "The design features the colored cornflower in the center of the coin. It is surrounded by the words \u2018Le Bleuet de France, fleur de m\u00e9moire et de solidarit\u00e9\u2019 (Bleuet of France, flower of remembrance and solidarity). The dates \u20181918-2018\u2019 as well as the letters RF for R\u00e9publique Fran\u00e7aise (French Republic) and the mint marks are also included in the design.",
+        "lettering": "Le Bleuet de France, fleur de m\u00e9moire et de solidarit\u00e9 \r\nR F\r\n1918 - 2018",
+        "lettering_translation": "Blue cornflower of France, the flower of memory and solidarity 1918-2018",
+        "picture": "https://en.numista.com/catalogue/photos/france/10300-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/10300-180.jpg"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/france/10301-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/10301-180.jpg"
+    },
+    "commemorated_topic": "100th Anniversary of the end of the First World War (Bleuet de France)",
+    "comments": "For 100 years, the cornflower (Bleuet de France) has been the flower of remembrance and solidarity in France. It started as a means of helping injured veterans of the First World War, but before long had been adopted by the whole French nation as a symbol of gratitude for the sacrifices the soldiers had made to defend their country and their ideals.<br />\r\n<br />\r\nToday, as in the past, the cornflower still provides moral and financial support to veterans and victims of wars past and present and to victims of terrorism.<br />\r\n<br />\r\nIt also helps pass on to young people standards and values such as respect, peace and tolerance. This flower of remembrance honors all those who fought and are still fighting for our freedom today.",
+    "related_types": [
+        {
+            "id": 134685,
+            "title": "2 Euro (Bleuet de France)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2018,
+            "maxYear": 2018
+        }
+    ],
+    "tags": [
+        "Map",
+        "War",
+        "Flower"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "2458.1"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "28 (Ed.2019)"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    }
+}

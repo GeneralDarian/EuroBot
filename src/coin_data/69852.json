@@ -1,0 +1,141 @@
+{
+    "id": 69852,
+    "url": "https://en.numista.com/catalogue/pieces69852.html",
+    "title": "2 Euro (Jean Sibelius)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2015,
+    "max_year": 2015,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Nora Tapper"
+        ],
+        "description": "At the inner part of the coin is sky with stars, tree tops at the right. The text \u2018JEAN SIBELIUS\u2019 and the year of issuance \u20182015\u2019 are placed at the left inner part of the coin. At the right is the indication of the issuing country \u2018FI\u2019 and the mint mark. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "2015 FI\r\nJEAN SIBELIUS",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1191-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1191-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1192-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1192-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "commemorated_topic": "150th Anniversary of the Birth of Jean Sibelius",
+    "comments": "Internationally, Jean Sibelius (1865\u20131957) is Finland&#039;s most successful composer. He has been and still is a strong influence on many composers in Finland and abroad. <br />\r\n<br />\r\nJean Sibelius&#039; best-known works include Symphonies 1\u20137, Finlandia, Valse triste, Violin Concerto in D minor, Op. 47 and, drawing their inspiration from the Kalevala tradition of Finnish folk poetry, Kullervo and the Karelia Suite.",
+    "related_types": [
+        {
+            "id": 214645,
+            "title": "10 Euro (Jean Sibelius)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        },
+        {
+            "id": 321104,
+            "title": "100 Euro (Jean Sibelius)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2015,
+            "maxYear": 2015
+        }
+    ],
+    "tags": [
+        "Map",
+        "Birth anniversary",
+        "Artist"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "233"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "224"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SUOMI FINLAND",
+        "lettering_translation": "Finland Finland",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1146-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1146-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": 142707,
+    "url": "https://en.numista.com/catalogue/pieces142707.html",
+    "title": "2 Euro - Albert II (250th Anniversary of the birth of Fran\u00e7ois-Joseph Bosio)",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2018,
+    "max_year": 2018,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 3127,
+            "name": "Albert II",
+            "wikidata_id": "Q3910",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel clad nickel brass centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design shows Mr. Bosio and a statue as the background image, the country name at the top of the image in a semi-circle. At the bottom, in a semi-circle as well, there are two inscriptions: \u2018FRAN\u00c7OIS JOSEPH BOSIO\u2019 and underneath \u20181768 \u2013 SCULPTEUR - 2018\u2019. At the left and right sides of these two inscriptions, there are the mintmark and the mint master mark. The coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "MONACO\r\nFRAN\u00c7OIS-JOSEPH BOSIO\r\n1768 SCULPTEUR 2018",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/1061-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/1061-180.jpg",
+        "picture_copyright": "boule02de"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/1062-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/1062-180.jpg",
+        "picture_copyright": "boule02de"
+    },
+    "commemorated_topic": "250th anniversary of the birth of Fran\u00e7ois-Joseph Bosio",
+    "tags": [
+        "Sculpture",
+        "Map",
+        "Birth anniversary",
+        "Artist"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC211"
+        },
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "207"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Inscripted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **"
+    }
+}

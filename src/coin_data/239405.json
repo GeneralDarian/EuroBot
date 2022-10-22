@@ -1,0 +1,104 @@
+{
+    "id": 239405,
+    "url": "https://en.numista.com/catalogue/pieces239405.html",
+    "title": "2 Euro (Medical research)",
+    "category": "coin",
+    "issuer": {
+        "code": "france",
+        "name": "France"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 11,
+            "name": "Fifth Republic",
+            "wikidata_id": "Q200686",
+            "group": {
+                "id": 89,
+                "name": "Modern France"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9006,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Joaquin Jimenez"
+        ],
+        "description": "The obverse of the coin represents the figuration of the human in union, represented by a face inscribed in a sphere. It faces the infinitely small, represented by fragments of DNA inscribed in a circle. By its oblique axis, this allegory represents the research and its intelligence dominating the infinitely small; studying it and triumphing over the diseases.",
+        "lettering": "UNION\r\nRF\r\n2020",
+        "picture": "https://en.numista.com/catalogue/photos/france/5fa515ac7d75f4.79886106-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/5fa515ac7d75f4.79886106-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/france/5f7acad37bf7b0.67616568-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/5f7acad37bf7b0.67616568-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "Medical research",
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5f7aca46196b0.jpg\"Group=\"bb1533684138\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f7aca46196b0.jpg\" alt=\"\" width=\"199\" height=\"125\" /></a><br />\r\nThe year 2020 was marked by the global health crisis related to covid-19. This event has disrupted our lives to a greater or lesser extent. Nevertheless, this ordeal has often been a vector of cohesion and national unity.<br />\r\nIn order not to forget the positive impulses that were born and to capitalize on the future, we owe it to ourselves to come together. As always in health issues, research is an essential key to the struggle we are waging. After having thanked the medical staff and all the people mobilized at the heart of this crisis by creating the medal \u201cMerci\u201d, Monnaie de Paris is continuing its action by creating a \u20ac2 commemorative collection to support research. For every \u20ac2 Medical Research coin purchased, Monnaie de Paris commits to donate \u20ac2 to Fondation de France.<br />\r\n<br />\r\nMintage for each coincard type (H\u00e9ros, Merci, UNION) is 100.000",
+    "tags": [
+        "Health",
+        "Map",
+        "Science"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "2851"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/france/5f7f5dbc9f65d3.25973208-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/france/5f7f5dbc9f65d3.25973208-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

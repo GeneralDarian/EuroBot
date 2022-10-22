@@ -1,0 +1,127 @@
+{
+    "id": 16900,
+    "url": "https://en.numista.com/catalogue/pieces16900.html",
+    "title": "1 Euro - Albert II (2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "monaco",
+        "name": "Monaco"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3127,
+            "name": "Albert II",
+            "wikidata_id": "Q3910",
+            "group": {
+                "id": 528,
+                "name": "House of Grimaldi"
+            }
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "numerator": "1",
+        "denominator": 1,
+        "currency": {
+            "id": 9015,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Henri Thiebaud"
+        ],
+        "description": "The bust of Albert II facing right with the country name above and the date below",
+        "lettering": "MONACO\r\n2007",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/6054c433766929.75914858-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/6054c433766929.75914858-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "1 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/monaco/6054c4341119f5.83667520-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/6054c4341119f5.83667520-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "<a href=\"https://en.numista.com/catalogue/images/5db99d30283d1.jpg\"Group=\"bb1748721976\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5db99d30283d1.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a0458bb8ff9a.jpg\"Group=\"bb1748721976\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a0458bb8ff9a.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+    "related_types": [
+        {
+            "id": 5034,
+            "title": "1 Euro - Albert II (1st map)",
+            "category": "coin",
+            "country": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "minYear": 2006,
+            "maxYear": 2006
+        }
+    ],
+    "tags": [
+        "Map",
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "194"
+        },
+        {
+            "catalogue": {
+                "id": 109,
+                "code": "Gad"
+            },
+            "number": "MC193"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Alternating segments: three smooth, three finely ribbed",
+        "picture": "https://en.numista.com/catalogue/photos/monaco/839-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/monaco/839-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "15",
+            "name": "Paris Mint"
+        }
+    ]
+}

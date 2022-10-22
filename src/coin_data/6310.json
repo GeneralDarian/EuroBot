@@ -1,0 +1,120 @@
+{
+    "id": 6310,
+    "url": "https://en.numista.com/catalogue/pieces6310.html",
+    "title": "1 Euro - Albert II (2nd map, 2nd type, 1st portrait)",
+    "category": "coin",
+    "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+    },
+    "min_year": 2009,
+    "max_year": 2013,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 1170,
+            "name": "Albert II",
+            "wikidata_id": "Q3911",
+            "group": {
+                "id": 530,
+                "name": "House of Belgium"
+            }
+        }
+    ],
+    "value": {
+        "text": "1 Euro",
+        "numeric_value": 1,
+        "currency": {
+            "id": 9003,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jan Alfons Keustermans"
+        ],
+        "lettering": "A II\r\nBE\r\n2012",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/6054bff45c8522.40871023-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/6054bff45c8522.40871023-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders",
+        "lettering": "1 EURO LL",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/6054bff4ecbde1.15546275-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/6054bff4ecbde1.15546275-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "comments": "Privy marks:<ul><li>Scales, Mint Master Romain Coenen, 1987-2009<br />\r\n</li><li>Goose quill, Mint Master Serge Lesens, 2009-2012<br />\r\n</li><li>Cat, Mint Master Bernard Giillard, 2013-<br />\r\n</li></ul>",
+    "related_types": [
+        {
+            "id": 77,
+            "title": "1 Euro - Albert II (1st map, 1st type, 1st portrait)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 1999,
+            "maxYear": 2006
+        }
+    ],
+    "tags": [
+        "Monarch"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "301"
+        },
+        {
+            "catalogue": {
+                "id": 192,
+                "code": "LA"
+            },
+            "number": "BEM-7.3b"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "263"
+        }
+    ],
+    "weight": 7.5,
+    "size": 23.25,
+    "thickness": 2.33,
+    "orientation": "medal",
+    "edge": {
+        "description": "Segmented reeding",
+        "picture": "https://en.numista.com/catalogue/photos/belgique/2694-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2694-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1338",
+            "name": "Brussels"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": 200469,
+    "url": "https://en.numista.com/catalogue/pieces200469.html",
+    "title": "2 Euro (Maria Montessori)",
+    "category": "coin",
+    "issuer": {
+        "code": "italie",
+        "name": "Italy"
+    },
+    "min_year": 2020,
+    "max_year": 2020,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1164,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9010,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Luciana De Simoni"
+        ],
+        "description": "A portrait of Maria Montessori in a geometric composition with some didactic elements drawn from her educational system. In the right field, \u2018RI\u2019, an acronym of the Italian Republic; on the left, \u2018R\u2019, identifying the Mint of Rome; on the right, \u2018LDS\u2019, initials of the designer Luciana De Simoni; at the top and bottom, the dates \u20181870\u2019 and \u20182020\u2019, the year of birth of the Italian pedagogue and that of coin\u2019s issue, respectively; around the portrait, the inscription\r\n\u2018MARIA MONTESSORI\u2019.\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "1870\r\nRI\r\nMARIA MONTESSORI\r\nR\r\nLDS\r\n2020",
+        "picture": "https://en.numista.com/catalogue/photos/italie/62d147e7c51de0.28485464-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/62d147e7c51de0.28485464-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "picture": "https://en.numista.com/catalogue/photos/italie/62d147e8324564.97314499-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/italie/62d147e8324564.97314499-180.jpg",
+        "picture_copyright": "adinumismatics"
+    },
+    "commemorated_topic": "150th Anniversary of the Birth of Maria Montessori",
+    "tags": [
+        "Birth anniversary",
+        "Map"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 *\" alternately upright and inverted.",
+        "lettering": "2 * 2 * 2 * 2 * 2 * 2 *"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

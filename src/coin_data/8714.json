@@ -1,0 +1,135 @@
+{
+    "id": 8714,
+    "url": "https://en.numista.com/catalogue/pieces8714.html",
+    "title": "2 Euro (2nd type, 2nd map)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2007,
+    "max_year": 2022,
+    "type": "Standard circulation coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Raimo Isma Heino"
+        ],
+        "description": "Cloudberries and cloudberry flowers, the emblem of Finland, are encircled by the twelve stars of Europe",
+        "lettering": "2007 FI",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/951-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/951-180.jpg",
+        "picture_copyright": "Mon\u00e9phil"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "New map of eurozone",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/952-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/952-180.jpg",
+        "picture_copyright": "Mon\u00e9phil"
+    },
+    "related_types": [
+        {
+            "id": 96,
+            "title": "2 Euro (1st type, 1st map)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 1999,
+            "maxYear": 2006
+        },
+        {
+            "id": 259433,
+            "title": "2 euro (1st type, 2nd map, type hybride)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2006,
+            "maxYear": 2006
+        }
+    ],
+    "tags": [
+        "Map",
+        "Flower"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "130"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "133"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: \"SUOMI FINLAND\" (Finland in Finnish and Swedish) and three lion's heads",
+        "lettering": "SUOMI FINLAND",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1257-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1257-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        },
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

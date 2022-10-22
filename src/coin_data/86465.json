@@ -1,0 +1,113 @@
+{
+    "id": 86465,
+    "url": "https://en.numista.com/catalogue/pieces86465.html",
+    "title": "2 Euro (Dimitris Mitropoulos)",
+    "category": "coin",
+    "issuer": {
+        "code": "grece",
+        "name": "Greece"
+    },
+    "min_year": 2016,
+    "max_year": 2016,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1254,
+            "name": "Third Hellenic Republic",
+            "wikidata_id": "Q17765809"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9008,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "George Stamatopoulos"
+        ],
+        "description": "The design features the portrait of Dimitri Mitropoulos against the background of music notes. Inscribed along the inner edge at left is the wording \u2018120 YEARS OF THE BIRTH OF DIMITRI MITROPOULOS\u2019 and \u2018HELLENIC REPUBLIC\u2019, in Greek. At upper left apears the year of issuance \u20182016\u2019 and a palmette (the mintmark of the Greek Mint). Visible at lower right is the monogram of the artist (George Stamatopoulos).\r\nThe coin\u2019s outer ring depicts the 12 stars of the European flag.",
+        "lettering": "120 \u03a7\u03a1\u039f\u039d\u0399\u0391 \u0391\u03a0\u039f \u03a4\u0397 \u0393\u0395\u039d\u039d\u0397\u03a3\u0397 \u03a4\u039f\u03a5 \u0394\u0397\u039c\u0397\u03a4\u03a1\u0397 \u039c\u0397\u03a4\u03a1\u039f\u03a0\u039f\u03a5\u039b\u039f\u03a5\r\n\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391 2016",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "120 YEARS FROM THE BIRTH OF DIMITRI MITROPOULOS\r\nHELLENIC REPUBLIC 2016",
+        "picture": "https://en.numista.com/catalogue/photos/grece/62908e76b2a2a4.62536818-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/62908e76b2a2a4.62536818-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/grece/62908e77e16dc0.41429399-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/62908e77e16dc0.41429399-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "120 Years from the Birth of Dimitris Mitropoulos",
+    "comments": "Dimitri Mitropoulos (1896-1960) was a significant composer, pianist and one of the greatest orchestra conductors of the 20th century. His long tenure as Music Director of the New York Philharmonic and the worldwide acclaim that he won established him as a prominent figure in the arts scene of modern Greece.<br />\r\nThe coin was issued in bankrolls, in Proof quality in box with certificate of authenticity and in BU quality on a coincard blister.<br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dc33fb29cc52.jpg\"Group=\"bb2135937085\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc33fb29cc52.jpg\" alt=\"\" width=\"176\" height=\"249\" /></a><br />\r\n<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dc3405b587a1.jpg\"Group=\"bb2135937085\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc3405b587a1.jpg\" alt=\"\" width=\"188\" height=\"250\" /></a>",
+    "tags": [
+        "Music",
+        "Birth anniversary",
+        "Map"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "280"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with lettering",
+        "lettering": "\u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0399\u0391",
+        "lettering_scripts": [
+            {
+                "name": "Greek"
+            }
+        ],
+        "lettering_translation": "HELLENIC REPUBLIC",
+        "picture": "https://en.numista.com/catalogue/photos/grece/1533-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/grece/1533-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1889",
+            "name": "The National Mint of the Bank of Greece"
+        }
+    ]
+}

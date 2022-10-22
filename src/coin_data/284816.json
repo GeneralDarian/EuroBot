@@ -1,0 +1,115 @@
+{
+    "id": 284816,
+    "url": "https://en.numista.com/catalogue/pieces284816.html",
+    "title": "2 Euro (100th Anniversary of Autonomy of \u00c5land Islands)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2021,
+    "max_year": 2021,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "Depicts the archipelago landscape of the \u00c5land Islands, a shipping route with nautical signs, the bow of a boat and a hand holding a compass, clouds above. Surrounded by the inscription '100th Anniversary of Autonomy of \u00c5land Islands' above in Swedish and below in Finnish separated by two diamond-shaped sea buoys.",
+        "lettering": "\u00c5LANDS SJ\u00c4LVSTYRELSE 100 \u00c5R\r\n2021 FI\r\nAHVENANMAAN ITSEHALLINTO 100 VUOTTA",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "\u00c5LAND'S SELF-GOVERNANCE 100 YEARS\r\n2021 FI\r\n\u00c5LAND'S SELF-GOVERNMENT 100 YEARS",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/61291a44a3bcf3.13029055-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/61291a44a3bcf3.13029055-180.jpg"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean.\r\n12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/61291a4507a007.89297527-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/61291a4507a007.89297527-180.jpg"
+    },
+    "commemorated_topic": "100th Anniversary of Autonomy of \u00c5land Islands",
+    "comments": "\u00c5land (Finnish: Ahvenanmaa) is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland. It is an autonomous and demilitarised region of Finland since 1920 by a decision of the League of Nations, and its only official language is Swedish. It is the smallest region of Finland, constituting 0.51% of its land area and 0.54% of its population. Mariehamn is the capital city of \u00c5land.<br />\r\n<br />\r\n\u00c5land comprises Fasta \u00c5land on which 90% of the population resides and a further 6,500 skerries and islands to its east. Of \u00c5land&#039;s thousands of islands, 60 are inhabited. Fasta \u00c5land is separated from the coast of Roslagen in Sweden by 38 kilometres (24 mi) of open water to the west. In the east, the \u00c5land archipelago is contiguous with the Finnish Archipelago Sea. \u00c5land&#039;s only land border is located on the uninhabited skerry of M\u00e4rket, which it shares with Sweden. From Mariehamn, there is a ferry distance of about 160 kilometres (99 mi) to Turku, a coastal city of mainland Finland, and also to Stockholm, the capital of Sweden.<br />\r\n<br />\r\n\u00c5land&#039;s autonomous status means that those provincial powers normally exercised by representatives of the central Finnish government are largely exercised by its own government. The current demilitarised, neutral position of \u00c5land dates back to the days of the Paris Peace Treaty after the \u00c5land War in the 1850s.",
+    "related_types": [
+        {
+            "id": 311627,
+            "title": "20 Euro (100th Anniversary of Autonomy of \u00c5land Islands)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2021,
+            "maxYear": 2021
+        }
+    ],
+    "tags": [
+        "Map",
+        "Sea"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "299"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded and lettered with SUOMI FINLAND (the name of the country in Finnish and Swedish, its two official languages) and contains three lion heads.",
+        "lettering": "SUOMI FINLAND",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/619a65199d3721.51451301-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/619a65199d3721.51451301-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

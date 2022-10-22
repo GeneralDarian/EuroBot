@@ -1,0 +1,98 @@
+{
+    "id": 15315,
+    "url": "https://en.numista.com/catalogue/pieces15315.html",
+    "title": "2 Euro (Portuguese Republic)",
+    "category": "coin",
+    "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+    },
+    "min_year": 2010,
+    "max_year": 2010,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1295,
+            "name": "Third Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9013,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Jos\u00e9 C\u00e2ndido"
+        ],
+        "description": "The coin commemorates the 100th anniversary of the end of the constitutional monarchy of King Manuel II and the establishment of the Portuguese Republic following the revolution of 5 October 1910. The coin\u2019s outer ring bears the 12 stars of the European Union.",
+        "lettering": "REP\u00daBLICA PORTUGUESA\r\n1910\u00b72010\u00b7\r\nINCM JOS\u00c9 C\u00c2NDIDO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "Portuguese Republic\r\n1910\u00b72010\u00b7\r\nINCM JOS\u00c9 C\u00c2NDIDO",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/4612-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/4612-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/portugal/4613-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/4613-180.jpg",
+        "picture_copyright": "Ma collection de monnaies",
+        "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+    },
+    "commemorated_topic": "100th Anniversary of the Portuguese Republic",
+    "tags": [
+        "Coat of Arms"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "796"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: seven castles and five coats of arms",
+        "picture": "https://en.numista.com/catalogue/photos/portugal/3784-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3784-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    }
+}

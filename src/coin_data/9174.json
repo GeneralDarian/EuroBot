@@ -1,0 +1,109 @@
+{
+    "id": 9174,
+    "url": "https://en.numista.com/catalogue/pieces9174.html",
+    "title": "2 Euro (Autonomy)",
+    "category": "coin",
+    "issuer": {
+        "code": "finlande",
+        "name": "Finland"
+    },
+    "min_year": 2009,
+    "max_year": 2009,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 3291,
+            "name": "Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9005,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Reijo Juhani Paavilainen"
+        ],
+        "description": "The first Diet of Finland met in 1809 in Porvoo, so the coin shows a profile of Porvoo cathedral, where the opening ceremony took place, and \u20181809\u2019 written in stylised numbering above. To its left is the country code, \u2018FI\u2019, and to its right is the year of issue, \u20182009\u2019. The 12 stars of the European Union appear on the outer ring.",
+        "lettering": "1809\r\nFI\r\n2009",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/626fa1b092ca39.74072531-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/626fa1b092ca39.74072531-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/finlande/626fa1b19d0ed7.56621793-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/626fa1b19d0ed7.56621793-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "200th Anniversary of Autonomy - Anniversary of the Diet of Porvoo",
+    "tags": [
+        "Religious building"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "149"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "147"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded with inscription",
+        "lettering": "SUOMI FINLAND",
+        "picture": "https://en.numista.com/catalogue/photos/finlande/1224-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1224-180.jpg",
+        "picture_copyright": "Cyrillius",
+        "picture_license_name": "CC BY",
+        "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "1334",
+            "name": "Mint of Finland"
+        }
+    ]
+}

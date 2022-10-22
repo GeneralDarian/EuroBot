@@ -1,0 +1,114 @@
+{
+    "id": 2192,
+    "url": "https://en.numista.com/catalogue/pieces2192.html",
+    "title": "2 Euro - Henri I (Monogramme)",
+    "category": "coin",
+    "issuer": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+    },
+    "min_year": 2004,
+    "max_year": 2004,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 1575,
+            "name": "Henri",
+            "wikidata_id": "Q16004",
+            "group": {
+                "id": 129,
+                "name": "Grand Dukes of Nassau-Weilburg"
+            }
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "currency": {
+            "id": 9011,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Yvette Gastauer-Claire"
+        ],
+        "description": "The effigy of His Royal Highness, Grand-Duke Henri on the left side of the coin facing right with the monogram of Grand-Duke Henri (special letter 'H' topped with a crown) to the right. The 12 stars around the inner ring in a semi-circular form appear at the right of the monogram. The year 2004, surrounded by the mint mark as well as the engraver's initials, and the word L\u00cbTZEBUERG are written in circular form at the top of the ring. The words 'HENRI \u2014 Grand-Duc de Luxembourg' appear at the bottom of the ring.",
+        "lettering": "2004 L\u00cbTZEBUERG\r\nHENRI - Grand-Duc de Luxembourg\r\nCG",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "lettering_translation": "2004 Luxembourg\r\nHENRI - Grand-Duke of Luxembourg\r\nCG",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/5fcdc50352ea19.21944507-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/5fcdc50352ea19.21944507-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "reverse": {
+        "engravers": [
+            "Luc Luycx"
+        ],
+        "description": "A map, next to the face value, shows the European continent without borders.",
+        "lettering": "2 EURO LL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/5fcdc503d72be3.91961575-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/5fcdc503d72be3.91961575-180.jpg",
+        "picture_copyright": "Mike Bentley"
+    },
+    "commemorated_topic": "80th Anniversary of the use of Monograms on Luxemburgish Coins",
+    "comments": "Annual BU set:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f9881aaaf49e.jpg\"Group=\"bb1276996196\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f9881aaaf49e.jpg\" alt=\"\" width=\"200\" height=\"114\" /></a><br />\r\nCoincard BU:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f9881b23213a.jpg\"Group=\"bb1276996196\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f9881b23213a.jpg\" alt=\"\" width=\"200\" height=\"123\" /></a>",
+    "tags": [
+        "Map",
+        "Monarch",
+        "Monogram"
+    ],
+    "references": [
+        {
+            "catalogue": {
+                "id": 3,
+                "code": "KM"
+            },
+            "number": "85"
+        },
+        {
+            "catalogue": {
+                "id": 24,
+                "code": "Sch\u00f6n"
+            },
+            "number": "76"
+        }
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely ribbed with edge lettering: six times the sequence \"2 * * \" alternately upright and inverted",
+        "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+        "picture": "https://en.numista.com/catalogue/photos/luxembourg/1306-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1306-180.jpg",
+        "picture_copyright": "Cyrillius"
+    },
+    "mints": [
+        {
+            "id": "23",
+            "name": "Utrecht"
+        }
+    ]
+}

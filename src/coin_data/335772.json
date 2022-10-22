@@ -1,0 +1,102 @@
+{
+    "id": 335772,
+    "url": "https://en.numista.com/catalogue/pieces335772.html",
+    "title": "2 Euro - Franciscus (Mother Teresa of Calcutta)",
+    "category": "coin",
+    "issuer": {
+        "code": "vatican",
+        "name": "Vatican City"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Non-circulating coin",
+    "ruler": [
+        {
+            "id": 1525,
+            "name": "Francis"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9016,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring (Ring: 75% Cu, 25% Ni.    Core: 75% Cu, 20% Zn, 5% Ni)"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "engravers": [
+            "Silvia Petrassi"
+        ],
+        "description": "Mother Teresa holding an Indian child in her arms, looking at him with a maternal expression",
+        "lettering": "MADRE TERESA DI CALCUTA\r\nR\r\n1997\r\n2022\r\nO.ROSSI \r\n\u2022 CITTA\u2018 DEL VATICANO",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/62ecb6a2c7d268.93121020-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/62ecb6a2c7d268.93121020-180.jpg",
+        "picture_copyright": "Ufficio Filatelico Numismatico Vaticano",
+        "picture_copyright_url": "https://www.ufn.va/en/"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO \r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/62ecb6a30527b4.81813200-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/62ecb6a30527b4.81813200-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "commemorated_topic": "25th Anniversary of the death of Mother Teresa of Calcutta",
+    "comments": "In 1997 at the age of 87 the earthly life of Mother Teresa of Calcutta came to an end. The Vatican State Mint dedicates its two euro coin, a dual brilliant uncirculated and proof version, to her life and work. Our artist Orietta Rossi features on the reverse of the coin Mother Teresa holding an Indian child in her arms, looking at him with a maternal expression. This moving image reflects all the love, commitment and dedication that Mother Teresa offered to alleviate the suffering of the \u201cpoorest of the poor.\u201d Born in 1910 in Skopje, the present-day Republic of North Macedonia, she was raised according to the precepts of the Catholic Church. At a very young age she became interested in the work of missionaries in India and, after taking her vows, devoted her entire life to aiding and protecting the most needy. The Congregation of the \u201cMissionaries of Charity,\u201d which she founded, was recognized by Pope Pius XII in 1950. Since then they have established a presence in numerous countries throughout Europe, Africa, Asia and Oceania.",
+    "tags": [
+        "Map",
+        "Death anniversary",
+        "Hand",
+        "Religious figure"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Finely reeded with edge lettering: six times the sequence \"2 * \" alternately upright and inverted.",
+        "lettering": "2\u26052\u26052\u26052\u26052\u26052\u2605",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/vatican/62ecb6a341d661.38869953-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/vatican/62ecb6a341d661.38869953-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "22",
+            "name": "Istituto Poligrafico e Zecca dello Stato"
+        }
+    ]
+}

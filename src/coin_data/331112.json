@@ -1,0 +1,301 @@
+{
+    "id": 331112,
+    "url": "https://en.numista.com/catalogue/pieces331112.html",
+    "title": "2 Euro (Erasmus Programme)",
+    "category": "coin",
+    "issuer": {
+        "code": "autriche",
+        "name": "Austria"
+    },
+    "min_year": 2022,
+    "max_year": 2022,
+    "type": "Circulating commemorative coin",
+    "ruler": [
+        {
+            "id": 149,
+            "name": "Second Republic"
+        }
+    ],
+    "value": {
+        "text": "2 Euro",
+        "numeric_value": 2,
+        "numerator": "2",
+        "denominator": 1,
+        "currency": {
+            "id": 9002,
+            "name": "Euro",
+            "full_name": "Euro (2002-date)"
+        }
+    },
+    "demonetization": {
+        "is_demonetized": false
+    },
+    "shape": "Round",
+    "composition": {
+        "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+    },
+    "technique": {
+        "text": "Milled"
+    },
+    "obverse": {
+        "description": "The design is a mix of two major elements of the Erasmus programme: the original intellectual inspiration, Erasmus himself, and the allegory of its influence over Europe. The first one is symbolised by one of the most known depiction of Erasmus. The second one is symbolised by a beam of links going across the coin from a beacon to another, representing the numerous intellectual and human exchanges between the European students. As a reference to Europe, some of these links form other stars, born from the synergy between the countries. The figure 35, for 35th anniversary comes out from the stars in a contemporary graphical style.\r\nThe outer ring depicts the twelve stars of the European flag.",
+        "lettering": "J.J.\r\n1987-2022\r\nERASMUS\r\nPROGRAMM\r\nREPUBLIK \u00d6STERREICH",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/62cfd1f12ce560.70782438-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/62cfd1f12ce560.70782438-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "reverse": {
+        "description": "A geographical map of Western Europe spans the outer ring and inner core on the right side of the coin. The inscription 2 EURO is superimposed over the map of Europe, with the numeral \u201c2\u201d located in an open field representing the eastern Atlantic Ocean. 12 stars are located on the right side of the outer ring, with six stars atop the map of Europe and six stars below it; six vertical stripes cut across the inner core of the coin, visually connecting the upper and lower star segments.",
+        "lettering": "2 EURO\r\nLL",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/62cfd1f1862241.59223524-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/62cfd1f1862241.59223524-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "series": "Erasmus Programme",
+    "commemorated_topic": "35 Years of the Erasmus Programme.",
+    "related_types": [
+        {
+            "id": 331208,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "belgique",
+                "name": "Belgium"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 319134,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331415,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "estonie",
+                "name": "Estonia"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331204,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331022,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "france",
+                "name": "France"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 324867,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "allemagne",
+                "name": "Germany, Federal Republic of"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331432,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "grece",
+                "name": "Greece"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 319135,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331445,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "italie",
+                "name": "Italy"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331196,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "lettonie",
+                "name": "Latvia"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 323472,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "lituanie",
+                "name": "Lithuania"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331428,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "luxembourg",
+                "name": "Luxembourg"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 319136,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331447,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "pays-bas",
+                "name": "Netherlands"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 327887,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331026,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "slovaquie",
+                "name": "Slovakia"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 320109,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "slovenie",
+                "name": "Slovenia"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        },
+        {
+            "id": 331425,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "country": {
+                "code": "espagne",
+                "name": "Spain"
+            },
+            "minYear": 2022,
+            "maxYear": 2022
+        }
+    ],
+    "tags": [
+        "Education",
+        "Philosopher",
+        "Hand",
+        "Hat",
+        "Map"
+    ],
+    "weight": 8.5,
+    "size": 25.75,
+    "thickness": 2.2,
+    "orientation": "medal",
+    "edge": {
+        "description": "Reeded",
+        "lettering": "2 EURO *** 2 EURO *** 2 EURO *** 2 EURO ***",
+        "lettering_scripts": [
+            {
+                "name": "Latin"
+            }
+        ],
+        "picture": "https://en.numista.com/catalogue/photos/autriche/62cfd1f1c95b38.03402891-original.jpg",
+        "thumbnail": "https://en.numista.com/catalogue/photos/autriche/62cfd1f1c95b38.03402891-180.jpg",
+        "picture_copyright": "albinh",
+        "picture_license_name": "CC BY-NC-SA",
+        "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    "mints": [
+        {
+            "id": "232",
+            "name": "Vienna"
+        }
+    ]
+}
