@@ -1,5 +1,6 @@
 import logging
 
+
 def checkSumValidator(n: str) -> list:
     """Displays information about a euro banknote checksum
     Input: The banknote
@@ -96,12 +97,15 @@ def checkSumValidator(n: str) -> list:
 
     # Calculates the digital root, compares it to checksum, and also ensures that the length is correct
     try:
-        if (int(checksum) - 1) % 9 + 1 == serieschecksums[n[0].lower()][1] and len(n) == 13:
+        if (int(checksum) - 1) % 9 + 1 == serieschecksums[n[0].lower()][1] and len(
+            n
+        ) == 13:
             final.append(True)
         else:
             final.append(False)
     except Exception as error:
-        logging.error(f"!banknote : Function checkSumValidator encountered an error: {error}")
-
+        logging.error(
+            f"!banknote : Function checkSumValidator encountered an error: {error}"
+        )
 
     return final

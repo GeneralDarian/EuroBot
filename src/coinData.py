@@ -1,7 +1,7 @@
 import json
+import logging
 import os
 import sys
-import logging
 from pathlib import Path
 from typing import Any, Dict, List, Union
 from uuid import uuid4
@@ -60,7 +60,9 @@ def refreshFiles() -> None:
                     country_json.write(search_results)
                 logging.info(f"Refreshed API for: {country}")
             except Exception as error:
-                logging.error(f"JSON file for {country} could not be created because of {error}, skipping...")
+                logging.error(
+                    f"JSON file for {country} could not be created because of {error}, skipping..."
+                )
 
     logging.info("API Refresh complete")
 

@@ -1,8 +1,9 @@
+import datetime
+import logging
 import os
 import time
 import typing
-import datetime
-import logging
+
 import discord
 from discord.ext import commands, tasks
 from discord.utils import get
@@ -32,8 +33,11 @@ def main():
         activity=activity,
     )
 
-
-    logging.basicConfig(format="[%(asctime)s] [%(levelname)s]: %(message)s (%(filename)s:%(lineno)d)" ,level=logging.INFO, datefmt="%H:%M:%S")
+    logging.basicConfig(
+        format="[%(asctime)s] [%(levelname)s]: %(message)s (%(filename)s:%(lineno)d)",
+        level=logging.INFO,
+        datefmt="%H:%M:%S",
+    )
 
     @client.event
     async def on_ready():
@@ -179,9 +183,7 @@ Here is the location of the euro banknote serials for both Series 1 (top) and Se
         emote_id = (
             findOfTheWeek.EMOTE_ID
         )  # Gets EMOTE_ID which is defined in findOfTheWeek
-        emote_name = (
-            findOfTheWeek.EMOTE_NAME
-        )
+        emote_name = findOfTheWeek.EMOTE_NAME
         channel = client.get_channel(
             int(findOfTheWeek.CHANNEL_ID)
         )  # Gets CHANNEL_ID which is defined in findOfTheWeek
@@ -516,13 +518,12 @@ Examples:
             )
             using_tocoin = False
             return
-        
-        
+
     @client.command()
     async def info(ctx):
         embed = discord.Embed(
             title="/r/EuroCoins - Server and Bot Information",
-            url="https://github.com/GeneralDarian/EuroBot"
+            url="https://github.com/GeneralDarian/EuroBot",
         )
         embed.set_thumbnail(
             url="https://cdn.discordapp.com/icons/555331630206681108/ce006b24f0d5fb90fbbcfc53c17ab4a2"
@@ -530,15 +531,14 @@ Examples:
         embed.add_field(
             name="Server Members",
             value=len([user for user in client.users if not user.bot]),
-            inline=True
+            inline=True,
         )
         traders_role = ctx.message.guild.get_role(int(findOfTheWeek.TRADER_ROLE_ID))
-        embed.add_field(
-            name="Verified Traders",
-            value=len(traders_role.members)
-        )
+        embed.add_field(name="Verified Traders", value=len(traders_role.members))
         guild_creation_time = ctx.message.guild.created_at
-        guild_diff = (datetime.datetime.now(datetime.timezone.utc) - guild_creation_time).days
+        guild_diff = (
+            datetime.datetime.now(datetime.timezone.utc) - guild_creation_time
+        ).days
         guild_creation_value = f"{guild_diff} days old\nCreated {guild_creation_time.strftime('%d. %B %Y')}"
         embed.add_field(
             name="Server is currently...",
@@ -554,7 +554,7 @@ Examples:
         )
         embed.set_footer(
             text="EuroBot is an open source project created by @General Darian ✓ᵛᵉʳᶦᶠᶦᵉᵈ#8498 and @Mango Man#0669. Click on the embed title to visit the bot's github!",
-            icon_url="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+            icon_url="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
         )
         await ctx.send(embed=embed)
 
@@ -568,7 +568,6 @@ Examples:
             return "Eur"
         else:
             return "€"
-
 
     client.run(DISCORD_TOKEN)
 

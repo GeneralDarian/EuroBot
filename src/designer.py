@@ -1,7 +1,8 @@
 #!/usr/bin/python
 
 import argparse
-import os, logging
+import logging
+import os
 from io import BytesIO
 
 import imageio.v2 as imageio

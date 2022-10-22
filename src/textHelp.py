@@ -154,9 +154,7 @@ def tocoin_argument_processor(content: str) -> dict:
         ] = "Invalid arguments given. Arguments must be: <-s>, <-i>, <-nmd>. Arguments may be optional."
         logging.info(f"{already_sigma}, {already_intensity}, {already_NMD}")
     else:
-        arguments[
-            "Status"
-        ] = ""
+        arguments["Status"] = ""
 
     logging.info(f"!tocoin : Processed {content} as {arguments}")
     return arguments

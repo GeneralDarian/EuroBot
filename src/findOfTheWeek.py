@@ -1,8 +1,8 @@
 import os
-
-from dotenv import load_dotenv
 from shutil import copyfile
 from time import time as unixtime
+
+from dotenv import load_dotenv
 
 load_dotenv()
 CHANNEL_ID = os.getenv("FOTW_CHANNEL_ID")
@@ -67,7 +67,7 @@ class findOfTheWeek:
                 return True
             elif str(msg) in self.msgList:
                 self.msgList.remove(str(msg))
-                #print(self.msgList)
+                # print(self.msgList)
                 with open("FOTW.txt", "a") as FOTWFile:
                     FOTWFile.truncate(0)
                     for msg_id in self.msgList:
@@ -80,7 +80,7 @@ class findOfTheWeek:
         """Refreshes the list, intended to be run on Sundays.
         WARNING: Only run this command after checking all messages for emotes!"""
         current_dir = os.getcwd()
-        #Make a copy of the current FOTW file
+        # Make a copy of the current FOTW file
         try:
             os.mkdir(current_dir + "/FOTW_BACKUPS/")
         except FileExistsError:
@@ -90,7 +90,7 @@ class findOfTheWeek:
         try:
             copyfile("FOTW.txt", current_dir + f"/FOTW_BACKUPS/{time}.txt")
         except Exception:
-            pass #log error here
+            pass  # log error here
 
         try:
             with open("FOTW.txt", "a") as FOTWFile:
