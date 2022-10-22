@@ -1,0 +1,28 @@
+[
+    {
+        "id": 280107,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 1500000
+    },
+    {
+        "id": 297084,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 15000,
+        "comment": "In coincard UNC"
+    },
+    {
+        "id": 297083,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 6000,
+        "comment": "Proof"
+    }
+]

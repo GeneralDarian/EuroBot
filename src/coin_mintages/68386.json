@@ -1,0 +1,122 @@
+[
+    {
+        "id": 248909,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 70000,
+        "comment": "In Sets only (Madrid Mint)"
+    },
+    {
+        "id": 585356,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 70000,
+        "comment": "Lots of the entire Euro UNC series distributed to residents of Andorra (Madrid Mint)"
+    },
+    {
+        "id": 248908,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 60000,
+        "comment": "Madrid Mint"
+    },
+    {
+        "id": 285406,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 3000,
+        "comment": "Proof (Madrid Mint)"
+    },
+    {
+        "id": 299374,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 40000,
+        "comment": "In Sets only (Pessac Mint)"
+    },
+    {
+        "id": 346705,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 35000,
+        "comment": "In Sets only (Madrid Mint)"
+    },
+    {
+        "id": 384792,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 22000,
+        "comment": "In Sets only (Pessac Mint)"
+    },
+    {
+        "id": 424438,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 2582395,
+        "comment": "Madrid Mint"
+    },
+    {
+        "id": 419475,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 20000,
+        "comment": "In Sets only (Madrid Mint)"
+    },
+    {
+        "id": 433959,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 3430000,
+        "comment": "Madrid Mint"
+    },
+    {
+        "id": 468694,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 15000,
+        "comment": "In Sets only (Pessac Mint)"
+    },
+    {
+        "id": 484946,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 2447000,
+        "comment": "Pessac Mint"
+    },
+    {
+        "id": 585367,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 12000,
+        "comment": "In Sets only (Madrid Mint)"
+    },
+    {
+        "id": 679226,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 10500,
+        "comment": "In Sets only (Pessac Mint)"
+    },
+    {
+        "id": 679225,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 200000,
+        "comment": "Pessac Mint"
+    }
+]

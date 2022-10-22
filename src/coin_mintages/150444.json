@@ -1,0 +1,20 @@
+[
+    {
+        "id": 412180,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "R",
+        "mintage": 60500,
+        "comment": "Folder BU"
+    },
+    {
+        "id": 432180,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "R",
+        "mintage": 2600,
+        "comment": "Proof"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 145431,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 975000
+    },
+    {
+        "id": 275664,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 5000,
+        "comment": "BU in capsule"
+    },
+    {
+        "id": 145445,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 12000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 149876,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 8000,
+        "comment": "Proof in a box"
+    }
+]

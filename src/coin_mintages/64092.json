@@ -1,0 +1,37 @@
+[
+    {
+        "id": 241121,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "R",
+        "mintage": 6475310
+    },
+    {
+        "id": 280136,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "R",
+        "mintage": 10600,
+        "comment": "BU - In BU sets only (10 coins)"
+    },
+    {
+        "id": 241664,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "R",
+        "mintage": 11000,
+        "comment": "BU - In BU sets only (9 coins)"
+    },
+    {
+        "id": 280135,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "R",
+        "mintage": 3090,
+        "comment": "Proof - From proof mintset (10 coins)"
+    }
+]

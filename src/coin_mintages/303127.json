@@ -1,0 +1,20 @@
+[
+    {
+        "id": 682894,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "R",
+        "mintage": 54000,
+        "comment": "BU Version"
+    },
+    {
+        "id": 682895,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "R",
+        "mintage": 2400,
+        "comment": "Proof Version"
+    }
+]

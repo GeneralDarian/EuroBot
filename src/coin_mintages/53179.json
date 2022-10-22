@@ -1,0 +1,97 @@
+[
+    {
+        "id": 216490,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 50000000
+    },
+    {
+        "id": 218256,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 30000,
+        "comment": "BU, In Sets only"
+    },
+    {
+        "id": 218257,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 5000,
+        "comment": "Proof, In Sets only"
+    },
+    {
+        "id": 251141,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 25000,
+        "comment": "BU, In Sets only"
+    },
+    {
+        "id": 251142,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 5000,
+        "comment": "Proof, In Sets only"
+    },
+    {
+        "id": 299533,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 5000,
+        "comment": "BU, In Sets only"
+    },
+    {
+        "id": 383158,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 7000,
+        "comment": "BU, In Sets only"
+    },
+    {
+        "id": 434153,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 7000,
+        "comment": "BU, In Sets only"
+    },
+    {
+        "id": 476444,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 15000000,
+        "comment": "Struck by Mint\u00a0of\u00a0Finland\u00a0Ltd"
+    },
+    {
+        "id": 550631,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 7000,
+        "comment": "BU, In Sets only"
+    },
+    {
+        "id": 621909,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 7000,
+        "comment": "BU, In Sets only"
+    },
+    {
+        "id": 731274,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 7000,
+        "comment": "BU, In Sets only"
+    }
+]

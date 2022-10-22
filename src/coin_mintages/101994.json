@@ -1,0 +1,28 @@
+[
+    {
+        "id": 323860,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "M",
+        "mintage": 500000
+    },
+    {
+        "id": 386693,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "M",
+        "mintage": 22000,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 376431,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "M",
+        "mintage": 13000,
+        "comment": "Proof"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "id": 84749,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 15847600
+    },
+    {
+        "id": 132791,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 50000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 139326,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 3500,
+        "comment": "Proof."
+    },
+    {
+        "id": 302537,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 20000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 402365,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 500000
+    },
+    {
+        "id": 391557,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 5000,
+        "comment": "In Sets only. Mint of Finland"
+    }
+]

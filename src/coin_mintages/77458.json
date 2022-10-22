@@ -1,0 +1,17 @@
+[
+    {
+        "id": 268762,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 1000000
+    },
+    {
+        "id": 274346,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 20000,
+        "comment": "BU Coincard or In sets only"
+    }
+]

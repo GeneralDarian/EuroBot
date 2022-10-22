@@ -1,0 +1,28 @@
+[
+    {
+        "id": 9924,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 2000000
+    },
+    {
+        "id": 149802,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 20000,
+        "comment": "In sets only"
+    },
+    {
+        "id": 134251,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 9600,
+        "comment": "Proof"
+    }
+]

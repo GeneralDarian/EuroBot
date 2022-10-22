@@ -1,0 +1,80 @@
+[
+    {
+        "id": 240219,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "R",
+        "mintage": 1488376
+    },
+    {
+        "id": 228862,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "R",
+        "mintage": 158000,
+        "comment": "In sets only (88,000 in the Mintset, 70,000 in the Coincard 5, unknown quantities in the Stamp & Coincard 5)"
+    },
+    {
+        "id": 229192,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "R",
+        "mintage": 10000,
+        "comment": "Proof"
+    },
+    {
+        "id": 254796,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "R",
+        "mintage": 2021682
+    },
+    {
+        "id": 256592,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "R",
+        "mintage": 218000,
+        "comment": "In sets only (88,000 in the Mintset, 70,000 in the Coincard 6, 15,000 in the Stamp & Coincard 6,7,8 and 9 each)"
+    },
+    {
+        "id": 254797,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "R",
+        "mintage": 12000,
+        "comment": "Proof"
+    },
+    {
+        "id": 287586,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 2003675
+    },
+    {
+        "id": 287588,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 190000,
+        "comment": "In sets only (70,000 in the Mintset, 60,000 in the Coincard 7, 15,000 in the Stamp & Coincard 10,11,12 and 13 each)"
+    },
+    {
+        "id": 287587,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 10000,
+        "comment": "Proof"
+    }
+]

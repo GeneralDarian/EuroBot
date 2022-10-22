@@ -1,0 +1,27 @@
+[
+    {
+        "id": 534130,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 20000,
+        "comment": "in coincard / the official mintmark of the Monnaie de Paris"
+    },
+    {
+        "id": 534128,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 150000,
+        "comment": "Without mintmark"
+    },
+    {
+        "id": 534129,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "F",
+        "mintage": 10000,
+        "comment": "in BU set / with mintmark \"F\""
+    }
+]

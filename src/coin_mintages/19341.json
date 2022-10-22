@@ -1,0 +1,50 @@
+[
+    {
+        "id": 101491,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 8000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 144578,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 7000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 219839,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 10000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 237376,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 8000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 344635,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 8000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 583559,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 7000,
+        "comment": "In Sets only"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 168908,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 50000,
+        "comment": "mintmarks, In Sets only"
+    },
+    {
+        "id": 168909,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 5000,
+        "comment": "Proof"
+    },
+    {
+        "id": 168907,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 400000,
+        "comment": "Without mintmarks"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "id": 33040,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "M",
+        "mintage": 3958434
+    },
+    {
+        "id": 188465,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "M",
+        "mintage": 39766,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 188466,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "M",
+        "mintage": 1800,
+        "comment": "Proof"
+    },
+    {
+        "id": 33041,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "M",
+        "mintage": 19456940
+    },
+    {
+        "id": 188467,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "M",
+        "mintage": 2000,
+        "comment": "Proof"
+    },
+    {
+        "id": 33042,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "M",
+        "mintage": 17427500
+    },
+    {
+        "id": 188469,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "M",
+        "mintage": 30000,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 188468,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "M",
+        "mintage": 2500,
+        "comment": "Proof"
+    }
+]

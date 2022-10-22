@@ -1,0 +1,430 @@
+[
+    {
+        "id": 223171,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "marks": [
+            {
+                "id": 334,
+                "picture": "https://en.numista.com/catalogue/marks/brouwer3.svg"
+            }
+        ],
+        "mintage": 9000000
+    },
+    {
+        "id": 220443,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "marks": [
+            {
+                "id": 334,
+                "picture": "https://en.numista.com/catalogue/marks/brouwer3.svg"
+            }
+        ],
+        "mintage": 48014,
+        "comment": "In Sets"
+    },
+    {
+        "id": 220444,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "marks": [
+            {
+                "id": 334,
+                "picture": "https://en.numista.com/catalogue/marks/brouwer3.svg"
+            }
+        ],
+        "mintage": 5000,
+        "comment": "Proof"
+    },
+    {
+        "id": 263774,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "marks": [
+            {
+                "id": 334,
+                "picture": "https://en.numista.com/catalogue/marks/brouwer3.svg"
+            }
+        ],
+        "mintage": 300000
+    },
+    {
+        "id": 251263,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "marks": [
+            {
+                "id": 334,
+                "picture": "https://en.numista.com/catalogue/marks/brouwer3.svg"
+            }
+        ],
+        "mintage": 39015,
+        "comment": "In sets"
+    },
+    {
+        "id": 251265,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "marks": [
+            {
+                "id": 334,
+                "picture": "https://en.numista.com/catalogue/marks/brouwer3.svg"
+            }
+        ],
+        "mintage": 5000,
+        "comment": "Proof"
+    },
+    {
+        "id": 281542,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "marks": [
+            {
+                "id": 333,
+                "picture": "https://en.numista.com/catalogue/marks/bruinsma2.svg"
+            }
+        ],
+        "mintage": 325000
+    },
+    {
+        "id": 281541,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "marks": [
+            {
+                "id": 333,
+                "picture": "https://en.numista.com/catalogue/marks/bruinsma2.svg"
+            }
+        ],
+        "mintage": 31516,
+        "comment": "In Sets"
+    },
+    {
+        "id": 281540,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "marks": [
+            {
+                "id": 333,
+                "picture": "https://en.numista.com/catalogue/marks/bruinsma2.svg"
+            }
+        ],
+        "mintage": 4000,
+        "comment": "Proof"
+    },
+    {
+        "id": 336919,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "marks": [
+            {
+                "id": 333,
+                "picture": "https://en.numista.com/catalogue/marks/bruinsma2.svg"
+            }
+        ]
+    },
+    {
+        "id": 391684,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "marks": [
+            {
+                "id": 333,
+                "picture": "https://en.numista.com/catalogue/marks/bruinsma2.svg"
+            }
+        ],
+        "mintage": 20000,
+        "comment": "In sets, sails and stars"
+    },
+    {
+        "id": 422524,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "marks": [
+            {
+                "id": 333,
+                "picture": "https://en.numista.com/catalogue/marks/bruinsma2.svg"
+            }
+        ],
+        "mintage": 5000,
+        "comment": "In sets, Sint Servaas bridge"
+    },
+    {
+        "id": 391683,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "marks": [
+            {
+                "id": 333,
+                "picture": "https://en.numista.com/catalogue/marks/bruinsma2.svg"
+            }
+        ],
+        "mintage": 2000,
+        "comment": "Proof,"
+    },
+    {
+        "id": 390954,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 15000,
+        "comment": "In sets BU"
+    },
+    {
+        "id": 390872,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 17500,
+        "comment": "In Sets UNC"
+    },
+    {
+        "id": 392567,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 3500,
+        "comment": "Proof"
+    },
+    {
+        "id": 435320,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 5000,
+        "comment": "Holland Coin Fair coin card"
+    },
+    {
+        "id": 429287,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 12500,
+        "comment": "In sets BU"
+    },
+    {
+        "id": 435492,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 17500,
+        "comment": "In sets UNC"
+    },
+    {
+        "id": 435493,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 483586,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 500,
+        "comment": "BU World Money Fair Amsterdam"
+    },
+    {
+        "id": 483450,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 5000,
+        "comment": "Holland Coin Fair coin card"
+    },
+    {
+        "id": 483277,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 12500,
+        "comment": "In sets BU"
+    },
+    {
+        "id": 483452,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 3000,
+        "comment": "In sets Proof"
+    },
+    {
+        "id": 483585,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 17500,
+        "comment": "In sets UNC"
+    },
+    {
+        "id": 657086,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 685983,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 17500,
+        "comment": "In UNC sets only"
+    },
+    {
+        "id": 683398,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "marks": [
+            {
+                "id": 332,
+                "picture": "https://en.numista.com/catalogue/marks/satijn2.svg"
+            }
+        ],
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 719783,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 339,
+                "picture": "https://en.numista.com/catalogue/marks/bird.svg"
+            }
+        ],
+        "mintage": 11500,
+        "comment": "BU set"
+    },
+    {
+        "id": 739551,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 339,
+                "picture": "https://en.numista.com/catalogue/marks/bird.svg"
+            }
+        ],
+        "mintage": 15000,
+        "comment": "official UNC set"
+    },
+    {
+        "id": 739544,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 339,
+                "picture": "https://en.numista.com/catalogue/marks/bird.svg"
+            }
+        ],
+        "mintage": 3000,
+        "comment": "Proof"
+    }
+]

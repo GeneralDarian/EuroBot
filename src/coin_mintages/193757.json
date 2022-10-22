@@ -1,0 +1,37 @@
+[
+    {
+        "id": 480828,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R",
+        "mintage": 2849000
+    },
+    {
+        "id": 480829,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R",
+        "mintage": 20000,
+        "comment": "BU Coincard"
+    },
+    {
+        "id": 480830,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R",
+        "mintage": 6000,
+        "comment": "Proof"
+    },
+    {
+        "id": 483114,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R",
+        "mintage": 125000,
+        "comment": "Special coin rolls"
+    }
+]

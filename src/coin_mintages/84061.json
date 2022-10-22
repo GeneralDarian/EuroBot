@@ -1,0 +1,28 @@
+[
+    {
+        "id": 284786,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "INCM",
+        "mintage": 500000
+    },
+    {
+        "id": 284787,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "INCM",
+        "mintage": 7996,
+        "comment": "BU"
+    },
+    {
+        "id": 284788,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "INCM",
+        "mintage": 5513,
+        "comment": "Proof"
+    }
+]

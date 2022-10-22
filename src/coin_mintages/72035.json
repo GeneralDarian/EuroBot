@@ -1,0 +1,28 @@
+[
+    {
+        "id": 256443,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "R",
+        "mintage": 3463000
+    },
+    {
+        "id": 256356,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "R",
+        "mintage": 5000,
+        "comment": "Proof"
+    },
+    {
+        "id": 256355,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "R",
+        "mintage": 32000,
+        "comment": "UNC: 20,000 in coincard and 12,000 in the Mintset"
+    }
+]

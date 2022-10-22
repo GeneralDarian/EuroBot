@@ -1,0 +1,25 @@
+[
+    {
+        "id": 243024,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 742500
+    },
+    {
+        "id": 370169,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 7500,
+        "comment": "Coin card blister"
+    },
+    {
+        "id": 370170,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 2500,
+        "comment": "Proof"
+    }
+]

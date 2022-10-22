@@ -1,0 +1,387 @@
+[
+    {
+        "id": 46381,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 5137000,
+        "comment": "Mint mark in ring"
+    },
+    {
+        "id": 132765,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 86500,
+        "comment": "Mint mark in ring; In Sets only"
+    },
+    {
+        "id": 128249,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 3000,
+        "comment": "Mint mark in ring; Proof"
+    },
+    {
+        "id": 46382,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "FI",
+        "mintage": 8236500,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 132766,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "FI",
+        "mintage": 95325,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 128260,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "FI",
+        "mintage": 2500,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 46383,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "FI",
+        "mintage": 6256500,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 132767,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "FI",
+        "mintage": 60500,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 128261,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "FI",
+        "mintage": 2500,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 57007,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "FI",
+        "mintage": 3938000,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 132768,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "FI",
+        "mintage": 65000,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 128262,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "FI",
+        "mintage": 2000,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 102732,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "FI",
+        "mintage": 5155000,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 132769,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "FI",
+        "mintage": 35000,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 128263,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "FI",
+        "mintage": 2000,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 148965,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "FI",
+        "mintage": 3234000,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 179160,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "FI",
+        "mintage": 35000,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 189197,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "FI",
+        "mintage": 2000,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 182926,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "FI",
+        "mintage": 853500,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 182992,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "FI",
+        "mintage": 44700,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 565424,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "FI",
+        "mintage": 1800,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 227576,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "FI",
+        "mintage": 226100,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 565425,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "FI",
+        "mintage": 72700,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 565426,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "FI",
+        "mintage": 1200,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 263517,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "FI",
+        "mintage": 169100,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 250645,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "FI",
+        "mintage": 29700,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 250646,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "FI",
+        "mintage": 1200,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 282704,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "FI",
+        "mintage": 172100,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 565427,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "FI",
+        "mintage": 26700,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 565428,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "FI",
+        "mintage": 1200,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 328881,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "FI",
+        "mintage": 74900,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 329758,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "FI",
+        "mintage": 24100,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 565429,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "FI",
+        "mintage": 1000,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 387603,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "FI",
+        "mintage": 2040500,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 383383,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "FI",
+        "mintage": 8500,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 565430,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "FI",
+        "mintage": 1000,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 464676,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "FI",
+        "mintage": 5970000,
+        "comment": "Mint mark under left flower"
+    },
+    {
+        "id": 582660,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "FI",
+        "mintage": 11000,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 725931,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "FI",
+        "mintage": 500,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 642223,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "FI",
+        "mintage": 13200,
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 642224,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "FI",
+        "mintage": 1000,
+        "comment": "Mint mark under left flower; Proof"
+    },
+    {
+        "id": 723110,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "FI",
+        "comment": "Mint mark under left flower; In Sets only"
+    },
+    {
+        "id": 728664,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "Fi",
+        "comment": "Proof"
+    }
+]

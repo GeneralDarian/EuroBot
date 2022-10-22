@@ -1,0 +1,28 @@
+[
+    {
+        "id": 379238,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "M",
+        "mintage": 400000
+    },
+    {
+        "id": 386059,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "M",
+        "mintage": 2000,
+        "comment": "In sets"
+    },
+    {
+        "id": 391071,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "M",
+        "mintage": 7500,
+        "comment": "Proof"
+    }
+]

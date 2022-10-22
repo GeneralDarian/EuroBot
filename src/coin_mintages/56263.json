@@ -1,0 +1,18 @@
+[
+    {
+        "id": 223086,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 24811,
+        "comment": "UNC in Coincard"
+    },
+    {
+        "id": 301672,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 16754,
+        "comment": "UNC in Coincard"
+    }
+]

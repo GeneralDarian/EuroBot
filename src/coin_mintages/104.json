@@ -1,0 +1,160 @@
+[
+    {
+        "id": 740,
+        "is_dated": true,
+        "year": 1999,
+        "gregorian_year": 1999,
+        "mintage": 56695000,
+        "comment": "Engraver Bee pointing left"
+    },
+    {
+        "id": 133132,
+        "is_dated": true,
+        "year": 1999,
+        "gregorian_year": 1999,
+        "mintage": 35000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133133,
+        "is_dated": true,
+        "year": 1999,
+        "gregorian_year": 1999,
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 748,
+        "is_dated": true,
+        "year": 2000,
+        "gregorian_year": 2000,
+        "mintage": 171100000,
+        "comment": "Engraver Bee pointing right"
+    },
+    {
+        "id": 133134,
+        "is_dated": true,
+        "year": 2000,
+        "gregorian_year": 2000,
+        "mintage": 35000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133135,
+        "is_dated": true,
+        "year": 2000,
+        "gregorian_year": 2000,
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 756,
+        "is_dated": true,
+        "year": 2001,
+        "gregorian_year": 2001,
+        "mintage": 237915793
+    },
+    {
+        "id": 133136,
+        "is_dated": true,
+        "year": 2001,
+        "gregorian_year": 2001,
+        "mintage": 35000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133137,
+        "is_dated": true,
+        "year": 2001,
+        "gregorian_year": 2001,
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 763,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 153606513
+    },
+    {
+        "id": 133138,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 165290,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133139,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 21453,
+        "comment": "Proof"
+    },
+    {
+        "id": 9731,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 132139,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133140,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 40000,
+        "comment": "Proof"
+    },
+    {
+        "id": 15018,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 129103,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133141,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 11033,
+        "comment": "Proof"
+    },
+    {
+        "id": 15019,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 120000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133142,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 8519,
+        "comment": "Proof"
+    },
+    {
+        "id": 15020,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 80000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133143,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 9811,
+        "comment": "Proof"
+    }
+]

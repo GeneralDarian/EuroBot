@@ -1,0 +1,204 @@
+[
+    {
+        "id": 9892,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 28070000
+    },
+    {
+        "id": 132577,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 70000,
+        "comment": "In Sets only, mint of Finland"
+    },
+    {
+        "id": 25879,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 3985000
+    },
+    {
+        "id": 132578,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 15000,
+        "comment": "In Sets only, mint of Finland"
+    },
+    {
+        "id": 128863,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 200000
+    },
+    {
+        "id": 128864,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 190000
+    },
+    {
+        "id": 132579,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 10000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 149226,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 1000000
+    },
+    {
+        "id": 175514,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 12000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 208156,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 90000
+    },
+    {
+        "id": 194390,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 10000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 243635,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 100000
+    },
+    {
+        "id": 243636,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 7000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 261864,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 100000
+    },
+    {
+        "id": 261865,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 7000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 308989,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 100000
+    },
+    {
+        "id": 299355,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 7000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 365721,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 95000
+    },
+    {
+        "id": 365722,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 5000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 393428,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 95000
+    },
+    {
+        "id": 393429,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 5000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 467066,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 95000
+    },
+    {
+        "id": 450106,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 5000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 553319,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 95000
+    },
+    {
+        "id": 566992,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 5000,
+        "comment": "In Sets only, mint Bank of Greece"
+    },
+    {
+        "id": 670973,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 1575000
+    },
+    {
+        "id": 670974,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 5000,
+        "comment": "(fr) BU"
+    }
+]

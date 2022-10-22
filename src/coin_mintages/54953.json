@@ -1,0 +1,244 @@
+[
+    {
+        "id": 223166,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 30000000,
+        "comment": "sails"
+    },
+    {
+        "id": 220429,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 48014,
+        "comment": "sails; In sets"
+    },
+    {
+        "id": 220430,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 5000,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 251281,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 55400000,
+        "comment": "sails"
+    },
+    {
+        "id": 251282,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 34015,
+        "comment": "sails; In sets"
+    },
+    {
+        "id": 251283,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 5000,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 281537,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 70400000,
+        "comment": "sails and star"
+    },
+    {
+        "id": 281538,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 31516,
+        "comment": "sails and star; In sets"
+    },
+    {
+        "id": 281539,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 4000,
+        "comment": "sails and star; Proof"
+    },
+    {
+        "id": 422519,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 5000,
+        "comment": "bridge; In sets"
+    },
+    {
+        "id": 329779,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "comment": "bridge; Proof"
+    },
+    {
+        "id": 336921,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 63100000,
+        "comment": "sails and star"
+    },
+    {
+        "id": 329778,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "comment": "sails and star; In Sets"
+    },
+    {
+        "id": 390878,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 60000000,
+        "comment": "bridge"
+    },
+    {
+        "id": 390949,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 15000,
+        "comment": "bridge;  In sets"
+    },
+    {
+        "id": 392560,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 3500,
+        "comment": "bridge;  Proof"
+    },
+    {
+        "id": 441909,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 30000000,
+        "comment": "bridge"
+    },
+    {
+        "id": 453675,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "comment": "bridge;  Blister Maastricht"
+    },
+    {
+        "id": 444488,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "comment": "bridge;  In sets"
+    },
+    {
+        "id": 429282,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 3000,
+        "comment": "bridge;  Proof"
+    },
+    {
+        "id": 483469,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 18000,
+        "comment": "BU -  set   FR: BU - 12500 blisters annuel / 500 blisters \"World Money Fair Amsterdam\" / 5000 BENELUX set"
+    },
+    {
+        "id": 483480,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 3000,
+        "comment": "In sets Proof"
+    },
+    {
+        "id": 483478,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 10000000,
+        "comment": "No MINT-signs."
+    },
+    {
+        "id": 564124,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 17500,
+        "comment": "UNC set"
+    },
+    {
+        "id": 657081,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 685978,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 17500,
+        "comment": "In UNC sets only"
+    },
+    {
+        "id": 683393,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 719779,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 11500,
+        "comment": "BU set"
+    },
+    {
+        "id": 736600,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "comment": "Mint-sign :  raven."
+    },
+    {
+        "id": 739546,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 15000,
+        "comment": "official UNC set"
+    },
+    {
+        "id": 739545,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 3000,
+        "comment": "Proof set"
+    }
+]

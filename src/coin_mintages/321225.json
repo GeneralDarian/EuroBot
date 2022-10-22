@@ -1,0 +1,19 @@
+[
+    {
+        "id": 712853,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "LMK",
+        "mintage": 750000
+    },
+    {
+        "id": 712854,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "LMK",
+        "mintage": 7500,
+        "comment": "BU Version"
+    }
+]

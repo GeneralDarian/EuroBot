@@ -1,0 +1,56 @@
+[
+    {
+        "id": 228520,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "R",
+        "mintage": 88000,
+        "comment": "In sets only"
+    },
+    {
+        "id": 229190,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "R",
+        "mintage": 10000,
+        "comment": "Proof"
+    },
+    {
+        "id": 254792,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "R",
+        "mintage": 88000,
+        "comment": "In sets only"
+    },
+    {
+        "id": 254793,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "R",
+        "mintage": 12000,
+        "comment": "Proof"
+    },
+    {
+        "id": 288158,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 70000,
+        "comment": "In sets only"
+    },
+    {
+        "id": 288160,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 10000,
+        "comment": "Proof"
+    }
+]

@@ -1,0 +1,2146 @@
+{
+    "count": 167,
+    "types": [
+        {
+            "id": 36510,
+            "title": "5000 Lire (Europe In The New Millennium)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 1998,
+            "max_year": 1998,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1611-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1612-180.jpg"
+        },
+        {
+            "id": 37044,
+            "title": "10 000 Lire (Euro)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 1996,
+            "max_year": 1996,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2316-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2317-180.jpg"
+        },
+        {
+            "id": 52855,
+            "title": "10 000 Lire (Millennium)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 1997,
+            "max_year": 1997,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2306-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2307-180.jpg"
+        },
+        {
+            "id": 196,
+            "title": "1 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2326-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2327-180.jpg"
+        },
+        {
+            "id": 117670,
+            "title": "1 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62be8990540903.56972624-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62be8991a028d4.46736797-180.jpg"
+        },
+        {
+            "id": 197,
+            "title": "2 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2328-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2329-180.jpg"
+        },
+        {
+            "id": 117671,
+            "title": "2 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62c90e98c450e3.36677580-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62c90e992d0866.42977061-180.jpg"
+        },
+        {
+            "id": 198,
+            "title": "5 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2320-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2321-180.jpg"
+        },
+        {
+            "id": 117672,
+            "title": "5 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62be8b2c208045.00420837-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62be8b2d2e18c9.45963068-180.jpg"
+        },
+        {
+            "id": 199,
+            "title": "10 Euro Cent (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626eae99461bb2.96240285-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626eae9a4caa42.87555739-180.jpg"
+        },
+        {
+            "id": 9916,
+            "title": "10 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626eaf7a8c6b82.23785737-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626eaf7b7e3d59.59320143-180.jpg"
+        },
+        {
+            "id": 117673,
+            "title": "10 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2501-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2502-180.jpg"
+        },
+        {
+            "id": 200,
+            "title": "20 Euro Cent (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2322-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2323-180.jpg"
+        },
+        {
+            "id": 9917,
+            "title": "20 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2434-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2435-180.jpg"
+        },
+        {
+            "id": 117674,
+            "title": "20 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62c9299c901578.99030565-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62c9299db3e939.32357301-180.jpg"
+        },
+        {
+            "id": 201,
+            "title": "50 Euro Cent (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2324-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2325-180.jpg"
+        },
+        {
+            "id": 9918,
+            "title": "50 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/605d7c7b52a3c0.05156416-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/605d7c7bda01d6.85539705-180.jpg"
+        },
+        {
+            "id": 117675,
+            "title": "50 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/628c45ffe68005.30334300-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/628c46009fcf51.49283804-180.jpg"
+        },
+        {
+            "id": 202,
+            "title": "1 Euro (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2330-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2331-180.jpg"
+        },
+        {
+            "id": 9919,
+            "title": "1 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2438-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2439-180.jpg"
+        },
+        {
+            "id": 117676,
+            "title": "1 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/6054c6bb3164a9.83467604-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/6054c6bba5c921.36757159-180.jpg"
+        },
+        {
+            "id": 203,
+            "title": "2 Euro (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2364-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2365-180.jpg"
+        },
+        {
+            "id": 5075,
+            "title": "2 Euro (Borghesi)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdca1c3641b0.46458496-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdca1cc39281.97307213-180.jpg"
+        },
+        {
+            "id": 5076,
+            "title": "2 Euro (Physics)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2308-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2309-180.jpg"
+        },
+        {
+            "id": 5077,
+            "title": "2 Euro (Christopher Columbus)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626fa64b8f9097.77570576-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626fa64c8c7037.05231638-180.jpg"
+        },
+        {
+            "id": 3729,
+            "title": "2 Euro (Garibaldi)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdb78a694696.53611117-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdb78b024da1.31915891-180.jpg"
+        },
+        {
+            "id": 5078,
+            "title": "2 Euro (European Year of Intercultural Dialogue)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626fa6fb907715.07538733-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/626fa6fcae92f3.58960074-180.jpg"
+        },
+        {
+            "id": 9920,
+            "title": "2 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2366-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2367-180.jpg"
+        },
+        {
+            "id": 8109,
+            "title": "2 Euro (Creativity and Innovation)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2370-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2371-180.jpg"
+        },
+        {
+            "id": 15244,
+            "title": "2 Euro (Sandro Botticelli)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2372-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2373-180.jpg"
+        },
+        {
+            "id": 22596,
+            "title": "2 Euro (Giorgio Vasari)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627f6868616475.64875404-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627f6869a0e069.27347163-180.jpg"
+        },
+        {
+            "id": 30276,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627f6966f23e12.48495831-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627f6968571f24.03180633-180.jpg"
+        },
+        {
+            "id": 49933,
+            "title": "2 Euro (Pinturicchio)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1392-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1393-180.jpg"
+        },
+        {
+            "id": 62346,
+            "title": "2 Euro (Bramante)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2374-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2375-180.jpg"
+        },
+        {
+            "id": 65624,
+            "title": "2 Euro (Giacomo Puccini)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627f6d8b9c6f59.38272676-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627f6d8cd20365.07300403-180.jpg"
+        },
+        {
+            "id": 77154,
+            "title": "2 Euro (25 Years of German Unity)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627f6eb6772611.07285229-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627f6eb7a11166.54705383-180.jpg"
+        },
+        {
+            "id": 72183,
+            "title": "2 Euro (Dante Alighieri)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2376-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2377-180.jpg"
+        },
+        {
+            "id": 93489,
+            "title": "2 Euro (William Shakespeare)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627faa021886c5.32735517-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627faa0363fc79.25849709-180.jpg"
+        },
+        {
+            "id": 85982,
+            "title": "2 Euro (Donatello)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdbcfc6a6381.65622799-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdbcfcf0e6f1.35264346-180.jpg"
+        },
+        {
+            "id": 109247,
+            "title": "2 Euro (Giotto)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdbfcdc158c6.12136342-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdbfce4da2b7.59724585-180.jpg"
+        },
+        {
+            "id": 117668,
+            "title": "2 Euro (International Year of Sustainable Tourism)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2523-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2524-180.jpg"
+        },
+        {
+            "id": 117669,
+            "title": "2 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62be8c860fae68.18567770-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62be8c874de288.26757437-180.jpg"
+        },
+        {
+            "id": 150444,
+            "title": "2 Euro (Bernini)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdc13f033835.88129671-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fcdc13f7fecf9.90963420-180.jpg"
+        },
+        {
+            "id": 139561,
+            "title": "2 Euro (Tintoretto)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627fad6f1fab82.81559341-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627fad707f18b3.95134121-180.jpg"
+        },
+        {
+            "id": 165371,
+            "title": "2 Euro (Leonardo da Vinci)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627fb1eab487e0.85095296-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/627fb1ec091cb0.39743200-180.jpg"
+        },
+        {
+            "id": 176691,
+            "title": "2 Euro (Filippo Lippi)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2764-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2765-180.jpg"
+        },
+        {
+            "id": 196799,
+            "title": "2 Euro (Raffaello Sanzio)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f38fbedcaa2f6.58637702-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f38fbee2bc476.72761121-180.jpg"
+        },
+        {
+            "id": 234424,
+            "title": "2 Euro (Giambattista Tiepolo)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fdbcc7c20e7e7.19993990-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f56fe6ab4dee4.53350248-180.jpg"
+        },
+        {
+            "id": 303127,
+            "title": "2 Euro (D\u00fcrer)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/6184ef341db4b9.51921802-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/6127d39d9308a1.26198631-180.jpg"
+        },
+        {
+            "id": 275497,
+            "title": "2 Euro (Caravaggio)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60740a1f516c61.81755362-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/602e504ef1f773.45073390-180.jpg"
+        },
+        {
+            "id": 340366,
+            "title": "2 Euro (Antonio Canova)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/63261925677be5.89958561-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/63261925a52b74.24774294-180.jpg"
+        },
+        {
+            "id": 325609,
+            "title": "2 Euro (Piero Della Francesca)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/631ca259b44948.70264763-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/631ca25a0a8bb3.04303780-180.jpg"
+        },
+        {
+            "id": 13775,
+            "title": "5 Euro (Welcome Euro)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2002,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2360-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2361-180.jpg"
+        },
+        {
+            "id": 13778,
+            "title": "5 Euro (Independence, Tolerance, Liberty)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1237-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1236-180.jpg"
+        },
+        {
+            "id": 13776,
+            "title": "5 Euro (Summer Olympics)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2015-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2016-180.jpg"
+        },
+        {
+            "id": 13781,
+            "title": "5 Euro (Bartolomeo Borghesi)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/954-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/955-180.jpg"
+        },
+        {
+            "id": 13780,
+            "title": "5 Euro (2006 World Cup)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2017-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2018-180.jpg"
+        },
+        {
+            "id": 13783,
+            "title": "5 Euro (Antonio Onofri)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/917-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/918-180.jpg"
+        },
+        {
+            "id": 13782,
+            "title": "5 Euro (2006 Turin Olympics)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2648-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2649-180.jpg"
+        },
+        {
+            "id": 13812,
+            "title": "5 Euro (Melchiorre Delfico)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/734-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/735-180.jpg"
+        },
+        {
+            "id": 13811,
+            "title": "5 Euro (Andrea Mantegna)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1934-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1935-180.jpg"
+        },
+        {
+            "id": 13814,
+            "title": "5 Euro (Equal Opportunity)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/738-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/739-180.jpg"
+        },
+        {
+            "id": 13813,
+            "title": "5 Euro (Toscanini)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2021-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2022-180.jpg"
+        },
+        {
+            "id": 13816,
+            "title": "5 Euro (International Year of Planet Earth)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1029-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1030-180.jpg"
+        },
+        {
+            "id": 13815,
+            "title": "5 Euro (Olympic Summer Games 2008 in Beijing)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1910-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1911-180.jpg"
+        },
+        {
+            "id": 13817,
+            "title": "5 Euro (Johannes Kepler)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1260-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1261-180.jpg"
+        },
+        {
+            "id": 9283,
+            "title": "5 Euro (International Year of Astronomy)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/859-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/860-180.jpg"
+        },
+        {
+            "id": 16542,
+            "title": "5 Euro (Shanghai Expo)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5ee668fc68cdc3.35276817-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5ee668fcbe6b90.27028987-180.jpg"
+        },
+        {
+            "id": 16540,
+            "title": "5 Euro (Michelangelo Caravaggio)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/968-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/969-180.jpg"
+        },
+        {
+            "id": 27114,
+            "title": "5 Euro (European Explorers)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2025-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2026-180.jpg"
+        },
+        {
+            "id": 21857,
+            "title": "5 Euro (Manned Space Flight)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2000-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2001-180.jpg"
+        },
+        {
+            "id": 32161,
+            "title": "5 Euro (Giovanni Pascoli)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1487-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1488-180.jpg"
+        },
+        {
+            "id": 72578,
+            "title": "5 Euro (Amerigo Vespucci)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1653-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1654-180.jpg"
+        },
+        {
+            "id": 44194,
+            "title": "5 Euro (Federico Fellini)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1998-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1999-180.jpg"
+        },
+        {
+            "id": 72579,
+            "title": "5 Euro (Arena di Verona)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1655-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1656-180.jpg"
+        },
+        {
+            "id": 48765,
+            "title": "5 Euro (John Fitzgerald Kennedy)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1561-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1562-180.jpg"
+        },
+        {
+            "id": 65654,
+            "title": "5 Euro (Ayrton Senna)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1645-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1646-180.jpg"
+        },
+        {
+            "id": 72581,
+            "title": "5 Euro (Berlin Wall)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62d01906c6c566.28486697-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/62d0190747eca8.82842995-180.jpg"
+        },
+        {
+            "id": 72644,
+            "title": "5 Euro (Gino Bartali)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2491-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2492-180.jpg"
+        },
+        {
+            "id": 79065,
+            "title": "5 Euro (Expo Milano 2015)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1994-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1995-180.jpg"
+        },
+        {
+            "id": 74498,
+            "title": "5 Euro (International Year of Light)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2646-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2647-180.jpg"
+        },
+        {
+            "id": 96898,
+            "title": "5 Euro (Jubilee Year of Mercy)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2219-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2220-180.jpg"
+        },
+        {
+            "id": 90035,
+            "title": "5 Euro (International Day of Mother Earth)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2644-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2645-180.jpg"
+        },
+        {
+            "id": 87316,
+            "title": "5 Euro (Giovanni Bellini)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1824-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1825-180.jpg"
+        },
+        {
+            "id": 114293,
+            "title": "5 Euro (Games of the Small States of Europe)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2480-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2481-180.jpg"
+        },
+        {
+            "id": 117677,
+            "title": "5 Euro (Marco Simoncelli)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2534-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2535-180.jpg"
+        },
+        {
+            "id": 117667,
+            "title": "5 Euro (World Water Day)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2514-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2515-180.jpg"
+        },
+        {
+            "id": 151596,
+            "title": "5 Euro (Aries)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2675-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2676-180.jpg"
+        },
+        {
+            "id": 142733,
+            "title": "5 Euro (Canaletto)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2768-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2769-180.jpg"
+        },
+        {
+            "id": 151597,
+            "title": "5 Euro (Taurus)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2677-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2678-180.jpg"
+        },
+        {
+            "id": 141935,
+            "title": "5 Euro (World Nature Day)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2704-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2705-180.jpg"
+        },
+        {
+            "id": 166881,
+            "title": "5 Euro (5G in San Marino)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2698-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2699-180.jpg"
+        },
+        {
+            "id": 179862,
+            "title": "5 Euro (Leo)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2738-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2739-180.jpg"
+        },
+        {
+            "id": 179860,
+            "title": "5 Euro (Cancer)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2734-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2735-180.jpg"
+        },
+        {
+            "id": 179861,
+            "title": "5 Euro (Gemini)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2736-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2737-180.jpg"
+        },
+        {
+            "id": 179863,
+            "title": "5 Euro (Virgo)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2740-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2741-180.jpg"
+        },
+        {
+            "id": 169283,
+            "title": "5 Euro (International Forestry Day)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2708-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2709-180.jpg"
+        },
+        {
+            "id": 168987,
+            "title": "5 Euro (First Man on the Moon)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019
+        },
+        {
+            "id": 237251,
+            "title": "5 Euro (Libra)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f6463843c2995.76239525-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f646384725968.74871912-180.jpg"
+        },
+        {
+            "id": 236604,
+            "title": "5 Euro (Scorpio)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f6461c67d60e4.78993984-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f6461c6b39d11.74385606-180.jpg"
+        },
+        {
+            "id": 237254,
+            "title": "5 Euro (Sagittarius)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f64601ac50a12.66227823-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f64601b08c136.18007729-180.jpg"
+        },
+        {
+            "id": 237433,
+            "title": "5 Euro (World Oceans Day)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fdc623b9114f6.17108518-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fdc623bbe2ca7.51388027-180.jpg"
+        },
+        {
+            "id": 270554,
+            "title": "5 Euro (Athletics Championships of the Small States of Europe)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/602e6178873817.42803080-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/602e6178c0c2a5.35026424-180.jpg"
+        },
+        {
+            "id": 305148,
+            "title": "5 Euro (Aquarius)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/614f6a313f8e55.78674228-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/614f6a316d8700.21384115-180.jpg"
+        },
+        {
+            "id": 305147,
+            "title": "5 Euro (Capricorn)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/614f6a0add7302.53494772-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/614f6a0b15d070.95535327-180.jpg"
+        },
+        {
+            "id": 305149,
+            "title": "5 Euro (Pisces)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/614f69e01a6c86.16941857-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/614f69e04a2b44.65113790-180.jpg"
+        },
+        {
+            "id": 297398,
+            "title": "5 Euro (Biological diversity)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60c86bb11d8989.86071232-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60c86bb15e6280.37132645-180.jpg"
+        },
+        {
+            "id": 302619,
+            "title": "5 Euro (Female football)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/618cd7ccd4d5b6.33700993-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/618cd7cd504d37.44146692-180.jpg"
+        },
+        {
+            "id": 319419,
+            "title": "5 Euro (Victory in freestyle wrestling in Tokyo)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/6210e97842cf10.92891120-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/6210e978a4ddc7.78975118-180.jpg"
+        },
+        {
+            "id": 16354,
+            "title": "10 Euro (Welcome Euro)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2002,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2656-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2657-180.jpg"
+        },
+        {
+            "id": 16337,
+            "title": "10 Euro (2004 Athens Olympics)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1990-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1991-180.jpg"
+        },
+        {
+            "id": 16374,
+            "title": "10 Euro (2006 World Cup)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/853-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/854-180.jpg"
+        },
+        {
+            "id": 16376,
+            "title": "10 Euro (Milice)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1988-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1989-180.jpg"
+        },
+        {
+            "id": 16341,
+            "title": "10 Euro (Antonio Canova)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1940-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1941-180.jpg"
+        },
+        {
+            "id": 16377,
+            "title": "10 Euro (Giosu\u00e8 Carducci)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1986-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1987-180.jpg"
+        },
+        {
+            "id": 16465,
+            "title": "10 Euro (Birth of Andrea Palladio)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1906-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1907-180.jpg"
+        },
+        {
+            "id": 16489,
+            "title": "10 Euro (Economic and Monetary Union)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1984-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1985-180.jpg"
+        },
+        {
+            "id": 16495,
+            "title": "10 Euro (Robert Schumann)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2318-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2319-180.jpg"
+        },
+        {
+            "id": 28134,
+            "title": "10 Euro (Euro Coins & Banknotes)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1647-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1648-180.jpg"
+        },
+        {
+            "id": 46269,
+            "title": "10 Euro (Aligi Sassu)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/61403123a48670.73106253-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/61403123f35151.13177665-180.jpg"
+        },
+        {
+            "id": 49572,
+            "title": "10 Euro (Niccol\u00f2 Machiavelli)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1390-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1391-180.jpg"
+        },
+        {
+            "id": 57274,
+            "title": "10 Euro (Emilio Greco)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/633b597dce9149.62265991-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/633b597f7be424.70474384-180.jpg"
+        },
+        {
+            "id": 70346,
+            "title": "10 Euro (Tiberius Bridge)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1980-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1981-180.jpg"
+        },
+        {
+            "id": 79066,
+            "title": "10 Euro (150th Anniversary of the Death of Abraham Lincoln)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1978-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1979-180.jpg"
+        },
+        {
+            "id": 87317,
+            "title": "10 Euro (First San Marino F1 Grand Prix)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1826-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1827-180.jpg"
+        },
+        {
+            "id": 298845,
+            "title": "10 Euro (Jubilee of Mercy)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60db841be9ea05.23292570-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60db841c1a36d5.14705848-180.jpg"
+        },
+        {
+            "id": 114294,
+            "title": "10 Euro (AS Roma)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2478-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2479-180.jpg"
+        },
+        {
+            "id": 142732,
+            "title": "10 Euro (European Year of Cultural Heritage)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5e102046a70311.58105968-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5e1020474b96d0.63031332-180.jpg"
+        },
+        {
+            "id": 168988,
+            "title": "10 Euro (Rembrandt)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019
+        },
+        {
+            "id": 197560,
+            "title": "10 Euro (Alpini)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5e6277dbc292a9.11756071-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5e6277dc110741.09453544-180.jpg"
+        },
+        {
+            "id": 259840,
+            "title": "10 Euro (Pro I.S.S.)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fecfcbe6bb972.71984771-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fecfcbf586fe9.85949233-180.jpg"
+        },
+        {
+            "id": 258981,
+            "title": "10 Euro (Beethoven)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fe3585e224746.47832933-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5fe358602e2be6.70085519-180.jpg"
+        },
+        {
+            "id": 302644,
+            "title": "10 Euro (Benvenuto Cellini)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/618cd8d5bd85c1.41430142-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/618cd8d637e320.16177109-180.jpg"
+        },
+        {
+            "id": 16355,
+            "title": "20 Euro (Ravenna)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2002,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60427108f0a6d1.34163386-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604271092d7f71.85741280-180.jpg"
+        },
+        {
+            "id": 16339,
+            "title": "20 Euro (Jesus at the Temple)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/6042990f305499.86146504-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/6042990f52cfa8.43856409-180.jpg"
+        },
+        {
+            "id": 16375,
+            "title": "20 Euro (Marco Polo)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2298-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2299-180.jpg"
+        },
+        {
+            "id": 16371,
+            "title": "20 Euro (International Day of Peace)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2300-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2301-180.jpg"
+        },
+        {
+            "id": 16478,
+            "title": "20 Euro (Giovan Battista Belluzzi)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2310-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2311-180.jpg"
+        },
+        {
+            "id": 16378,
+            "title": "20 Euro (Social Cohabitation)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fe0f259dda0.24878370-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fe0f2ad6d21.40365467-180.jpg"
+        },
+        {
+            "id": 16640,
+            "title": "20 Euro (Antiquities)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fddbdc79ba0.23667685-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fddbe0a1939.50261892-180.jpg"
+        },
+        {
+            "id": 16482,
+            "title": "20 Euro (Treasures of San Marino)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fe731915cb1.23720867-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fe731a71f12.18454860-180.jpg"
+        },
+        {
+            "id": 16486,
+            "title": "20 Euro (St. Agata)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1976-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1977-180.jpg"
+        },
+        {
+            "id": 97413,
+            "title": "20 Euro (Castle of San Marino)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60db7ebd2f35e3.79677099-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60db7ebd5bb2c1.29723205-180.jpg"
+        },
+        {
+            "id": 97414,
+            "title": "20 Euro (Castle of Borgo Maggiore)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2012,
+            "max_year": 2012
+        },
+        {
+            "id": 57273,
+            "title": "20 Euro (Castle of Serravalle)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2013,
+            "max_year": 2013
+        },
+        {
+            "id": 97415,
+            "title": "20 Euro (Castle of Acquaviva)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2014,
+            "max_year": 2014
+        },
+        {
+            "id": 97416,
+            "title": "20 Euro (Castle of Faetano)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2015,
+            "max_year": 2015
+        },
+        {
+            "id": 97417,
+            "title": "20 Euro (Castle of Fiorentino)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2016,
+            "max_year": 2016
+        },
+        {
+            "id": 126861,
+            "title": "20 Euro (25th Anniversary of San Marino Entrance to the UN)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2017
+        },
+        {
+            "id": 184965,
+            "title": "20 Euro (70th anniversary of the Council of Europe)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f0730453c8282.56892388-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/5f073045910913.82869255-180.jpg"
+        },
+        {
+            "id": 258986,
+            "title": "20 Euro (WHO)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2020,
+            "max_year": 2020
+        },
+        {
+            "id": 16356,
+            "title": "50 Euro (Ravenna)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2002,
+            "max_year": 2002,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2292-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2293-180.jpg"
+        },
+        {
+            "id": 16338,
+            "title": "50 Euro (The Pentecost)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1401-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1402-180.jpg"
+        },
+        {
+            "id": 11901,
+            "title": "50 Euro (Marco Polo)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2294-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2295-180.jpg"
+        },
+        {
+            "id": 16372,
+            "title": "50 Euro (International Day of Peace)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2302-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2303-180.jpg"
+        },
+        {
+            "id": 16479,
+            "title": "50 Euro (Giovan Battista Belluzzi)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2312-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2313-180.jpg"
+        },
+        {
+            "id": 16379,
+            "title": "50 Euro (Social Cohabitation)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fe1366d1fa6.57025024-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fe136bff8b1.74703680-180.jpg"
+        },
+        {
+            "id": 16641,
+            "title": "50 Euro (Antiquities)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fde1962af75.22621199-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fde19987203.95411155-180.jpg"
+        },
+        {
+            "id": 16485,
+            "title": "50 Euro (Treasures of San Marino)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fe758433408.99559079-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/604fe75868bbb3.19805712-180.jpg"
+        },
+        {
+            "id": 16487,
+            "title": "50 Euro (Saint Marinus)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1974-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/1975-180.jpg"
+        },
+        {
+            "id": 97418,
+            "title": "50 Euro (Castle of San Marino)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60db7e99f0d9e5.84089358-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/60db7e9a23bd57.16459967-180.jpg"
+        },
+        {
+            "id": 97419,
+            "title": "50 Euro (Castle of Borgo Maggiore)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2012,
+            "max_year": 2012
+        },
+        {
+            "id": 57272,
+            "title": "50 Euro (Castle of Serravalle)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2013,
+            "max_year": 2013
+        },
+        {
+            "id": 97420,
+            "title": "50 Euro (Castle of Domagnano)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2014,
+            "max_year": 2014
+        },
+        {
+            "id": 97421,
+            "title": "50 Euro (Castle of Montegiardino)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2015,
+            "max_year": 2015
+        },
+        {
+            "id": 97422,
+            "title": "50 Euro (Castle of Chiesanuova)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2016,
+            "max_year": 2016
+        },
+        {
+            "id": 126862,
+            "title": "50 Euro (25th Anniversary of San Marino Entrance to the UN)",
+            "category": "coin",
+            "issuer": {
+                "code": "saint-marin",
+                "name": "San Marino"
+            },
+            "min_year": 2017,
+            "max_year": 2017
+        }
+    ]
+}

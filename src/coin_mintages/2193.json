@@ -1,0 +1,26 @@
+[
+    {
+        "id": 9906,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 6880000,
+        "comment": "(fr) 6 878 000 en rouleaux et 2 000 en enveloppe philat\u00e9lique numismatique"
+    },
+    {
+        "id": 133573,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 100000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133574,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 20000,
+        "comment": "Proof"
+    }
+]

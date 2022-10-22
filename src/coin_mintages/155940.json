@@ -1,0 +1,28 @@
+[
+    {
+        "id": 421318,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "R",
+        "mintage": 3000000
+    },
+    {
+        "id": 431198,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "R",
+        "mintage": 20000,
+        "comment": "BU"
+    },
+    {
+        "id": 431197,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "R",
+        "mintage": 5000,
+        "comment": "Proof"
+    }
+]

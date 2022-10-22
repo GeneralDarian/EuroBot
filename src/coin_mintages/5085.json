@@ -1,0 +1,279 @@
+[
+    {
+        "id": 26036,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 74368000
+    },
+    {
+        "id": 106470,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 120000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 106471,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 13000,
+        "comment": "Proof"
+    },
+    {
+        "id": 78638,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 50000000
+    },
+    {
+        "id": 106472,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 25000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 106473,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 5000,
+        "comment": "Proof"
+    },
+    {
+        "id": 78639,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 15000000
+    },
+    {
+        "id": 106474,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 25000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 106475,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 6000,
+        "comment": "Proof"
+    },
+    {
+        "id": 148968,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 23000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 150368,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 6000,
+        "comment": "Proof"
+    },
+    {
+        "id": 200164,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 23500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 185589,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 5500,
+        "comment": "Proof"
+    },
+    {
+        "id": 246028,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 5025000
+    },
+    {
+        "id": 224588,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 21500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 224599,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 3500,
+        "comment": "Proof"
+    },
+    {
+        "id": 261166,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 12025000
+    },
+    {
+        "id": 252964,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 21000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 252963,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 3500,
+        "comment": "Proof"
+    },
+    {
+        "id": 311205,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 17000000
+    },
+    {
+        "id": 293968,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 23000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 293969,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 357587,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 13000000
+    },
+    {
+        "id": 329624,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 8000,
+        "comment": "in 3 sets"
+    },
+    {
+        "id": 415216,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 397153,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 12104000
+    },
+    {
+        "id": 383359,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 3000,
+        "comment": "In Sets Only"
+    },
+    {
+        "id": 415217,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 800,
+        "comment": "Proof"
+    },
+    {
+        "id": 450138,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 14000000
+    },
+    {
+        "id": 432310,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 6000,
+        "comment": "In sets Only Ice Hockey world"
+    },
+    {
+        "id": 529695,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 25000000
+    },
+    {
+        "id": 537689,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 5000,
+        "comment": "(fr) BU (Jeux Olympiques Tokyo 2020)"
+    },
+    {
+        "id": 638879,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 7316000
+    },
+    {
+        "id": 660838,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 5000,
+        "comment": "In Sets only 100th Mint anniversary"
+    },
+    {
+        "id": 712595,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 11000,
+        "comment": "BU set"
+    },
+    {
+        "id": 712596,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 1900,
+        "comment": "proof set"
+    }
+]

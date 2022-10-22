@@ -1,0 +1,25 @@
+[
+    {
+        "id": 267005,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 336000
+    },
+    {
+        "id": 275657,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 6000,
+        "comment": "BU in capsule"
+    },
+    {
+        "id": 275658,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 8000,
+        "comment": "Proof in a box"
+    }
+]

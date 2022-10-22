@@ -1,0 +1,25 @@
+[
+    {
+        "id": 488221,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 735000
+    },
+    {
+        "id": 488222,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 10000,
+        "comment": "Coincard"
+    },
+    {
+        "id": 488223,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 5000,
+        "comment": "Proof"
+    }
+]

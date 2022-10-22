@@ -1,0 +1,18 @@
+[
+    {
+        "id": 440677,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 300000,
+        "comment": "Coincard BU"
+    },
+    {
+        "id": 440678,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 10000,
+        "comment": "Proof"
+    }
+]

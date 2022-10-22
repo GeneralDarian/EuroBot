@@ -1,0 +1,17 @@
+[
+    {
+        "id": 254828,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 300000
+    },
+    {
+        "id": 254829,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 25000,
+        "comment": "with mintmark in Coincard"
+    }
+]

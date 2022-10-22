@@ -1,0 +1,28 @@
+[
+    {
+        "id": 487236,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "INCM",
+        "mintage": 500000
+    },
+    {
+        "id": 487237,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "INCM",
+        "mintage": 4859,
+        "comment": "In Sets Only"
+    },
+    {
+        "id": 487238,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "INCM",
+        "mintage": 4996,
+        "comment": "Proof"
+    }
+]

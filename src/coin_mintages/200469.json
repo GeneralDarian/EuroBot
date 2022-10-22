@@ -1,0 +1,28 @@
+[
+    {
+        "id": 491030,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R",
+        "mintage": 3000000
+    },
+    {
+        "id": 491031,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R",
+        "mintage": 5000,
+        "comment": "Proof"
+    },
+    {
+        "id": 491032,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R",
+        "mintage": 100000,
+        "comment": "Special coin rolls"
+    }
+]

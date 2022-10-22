@@ -1,0 +1,37 @@
+[
+    {
+        "id": 111354,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "R",
+        "mintage": 9944650
+    },
+    {
+        "id": 133752,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "R",
+        "mintage": 36500,
+        "comment": "BU - In BU sets only"
+    },
+    {
+        "id": 702164,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "R",
+        "mintage": 13350,
+        "comment": "In Mint official Coincard"
+    },
+    {
+        "id": 133753,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "R",
+        "mintage": 5500,
+        "comment": "Proof - In Proof Sets only"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1866,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mint_letter": "R",
+        "mintage": 6000,
+        "comment": "(fr) Les 6 000 s\u00e9ries de pi\u00e8ces circulantes correspondent aux 2 000 starterkits + 4 000 s\u00e9ries hors coffrets."
+    },
+    {
+        "id": 167624,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mint_letter": "R",
+        "mintage": 65000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 167625,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mint_letter": "R",
+        "mintage": 9000,
+        "comment": "Proof"
+    },
+    {
+        "id": 1874,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mint_letter": "R",
+        "mintage": 65000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 167626,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mint_letter": "R",
+        "mintage": 13000,
+        "comment": "Proof"
+    },
+    {
+        "id": 1882,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mint_letter": "R",
+        "mintage": 85000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 167627,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mint_letter": "R",
+        "mintage": 16000,
+        "comment": "Proof"
+    },
+    {
+        "id": 1890,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mint_letter": "R",
+        "mintage": 85000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 167628,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mint_letter": "R",
+        "mintage": 16000,
+        "comment": "Proof"
+    }
+]

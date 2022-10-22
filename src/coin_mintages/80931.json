@@ -1,0 +1,25 @@
+[
+    {
+        "id": 276441,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 1000000
+    },
+    {
+        "id": 418893,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 15800,
+        "comment": "In Sets only (5,000 in the Coincard 1; 10,800 in Coincard 2)"
+    },
+    {
+        "id": 427786,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 1000,
+        "comment": "Proof"
+    }
+]

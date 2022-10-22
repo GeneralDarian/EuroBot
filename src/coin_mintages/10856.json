@@ -1,0 +1,316 @@
+[
+    {
+        "id": 60668,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "M",
+        "mintage": 227330000
+    },
+    {
+        "id": 178803,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "M",
+        "mintage": 67000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 178804,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "M",
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 105392,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "M",
+        "mintage": 358000000
+    },
+    {
+        "id": 178789,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "M",
+        "mintage": 58000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 188344,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "M",
+        "mintage": 1800,
+        "comment": "Proof"
+    },
+    {
+        "id": 146348,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "M",
+        "mintage": 400572000
+    },
+    {
+        "id": 178790,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "M",
+        "mintage": 56500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 295109,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "M",
+        "mintage": 2300,
+        "comment": "Proof"
+    },
+    {
+        "id": 188345,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "M",
+        "mintage": 297500000
+    },
+    {
+        "id": 186495,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "M",
+        "mintage": 54000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 295111,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "M",
+        "mintage": 1300,
+        "comment": "Proof"
+    },
+    {
+        "id": 225132,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "M",
+        "mintage": 69400000
+    },
+    {
+        "id": 250928,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "M",
+        "mintage": 54000,
+        "comment": "In Sets"
+    },
+    {
+        "id": 295110,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "M",
+        "mintage": 1463,
+        "comment": "Proof"
+    },
+    {
+        "id": 250704,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "M",
+        "mintage": 460900000
+    },
+    {
+        "id": 250927,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "M",
+        "mintage": 62225,
+        "comment": "In Sets"
+    },
+    {
+        "id": 300855,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "M",
+        "mintage": 1700,
+        "comment": "Proof"
+    },
+    {
+        "id": 288151,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "M",
+        "mintage": 423100000
+    },
+    {
+        "id": 288152,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "M",
+        "mintage": 82000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 294023,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "M",
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 336410,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "M",
+        "mintage": 503200000
+    },
+    {
+        "id": 385984,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "M",
+        "comment": "In Sets only"
+    },
+    {
+        "id": 385985,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "M",
+        "comment": "Proof"
+    },
+    {
+        "id": 385949,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "M",
+        "mintage": 306700000
+    },
+    {
+        "id": 386694,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "M",
+        "comment": "In Sets only"
+    },
+    {
+        "id": 385986,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "M",
+        "mintage": 2000,
+        "comment": "Proof"
+    },
+    {
+        "id": 428655,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "M",
+        "mintage": 324900000
+    },
+    {
+        "id": 484004,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "M",
+        "mintage": 15000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 484003,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "M",
+        "comment": "Proof"
+    },
+    {
+        "id": 484002,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "M",
+        "mintage": 205000000
+    },
+    {
+        "id": 561023,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "M",
+        "mintage": 15000,
+        "comment": "Only In Sets"
+    },
+    {
+        "id": 598926,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "M",
+        "mintage": 1500,
+        "comment": "Proof"
+    },
+    {
+        "id": 637374,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "M",
+        "mintage": 95900000
+    },
+    {
+        "id": 644315,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "M",
+        "mintage": 12000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 656588,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "M",
+        "comment": "Proof"
+    },
+    {
+        "id": 717472,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "M"
+    }
+]

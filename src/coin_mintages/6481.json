@@ -1,0 +1,162 @@
+[
+    {
+        "id": 33482,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mintage": 100000,
+        "comment": "sails"
+    },
+    {
+        "id": 132398,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mintage": 54007,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 132399,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mintage": 10000,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 33483,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 100000,
+        "comment": "sails"
+    },
+    {
+        "id": 132400,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 51008,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 132401,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 10000,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 33484,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 100000,
+        "comment": "sails"
+    },
+    {
+        "id": 132402,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 98017,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 132403,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 7500,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 64883,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 100000,
+        "comment": "sails"
+    },
+    {
+        "id": 132404,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 36913,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 132405,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 5000,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 115774,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 200000,
+        "comment": "sails"
+    },
+    {
+        "id": 132406,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 38768,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 132407,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 5000,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 179140,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 200000,
+        "comment": "sails"
+    },
+    {
+        "id": 149721,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 38253,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 183084,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 100000,
+        "comment": "sails"
+    },
+    {
+        "id": 191162,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 41263,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 191163,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 5000,
+        "comment": "sails; Proof"
+    }
+]

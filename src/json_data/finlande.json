@@ -1,0 +1,2582 @@
+{
+    "count": 201,
+    "types": [
+        {
+            "id": 89,
+            "title": "1 Euro Cent (1st type)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 1999,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/626ea7867ebb54.54352511-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/626ea7876759c2.79481988-180.jpg"
+        },
+        {
+            "id": 14011,
+            "title": "1 Euro Cent (2nd type)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62b73a68ec9c95.13001105-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62b73a6a017e80.98724469-180.jpg"
+        },
+        {
+            "id": 90,
+            "title": "2 Euro Cent (1st type)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 1999,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62089d380cd392.28840760-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62089d38e302e4.08092923-180.jpg"
+        },
+        {
+            "id": 13318,
+            "title": "2 Euro Cent (2nd type)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/546-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/547-180.jpg"
+        },
+        {
+            "id": 91,
+            "title": "5 Euro Cent (1st type)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 1999,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/61fde2813256f5.16847117-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/61fde2821ebd14.28849922-180.jpg"
+        },
+        {
+            "id": 13319,
+            "title": "5 Euro Cent (2nd type)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/548-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/549-180.jpg"
+        },
+        {
+            "id": 92,
+            "title": "10 Euro Cent (1st type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 1999,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/536-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/767-180.jpg"
+        },
+        {
+            "id": 9898,
+            "title": "10 Euro Cent (2nd type, 2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/538-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/539-180.jpg"
+        },
+        {
+            "id": 93,
+            "title": "20 Euro Cent (1st type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 1999,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1487-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1488-180.jpg"
+        },
+        {
+            "id": 9899,
+            "title": "20 Euro Cent (2nd type, 2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/532-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/533-180.jpg"
+        },
+        {
+            "id": 94,
+            "title": "50 Euro Cent (1st type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 1999,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1489-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1490-180.jpg"
+        },
+        {
+            "id": 9154,
+            "title": "50 Euro Cent (2nd type, 2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/605d70d31e7bb2.07531075-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/605d70d3a573e3.20089702-180.jpg"
+        },
+        {
+            "id": 95,
+            "title": "1 Euro (1st type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 1999,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1491-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1492-180.jpg"
+        },
+        {
+            "id": 9900,
+            "title": "1 Euro (2nd type, 2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6054c1a70a9285.62791960-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6054c1a78f98a5.31644703-180.jpg"
+        },
+        {
+            "id": 96,
+            "title": "2 Euro (1st type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 1999,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/612b605eabdad0.97648242-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/612b605f5b9539.75971023-180.jpg"
+        },
+        {
+            "id": 2189,
+            "title": "2 Euro (Enlargement of the European Union)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fcdc7c56b7cb9.07350487-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fcdc7c5e9ee06.84444659-180.jpg"
+        },
+        {
+            "id": 2194,
+            "title": "2 Euro (60th Anniversary - Finland in UN)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/806-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/807-180.jpg"
+        },
+        {
+            "id": 2198,
+            "title": "2 Euro (Universal Suffrage)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1613-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1614-180.jpg"
+        },
+        {
+            "id": 259433,
+            "title": "2 euro (1st type, 2nd map, type hybride)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62598ca9e239f9.15434934-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62598caa1aaaf8.39766981-180.jpg"
+        },
+        {
+            "id": 2205,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/488-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/489-180.jpg"
+        },
+        {
+            "id": 2203,
+            "title": "2 Euro (Independence)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1493-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1494-180.jpg"
+        },
+        {
+            "id": 8714,
+            "title": "2 Euro (2nd type, 2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/951-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/952-180.jpg"
+        },
+        {
+            "id": 4292,
+            "title": "2 Euro (Declaration of Human Rights)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1497-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1498-180.jpg"
+        },
+        {
+            "id": 5062,
+            "title": "2 Euro (10 Years of EMU)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/831-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/832-180.jpg"
+        },
+        {
+            "id": 9174,
+            "title": "2 Euro (Autonomy)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/626fa1b092ca39.74072531-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/626fa1b19d0ed7.56621793-180.jpg"
+        },
+        {
+            "id": 16111,
+            "title": "2 Euro (Rahapaja - Markka)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/889-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/890-180.jpg"
+        },
+        {
+            "id": 26165,
+            "title": "2 Euro (200 Years of Finland National Bank)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9d7eff23b90.62194615-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9d7f068c8e8.69469606-180.jpg"
+        },
+        {
+            "id": 28328,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/771-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/770-180.jpg"
+        },
+        {
+            "id": 38356,
+            "title": "2 Euro (Helene Schjerfbeck)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9d8da7703c6.85594631-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9d8db28deb6.14740065-180.jpg"
+        },
+        {
+            "id": 48329,
+            "title": "2 Euro (Parliament)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9dc26a30d43.49229834-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9dc271a6998.94133859-180.jpg"
+        },
+        {
+            "id": 51670,
+            "title": "2 Euro (Frans Eemil Sillanp\u00e4\u00e4)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9dc9c6c1f20.02871094-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9dc9ce81e30.91084649-180.jpg"
+        },
+        {
+            "id": 61715,
+            "title": "2 Euro (Tove Jansson)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1108-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1109-180.jpg"
+        },
+        {
+            "id": 66921,
+            "title": "2 Euro (Ilmari Tapiovaara)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9df395f49f9.23519162-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9df3a0ed644.05531634-180.jpg"
+        },
+        {
+            "id": 77165,
+            "title": "2 Euro (Akseli Gallen-Kallela)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9e13d9e2818.85410495-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9e13e30d0a3.70084050-180.jpg"
+        },
+        {
+            "id": 69852,
+            "title": "2 Euro (Jean Sibelius)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1191-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1192-180.jpg"
+        },
+        {
+            "id": 74920,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9e0f4bddd17.45237698-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc9e0f5529ac0.20256665-180.jpg"
+        },
+        {
+            "id": 86837,
+            "title": "2 Euro (Eino Leino)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1343-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1344-180.jpg"
+        },
+        {
+            "id": 93999,
+            "title": "2 Euro (Georg Henrik von Wright)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1461-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1462-180.jpg"
+        },
+        {
+            "id": 124447,
+            "title": "2 Euro (Finnish Nature)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1551-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1552-180.jpg"
+        },
+        {
+            "id": 113429,
+            "title": "2 Euro (100 years of Independence)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1714-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1715-180.jpg"
+        },
+        {
+            "id": 143884,
+            "title": "2 Euro (Finnish Sauna Culture)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/626fa2509fb755.80986498-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/626fa251af5232.66222094-180.jpg"
+        },
+        {
+            "id": 141243,
+            "title": "2 Euro (Landscape Koli)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1694-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1695-180.jpg"
+        },
+        {
+            "id": 182638,
+            "title": "2 Euro (The Constitution Act of Finland)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1767-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1768-180.jpg"
+        },
+        {
+            "id": 220248,
+            "title": "2 Euro (University of Turku)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f6a27f45dfc75.46110006-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f6a27f4ae8d07.44510031-180.jpg"
+        },
+        {
+            "id": 241918,
+            "title": "2 Euro (V\u00e4in\u00f6 Linna)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5fc76e7077a045.36810957-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f9530067d29f0.21092789-180.jpg"
+        },
+        {
+            "id": 284816,
+            "title": "2 Euro (100th Anniversary of Autonomy of \u00c5land Islands)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/61291a44a3bcf3.13029055-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/61291a4507a007.89297527-180.jpg"
+        },
+        {
+            "id": 280491,
+            "title": "2 Euro (Journalism)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/609ce1b92d3ff3.08197368-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/605329ef1a70c3.86100873-180.jpg"
+        },
+        {
+            "id": 318763,
+            "title": "2 Euro (Ballet)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/621749133b0455.98145091-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/61f44163a56502.95727650-180.jpg"
+        },
+        {
+            "id": 341111,
+            "title": "2 Euro (The Climate Research)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/632ddb904c07d6.09436307-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/632d4dfa2451e5.20527627-180.jpg"
+        },
+        {
+            "id": 331204,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62cd0e0d663a95.99820281-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62b2c476bca285.06326932-180.jpg"
+        },
+        {
+            "id": 13254,
+            "title": "5 Euro (Ice Hockey)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1635-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1634-180.jpg"
+        },
+        {
+            "id": 13255,
+            "title": "5 Euro (Helsinki Athletic Championship)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1641-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1640-180.jpg"
+        },
+        {
+            "id": 13320,
+            "title": "5 Euro (Demilitarization of \u00c5land)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/705-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/704-180.jpg"
+        },
+        {
+            "id": 13321,
+            "title": "5 Euro (European Union Presidency)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/706-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/707-180.jpg"
+        },
+        {
+            "id": 13322,
+            "title": "5 Euro (90th Anniversary of Independence)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1193-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1194-180.jpg"
+        },
+        {
+            "id": 13323,
+            "title": "5 Euro (Science)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/502-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/503-180.jpg"
+        },
+        {
+            "id": 16927,
+            "title": "5 Euro (Satakunta)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/490-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/491-180.jpg"
+        },
+        {
+            "id": 16606,
+            "title": "5 Euro (Finland Proper)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/563-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/564-180.jpg"
+        },
+        {
+            "id": 26275,
+            "title": "5 Euro (Karelia)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/721-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/722-180.jpg"
+        },
+        {
+            "id": 22894,
+            "title": "5 Euro (Uusimaa)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/594-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/595-180.jpg"
+        },
+        {
+            "id": 19393,
+            "title": "5 Euro (Tavastia)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/574-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/572-180.jpg"
+        },
+        {
+            "id": 20999,
+            "title": "5 Euro (Savonia)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/573-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/568-180.jpg"
+        },
+        {
+            "id": 27203,
+            "title": "5 Euro (Lapland)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/737-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/739-180.jpg"
+        },
+        {
+            "id": 26276,
+            "title": "5 Euro (Ostrobothnia)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/738-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/740-180.jpg"
+        },
+        {
+            "id": 27581,
+            "title": "5 Euro (\u00c5land)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/727-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/728-180.jpg"
+        },
+        {
+            "id": 30859,
+            "title": "5 Euro (World Design Capital - Helsinki)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/887-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/888-180.jpg"
+        },
+        {
+            "id": 33005,
+            "title": "5 Euro (IIHF Hockey World Championship)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/782-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/783-180.jpg"
+        },
+        {
+            "id": 39960,
+            "title": "5 Euro (The Nordic Nature - Flora)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/847-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/848-180.jpg"
+        },
+        {
+            "id": 39494,
+            "title": "5 Euro (The Nordic Nature - Fauna)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/846-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/845-180.jpg"
+        },
+        {
+            "id": 39961,
+            "title": "5 Euro (The Nordic Nature - Winter)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/843-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/844-180.jpg"
+        },
+        {
+            "id": 40817,
+            "title": "5 Euro (Helsinki and Uspenski Cathedrals)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62af723955cdd1.71006534-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62af7239b9d049.22055786-180.jpg"
+        },
+        {
+            "id": 40816,
+            "title": "5 Euro (Lumberjack&#039;s Candle Bridge)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62af753a8a4940.66782117-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62af753b0eb5e6.10018568-180.jpg"
+        },
+        {
+            "id": 50506,
+            "title": "5 Euro (Imatra Dam)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62af7a79349951.87169688-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62af7a79a78fb3.70962489-180.jpg"
+        },
+        {
+            "id": 46418,
+            "title": "5 Euro (Northern Nature - Summer)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1032-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1033-180.jpg"
+        },
+        {
+            "id": 53134,
+            "title": "5 Euro (Church of St. Lawrence)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1062-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1063-180.jpg"
+        },
+        {
+            "id": 45065,
+            "title": "5 Euro (Sammallahdenm\u00e4ki)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62e2b8245b4851.63865300-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62e2b824e79770.73769099-180.jpg"
+        },
+        {
+            "id": 50505,
+            "title": "5 Euro (St. Olaf Castle)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62e2b1f81ebc52.59983327-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62e2b1f89053b2.61130405-180.jpg"
+        },
+        {
+            "id": 45546,
+            "title": "5 Euro (S\u00e4lsk\u00e4r Lighthouse)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62e2bccea00d26.89533044-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62e2bccf141078.94365818-180.jpg"
+        },
+        {
+            "id": 53135,
+            "title": "5 Euro (Ostrobothnian House)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1064-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1065-180.jpg"
+        },
+        {
+            "id": 45551,
+            "title": "5 Euro (Turku Cathedral)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62e2c3afaf0973.60882646-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62e2c3b01dbdc3.04915226-180.jpg"
+        },
+        {
+            "id": 62200,
+            "title": "5 Euro (Waters)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1438-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1439-180.jpg"
+        },
+        {
+            "id": 60967,
+            "title": "5 Euro (Cuckoo)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1442-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1443-180.jpg"
+        },
+        {
+            "id": 60969,
+            "title": "5 Euro (Black-throated Loon)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1440-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1441-180.jpg"
+        },
+        {
+            "id": 64259,
+            "title": "5 Euro (White-tailed Eagle)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1418-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1419-180.jpg"
+        },
+        {
+            "id": 65372,
+            "title": "5 Euro (Fox)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1420-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1421-180.jpg"
+        },
+        {
+            "id": 58247,
+            "title": "5 Euro (Wilderness)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1436-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1437-180.jpg"
+        },
+        {
+            "id": 71413,
+            "title": "5 Euro (Reindeer)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1432-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1433-180.jpg"
+        },
+        {
+            "id": 79629,
+            "title": "5 Euro (Volleyball)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1593-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1594-180.jpg"
+        },
+        {
+            "id": 79630,
+            "title": "5 Euro (Figure skating)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1595-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1596-180.jpg"
+        },
+        {
+            "id": 75259,
+            "title": "5 Euro (Gymnastics)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1531-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1532-180.jpg"
+        },
+        {
+            "id": 78204,
+            "title": "5 Euro (Basketball)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1597-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1598-180.jpg"
+        },
+        {
+            "id": 72133,
+            "title": "5 Euro (Hedgehog)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1456-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1457-180.jpg"
+        },
+        {
+            "id": 70098,
+            "title": "5 Euro (Beaver)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1174-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1175-180.jpg"
+        },
+        {
+            "id": 72604,
+            "title": "5 Euro (Lynx)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1607-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1608-180.jpg"
+        },
+        {
+            "id": 72134,
+            "title": "5 Euro (Stoat, Short-tailed weasel)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1430-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1431-180.jpg"
+        },
+        {
+            "id": 102705,
+            "title": "5 Euro (Athletics)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1505-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1506-180.jpg"
+        },
+        {
+            "id": 88027,
+            "title": "5 Euro (Ice Hockey)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1603-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1604-180.jpg"
+        },
+        {
+            "id": 88026,
+            "title": "5 Euro (Cross Country)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1601-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1602-180.jpg"
+        },
+        {
+            "id": 88024,
+            "title": "5 Euro (Ski Jumping)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1599-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1600-180.jpg"
+        },
+        {
+            "id": 88360,
+            "title": "5 Euro (Football)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1454-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1455-180.jpg"
+        },
+        {
+            "id": 94920,
+            "title": "5 Euro (Presidents of Finland:  L.K. Relander)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1605-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1606-180.jpg"
+        },
+        {
+            "id": 90428,
+            "title": "5 Euro (Presidents of Finland: Kaarlo Juho Stahlberg)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f621d959107e6.80980566-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f621d965a1a47.69468277-180.jpg"
+        },
+        {
+            "id": 107872,
+            "title": "5 Euro (Presidents of Finland: Kyosti Kallio)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1511-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1512-180.jpg"
+        },
+        {
+            "id": 95813,
+            "title": "5 Euro (Presidents of Finland: P. E. Svinhufvud)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1469-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1470-180.jpg"
+        },
+        {
+            "id": 126713,
+            "title": "5 Euro (Carl Gustaf Emil Mannerheim)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1545-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1546-180.jpg"
+        },
+        {
+            "id": 126716,
+            "title": "5 Euro (Juho Kusti Paasikivi)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1547-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1548-180.jpg"
+        },
+        {
+            "id": 123024,
+            "title": "5 Euro (Presidents of Finland: Risto Heikki Ryti)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1543-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1544-180.jpg"
+        },
+        {
+            "id": 126717,
+            "title": "5 Euro (Urho Kaleva Kekkonen)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1555-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1556-180.jpg"
+        },
+        {
+            "id": 154761,
+            "title": "5 Euro (Presidents of Finland: M. H. Koivisto)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1727-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1728-180.jpg"
+        },
+        {
+            "id": 140634,
+            "title": "5 Euro (Finnish National Landscapes: Koli National Park)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1636-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1637-180.jpg"
+        },
+        {
+            "id": 140769,
+            "title": "5 Euro (Finnish National Landscapes: Maritime Helsinki)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1638-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1639-180.jpg"
+        },
+        {
+            "id": 160331,
+            "title": "5 Euro (Finnish National Landscapes: Olavinlinna Castle and Lake Pihlajavesi)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1731-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1732-180.jpg"
+        },
+        {
+            "id": 143348,
+            "title": "5 Euro (Finnish National Landscapes: Pallastunturi Fells)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1648-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1649-180.jpg"
+        },
+        {
+            "id": 152298,
+            "title": "5 Euro (Finnish National Landscapes: Porvoonjoki River Valley and Old Porvoo)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1720-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1721-180.jpg"
+        },
+        {
+            "id": 143347,
+            "title": "5 Euro (Finnish National Landscapes: Punkaharju)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1652-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1653-180.jpg"
+        },
+        {
+            "id": 151921,
+            "title": "5 Euro (Finnish National Landscapes: River Oulankajoki)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1710-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1711-180.jpg"
+        },
+        {
+            "id": 151922,
+            "title": "5 Euro (Finnish National Landscapes: Tammerkoski rapids)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1712-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1713-180.jpg"
+        },
+        {
+            "id": 144868,
+            "title": "5 Euro (Finnish National Landscapes: The Archipelago Sea)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1688-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1689-180.jpg"
+        },
+        {
+            "id": 336402,
+            "title": "5 Euro (Ice Hockey World Championship)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62fe41b72e5664.10382448-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62fe41b762c945.10298958-180.jpg"
+        },
+        {
+            "id": 13325,
+            "title": "10 Euro (Anniversary of Helsinki Olympic Games)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2002,
+            "max_year": 2002,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/709-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/708-180.jpg"
+        },
+        {
+            "id": 13324,
+            "title": "10 Euro (Elias L\u00f6nnrot)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2002,
+            "max_year": 2002,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5e1051f51c0711.16148157-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5e1051f46d56b4.44968474-180.jpg"
+        },
+        {
+            "id": 13326,
+            "title": "10 Euro (Anders Chydenius)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/997-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/998-180.jpg"
+        },
+        {
+            "id": 13327,
+            "title": "10 Euro (Mannerheim and St. Petersburg)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/995-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/996-180.jpg"
+        },
+        {
+            "id": 13328,
+            "title": "10 Euro (Johan Ludwig Runeberg)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/993-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/994-180.jpg"
+        },
+        {
+            "id": 13329,
+            "title": "10 Euro (Tove Jansson)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/991-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/992-180.jpg"
+        },
+        {
+            "id": 13330,
+            "title": "10 Euro (Peace)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/989-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/990-180.jpg"
+        },
+        {
+            "id": 13331,
+            "title": "10 Euro (Finnish Film Art)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1577-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1578-180.jpg"
+        },
+        {
+            "id": 13332,
+            "title": "10 Euro (Johan Vilhelm Snellman)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/985-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/986-180.jpg"
+        },
+        {
+            "id": 13344,
+            "title": "10 Euro (Parlimentary Reform)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/492-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/493-180.jpg"
+        },
+        {
+            "id": 13347,
+            "title": "10 Euro (A. E. Nordenskiold)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/983-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/984-180.jpg"
+        },
+        {
+            "id": 13578,
+            "title": "10 Euro (Mikael Agricola)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/494-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/495-180.jpg"
+        },
+        {
+            "id": 13579,
+            "title": "10 Euro (Finnish Flag)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/792-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/793-180.jpg"
+        },
+        {
+            "id": 13580,
+            "title": "10 Euro (Mika Waltari)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/981-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/982-180.jpg"
+        },
+        {
+            "id": 13581,
+            "title": "10 Euro (Frederik Pacius)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/979-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/980-180.jpg"
+        },
+        {
+            "id": 13582,
+            "title": "10 Euro (Council of State)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/977-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/978-180.jpg"
+        },
+        {
+            "id": 13583,
+            "title": "10 Euro (Eero Saarinen)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/837-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/838-180.jpg"
+        },
+        {
+            "id": 13584,
+            "title": "10 Euro (Minna Canth)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/975-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/976-180.jpg"
+        },
+        {
+            "id": 16155,
+            "title": "10 Euro (Konsta Jylh\u00e4)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1058-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1059-180.jpg"
+        },
+        {
+            "id": 26277,
+            "title": "10 Euro (Hella Wuolijoki)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1424-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1425-180.jpg"
+        },
+        {
+            "id": 19912,
+            "title": "10 Euro (Kaj Franck)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/609969a8d3b254.35825096-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/609969a8b7d232.43529619-180.jpg"
+        },
+        {
+            "id": 20135,
+            "title": "10 Euro (Pehr Kalm)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/973-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/974-180.jpg"
+        },
+        {
+            "id": 49878,
+            "title": "10 Euro (Juhani Aho)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/60b715b7d32b72.41848220-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/60b715b81e03e9.51428735-180.jpg"
+        },
+        {
+            "id": 27529,
+            "title": "10 Euro (Juhani Aho)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/971-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/972-180.jpg"
+        },
+        {
+            "id": 31012,
+            "title": "10 Euro (Henrik Wigstr\u00f6m)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1112-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1113-180.jpg"
+        },
+        {
+            "id": 126643,
+            "title": "10 Euro (Arvo Ylpp\u00f6)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012
+        },
+        {
+            "id": 34614,
+            "title": "10 Euro (Birth of Armi Ratia)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/794-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/795-180.jpg"
+        },
+        {
+            "id": 45087,
+            "title": "10 Euro (Frans Eemil Sillanp\u00e4\u00e4)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1066-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1067-180.jpg"
+        },
+        {
+            "id": 58153,
+            "title": "10 Euro (Tove Jansson)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6038ef693c6ca4.77761140-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6038ef6989fb12.26734949-180.jpg"
+        },
+        {
+            "id": 65540,
+            "title": "10 Euro (Ilmari Tapiovaara)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62b6b2bf13a494.15161327-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62b6b2bf571bc0.65098089-180.jpg"
+        },
+        {
+            "id": 214645,
+            "title": "10 Euro (Jean Sibelius)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5ebcfa07469770.92959639-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5ebcfa07a8ce27.02457822-180.jpg"
+        },
+        {
+            "id": 184653,
+            "title": "10 Euro (70th Annivesary of Peace after World War II)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/633b226cb2d329.22126362-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/633b226e47f6c2.87667014-180.jpg"
+        },
+        {
+            "id": 214660,
+            "title": "10 Euro (Sisu)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5ec005a8018618.08839369-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5ec005a875b4d2.30541955-180.jpg"
+        },
+        {
+            "id": 214655,
+            "title": "10 Euro (Tapio Wirkkala)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5ebcfa634b7129.44457555-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5ebcfa63ae1bc0.19792646-180.jpg"
+        },
+        {
+            "id": 214650,
+            "title": "10 Euro (Akseli Gallen-Kallela)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5ebcfa37b22086.73831483-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5ebcfa3811ec81.85253000-180.jpg"
+        },
+        {
+            "id": 102579,
+            "title": "10 Euro (Karl Fazer)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6266b28d6d6dc0.83840238-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6266b28db928a6.60199749-180.jpg"
+        },
+        {
+            "id": 319223,
+            "title": "10 Euro (Uno Cygnaeus and folk schooling)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6266b2b98bb767.36535732-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6266b2b9bc8f00.49838732-180.jpg"
+        },
+        {
+            "id": 319224,
+            "title": "10 Euro (Alvar Aalto)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620d4c97e966f4.97256490-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620d4c982d5219.22174544-180.jpg"
+        },
+        {
+            "id": 320230,
+            "title": "10 Euro (Mothers Commemorative)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620c00b483aec6.65359594-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620c00b4bbb4d7.13141857-180.jpg"
+        },
+        {
+            "id": 320233,
+            "title": "10 Euro (Finnish Tango)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620d4cbf22cca2.93033130-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620d4cbf5c2488.65896980-180.jpg"
+        },
+        {
+            "id": 320229,
+            "title": "10 Euro (Kultakausi)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6208b8562fe297.89454590-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6208b8565cbd04.91325558-180.jpg"
+        },
+        {
+            "id": 113951,
+            "title": "10 Euro (100 Years of Independent Finland)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017
+        },
+        {
+            "id": 141159,
+            "title": "10 Euro (Finnish sauna)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018
+        },
+        {
+            "id": 13586,
+            "title": "20 Euro (10th IAAF World Championships in Athletics)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1423-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1422-180.jpg"
+        },
+        {
+            "id": 13585,
+            "title": "20 Euro (Peace and Security)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/633e6f1feed6b0.10847623-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/633e6f208edb08.05940387-180.jpg"
+        },
+        {
+            "id": 16154,
+            "title": "20 Euro (Children&#039;s Creativity)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/967-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/968-180.jpg"
+        },
+        {
+            "id": 42924,
+            "title": "20 Euro (Baltic Sea)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1575-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1576-180.jpg"
+        },
+        {
+            "id": 27980,
+            "title": "20 Euro (Baltic Sea)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62b6b80e33ce87.22125690-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62b6b80e5b9309.30200071-180.jpg"
+        },
+        {
+            "id": 45146,
+            "title": "20 Euro (Equality and Tolerance)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1573-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1574-180.jpg"
+        },
+        {
+            "id": 319220,
+            "title": "20 Euro (Literacy)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6208b880eaaf49.43588845-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6208b8812715c7.19304284-180.jpg"
+        },
+        {
+            "id": 56266,
+            "title": "20 Euro (Tove Jansson)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/633b2151d1f954.28157636-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/633b2153532011.33737288-180.jpg"
+        },
+        {
+            "id": 319221,
+            "title": "20 Euro (Tapio Wirkkala)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6208b8a8de0f54.39217813-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6208b8a91744c4.83347310-180.jpg"
+        },
+        {
+            "id": 304706,
+            "title": "20 Euro (Akseli Gallen-Kallela)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62f3cdbb81e621.41938650-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62f3cdbbb1d264.13619140-180.jpg"
+        },
+        {
+            "id": 235159,
+            "title": "20 Euro (Karl Fazer)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f4e6e2c9ac360.03642318-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f4e6e2d472781.01767099-180.jpg"
+        },
+        {
+            "id": 319222,
+            "title": "20 Euro (Uno Cygnaeus and folk schooling)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62f3cd87afdd37.75438721-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62f3cd87ef3699.61587728-180.jpg"
+        },
+        {
+            "id": 193181,
+            "title": "20 Euro (100 years of Independence)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017
+        },
+        {
+            "id": 320231,
+            "title": "20 Euro (Mothers Commemorative)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620c00d8b4bec6.18581862-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620c00d8f19374.45668983-180.jpg"
+        },
+        {
+            "id": 320232,
+            "title": "20 Euro (Finnish Tango)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620d4ce6176770.22675897-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/620d4ce6526030.36607558-180.jpg"
+        },
+        {
+            "id": 141254,
+            "title": "20 Euro (Finnish sauna)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018
+        },
+        {
+            "id": 315593,
+            "title": "20 Euro (Saami Culture)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/61d70ab5d7fad9.73199208-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/61d70ab6412d59.35198688-180.jpg"
+        },
+        {
+            "id": 330684,
+            "title": "20 Euro (The Mannerheim League for Child Welfare)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62ad6c1b8e6003.77544066-180.jpg"
+        },
+        {
+            "id": 311585,
+            "title": "20 Euro (V\u00e4in\u00f6 Linna)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2020,
+            "max_year": 2020
+        },
+        {
+            "id": 311627,
+            "title": "20 Euro (100th Anniversary of Autonomy of \u00c5land Islands)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2021,
+            "max_year": 2021
+        },
+        {
+            "id": 341165,
+            "title": "20 Euro (The Climate Research)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2022,
+            "max_year": 2022
+        },
+        {
+            "id": 13587,
+            "title": "50 Euro (Finnish Art and Design)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1525-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1526-180.jpg"
+        },
+        {
+            "id": 13588,
+            "title": "50 Euro (European Union Presidency)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/958-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/959-180.jpg"
+        },
+        {
+            "id": 78541,
+            "title": "50 Euro (World Design Capital Helsinki 2012)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1529-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1530-180.jpg"
+        },
+        {
+            "id": 13589,
+            "title": "100 Euro (Lappland Midnight Sun)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2002,
+            "max_year": 2002,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/955-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/956-180.jpg"
+        },
+        {
+            "id": 13590,
+            "title": "100 Euro (Albert Edelfelt)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1116-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1117-180.jpg"
+        },
+        {
+            "id": 13592,
+            "title": "100 Euro (Independence)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1536-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1535-180.jpg"
+        },
+        {
+            "id": 13593,
+            "title": "100 Euro (Bicentennial of Finnish Autonomy)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/604f5a761d6789.91078837-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/604f5a765928f5.72748190-180.jpg"
+        },
+        {
+            "id": 13594,
+            "title": "100 Euro (Diet of Porvod)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6050b8f458dbb6.94820220-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6050b8f49d6b73.58080057-180.jpg"
+        },
+        {
+            "id": 13596,
+            "title": "100 Euro (Rahapaja - Markka)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1755-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1756-180.jpg"
+        },
+        {
+            "id": 106042,
+            "title": "100 Euro Bank of Finland 200 years",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/60d491d7b318b6.23533102-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/60d491d7d9dc22.89506706-180.jpg"
+        },
+        {
+            "id": 242440,
+            "title": "100 Euro (The Diet of 1863)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62792d253739b3.48443188-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/62792d25679bf4.15940954-180.jpg"
+        },
+        {
+            "id": 62598,
+            "title": "100 Euro (Numismatics)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1509-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/1510-180.jpg"
+        },
+        {
+            "id": 321104,
+            "title": "100 Euro (Jean Sibelius)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2015,
+            "max_year": 2015
+        },
+        {
+            "id": 148659,
+            "title": "100 Euro (90th of the death of Eino Leino)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/60793946970ac4.20306316-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/60793946c2cce8.51324458-180.jpg"
+        },
+        {
+            "id": 128593,
+            "title": "100 Euro (100 years of Independence)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6050bcebd9d807.68696568-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/finlande/6050bcebf1cdb3.96643363-180.jpg"
+        },
+        {
+            "id": 215236,
+            "title": "100 Euro (The Constitution Act of Finland)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2019,
+            "max_year": 2019
+        },
+        {
+            "id": 280490,
+            "title": "100 Euro (Journalism)",
+            "category": "coin",
+            "issuer": {
+                "code": "finlande",
+                "name": "Finland"
+            },
+            "min_year": 2021,
+            "max_year": 2021
+        }
+    ]
+}

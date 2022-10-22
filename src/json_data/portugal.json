@@ -1,0 +1,4555 @@
+{
+    "count": 378,
+    "types": [
+        {
+            "id": 103762,
+            "title": "Barbuda - Fernando I (Porto mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1370,
+            "max_year": 1371,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4995-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4961-180.jpg"
+        },
+        {
+            "id": 104323,
+            "title": "\u00bd Torn\u00eas At\u00edpico - Fernando I (Corunha mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1369,
+            "max_year": 1371,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5008-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5009-180.jpg"
+        },
+        {
+            "id": 105060,
+            "title": "\u00bd Real of 10 Soldos - Jo\u00e3o I (&quot;\u20acV&quot; \u00c9vora mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1386,
+            "max_year": 1397,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5051-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5052-180.jpg"
+        },
+        {
+            "id": 105067,
+            "title": "\u00bd Real At\u00edpico - Jo\u00e3o I (\u20ac, \u00c9vora mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1386,
+            "max_year": 1397,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5055-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5056-180.jpg"
+        },
+        {
+            "id": 40253,
+            "title": "\u00bd Real At\u00edpico - Jo\u00e3o I (\u20ac-V; \u00c9vora mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1386,
+            "max_year": 1397,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2403-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2404-180.jpg"
+        },
+        {
+            "id": 97620,
+            "title": "Real of 10 soldos - Jo\u00e3o I (\u00c9vora mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1385,
+            "max_year": 1387,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4353-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4354-180.jpg"
+        },
+        {
+            "id": 40289,
+            "title": "\u00bd Real Preto - Duarte I (Lisboa mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1433,
+            "max_year": 1438,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5786-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5787-180.jpg"
+        },
+        {
+            "id": 105403,
+            "title": "\u00bd Real Preto - Duarte I (&quot;P&quot;, Porto Mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1433,
+            "max_year": 1438,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5499-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5500-180.jpg"
+        },
+        {
+            "id": 105404,
+            "title": "Real Preto - Duarte I (Porto mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1433,
+            "max_year": 1438,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5501-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5502-180.jpg"
+        },
+        {
+            "id": 105102,
+            "title": "Real Branco - Duarte I (Lisboa mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1433,
+            "max_year": 1438,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5497-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5498-180.jpg"
+        },
+        {
+            "id": 35840,
+            "title": "Real Branco - Duarte I (Porto mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1433,
+            "max_year": 1438,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4207-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4208-180.jpg"
+        },
+        {
+            "id": 40291,
+            "title": "Leal - Duarte I",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1433,
+            "max_year": 1438,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4694-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4695-180.jpg"
+        },
+        {
+            "id": 20271,
+            "title": "2 Centavos",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 1918,
+            "max_year": 1918,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4789-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4790-180.jpg"
+        },
+        {
+            "id": 19858,
+            "title": "1000 Escudos (2004 UEFA Euro)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2001,
+            "max_year": 2001,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1202-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1203-180.jpg"
+        },
+        {
+            "id": 41063,
+            "title": "1000 Escudos (2004 UEFA Euro; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2001,
+            "max_year": 2001,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5670-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5671-180.jpg"
+        },
+        {
+            "id": 153,
+            "title": "1 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2002,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5970-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5971-180.jpg"
+        },
+        {
+            "id": 154,
+            "title": "2 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2002,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5973-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5974-180.jpg"
+        },
+        {
+            "id": 155,
+            "title": "5 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2002,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5975-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5976-180.jpg"
+        },
+        {
+            "id": 156,
+            "title": "10 Euro Cent (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2002,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62c9239412ff43.02001796-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62c92394a2db18.80480132-180.jpg"
+        },
+        {
+            "id": 9895,
+            "title": "10 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3481-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3482-180.jpg"
+        },
+        {
+            "id": 157,
+            "title": "20 Euro Cent (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2002,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3473-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3474-180.jpg"
+        },
+        {
+            "id": 9896,
+            "title": "20 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3483-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3484-180.jpg"
+        },
+        {
+            "id": 16898,
+            "title": "\u00bc Euro (Afonso Henriques)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5304-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5305-180.jpg"
+        },
+        {
+            "id": 16894,
+            "title": "\u00bc Euro (Saint Anthony of Lisbon)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5306-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5307-180.jpg"
+        },
+        {
+            "id": 16903,
+            "title": "\u00bc Euro (D. Dinis)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5322-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5321-180.jpg"
+        },
+        {
+            "id": 16879,
+            "title": "\u00bc Euro (Vasco da Gama)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5327-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5328-180.jpg"
+        },
+        {
+            "id": 16904,
+            "title": "\u00bc Euro (Lu\u00eds de Cam\u00f5es)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3190-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3191-180.jpg"
+        },
+        {
+            "id": 25044,
+            "title": "\u00bc Euro (Ant\u00f3nio Vieira)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5347-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5348-180.jpg"
+        },
+        {
+            "id": 25046,
+            "title": "\u00bc Euro (European Union Membership)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5357-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5358-180.jpg"
+        },
+        {
+            "id": 41379,
+            "title": "\u00bc Euro (Carlos Seixas)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3206-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3207-180.jpg"
+        },
+        {
+            "id": 42319,
+            "title": "\u00bc Euro (Antero de Quental)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3208-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3209-180.jpg"
+        },
+        {
+            "id": 69800,
+            "title": "\u00bc Euro (Fernando Pessoa)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3210-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3211-180.jpg"
+        },
+        {
+            "id": 158,
+            "title": "50 Euro Cent (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2002,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/605d7be88a01f4.63655512-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/605d7be9283fc1.97711840-180.jpg"
+        },
+        {
+            "id": 9609,
+            "title": "50 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/605d7b635ff8a3.48533355-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/605d7b63ea0a88.29605629-180.jpg"
+        },
+        {
+            "id": 159,
+            "title": "1 Euro (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2002,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6054bec615be84.47463277-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6054bec6af98e6.52952779-180.jpg"
+        },
+        {
+            "id": 9894,
+            "title": "1 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6054c6638a0f02.86051347-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6054c664151d05.88940419-180.jpg"
+        },
+        {
+            "id": 8186,
+            "title": "1\u00bd Euro (AMI)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6cd68420f27.87728385-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6cd68857b84.50372800-180.jpg"
+        },
+        {
+            "id": 3908,
+            "title": "1\u00bd Euro (AMI; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3560-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3559-180.jpg"
+        },
+        {
+            "id": 18226,
+            "title": "1\u00bd Euro (Morabitino; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5335-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5336-180.jpg"
+        },
+        {
+            "id": 10116,
+            "title": "1\u00bd Euro (Morabitino)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e43bbf95dcf5.82759591-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e43bbfd07298.23922087-180.jpg"
+        },
+        {
+            "id": 15973,
+            "title": "1\u00bd Euro (Against Famine)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e43db4cc5b91.58459746-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e43db5166f42.71416522-180.jpg"
+        },
+        {
+            "id": 18222,
+            "title": "1\u00bd Euro (Against Famine; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5341-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5342-180.jpg"
+        },
+        {
+            "id": 237123,
+            "title": "1\u00bd Euro (Half Escudo from Ceuta)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f62ea0fb14eb7.18857524-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f62ea0fe84384.52976842-180.jpg"
+        },
+        {
+            "id": 341178,
+            "title": "1\u00bd Euro (Numismatic Treasures \u2013 Engenhoso)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/632deff8112022.32015108-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/632deff7bd7da3.62192863-180.jpg"
+        },
+        {
+            "id": 160,
+            "title": "2 Euro (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2002,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3477-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3478-180.jpg"
+        },
+        {
+            "id": 2206,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2687-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2688-180.jpg"
+        },
+        {
+            "id": 2204,
+            "title": "2 Euro (Council of the European Union)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2772-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2773-180.jpg"
+        },
+        {
+            "id": 3911,
+            "title": "2 Euro (Human Rights)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4608-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4609-180.jpg"
+        },
+        {
+            "id": 9897,
+            "title": "2 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3493-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3494-180.jpg"
+        },
+        {
+            "id": 5074,
+            "title": "2 Euro (10 Years of EMU)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5fc9d7092110a2.58159849-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5fc9d709a87e11.50702804-180.jpg"
+        },
+        {
+            "id": 7639,
+            "title": "2 Euro (Lusophony Games)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4610-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4611-180.jpg"
+        },
+        {
+            "id": 15315,
+            "title": "2 Euro (Portuguese Republic)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4612-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4613-180.jpg"
+        },
+        {
+            "id": 22490,
+            "title": "2 Euro (Fern\u00e3o Mendes Pinto)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2770-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2771-180.jpg"
+        },
+        {
+            "id": 28329,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1648-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1649-180.jpg"
+        },
+        {
+            "id": 34225,
+            "title": "2 Euro (Guimar\u00e3es)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1686-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1687-180.jpg"
+        },
+        {
+            "id": 42726,
+            "title": "2 Euro (Oporto Cl\u00e9rigos Tower)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3509-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3510-180.jpg"
+        },
+        {
+            "id": 66314,
+            "title": "2 Euro (Family Farming)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3511-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3512-180.jpg"
+        },
+        {
+            "id": 59474,
+            "title": "2 Euro (Carnation Revolution)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3146-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3147-180.jpg"
+        },
+        {
+            "id": 74264,
+            "title": "2 Euro (Timor)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3302-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3303-180.jpg"
+        },
+        {
+            "id": 71656,
+            "title": "2 Euro (Portuguese Red Cross)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3840-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3841-180.jpg"
+        },
+        {
+            "id": 77133,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5fa0581a731d30.50164631-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5fa0581ab066a9.54468028-180.jpg"
+        },
+        {
+            "id": 87329,
+            "title": "2 Euro (25th of April bridge)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62807eb168ace0.21389257-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62807eb2b0d045.00245162-180.jpg"
+        },
+        {
+            "id": 84061,
+            "title": "2 Euro (Portuguese Olympic Team for Rio 2016)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280886e36b042.73539075-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280886fb0c5d0.72926579-180.jpg"
+        },
+        {
+            "id": 105040,
+            "title": "2 Euro (150 Years of Public Security)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/628067f6b04e37.49883028-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/628067f80bff99.75617345-180.jpg"
+        },
+        {
+            "id": 105042,
+            "title": "2 Euro (150 Years of Public Security; Colored)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5437-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5438-180.jpg"
+        },
+        {
+            "id": 117220,
+            "title": "2 Euro (Raul Brand\u00e3o)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62808074b21138.21785595-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280807628a5e3.46959338-180.jpg"
+        },
+        {
+            "id": 133675,
+            "title": "2 Euro (Botanical garden of Ajuda)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280845bf2e083.57590129-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280845d4efed0.35799464-180.jpg"
+        },
+        {
+            "id": 133674,
+            "title": "2 Euro (Imprensa Nacional - National Mint)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/628081b9d2dd14.26796232-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/628081bb39a214.10501160-180.jpg"
+        },
+        {
+            "id": 157844,
+            "title": "2 Euro (500th anniversary of Magellan Circumnavigation)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/628083c3e82d50.51931156-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/628083c54e22d9.27435275-180.jpg"
+        },
+        {
+            "id": 157845,
+            "title": "2 Euro (600th Anniversary of the discovery of the Madeira archipelago)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280854e4fec30.51739855-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6280854f9b0509.97938157-180.jpg"
+        },
+        {
+            "id": 227198,
+            "title": "2 Euro (730 years of the University of Coimbra)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f6a2b9204ddf3.05914988-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f6a2b923c5eb2.80020975-180.jpg"
+        },
+        {
+            "id": 197919,
+            "title": "2 Euro (75th anniversary of United Nations)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/606f1d114f4f79.77067044-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/606f1d126fc9b1.79070022-180.jpg"
+        },
+        {
+            "id": 258832,
+            "title": "2 Euro (Presidency European Union)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60150add0c1f12.04625506-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5fe1bc0a2c1ce7.56425085-180.jpg"
+        },
+        {
+            "id": 274850,
+            "title": "2 Euro (Tokyo Olympic Games)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/629fa708579307.87083194-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/629fa708c2d7c0.14966277-180.jpg"
+        },
+        {
+            "id": 321378,
+            "title": "2 Euro (Crossing of the South Atlantic by plane)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62ff6209ec90c2.67659031-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62ff620a5be5e0.99498485-180.jpg"
+        },
+        {
+            "id": 327887,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62cd18d4354a17.32514254-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62cd18d48b3722.66798645-180.jpg"
+        },
+        {
+            "id": 9131,
+            "title": "2\u00bd Euro (Fado)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5652-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5653-180.jpg"
+        },
+        {
+            "id": 18240,
+            "title": "2\u00bd Euro (Fado; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5323-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5324-180.jpg"
+        },
+        {
+            "id": 9132,
+            "title": "2\u00bd Euro (Olympics)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/970-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/969-180.jpg"
+        },
+        {
+            "id": 17650,
+            "title": "2\u00bd Euro (Olympics; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5325-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5326-180.jpg"
+        },
+        {
+            "id": 8007,
+            "title": "2\u00bd Euro (World Heritage - Porto)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e43f7128d542.33627186-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e43f7171a097.13708015-180.jpg"
+        },
+        {
+            "id": 17974,
+            "title": "2\u00bd Euro (World Heritage - Porto; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3567-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3568-180.jpg"
+        },
+        {
+            "id": 8006,
+            "title": "2\u00bd Euro (World Heritage - Alto Douro)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e440cb3a72b3.91035098-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e440cb6fd502.92518569-180.jpg"
+        },
+        {
+            "id": 17971,
+            "title": "2\u00bd Euro (World Heritage - Alto Douro; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3569-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3570-180.jpg"
+        },
+        {
+            "id": 8185,
+            "title": "2\u00bd Euro (Portuguese Language)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6b783ab8230.69016687-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6b783eb3562.17877762-180.jpg"
+        },
+        {
+            "id": 18236,
+            "title": "2\u00bd Euro (Portuguese Language; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5331-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5332-180.jpg"
+        },
+        {
+            "id": 18237,
+            "title": "2\u00bd Euro (Portuguese Language; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5333-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5334-180.jpg"
+        },
+        {
+            "id": 9134,
+            "title": "2\u00bd Euro (World Heritage - Jer\u00f3nimos Monastery)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1050-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1049-180.jpg"
+        },
+        {
+            "id": 18235,
+            "title": "2\u00bd Euro (World Heritage - Jer\u00f3nimos Monastery; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5329-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5330-180.jpg"
+        },
+        {
+            "id": 9133,
+            "title": "2\u00bd Euro (World Heritage - Bel\u00e9m Tower)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5654-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5655-180.jpg"
+        },
+        {
+            "id": 18232,
+            "title": "2\u00bd Euro (World Heritage - Bel\u00e9m Tower; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3573-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3574-180.jpg"
+        },
+        {
+            "id": 12018,
+            "title": "2\u00bd Euro (FIFA World Cup)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6b90a9a38e3.33852880-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6b90ad5d2b0.10880957-180.jpg"
+        },
+        {
+            "id": 18221,
+            "title": "2\u00bd Euro (FIFA World Cup; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3575-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3576-180.jpg"
+        },
+        {
+            "id": 13091,
+            "title": "2\u00bd Euro (Palace Square, Lisbon)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3495-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3496-180.jpg"
+        },
+        {
+            "id": 17433,
+            "title": "2\u00bd Euro (Palace Square, Lisbon; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3577-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3578-180.jpg"
+        },
+        {
+            "id": 17434,
+            "title": "2\u00bd Euro (Palace Square, Lisbon; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5345-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5346-180.jpg"
+        },
+        {
+            "id": 17431,
+            "title": "2\u00bd Euro (Torres Defence Line)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3497-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3498-180.jpg"
+        },
+        {
+            "id": 17432,
+            "title": "2\u00bd Euro (Torres Defence Line; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3579-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3580-180.jpg"
+        },
+        {
+            "id": 17437,
+            "title": "2\u00bd Euro (World Heritage - C\u00f4a Valley)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6bac7b14f00.46923853-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6bac7ed5a52.18310124-180.jpg"
+        },
+        {
+            "id": 17438,
+            "title": "2\u00bd Euro (World Heritage - C\u00f4a Valley; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5339-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5340-180.jpg"
+        },
+        {
+            "id": 21902,
+            "title": "2\u00bd Euro (Capelo and Ivens)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3499-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3500-180.jpg"
+        },
+        {
+            "id": 22407,
+            "title": "2\u00bd Euro (Capelo and Ivens; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5349-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5350-180.jpg"
+        },
+        {
+            "id": 22422,
+            "title": "2\u00bd Euro (Capelo and Ivens; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5351-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5352-180.jpg"
+        },
+        {
+            "id": 21901,
+            "title": "2\u00bd Euro (Army Institute Pupils)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3502-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3501-180.jpg"
+        },
+        {
+            "id": 25146,
+            "title": "2\u00bd Euro (Army Institute Pupils; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5356-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5355-180.jpg"
+        },
+        {
+            "id": 26368,
+            "title": "2\u00bd Euro (Vinha da Ilha do Pico)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3503-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3504-180.jpg"
+        },
+        {
+            "id": 26444,
+            "title": "2\u00bd Euro (World Heritage - Vinha da Ilha do Pico; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5353-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5354-180.jpg"
+        },
+        {
+            "id": 30653,
+            "title": "2\u00bd Euro (Lisbon University)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1632-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1633-180.jpg"
+        },
+        {
+            "id": 30667,
+            "title": "2\u00bd Euro (Lisbon University; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3582-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3581-180.jpg"
+        },
+        {
+            "id": 39060,
+            "title": "2\u00bd Euro (Sagres)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5656-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5657-180.jpg"
+        },
+        {
+            "id": 39084,
+            "title": "2\u00bd Euro (Sagres; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3593-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3594-180.jpg"
+        },
+        {
+            "id": 36259,
+            "title": "2\u00bd Euro (Jos\u00e9 Malhoa)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2154-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2153-180.jpg"
+        },
+        {
+            "id": 36726,
+            "title": "2\u00bd Euro (Jos\u00e9 Malhoa; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3583-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3584-180.jpg"
+        },
+        {
+            "id": 70857,
+            "title": "2\u00bd Euro (Jos\u00e9 Malhoa; gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3585-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3586-180.jpg"
+        },
+        {
+            "id": 36260,
+            "title": "2\u00bd Euro (Olympics)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2158-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2157-180.jpg"
+        },
+        {
+            "id": 36852,
+            "title": "2\u00bd Euro (Olympics; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3589-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3590-180.jpg"
+        },
+        {
+            "id": 46809,
+            "title": "2\u00bd Euro (Olympic; Bimetallic foil silver and gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3587-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3588-180.jpg"
+        },
+        {
+            "id": 37800,
+            "title": "2\u00bd Euro (Guimar\u00e3es)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5658-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5659-180.jpg"
+        },
+        {
+            "id": 70860,
+            "title": "2\u00bd Euro (World Heritage - Guimar\u00e3es; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3591-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3592-180.jpg"
+        },
+        {
+            "id": 52933,
+            "title": "2\u00bd Euro (Fortifications of Elvas)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3507-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3508-180.jpg"
+        },
+        {
+            "id": 58885,
+            "title": "2\u00bd Euro (Elvas Fortifications; Proof Issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3607-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3608-180.jpg"
+        },
+        {
+            "id": 47082,
+            "title": "2\u00bd Euro (Earrings of Viana do Castelo)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3930-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3931-180.jpg"
+        },
+        {
+            "id": 54609,
+            "title": "2\u00bd Euro (Earrings of Viana do Castelo; silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3605-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3606-180.jpg"
+        },
+        {
+            "id": 70854,
+            "title": "2\u00bd Euro (Earrings of Viana do Castelo; gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3552-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3554-180.jpg"
+        },
+        {
+            "id": 51478,
+            "title": "2\u00bd Euro (Jo\u00e3o Villaret)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4728-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4729-180.jpg"
+        },
+        {
+            "id": 58884,
+            "title": "2\u00bd  Euro (Jo\u00e3o Villaret; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3599-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3600-180.jpg"
+        },
+        {
+            "id": 44508,
+            "title": "2\u00bd Euro (European Writers - Jos\u00e9 Saramago)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3505-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3506-180.jpg"
+        },
+        {
+            "id": 45941,
+            "title": "2\u00bd Euro (European Writers - Jos\u00e9 Saramago; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3595-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3596-180.jpg"
+        },
+        {
+            "id": 46810,
+            "title": "2\u00bd Euro (European Writers - Jos\u00e9 Saramago; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5664-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5665-180.jpg"
+        },
+        {
+            "id": 52932,
+            "title": "2\u00bd Euro (100 years of submarine Espadarte)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2833-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2834-180.jpg"
+        },
+        {
+            "id": 58883,
+            "title": "2\u00bd Euro (100 years of submarine Espadarte; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3603-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3604-180.jpg"
+        },
+        {
+            "id": 44770,
+            "title": "2\u00bd Euro (International Red Cross",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5680-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5681-180.jpg"
+        },
+        {
+            "id": 54823,
+            "title": "2\u00bd  Euro (Portuguese Red Cross; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3601-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3602-180.jpg"
+        },
+        {
+            "id": 58887,
+            "title": "2\u00bd Euro (Marcos Portugal)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2927-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2928-180.jpg"
+        },
+        {
+            "id": 58886,
+            "title": "2\u00bd Euro (Marcos Portugal; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3615-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3616-180.jpg"
+        },
+        {
+            "id": 70404,
+            "title": "2\u00bd Euro (Marcos Portugal; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3614-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3613-180.jpg"
+        },
+        {
+            "id": 56152,
+            "title": "2\u00bd Euro (Football World Cup Brazil)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3932-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3933-180.jpg"
+        },
+        {
+            "id": 58881,
+            "title": "2\u00bd Euro (Football World Cup Brazil; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3611-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3612-180.jpg"
+        },
+        {
+            "id": 70403,
+            "title": "2\u00bd Euro (Football World Cup Brazil; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3196-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3197-180.jpg"
+        },
+        {
+            "id": 62776,
+            "title": "2\u00bd Euro (Military Aviation)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3842-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3843-180.jpg"
+        },
+        {
+            "id": 63356,
+            "title": "2\u00bd Euro (Military Aviation; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3617-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3618-180.jpg"
+        },
+        {
+            "id": 67071,
+            "title": "2\u00bd Euro (100th anniversary of  republic commemorative coins)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3597-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3598-180.jpg"
+        },
+        {
+            "id": 60315,
+            "title": "2\u00bd Euro (The Yokes)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3838-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3839-180.jpg"
+        },
+        {
+            "id": 60494,
+            "title": "2\u00bd  Euro (The Yokes; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3556-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3555-180.jpg"
+        },
+        {
+            "id": 70433,
+            "title": "2\u00bd Euro (The Yokes; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3619-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3620-180.jpg"
+        },
+        {
+            "id": 66495,
+            "title": "2\u00bd Euro (35 Years of the National Health Service)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3513-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3514-180.jpg"
+        },
+        {
+            "id": 67482,
+            "title": "2\u00bd Euro (35 Years of the National Health Service; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3609-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3610-180.jpg"
+        },
+        {
+            "id": 68051,
+            "title": "2\u00bd Euro (University of Coimbra)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4061-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4062-180.jpg"
+        },
+        {
+            "id": 68533,
+            "title": "2\u00bd Euro (World Heritage - Coimbra University; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3621-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3622-180.jpg"
+        },
+        {
+            "id": 70799,
+            "title": "2\u00bd Euro (70 Years of peace in Europe)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6bc2a37efc3.99321375-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e6bc2a865117.12515962-180.jpg"
+        },
+        {
+            "id": 70801,
+            "title": "2\u00bd Euro (70 Years of peace in Europe; silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3624-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3623-180.jpg"
+        },
+        {
+            "id": 70802,
+            "title": "2\u00bd Euro (70 Years of peace in Europe; gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3527-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3528-180.jpg"
+        },
+        {
+            "id": 69860,
+            "title": "2\u00bd Euro (O Fado)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3928-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3929-180.jpg"
+        },
+        {
+            "id": 70438,
+            "title": "2\u00bd Euro (World Heritage - O Fado; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3310-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3311-180.jpg"
+        },
+        {
+            "id": 79764,
+            "title": "2\u00bd Euro (Ombudsman)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3627-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3628-180.jpg"
+        },
+        {
+            "id": 79765,
+            "title": "2\u00bd Euro (Ombudsman; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3629-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3630-180.jpg"
+        },
+        {
+            "id": 77920,
+            "title": "2\u00bd Euro (Rio 2016 Olympic Games)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3519-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3520-180.jpg"
+        },
+        {
+            "id": 77924,
+            "title": "2\u00bd Euro (Rio 2016 Olympic Games; Bimetallic)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3544-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3545-180.jpg"
+        },
+        {
+            "id": 76754,
+            "title": "2\u00bd Euro (Beadspreads from Castelo Branco)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5666-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5667-180.jpg"
+        },
+        {
+            "id": 76759,
+            "title": "2\u00bd Euro (Beadspreads from Castelo Branco; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3546-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3547-180.jpg"
+        },
+        {
+            "id": 76758,
+            "title": "2\u00bd Euro (Beadspreads from Castelo Branco; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3548-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3549-180.jpg"
+        },
+        {
+            "id": 79494,
+            "title": "2\u00bd Euro (Climate change)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3525-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3526-180.jpg"
+        },
+        {
+            "id": 79510,
+            "title": "2\u00bd Euro (Climate change; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3625-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3626-180.jpg"
+        },
+        {
+            "id": 87327,
+            "title": "2\u00bd Euro (Cante Alentejano)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4297-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4298-180.jpg"
+        },
+        {
+            "id": 87328,
+            "title": "2\u00bd Euro (Cante Alentejano; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3969-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3971-180.jpg"
+        },
+        {
+            "id": 94903,
+            "title": "2\u00bd Euro (Figurado de Barcelos)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4296-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4295-180.jpg"
+        },
+        {
+            "id": 94902,
+            "title": "2\u00bd Euro (Figurado de Barcelos; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4418-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4419-180.jpg"
+        },
+        {
+            "id": 94901,
+            "title": "2\u00bd Euro (Figurado de Barcelos; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4309-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4310-180.jpg"
+        },
+        {
+            "id": 86003,
+            "title": "2\u00bd Euro (Money museum)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3925-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3924-180.jpg"
+        },
+        {
+            "id": 86002,
+            "title": "2\u00bd Euro (Money museum; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3927-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3926-180.jpg"
+        },
+        {
+            "id": 108331,
+            "title": "2\u00bd Euro (100th anniversary  of F\u00e1tima)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5379-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5380-180.jpg"
+        },
+        {
+            "id": 108332,
+            "title": "2\u00bd Euro (100th anniversary  of F\u00e1tima; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5381-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5382-180.jpg"
+        },
+        {
+            "id": 108333,
+            "title": "2\u00bd Euro (100th anniversary  of F\u00e1tima; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5401-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5402-180.jpg"
+        },
+        {
+            "id": 117226,
+            "title": "2\u00bd Euro (Caretos from Tr\u00e1s-os-Montes)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5464-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5463-180.jpg"
+        },
+        {
+            "id": 117227,
+            "title": "2\u00bd Euro (Caretos from Tr\u00e1s-os-Montes; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5467-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5468-180.jpg"
+        },
+        {
+            "id": 117228,
+            "title": "2\u00bd Euro (Caretos from Tr\u00e1s-os-Montes; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5465-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5466-180.jpg"
+        },
+        {
+            "id": 152747,
+            "title": "2\u00bd Euro (Granary houses from northwest of Portugal)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5897-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5898-180.jpg"
+        },
+        {
+            "id": 152748,
+            "title": "2\u00bd Euro (Granary houses from northwest of Portugal; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5904-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5903-180.jpg"
+        },
+        {
+            "id": 152749,
+            "title": "2\u00bd Euro (Granary houses from northwest of Portugal; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5905-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5906-180.jpg"
+        },
+        {
+            "id": 133679,
+            "title": "2\u00bd Euro (FIFA World Cup Russia 2018)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6051-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6052-180.jpg"
+        },
+        {
+            "id": 133680,
+            "title": "2\u00bd Euro (FIFA World Cup Russia 2018; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5800-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5801-180.jpg"
+        },
+        {
+            "id": 133681,
+            "title": "2\u00bd Euro (FIFA World Cup Russia 2018; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5798-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5799-180.jpg"
+        },
+        {
+            "id": 242463,
+            "title": "2\u00bd Euro (UEFA EURO 2020)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f9b8bdb49c4e2.91936242-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f9b8bdb17b483.54585584-180.jpg"
+        },
+        {
+            "id": 242465,
+            "title": "2\u00bd Euro (UEFA EURO 2020; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f9b9061bb2aa0.24606363-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f9b90619a2cb6.69198595-180.jpg"
+        },
+        {
+            "id": 242466,
+            "title": "2\u00bd Euro (UEFA EURO 2020; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f9b97846f11c8.20432001-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f9b97844f1108.50112870-180.jpg"
+        },
+        {
+            "id": 292297,
+            "title": "2\u00bd Euro (Numismatic Treasures \u2013 Escudo of Saint Thomas)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/609a3b8a6dbc71.59022688-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/609a3b8aaa6ae0.09510840-180.jpg"
+        },
+        {
+            "id": 14635,
+            "title": "5 Euro (First Portuguese Stamp)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/924-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/923-180.jpg"
+        },
+        {
+            "id": 17422,
+            "title": "5 Euro (First Portuguese Stamp; .925 Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5262-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5263-180.jpg"
+        },
+        {
+            "id": 17652,
+            "title": "5 Euro (First Portuguese Stamp; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5264-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5265-180.jpg"
+        },
+        {
+            "id": 13277,
+            "title": "5 Euro (World Heritage - Convent of Christ)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/809-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/808-180.jpg"
+        },
+        {
+            "id": 17651,
+            "title": "5 Euro (World Heritage - Convent of Christ; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5278-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5279-180.jpg"
+        },
+        {
+            "id": 13278,
+            "title": "5 Euro (World Heritage - \u00c9vora)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/837-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/836-180.jpg"
+        },
+        {
+            "id": 18239,
+            "title": "5 Euro (World Heritage - \u00c9vora; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5276-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5277-180.jpg"
+        },
+        {
+            "id": 11441,
+            "title": "5 Euro (Angra do Hero\u00edsmo)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/839-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/838-180.jpg"
+        },
+        {
+            "id": 17649,
+            "title": "5 Euro (World Heritage - Angra do Hero\u00edsmo; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5290-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5291-180.jpg"
+        },
+        {
+            "id": 13276,
+            "title": "5 Euro (World Heritage - Monastery of Batalha)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/835-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/834-180.jpg"
+        },
+        {
+            "id": 17046,
+            "title": "5 Euro (World Heritage - Batalha Monestary; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5282-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5283-180.jpg"
+        },
+        {
+            "id": 11440,
+            "title": "5 Euro (Pope John XXI)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/922-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/921-180.jpg"
+        },
+        {
+            "id": 17421,
+            "title": "5 Euro (Pope John XXI; .925 Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5284-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5285-180.jpg"
+        },
+        {
+            "id": 18241,
+            "title": "5 Euro (Pope John XXI; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5288-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5289-180.jpg"
+        },
+        {
+            "id": 12021,
+            "title": "5 Euro (World Heritage - Sintra)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/843-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/842-180.jpg"
+        },
+        {
+            "id": 18224,
+            "title": "5 Euro (World Heritage - Sintra; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5302-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5303-180.jpg"
+        },
+        {
+            "id": 13274,
+            "title": "5 Euro (World Heritage - Monastery of Alcoba\u00e7a)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/845-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/844-180.jpg"
+        },
+        {
+            "id": 18225,
+            "title": "5 Euro (World Heritage - Alcoba\u00e7a Monastery; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5913-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5914-180.jpg"
+        },
+        {
+            "id": 11431,
+            "title": "5 Euro (Scouting)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/954-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/953-180.jpg"
+        },
+        {
+            "id": 17642,
+            "title": "5 Euro (Scouting; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5318-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5319-180.jpg"
+        },
+        {
+            "id": 13275,
+            "title": "5 Euro (Equal Opportunity)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/849-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/848-180.jpg"
+        },
+        {
+            "id": 17062,
+            "title": "5 Euro (Equal Opportunity; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5316-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5317-180.jpg"
+        },
+        {
+            "id": 11432,
+            "title": "5 Euro (World Heritage - Laurisilva of Macaronesia)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/851-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/850-180.jpg"
+        },
+        {
+            "id": 16926,
+            "title": "5 Euro (World Heritage - Laurissilva of Macaronesia; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5312-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5313-180.jpg"
+        },
+        {
+            "id": 12019,
+            "title": "5 Euro (Numismatic Treasures - O Justo D.Jo\u00e3o II)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1086-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/1085-180.jpg"
+        },
+        {
+            "id": 17641,
+            "title": "5 Euro (Numismatic Treasures - O Justo D.Jo\u00e3o II; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5337-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5338-180.jpg"
+        },
+        {
+            "id": 39095,
+            "title": "5 Euro (Numismatic Treasures - A Pe\u00e7a de D. Jo\u00e3o V)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3149-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3148-180.jpg"
+        },
+        {
+            "id": 70858,
+            "title": "5 Euro (Numismatic Treasures - A Pe\u00e7a de D. Jo\u00e3o V; gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3223-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3222-180.jpg"
+        },
+        {
+            "id": 49706,
+            "title": "5 Euro (Numismatic Treasures - A degolada D. Maria II)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2775-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/2774-180.jpg"
+        },
+        {
+            "id": 49769,
+            "title": "5 Euro (Numismatic Treasures - A degolada D. Maria II; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3537-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3538-180.jpg"
+        },
+        {
+            "id": 65473,
+            "title": "5 Euro (Leonor of Portugal)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4073-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4074-180.jpg"
+        },
+        {
+            "id": 67068,
+            "title": "5 Euro (Leonor of Portugal; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3550-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3551-180.jpg"
+        },
+        {
+            "id": 70436,
+            "title": "5 Euro (Leonor of Portugal; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3224-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3225-180.jpg"
+        },
+        {
+            "id": 73616,
+            "title": "5 Euro (Isabella of Portugal)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4075-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4076-180.jpg"
+        },
+        {
+            "id": 73618,
+            "title": "5 Euro (Isabella of Portugal; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3633-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3634-180.jpg"
+        },
+        {
+            "id": 73620,
+            "title": "5 Euro (Isabella of Portugal; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3631-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3632-180.jpg"
+        },
+        {
+            "id": 91904,
+            "title": "5 Euro (Catarina de Bragan\u00e7a)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4274-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4275-180.jpg"
+        },
+        {
+            "id": 91905,
+            "title": "5 Euro (Catarina de Bragan\u00e7a; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4276-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4278-180.jpg"
+        },
+        {
+            "id": 91906,
+            "title": "5 Euro (Catarina de Bragan\u00e7a; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4279-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4280-180.jpg"
+        },
+        {
+            "id": 93359,
+            "title": "5 Euro (Iberian Lynx)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4293-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4294-180.jpg"
+        },
+        {
+            "id": 93361,
+            "title": "5 Euro (Iberian Lynx; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4291-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4292-180.jpg"
+        },
+        {
+            "id": 84221,
+            "title": "5 Euro (The Modernism - Almada Negreiros)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3805-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3806-180.jpg"
+        },
+        {
+            "id": 84222,
+            "title": "5 Euro (The Modernism - Almada Negreiros; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3807-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3808-180.jpg"
+        },
+        {
+            "id": 84223,
+            "title": "5 Euro (The Modernism - Almada Negreiros; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5362-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5361-180.jpg"
+        },
+        {
+            "id": 112277,
+            "title": "5 Euro (D. Maria B\u00e1rbara)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5403-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5404-180.jpg"
+        },
+        {
+            "id": 112278,
+            "title": "5 Euro (D. Maria Barbara; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5405-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5406-180.jpg"
+        },
+        {
+            "id": 112279,
+            "title": "5 Euro (D. Maria Barbara; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5407-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5408-180.jpg"
+        },
+        {
+            "id": 117230,
+            "title": "5 Euro (The youth and the future)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5445-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5447-180.jpg"
+        },
+        {
+            "id": 117231,
+            "title": "5 Euro (The youth and the future; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5443-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5444-180.jpg"
+        },
+        {
+            "id": 108893,
+            "title": "5 Euro (Glass and Iron ages)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5457-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5456-180.jpg"
+        },
+        {
+            "id": 108894,
+            "title": "5 Euro (Glass and Iron ages; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5459-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5460-180.jpg"
+        },
+        {
+            "id": 108895,
+            "title": "5 Euro (Glass and Iron ages; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5462-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5461-180.jpg"
+        },
+        {
+            "id": 148037,
+            "title": "5 Euro (The Four Leaf Clover)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5886-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5885-180.jpg"
+        },
+        {
+            "id": 148036,
+            "title": "5 Euro (The Four Leaf Clover; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5888-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5887-180.jpg"
+        },
+        {
+            "id": 135738,
+            "title": "5 Euro (The Baroque Age)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5840-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5841-180.jpg"
+        },
+        {
+            "id": 135739,
+            "title": "5 Euro (The Baroque Age; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5845-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5846-180.jpg"
+        },
+        {
+            "id": 135740,
+            "title": "5 Euro (The Baroque Age; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5848-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5847-180.jpg"
+        },
+        {
+            "id": 152750,
+            "title": "5 Euro (100 years of the armistice)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5899-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5900-180.jpg"
+        },
+        {
+            "id": 152751,
+            "title": "5 Euro (100 years of the armistice; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5907-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5908-180.jpg"
+        },
+        {
+            "id": 150333,
+            "title": "5 Euro (The Imperial Eagle)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5909-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5910-180.jpg"
+        },
+        {
+            "id": 150334,
+            "title": "5 Euro (The Imperial Eagle; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5902-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5901-180.jpg"
+        },
+        {
+            "id": 165985,
+            "title": "5 Euro (45th anniversary of the carnation revolution)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5985-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5986-180.jpg"
+        },
+        {
+            "id": 165986,
+            "title": "5 Euro (45th anniversary of the carnation revolution; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6018-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6017-180.jpg"
+        },
+        {
+            "id": 161568,
+            "title": "5 Euro (The sea drawn by a child)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5968-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5969-180.jpg"
+        },
+        {
+            "id": 161569,
+            "title": "5 Euro (The sea drawn by a child; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5962-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5963-180.jpg"
+        },
+        {
+            "id": 161541,
+            "title": "5 Euro (The Renaissence)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5945-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5946-180.jpg"
+        },
+        {
+            "id": 161542,
+            "title": "5 Euro (The Renaissence; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5977-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5978-180.jpg"
+        },
+        {
+            "id": 167752,
+            "title": "5 Euro (Alcar from Algarve)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e95efc6680a8.29960105-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62e95efc9ae684.01873793-180.jpg"
+        },
+        {
+            "id": 167753,
+            "title": "5 Euro (Alcar from Algarve; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6019-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6020-180.jpg"
+        },
+        {
+            "id": 167754,
+            "title": "5 Euro (Iberian wolf)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6023-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6024-180.jpg"
+        },
+        {
+            "id": 167755,
+            "title": "5 Euro (Iberian wolf; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6021-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6022-180.jpg"
+        },
+        {
+            "id": 161543,
+            "title": "5 Euro (The Renaissence; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5991-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5992-180.jpg"
+        },
+        {
+            "id": 237117,
+            "title": "5 Euro (500 years of portuguese post office)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f62f498e50277.43553098-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f62f4991cd368.03503891-180.jpg"
+        },
+        {
+            "id": 237118,
+            "title": "5 Euro (500 years of portuguese post office; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f62f2f5b84057.22418598-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f62f2f5ee7b80.14383744-180.jpg"
+        },
+        {
+            "id": 224721,
+            "title": "5 Euro (Portuguese language day)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5efeb676425ca0.97668029-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5efeb675ed60f8.12817544-180.jpg"
+        },
+        {
+            "id": 227201,
+            "title": "5 Euro (The dolphin)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f0fba184cd266.88103838-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f0fba189504c6.48207607-180.jpg"
+        },
+        {
+            "id": 227202,
+            "title": "5 Euro (The dolphin; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f0fb7c4034034.41154577-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f0fb7c47a9071.90026023-180.jpg"
+        },
+        {
+            "id": 252313,
+            "title": "5 Euro (The Gothic)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5fc6032daa5180.29425950-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5fc6032dec86d8.16094826-180.jpg"
+        },
+        {
+            "id": 252658,
+            "title": "5 Euro (The Gothic; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6075e9645dcb02.90695629-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6075e96483e477.87517643-180.jpg"
+        },
+        {
+            "id": 252314,
+            "title": "5 Euro (The Gothic; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5fc6071b822ff7.92134212-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5fc6071bb41a78.26461285-180.jpg"
+        },
+        {
+            "id": 224724,
+            "title": "5 Euro (Portuguese language day ; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5efebaa97a3c26.71909392-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5efebaa9363921.09106201-180.jpg"
+        },
+        {
+            "id": 299173,
+            "title": "5 Euro (Aristides de Sousa Mendes)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60e0a9e75da468.47725515-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60e0a9e723f536.48116887-180.jpg"
+        },
+        {
+            "id": 299172,
+            "title": "5 Euro (Aristides de Sousa Mendes; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60e0a591412963.97867619-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60e0a591133955.20475877-180.jpg"
+        },
+        {
+            "id": 299170,
+            "title": "5 Euro (Aristides de Sousa Mendes; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60e0a1705f9782.15651965-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60e0a1702ca915.62719599-180.jpg"
+        },
+        {
+            "id": 307980,
+            "title": "5 Euro (A Arte da Laca)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6166eb67208ed0.17901204-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6166eb66af9a43.55566291-180.jpg"
+        },
+        {
+            "id": 307979,
+            "title": "5 Euro (A Arte da Laca; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6166e7b64ba748.73843864-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6166e7b5e64449.12287909-180.jpg"
+        },
+        {
+            "id": 307982,
+            "title": "5 Euro (A Arte da Laca; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6166ef778de8e3.91871161-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6166ef77566f46.78981638-180.jpg"
+        },
+        {
+            "id": 305104,
+            "title": "5 Euro (Dinheirosaurus Lourinhanensis)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/614cccf9357df0.19987334-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/614cccf9606af2.39212401-180.jpg"
+        },
+        {
+            "id": 305101,
+            "title": "5 Euro (Dinheirosaurus Lourinhanensis; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/614b653a67f6f9.74690634-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/614b653aaba580.20514942-180.jpg"
+        },
+        {
+            "id": 296041,
+            "title": "5 Euro (The Seahorse)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60ba4d23684426.25851959-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60ba4d23b4f792.82435641-180.jpg"
+        },
+        {
+            "id": 296044,
+            "title": "5 Euro (The Seahorse; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60ba5003675674.74840070-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/60ba500393ce74.55284632-180.jpg"
+        },
+        {
+            "id": 329728,
+            "title": "5 Euro (Lourinhanosaurus antunesi)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/629a59a4a87349.94182071-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/629a59a4733be6.92512931-180.jpg"
+        },
+        {
+            "id": 329775,
+            "title": "5 Euro (Lourinhanosaurus antunesi; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/629b674db77b01.31984855-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/629b674d8e0aa2.07912681-180.jpg"
+        },
+        {
+            "id": 323348,
+            "title": "5 Euro (The climate, copper-nickel)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62363484705814.53602164-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62363484ad8838.12924436-180.jpg"
+        },
+        {
+            "id": 323214,
+            "title": "5 Euro (The Climate , Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/623f0526a5fcb4.13359267-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/623f0526e85288.70791517-180.jpg"
+        },
+        {
+            "id": 26922,
+            "title": "7\u00bd Euro (Numismatic Treasures - D. Manuel I of Portugal)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5911-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5912-180.jpg"
+        },
+        {
+            "id": 30710,
+            "title": "7\u00bd Euro (Numismatic Treasures - D. Manuel I of Portugal; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3635-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3636-180.jpg"
+        },
+        {
+            "id": 71664,
+            "title": "7\u00bd Euro (Viriato)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5660-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5661-180.jpg"
+        },
+        {
+            "id": 71665,
+            "title": "7\u00bd Euro (Viriato; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3665-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3666-180.jpg"
+        },
+        {
+            "id": 87324,
+            "title": "7\u00bd Euro (Sport Heroes - Eus\u00e9bio)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3940-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3938-180.jpg"
+        },
+        {
+            "id": 87325,
+            "title": "7\u00bd Euro (Sport Heroes - Eus\u00e9bio; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3952-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3953-180.jpg"
+        },
+        {
+            "id": 87326,
+            "title": "7\u00bd Euro (Sport Heroes - Eus\u00e9bio; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3954-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3956-180.jpg"
+        },
+        {
+            "id": 106032,
+            "title": "7\u00bd Euro (Natural beauties - Madeira)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5376-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5375-180.jpg"
+        },
+        {
+            "id": 106033,
+            "title": "7\u00bd Euro (Natural beauties - Madeira; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5415-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5416-180.jpg"
+        },
+        {
+            "id": 106031,
+            "title": "7\u00bd Euro (\u00c1lvaro Siza)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5378-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5377-180.jpg"
+        },
+        {
+            "id": 106030,
+            "title": "7\u00bd Euro (\u00c1lvaro Siza; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5383-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5384-180.jpg"
+        },
+        {
+            "id": 125430,
+            "title": "7\u00bd Euro (Sport Heroes - Carlos Lopes)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5476-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5477-180.jpg"
+        },
+        {
+            "id": 125431,
+            "title": "7\u00bd Euro (Sport Heroes - Carlos Lopes; Proof Issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5478-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5480-180.jpg"
+        },
+        {
+            "id": 125432,
+            "title": "7\u00bd Euro (Sport Heroes - Carlos Lopes; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5481-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5482-180.jpg"
+        },
+        {
+            "id": 140363,
+            "title": "7\u00bd Euro (Sport Heroes - Rosa Mota)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5853-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5854-180.jpg"
+        },
+        {
+            "id": 140364,
+            "title": "7\u00bd Euro (Sport Heroes - Rosa Mota; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5859-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5860-180.jpg"
+        },
+        {
+            "id": 140365,
+            "title": "7\u00bd Euro (Sport Heroes - Rosa Mota; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5861-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5858-180.jpg"
+        },
+        {
+            "id": 155311,
+            "title": "7\u00bd Euro (Souto Moura)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5934-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5935-180.jpg"
+        },
+        {
+            "id": 155312,
+            "title": "7\u00bd Euro (Souto Moura; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5936-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5937-180.jpg"
+        },
+        {
+            "id": 169523,
+            "title": "7\u00bd Euro (Sport Heroes - Joaquim Agostinho)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6031-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6032-180.jpg"
+        },
+        {
+            "id": 169524,
+            "title": "7\u00bd Euro (Sport Heroes - Joaquim Agostinho; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6043-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6044-180.jpg"
+        },
+        {
+            "id": 169525,
+            "title": "7\u00bd Euro (Sport Heroes - Joaquim Agostinho; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6041-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6042-180.jpg"
+        },
+        {
+            "id": 165982,
+            "title": "7\u00bd Euro (500th anniversary of Magellan circun-navigation)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5983-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5984-180.jpg"
+        },
+        {
+            "id": 165983,
+            "title": "7\u00bd Euro (500th anniversary of Magellan circun-navigation; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6026-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6025-180.jpg"
+        },
+        {
+            "id": 165984,
+            "title": "7\u00bd Euro (500th anniversary of Magellan circun-navigation; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6039-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6040-180.jpg"
+        },
+        {
+            "id": 179460,
+            "title": "7\u00bd Euro (Carrilho da Gra\u00e7a)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6094-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6093-180.jpg"
+        },
+        {
+            "id": 179463,
+            "title": "7\u00bd Euro (Carrilho da Gra\u00e7a; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6096-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6095-180.jpg"
+        },
+        {
+            "id": 240456,
+            "title": "7\u00bd Euro (The passage of the strait)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f85236b0ace22.51740775-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f85236b4f3355.47769656-180.jpg"
+        },
+        {
+            "id": 240457,
+            "title": "7\u00bd Euro (The passage of the strait; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f8529152347f1.28435423-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f8529157ed2a7.95117365-180.jpg"
+        },
+        {
+            "id": 240462,
+            "title": "7\u00bd Euro (The passage of the strait; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f8556782bdaa0.97239938-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f855678b4ab74.20691937-180.jpg"
+        },
+        {
+            "id": 224726,
+            "title": "7\u00bd Euro (Historical trains)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5efec215c34470.38734270-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5efec215231e47.83991865-180.jpg"
+        },
+        {
+            "id": 224727,
+            "title": "7\u00bd Euro (Historical trains; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5efec5aab3cb39.01463657-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5efec55febdeb6.61127302-180.jpg"
+        },
+        {
+            "id": 237478,
+            "title": "7\u00bd Euro (Gon\u00e7alo Byrne)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f65b4e0d3b586.79265480-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f65b4e0936431.71379980-180.jpg"
+        },
+        {
+            "id": 237480,
+            "title": "7\u00bd Euro (Gon\u00e7alo Byrne; Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f7ef0663267c4.56505055-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5f7f66869c0103.45224200-180.jpg"
+        },
+        {
+            "id": 283357,
+            "title": "7\u00bd Euro (Mactan 1521)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6065d5b95ef444.74204314-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6065d5b92a6440.62835809-180.jpg"
+        },
+        {
+            "id": 283358,
+            "title": "7\u00bd Euro (Mactan 1521; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6065d8ecebf654.23496241-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6065d8ecb03217.91394099-180.jpg"
+        },
+        {
+            "id": 283360,
+            "title": "7\u00bd Euro (Mactan 1521; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6065dbf23398b6.63999996-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6065dbf2053523.53257203-180.jpg"
+        },
+        {
+            "id": 319341,
+            "title": "7\u00bd Euro (Jos\u00e9 Saramago)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62003647b4bd91.70436855-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62003647692136.28754086-180.jpg"
+        },
+        {
+            "id": 321375,
+            "title": "7\u00bd Euro (Jos\u00e9 Saramago; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62175dadb6c546.93558786-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62175dadf35295.27181777-180.jpg"
+        },
+        {
+            "id": 321376,
+            "title": "7\u00bd Euro (Jos\u00e9 Saramago; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/621760e745e689.28533889-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/621760e7723c67.57374867-180.jpg"
+        },
+        {
+            "id": 330129,
+            "title": "7\u00bd Euro (ISEG)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62a0e327241116.06009867-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62a0e327703601.61323852-180.jpg"
+        },
+        {
+            "id": 328765,
+            "title": "7\u00bd Euro (ISEG; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/628b97b296f089.40269320-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/628b97b2cd5d70.94327531-180.jpg"
+        },
+        {
+            "id": 330785,
+            "title": "7\u00bd Euro (ISEG; Proof issue - silver 1000g)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62ab7af25aee91.00908141-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62ab7af2a8f736.26674477-180.jpg"
+        },
+        {
+            "id": 326155,
+            "title": "7\u00bd Euro (Conclusion 1522)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6267968304fdb0.71111185-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/626796832fba33.48777779-180.jpg"
+        },
+        {
+            "id": 326152,
+            "title": "7\u00bd Euro (Conclusion 1522; Proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/626790bb02e141.45423122-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/626790bb449b74.92951211-180.jpg"
+        },
+        {
+            "id": 326149,
+            "title": "7\u00bd Euro (Conclusion 1522; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62678b8a681758.22902672-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62678b8a913661.94491522-180.jpg"
+        },
+        {
+            "id": 12579,
+            "title": "8 Euro (Values of Football - Celebration)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/856-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/857-180.jpg"
+        },
+        {
+            "id": 17280,
+            "title": "8 Euro (Values of Football - Celebration; .925 Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5254-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5255-180.jpg"
+        },
+        {
+            "id": 17282,
+            "title": "8 Euro (Values of Football - Celebration; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3641-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/3642-180.jpg"
+        },
+        {
+            "id": 12581,
+            "title": "8 Euro (Values of Football - Passion)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/855-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/854-180.jpg"
+        },
+        {
+            "id": 17278,
+            "title": "8 Euro (Values of Football - Passion; .925 Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5252-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5253-180.jpg"
+        },
+        {
+            "id": 17279,
+            "title": "8 Euro (Values of Football - Passion; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4081-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/4082-180.jpg"
+        },
+        {
+            "id": 12578,
+            "title": "8 Euro (Values of Football - Fair Play)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/847-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/846-180.jpg"
+        },
+        {
+            "id": 17274,
+            "title": "8 Euro (Values of Football - Fair Play; .925 Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5256-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5257-180.jpg"
+        },
+        {
+            "id": 17275,
+            "title": "8 Euro (Values of Football - Fair Play; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5258-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5259-180.jpg"
+        },
+        {
+            "id": 13286,
+            "title": "8 Euro (Enlargement of European Union)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/831-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/830-180.jpg"
+        },
+        {
+            "id": 17640,
+            "title": "8 Euro (Enlargement of European Union; .925 Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5280-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5281-180.jpg"
+        },
+        {
+            "id": 12585,
+            "title": "8 Euro (Football - The Keeper&#39;s Save)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/859-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/858-180.jpg"
+        },
+        {
+            "id": 17428,
+            "title": "8 Euro (Football - The Keeper&#039;s Save; .925 Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5248-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5249-180.jpg"
+        },
+        {
+            "id": 18244,
+            "title": "8 Euro (Football - The Keeper&#039;s Save; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5250-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5251-180.jpg"
+        },
+        {
+            "id": 12583,
+            "title": "8 Euro (Football - The Shot)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/861-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/860-180.jpg"
+        },
+        {
+            "id": 17429,
+            "title": "8 Euro (Football - The Shot; .925 Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5272-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5273-180.jpg"
+        },
+        {
+            "id": 18242,
+            "title": "8 Euro (Football - The Shot; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5270-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5271-180.jpg"
+        },
+        {
+            "id": 12582,
+            "title": "8 Euro (Football - The Score)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/863-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/862-180.jpg"
+        },
+        {
+            "id": 17281,
+            "title": "8 Euro (Football - The Score; .925 Silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5268-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5269-180.jpg"
+        },
+        {
+            "id": 18245,
+            "title": "8 Euro (Football - The Score; Gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5266-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5267-180.jpg"
+        },
+        {
+            "id": 13287,
+            "title": "8 Euro (End of World War II)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/833-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/832-180.jpg"
+        },
+        {
+            "id": 17065,
+            "title": "8 Euro (End of World War II; proof issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5359-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5360-180.jpg"
+        },
+        {
+            "id": 13288,
+            "title": "8 Euro (Henry the Navigator)",
+            "category": "coin",
+            "issuer": {
+                "code": "portugal",
+                "name": "Portugal"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/829-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/828-180.jpg"
+        }
+    ]
+}

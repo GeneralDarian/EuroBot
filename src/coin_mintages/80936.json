@@ -1,0 +1,25 @@
+[
+    {
+        "id": 276446,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 984500
+    },
+    {
+        "id": 276447,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 5000,
+        "comment": "10,500 BU sets / 1,500 Proof sets / 3,500 Proof capsule"
+    },
+    {
+        "id": 385549,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 10500,
+        "comment": "BU (coincards)"
+    }
+]

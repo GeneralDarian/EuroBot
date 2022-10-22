@@ -1,0 +1,18 @@
+[
+    {
+        "id": 582544,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 300000,
+        "comment": "BU; coincard H\u00e9ros, Merci, UNION"
+    },
+    {
+        "id": 582545,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 10000,
+        "comment": "proof"
+    }
+]

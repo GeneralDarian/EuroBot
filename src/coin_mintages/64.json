@@ -1,0 +1,95 @@
+[
+    {
+        "id": 594,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 196400000,
+        "comment": "(fr) Deux diff\u00e9rents largeurs des etoiles; voir comentaires"
+    },
+    {
+        "id": 132928,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 100000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 132927,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 10000,
+        "comment": "Proof"
+    },
+    {
+        "id": 602,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 4700000
+    },
+    {
+        "id": 132930,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 125000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 132929,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 25000,
+        "comment": "Proof"
+    },
+    {
+        "id": 3667,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 2600000
+    },
+    {
+        "id": 132932,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 100000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 132931,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 20000,
+        "comment": "Proof"
+    },
+    {
+        "id": 18184,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 2400000
+    },
+    {
+        "id": 132936,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 100000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 132935,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 20000,
+        "comment": "Proof"
+    }
+]

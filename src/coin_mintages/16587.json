@@ -1,0 +1,89 @@
+[
+    {
+        "id": 132780,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 50000,
+        "comment": "In Sets only. Mint of Finland"
+    },
+    {
+        "id": 84744,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 32702600,
+        "comment": "Mint of Finland"
+    },
+    {
+        "id": 139320,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 3500,
+        "comment": "Proof. Mint of Finland"
+    },
+    {
+        "id": 158210,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 25000000,
+        "comment": "Royal Dutch Mint"
+    },
+    {
+        "id": 265360,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 14000000,
+        "comment": "Lithuanian Mint"
+    },
+    {
+        "id": 302538,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 20000,
+        "comment": "In Sets only. Royal Dutch Mint"
+    },
+    {
+        "id": 333692,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 29000000,
+        "comment": "Mint of Finland"
+    },
+    {
+        "id": 391551,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 5000,
+        "comment": "In Sets only. Mint of Finland"
+    },
+    {
+        "id": 402359,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 500000,
+        "comment": "Large stars"
+    },
+    {
+        "id": 464785,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 10000000,
+        "comment": "Kremnica Mint"
+    },
+    {
+        "id": 719792,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 10000000
+    }
+]

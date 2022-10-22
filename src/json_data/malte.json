@@ -1,0 +1,1216 @@
+{
+    "count": 96,
+    "types": [
+        {
+            "id": 2181,
+            "title": "1 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/292-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/293-180.jpg"
+        },
+        {
+            "id": 2182,
+            "title": "2 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/61fcbee35680b3.12920311-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/61fcbee4414cd1.75282691-180.jpg"
+        },
+        {
+            "id": 2183,
+            "title": "5 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/544-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/545-180.jpg"
+        },
+        {
+            "id": 2184,
+            "title": "10 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/546-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/547-180.jpg"
+        },
+        {
+            "id": 2185,
+            "title": "20 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/548-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/549-180.jpg"
+        },
+        {
+            "id": 2186,
+            "title": "50 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/552-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/553-180.jpg"
+        },
+        {
+            "id": 2187,
+            "title": "1 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/550-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/551-180.jpg"
+        },
+        {
+            "id": 2188,
+            "title": "2 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/125-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/126-180.jpg"
+        },
+        {
+            "id": 5072,
+            "title": "2 Euro (10 Years of EMU)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5fc9d69f729e46.06106295-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5fc9d6a00bc087.92079193-180.jpg"
+        },
+        {
+            "id": 26196,
+            "title": "2 Euro (First Electives)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/336-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/337-180.jpg"
+        },
+        {
+            "id": 28322,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/211-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/212-180.jpg"
+        },
+        {
+            "id": 37037,
+            "title": "2 Euro (Majority Representation)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/270-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/271-180.jpg"
+        },
+        {
+            "id": 47613,
+            "title": "2 Euro (Self-Government)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/340-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/341-180.jpg"
+        },
+        {
+            "id": 61125,
+            "title": "2 Euro (Independence in 1964)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/453-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/454-180.jpg"
+        },
+        {
+            "id": 62582,
+            "title": "2 Euro (Malta Police Force)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/379-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/380-180.jpg"
+        },
+        {
+            "id": 73843,
+            "title": "2 Euro (Republic of Malta 1974)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/422-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/455-180.jpg"
+        },
+        {
+            "id": 71440,
+            "title": "2 Euro (First Flight from Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/418-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/419-180.jpg"
+        },
+        {
+            "id": 77307,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/456-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/457-180.jpg"
+        },
+        {
+            "id": 95463,
+            "title": "2 Euro (Children and solidarity - Love)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/512-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/513-180.jpg"
+        },
+        {
+            "id": 84920,
+            "title": "2 Euro (\u0120gantija Temples)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/496-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/497-180.jpg"
+        },
+        {
+            "id": 113393,
+            "title": "2 Euro (\u0126a\u0121ar Qim Temples)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/591-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/592-180.jpg"
+        },
+        {
+            "id": 127889,
+            "title": "2 Euro (The Peace)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/601-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/602-180.jpg"
+        },
+        {
+            "id": 151381,
+            "title": "2 Euro (Cultural Heritage)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/653-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/654-180.jpg"
+        },
+        {
+            "id": 132944,
+            "title": "2 Euro (Mnajdra Temples)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/655-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/656-180.jpg"
+        },
+        {
+            "id": 182718,
+            "title": "2 Euro (Nature and Environment)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/674-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/675-180.jpg"
+        },
+        {
+            "id": 167679,
+            "title": "2 Euro (TA\u2019 \u0126A\u0120RAT Temples)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/663-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/664-180.jpg"
+        },
+        {
+            "id": 241752,
+            "title": "2 Euro (Games)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5feafd9ad5b461.00656410-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5f931fe6b6f686.97097865-180.jpg"
+        },
+        {
+            "id": 215435,
+            "title": "2 Euro (Skorba Temples)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5f38ac62956ee4.94307982-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5f38ac62c01f79.51534669-180.jpg"
+        },
+        {
+            "id": 300648,
+            "title": "2 Euro - Heroes of the Pandemic",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62b56453ad7ec4.29098652-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62b564549f0b04.02069510-180.jpg"
+        },
+        {
+            "id": 309264,
+            "title": "2 Euro (Tarxien Temples)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/618acd74ac6cb6.97298773-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/6178627848b515.02381332-180.jpg"
+        },
+        {
+            "id": 319136,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62b94a66a1f575.21129145-180.jpg"
+        },
+        {
+            "id": 325938,
+            "title": "2,5 Euro (Queen Elizabeth II&#039;s Platinum Jubilee)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/627bca2f6a9016.08924892-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/627bca2fcf7ac2.72418351-180.jpg"
+        },
+        {
+            "id": 62459,
+            "title": "5 Euro (Smallest Gold Coin in the World - The Picciolo)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/572-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/573-180.jpg"
+        },
+        {
+            "id": 60115,
+            "title": "5 Euro (Smallest Gold Coin in the World - The Zecchino)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/574-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62efbacb7f6079.88664811-180.jpg"
+        },
+        {
+            "id": 60971,
+            "title": "5 Euro (First World War Centenary)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/474-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/475-180.jpg"
+        },
+        {
+            "id": 88848,
+            "title": "5 Euro (The Third Farthing)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62efba137e1563.81587911-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62efba13bc79f1.59796716-180.jpg"
+        },
+        {
+            "id": 143652,
+            "title": "5 Euro (Ioannes Paulus PP. II)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62efba3a5ba2f0.55740394-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62efba3a9a85e7.96418320-180.jpg"
+        },
+        {
+            "id": 100784,
+            "title": "5 Euro (The Maltese Patakka)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62efba70a100e7.97731171-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62efba71209ac1.24676523-180.jpg"
+        },
+        {
+            "id": 143672,
+            "title": "5 Euro (Euro Anniversary in Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/645-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/646-180.jpg"
+        },
+        {
+            "id": 281760,
+            "title": "5 Euro (50 Years of the Armed Forces of Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2020,
+            "max_year": 2020
+        },
+        {
+            "id": 314681,
+            "title": "5 Euro (Knights of the Past)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/61c64b9b095471.43854396-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/61c64b9a24f179.23506778-180.jpg"
+        },
+        {
+            "id": 19069,
+            "title": "10 Euro (Auberge de Castille)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/616c29d0afd1c2.41531227-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/616c29d0e5d349.39947388-180.jpg"
+        },
+        {
+            "id": 25874,
+            "title": "10 Euro (La Castellania)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/241-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/242-180.jpg"
+        },
+        {
+            "id": 30909,
+            "title": "10 Euro (Auberge D&#39;Italie)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/308-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/309-180.jpg"
+        },
+        {
+            "id": 25590,
+            "title": "10 Euro (The Phoenicians in Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62d96d8b0fe733.26382614-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62d96d8b4ff730.21832343-180.jpg"
+        },
+        {
+            "id": 39983,
+            "title": "10 Euro (Death of Antonio Sciortino)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/312-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/313-180.jpg"
+        },
+        {
+            "id": 45025,
+            "title": "10 Euro (Dun Karm Psaila)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efb8468af10.99866415-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efb85c1f840.58562314-180.jpg"
+        },
+        {
+            "id": 53649,
+            "title": "10 Euro (Sir Paul Boffa)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efbb1581ea2.69353992-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efbb3238d56.59163264-180.jpg"
+        },
+        {
+            "id": 80366,
+            "title": "10 Euro ( Emmanuel Pinto )",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/502-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/503-180.jpg"
+        },
+        {
+            "id": 143643,
+            "title": "10 Euro (Auberge de Provence)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/686-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/687-180.jpg"
+        },
+        {
+            "id": 66254,
+            "title": "10 Euro (Mro Charles Camilleri)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608eedd0651f77.60367111-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608eedd2403127.69005282-180.jpg"
+        },
+        {
+            "id": 143646,
+            "title": "10 Euro (Centenary of the First World War)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4ba3130cbe0.64301141-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4ba315db184.63045695-180.jpg"
+        },
+        {
+            "id": 143647,
+            "title": "10 Euro (Auberge d&#039;Aragon)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e11b886b68d40.31106907-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e11b8876dabb6.66145400-180.jpg"
+        },
+        {
+            "id": 143649,
+            "title": "10 Euro (50th anniversary of Malta&#039;s independence)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efbddb26d01.13870841-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efbdf8e44d7.21118108-180.jpg"
+        },
+        {
+            "id": 143650,
+            "title": "10 Euro ( 40th anniversary of the Republic of Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014
+        },
+        {
+            "id": 143651,
+            "title": "10 Euro ( 400th Anniversary of the Wignacourt Aqueduct)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4bb24408f22.20031889-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4bb246ae241.91242691-180.jpg"
+        },
+        {
+            "id": 143653,
+            "title": "10 Euro (Auberge de Bavi\u00e8re)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e11de4b0caf86.27287690-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e11de4b877109.60109251-180.jpg"
+        },
+        {
+            "id": 100287,
+            "title": "10 Euro (The Bush-Gorbachev Malta Summit, 1989)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efc1055ec78.71451397-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efc1223e8f7.22037775-180.jpg"
+        },
+        {
+            "id": 143655,
+            "title": "10 Euro (450th Anniversary of the Great Siege of Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5ec691e0c81438.93655142-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5ec691e41f9667.69299794-180.jpg"
+        },
+        {
+            "id": 143658,
+            "title": "10 Euro (100th Anniversary of the birth of Dom Mintoff)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2016,
+            "max_year": 2016
+        },
+        {
+            "id": 143656,
+            "title": "10 Euro (450th anniversary of the foundation of Valletta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4bbb9713371.71546279-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4bbb99e9717.83314902-180.jpg"
+        },
+        {
+            "id": 86553,
+            "title": "10 Euro (Antonio Sciortino)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efc3e476178.97160933-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efc4008ba83.38741390-180.jpg"
+        },
+        {
+            "id": 143666,
+            "title": "10 Euro (70th Anniversary of Women\u2019s Voting Rights)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2017,
+            "max_year": 2017
+        },
+        {
+            "id": 143662,
+            "title": "10 Euro (Argotti Botanical Gardens Conservatory)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4bc63b97d94.89735509-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4bc63ebd7a2.50352186-180.jpg"
+        },
+        {
+            "id": 143661,
+            "title": "10 Euro (Malta\u2019s Presidency of the European Council of the European Union)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efc6f55ccd3.94272290-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efc71336be2.92065390-180.jpg"
+        },
+        {
+            "id": 143664,
+            "title": "10 Euro (The Santa Marija Convoy and the George Cross Award)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2017,
+            "max_year": 2017
+        },
+        {
+            "id": 143669,
+            "title": "10 Euro (50th Anniversary of the Central Bank of Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efc9deabf32.50437504-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efc9fc3fc54.72148597-180.jpg"
+        },
+        {
+            "id": 143667,
+            "title": "10 Euro (The Baptism of Christ)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e101e1ac6c6d9.75168280-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e101e1b544384.13282549-180.jpg"
+        },
+        {
+            "id": 143673,
+            "title": "10 Euro (Valletta European Capital of Culture 2018)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efcc8bbb926.77395716-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/608efcca8d6d49.74245635-180.jpg"
+        },
+        {
+            "id": 278477,
+            "title": "10 Euro (Suez Canal)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/604907f8f263f0.68903798-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/604907f92d7666.48465886-180.jpg"
+        },
+        {
+            "id": 298124,
+            "title": "10 Euro - 250th Anniversary Ludwig Van Beethoven",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4be076b7587.89035126-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d4be07ad89a1.17523616-180.jpg"
+        },
+        {
+            "id": 281762,
+            "title": "10 Euro (50 Years of the Armed Forces of Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2020,
+            "max_year": 2020
+        },
+        {
+            "id": 298604,
+            "title": "10 Euro (Gothic)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d71ec41b3810.45872218-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d71ec456fa19.17398919-180.jpg"
+        },
+        {
+            "id": 228901,
+            "title": "10 Euro - 75th Anniversary of the End of World War II",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2020,
+            "max_year": 2020
+        },
+        {
+            "id": 314282,
+            "title": "10 Euro (Knights of the Past)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/620bd748071460.68216638-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/620bd747b37949.44603080-180.jpg"
+        },
+        {
+            "id": 336985,
+            "title": "10 Euro (Queen Elizabeth II Platinum Jubilee)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62fb5c5c198574.23891807-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62fb5c5c69e180.05635721-180.jpg"
+        },
+        {
+            "id": 143644,
+            "title": "15 Euro (Auberge de Provence)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2013,
+            "max_year": 2013
+        },
+        {
+            "id": 143648,
+            "title": "15 Euro (Auberge d&#039;Aragon)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014
+        },
+        {
+            "id": 143654,
+            "title": "15 Euro (Auberge de Bavi\u00e8re)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015
+        },
+        {
+            "id": 264715,
+            "title": "25 Euro - Melita",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2020
+        },
+        {
+            "id": 22937,
+            "title": "50 Euro (Auberge de Castille)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62e3e4c853c142.47746170-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/62e3e4c86d6187.09200848-180.jpg"
+        },
+        {
+            "id": 30735,
+            "title": "50 Euro (La Castellania)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35f8a6988eb7.75147799-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35f8a70c9052.00767214-180.jpg"
+        },
+        {
+            "id": 30910,
+            "title": "50 Euro (Auberge D&#039;Italie)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/531-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/530-180.jpg"
+        },
+        {
+            "id": 25589,
+            "title": "50 Euro (The Phoenicians in Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35f9eb9a7b54.89396279-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35f9ebd1fd99.98647657-180.jpg"
+        },
+        {
+            "id": 39990,
+            "title": "50 Euro (Death of Antonio Sciortino)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35fb1c09ecb8.31696747-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35fb1c51b271.75490006-180.jpg"
+        },
+        {
+            "id": 143642,
+            "title": "50 Euro (European Writers - Dun Karm Psaila)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35fbc1c7d141.38663080-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35fbc2b61023.01749596-180.jpg"
+        },
+        {
+            "id": 143645,
+            "title": "50 Euro (Mro Charles Camilleri)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2014,
+            "max_year": 2014
+        },
+        {
+            "id": 100455,
+            "title": "50 Euro (The Bush-Gorbachev Malta Summit, 1989)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35fc9132dc75.86016354-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/5e35fc916cca50.05059461-180.jpg"
+        },
+        {
+            "id": 86554,
+            "title": "50 Euro (Antonio Sciortino)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2016,
+            "max_year": 2016
+        },
+        {
+            "id": 143663,
+            "title": "50 Euro (Argotti Botanical Gardens Conservatory)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2017,
+            "max_year": 2017
+        },
+        {
+            "id": 143668,
+            "title": "50 Euro (The Baptism of Christ)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2018
+        },
+        {
+            "id": 264716,
+            "title": "50 Euro - Melita",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2019
+        },
+        {
+            "id": 309605,
+            "title": "50 Euro (Prince Philip)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/61800f3e498635.46945235-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/61800f3e737906.71058027-180.jpg"
+        },
+        {
+            "id": 143670,
+            "title": "100 Euro (50th Anniversary of the Central Bank of Malta)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d71cf374d4b3.00012504-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malte/60d71cf3bc7103.06409595-180.jpg"
+        },
+        {
+            "id": 264717,
+            "title": "100 Euro - Melita",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2018,
+            "max_year": 2020
+        },
+        {
+            "id": 169073,
+            "title": "100 Euro (Sette Giugno Centenary)",
+            "category": "coin",
+            "issuer": {
+                "code": "malte",
+                "name": "Malta"
+            },
+            "min_year": 2019,
+            "max_year": 2019
+        }
+    ]
+}

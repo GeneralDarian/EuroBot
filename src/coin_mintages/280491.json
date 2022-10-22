@@ -1,0 +1,28 @@
+[
+    {
+        "id": 642207,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "FI",
+        "mintage": 800000
+    },
+    {
+        "id": 724494,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "FI",
+        "mintage": 3000,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 697130,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "FI",
+        "mintage": 5000,
+        "comment": "Proof"
+    }
+]

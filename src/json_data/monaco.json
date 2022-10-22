@@ -1,0 +1,590 @@
+{
+    "count": 45,
+    "types": [
+        {
+            "id": 204,
+            "title": "1 Euro Cent - Rainier III",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2001,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/62282c8ac82f30.85859897-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/62282c8be8a026.47888207-180.jpg"
+        },
+        {
+            "id": 5028,
+            "title": "1 Euro Cent - Albert II (2nd type)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2006,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/882-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/883-180.jpg"
+        },
+        {
+            "id": 205,
+            "title": "2 Euro Cent - Rainier III",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2001,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/61f9524d40d692.30688586-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/61f9524e381597.11408750-180.jpg"
+        },
+        {
+            "id": 5029,
+            "title": "2 Euro Cent - Albert II (2nd type)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2006,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/849-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/850-180.jpg"
+        },
+        {
+            "id": 206,
+            "title": "5 Euro Cent - Rainier III",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2001,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/61fde4bdad0265.32152242-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/61fde4beb73e25.08026180-180.jpg"
+        },
+        {
+            "id": 5030,
+            "title": "5 Euro Cent - Albert II (2nd type)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2006,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/884-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/885-180.jpg"
+        },
+        {
+            "id": 207,
+            "title": "10 Euro Cent - Rainier III (1st type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2001,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/507-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/508-180.jpg"
+        },
+        {
+            "id": 5031,
+            "title": "10 Euro Cent - Albert II (2nd type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1022-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1023-180.jpg"
+        },
+        {
+            "id": 19339,
+            "title": "10 Euro Cent - Albert II (2nd type, 2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2009,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1038-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1039-180.jpg"
+        },
+        {
+            "id": 208,
+            "title": "20 Euro Cent - Rainier III (1st type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2001,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/509-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/510-180.jpg"
+        },
+        {
+            "id": 5032,
+            "title": "20 Euro Cent - Albert II (2nd type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1054-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1055-180.jpg"
+        },
+        {
+            "id": 19341,
+            "title": "20 Euro Cent - Albert II (2nd type, 2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2009,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1040-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1041-180.jpg"
+        },
+        {
+            "id": 209,
+            "title": "50 Euro Cent - Rainier III (1st type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2001,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/605d767b535cb3.48516252-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/605d767be31e31.08542334-180.jpg"
+        },
+        {
+            "id": 5033,
+            "title": "50 Euro Cent - Albert II (2nd type, 1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1056-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1057-180.jpg"
+        },
+        {
+            "id": 19343,
+            "title": "50 Euro Cent - Albert II (2nd type, 2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2009,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1042-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1043-180.jpg"
+        },
+        {
+            "id": 210,
+            "title": "1 Euro - Rainier III",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2001,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/6054c4bb04f5b6.29210740-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/6054c4bb8eb7a8.68321997-180.jpg"
+        },
+        {
+            "id": 5034,
+            "title": "1 Euro - Albert II (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1058-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1059-180.jpg"
+        },
+        {
+            "id": 16900,
+            "title": "1 Euro - Albert II (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/6054c433766929.75914858-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/6054c4341119f5.83667520-180.jpg"
+        },
+        {
+            "id": 211,
+            "title": "2 Euro - Rainier III",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2001,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/612b686d6b45a6.84074200-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/612b686e1ce4a8.13224875-180.jpg"
+        },
+        {
+            "id": 5035,
+            "title": "2 Euro - Albert II (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1046-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1047-180.jpg"
+        },
+        {
+            "id": 5036,
+            "title": "2 Euro - Albert II (Grace Kelly)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5fca43c8cdd537.94995462-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5fca43c9416e77.79047650-180.jpg"
+        },
+        {
+            "id": 15757,
+            "title": "2 Euro - Albert II (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2009,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/612b6a1a4fce44.25356169-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/612b6a1ae6bc19.52431473-180.jpg"
+        },
+        {
+            "id": 24307,
+            "title": "2 Euro - Albert II (Royal Wedding)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1048-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1049-180.jpg"
+        },
+        {
+            "id": 35946,
+            "title": "2 Euro - Albert II (Lucien Grimaldi I)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5fc9dadebe7862.81686694-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5fc9dadf5f9a15.55893810-180.jpg"
+        },
+        {
+            "id": 49385,
+            "title": "2 Euro - Albert II (Admission to UN)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5fc9def8ad5c92.31375238-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5fc9def94d3416.42206808-180.jpg"
+        },
+        {
+            "id": 77312,
+            "title": "2 Euro - Albert II (Foundation of the Fortress)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1044-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1045-180.jpg"
+        },
+        {
+            "id": 87722,
+            "title": "2 Euro - Albert II (Foundation of Monte Carlo)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/859-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/860-180.jpg"
+        },
+        {
+            "id": 127894,
+            "title": "2 Euro - Albert II (Prince&#039;s Company of Carabiniers)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/983-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/984-180.jpg"
+        },
+        {
+            "id": 142707,
+            "title": "2 Euro - Albert II (250th Anniversary of the birth of Fran\u00e7ois-Joseph Bosio)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1061-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1062-180.jpg"
+        },
+        {
+            "id": 169095,
+            "title": "2 Euro - Albert II (Prince Honor\u00e9 V)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1101-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1102-180.jpg"
+        },
+        {
+            "id": 215229,
+            "title": "2 Euro - Albert II (Prince Honor\u00e9 III)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5ec023bb0f4d87.78989454-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5ec023bb589e44.84756089-180.jpg"
+        },
+        {
+            "id": 303851,
+            "title": "2 Euro - Albert II (10th anniversary of the Royal Wedding )",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/6135f826790c63.35504426-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/6135f826aa3274.33413396-180.jpg"
+        },
+        {
+            "id": 340051,
+            "title": "2 Euro - Albert II (Prince Albert I of Monaco)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/632dda8e43e254.29759189-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/632dda8e71a813.69514126-180.jpg"
+        },
+        {
+            "id": 13767,
+            "title": "5 Euro - Rainier III (Sainte Devote)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1034-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1035-180.jpg"
+        },
+        {
+            "id": 13770,
+            "title": "5 Euro - Albert II (Deo Juvante)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/539-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/540-180.jpg"
+        },
+        {
+            "id": 13764,
+            "title": "10 Euro - Rainier III (Rainier and Prince Albert)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/541-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/542-180.jpg"
+        },
+        {
+            "id": 13769,
+            "title": "10 Euro - Albert II (Death of Rainier III)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/645-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/646-180.jpg"
+        },
+        {
+            "id": 26565,
+            "title": "10 Euro - Albert II (Marriage)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1052-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1053-180.jpg"
+        },
+        {
+            "id": 40245,
+            "title": "10 Euro - Albert II (Honor\u00e9 II - Prince de Monaco)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/715-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/716-180.jpg"
+        },
+        {
+            "id": 67026,
+            "title": "10 Euro - Albert II (Hercules archery)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/902-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/982-180.jpg"
+        },
+        {
+            "id": 170270,
+            "title": "10 Euro (Grace Kelly)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1095-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1096-180.jpg"
+        },
+        {
+            "id": 13763,
+            "title": "20 Euro - Rainier III",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2002,
+            "max_year": 2002,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/470-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/471-180.jpg"
+        },
+        {
+            "id": 13771,
+            "title": "20 Euro - Albert II (Principality of Monaco)",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/647-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/648-180.jpg"
+        },
+        {
+            "id": 13766,
+            "title": "100 Euro - Rainier III",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1030-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/1031-180.jpg"
+        },
+        {
+            "id": 200059,
+            "title": "100 Euro - 10 Years of Prince Albert II&#039;s Reign.",
+            "category": "coin",
+            "issuer": {
+                "code": "monaco",
+                "name": "Monaco"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5e80bbe7eab160.75877359-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/monaco/5e80bbe86df590.30297810-180.jpg"
+        }
+    ]
+}

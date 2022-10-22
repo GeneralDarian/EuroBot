@@ -1,0 +1,18 @@
+[
+    {
+        "id": 200160,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 35000,
+        "comment": "Proof (with mintmark)"
+    },
+    {
+        "id": 200370,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 500000,
+        "comment": "Without mintmark"
+    }
+]

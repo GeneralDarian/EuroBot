@@ -1,0 +1,63 @@
+[
+    {
+        "id": 132782,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 50000,
+        "comment": "In Sets only. Mint of Finland"
+    },
+    {
+        "id": 84745,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 28933700,
+        "comment": "Mint of Finland"
+    },
+    {
+        "id": 139322,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 3500,
+        "comment": "Proof. Mint of Finland"
+    },
+    {
+        "id": 302540,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 20000,
+        "comment": "In Sets only. Royal Dutch Mint"
+    },
+    {
+        "id": 333829,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 4550000
+    },
+    {
+        "id": 402361,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 4500000
+    },
+    {
+        "id": 391553,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 5000,
+        "comment": "In Sets only. Mint of Finland"
+    },
+    {
+        "id": 719793,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 4200000
+    }
+]

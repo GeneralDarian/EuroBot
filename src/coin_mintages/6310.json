@@ -1,0 +1,106 @@
+[
+    {
+        "id": 114964,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 39500,
+        "comment": "(scales / imperial orb privy marks) In Sets only"
+    },
+    {
+        "id": 114965,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 1500,
+        "comment": "(scales / imperial orb privy marks) Proof"
+    },
+    {
+        "id": 32762,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 12800000,
+        "comment": "scales / imperial orb privy marks"
+    },
+    {
+        "id": 96591,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 42000,
+        "comment": "(imperial orb / feather privy marks) In Sets only"
+    },
+    {
+        "id": 114963,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 1850,
+        "comment": "(imperial orb / feather privy marks) Proof"
+    },
+    {
+        "id": 114966,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 31300,
+        "comment": "(imperial orb / feather privy marks) In Sets only"
+    },
+    {
+        "id": 114967,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 1850,
+        "comment": "(imperial orb / feather privy marks) Proof"
+    },
+    {
+        "id": 129264,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 15000000,
+        "comment": "imperial orb / feather privy marks"
+    },
+    {
+        "id": 169150,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 32000,
+        "comment": "(imperial orb / feather privy marks) In Sets only"
+    },
+    {
+        "id": 169149,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 1000,
+        "comment": "(imperial orb / feather privy marks) Proof"
+    },
+    {
+        "id": 151950,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 10000000,
+        "comment": "imperial orb / feather privy marks"
+    },
+    {
+        "id": 185834,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 24600,
+        "comment": "(imperial orb / cat privy marks) In Sets only"
+    },
+    {
+        "id": 185973,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 1000,
+        "comment": "(imperial orb / cat privy marks) Proof"
+    }
+]

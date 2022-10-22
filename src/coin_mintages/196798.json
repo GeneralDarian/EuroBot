@@ -1,0 +1,26 @@
+[
+    {
+        "id": 485318,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 300000,
+        "comment": "Lion / Caduc\u00e9e, in rools"
+    },
+    {
+        "id": 485319,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 7500,
+        "comment": "Pont / Caduc\u00e9e,  coincards"
+    },
+    {
+        "id": 485321,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 1000,
+        "comment": "Pont / Lion, proof"
+    }
+]

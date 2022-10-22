@@ -1,0 +1,378 @@
+[
+    {
+        "id": 53061,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 917000,
+        "comment": "Logo left of date"
+    },
+    {
+        "id": 132710,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 80500,
+        "comment": "Logo left of date; In Sets only"
+    },
+    {
+        "id": 127906,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 2500,
+        "comment": "Logo left of date; Proof"
+    },
+    {
+        "id": 53062,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "FI",
+        "mintage": 936500,
+        "comment": "Logo under sword's handle"
+    },
+    {
+        "id": 132711,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "FI",
+        "mintage": 61000,
+        "comment": "Logo under sword's handle; In Sets only"
+    },
+    {
+        "id": 128276,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "FI",
+        "mintage": 2500,
+        "comment": "Logo under sword's handle; Proof"
+    },
+    {
+        "id": 53063,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "FI",
+        "mintage": 936500,
+        "comment": "Logo under sword's handle"
+    },
+    {
+        "id": 132712,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "FI",
+        "mintage": 61000,
+        "comment": "Logo under sword's handle; In Sets only"
+    },
+    {
+        "id": 128277,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "FI",
+        "mintage": 2500,
+        "comment": "Logo under sword's handle; Proof"
+    },
+    {
+        "id": 132713,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "FI",
+        "mintage": 60000,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 128278,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "FI",
+        "mintage": 2000,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 57001,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "FI",
+        "mintage": 738000,
+        "comment": "Logo under sword's handle"
+    },
+    {
+        "id": 102728,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "FI",
+        "mintage": 755000,
+        "comment": "Logo right of lion's hindleg"
+    },
+    {
+        "id": 132714,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "FI",
+        "mintage": 43000,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 128279,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "FI",
+        "mintage": 2000,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 148961,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "FI",
+        "mintage": 10724500,
+        "comment": "Logo right of lion's hindleg"
+    },
+    {
+        "id": 179144,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "FI",
+        "mintage": 73500,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 409399,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "FI",
+        "mintage": 2000,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 182922,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "FI",
+        "mintage": 341500,
+        "comment": "Logo right of lion's hindleg"
+    },
+    {
+        "id": 182988,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "FI",
+        "mintage": 56700,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 409400,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "FI",
+        "mintage": 1800,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 227572,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "FI",
+        "mintage": 119100,
+        "comment": "Logo right of lion's hindleg"
+    },
+    {
+        "id": 566121,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "FI",
+        "mintage": 79700,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 409401,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "FI",
+        "mintage": 1200,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 263513,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "FI",
+        "mintage": 10162100,
+        "comment": "Logo right of lion's hindleg"
+    },
+    {
+        "id": 250641,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "FI",
+        "mintage": 36700,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 409402,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "FI",
+        "mintage": 1200,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 287423,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "FI",
+        "mintage": 167100,
+        "comment": "Logo right of lion's hindleg"
+    },
+    {
+        "id": 566122,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "FI",
+        "mintage": 31700,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 409403,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "FI",
+        "mintage": 1200,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 328876,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "FI",
+        "mintage": 69900,
+        "comment": "Logo right of lion's hindleg"
+    },
+    {
+        "id": 329762,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "FI",
+        "mintage": 29100,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 409404,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "FI",
+        "mintage": 1000,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 428419,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "FI",
+        "mintage": 35500,
+        "comment": "Logo right of lion's hindleg"
+    },
+    {
+        "id": 383379,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "FI",
+        "mintage": 13500,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 387734,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "FI",
+        "mintage": 1000,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 582664,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "FI",
+        "mintage": 11000,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 725936,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "FI",
+        "mintage": 500,
+        "comment": "Proof"
+    },
+    {
+        "id": 642215,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "Fi",
+        "mintage": 13200,
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 642216,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "Fi",
+        "mintage": 1000,
+        "comment": "Logo right of lion's hindleg; Proof"
+    },
+    {
+        "id": 723106,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "Fi",
+        "comment": "Logo right of lion's hindleg; In Sets only"
+    },
+    {
+        "id": 728660,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "Fi",
+        "comment": "Proof"
+    }
+]

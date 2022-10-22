@@ -1,0 +1,28 @@
+[
+    {
+        "id": 145429,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "R",
+        "mintage": 14971010
+    },
+    {
+        "id": 421187,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "R",
+        "mintage": 25000,
+        "comment": "BU - In BU sets only"
+    },
+    {
+        "id": 421186,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "R",
+        "mintage": 3990,
+        "comment": "Proof - In Proof Sets only"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 408133,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 7500,
+        "comment": "coincard & BU  set, Bridge/Mercury"
+    },
+    {
+        "id": 408131,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 300000,
+        "comment": "Lion/Mercury"
+    },
+    {
+        "id": 408132,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 3500,
+        "comment": "Proof, Lion/Bridge"
+    }
+]

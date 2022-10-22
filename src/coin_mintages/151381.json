@@ -1,0 +1,18 @@
+[
+    {
+        "id": 413528,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 20000,
+        "comment": "BU Coincard"
+    },
+    {
+        "id": 413527,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 300000,
+        "comment": "without mintmarks"
+    }
+]

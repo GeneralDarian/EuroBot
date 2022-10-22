@@ -1,0 +1,245 @@
+[
+    {
+        "id": 223167,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 5000000
+    },
+    {
+        "id": 220435,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 48014,
+        "comment": "In sets BU"
+    },
+    {
+        "id": 220436,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 5000,
+        "comment": "Proof"
+    },
+    {
+        "id": 263770,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 400000
+    },
+    {
+        "id": 251272,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 34015,
+        "comment": "In sets only"
+    },
+    {
+        "id": 251274,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 5000,
+        "comment": "Proof"
+    },
+    {
+        "id": 281547,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 400000
+    },
+    {
+        "id": 281546,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 31516,
+        "comment": "BU; In Sets only"
+    },
+    {
+        "id": 281551,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 4000,
+        "comment": "Proof"
+    },
+    {
+        "id": 336922,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 20300000
+    },
+    {
+        "id": 329780,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "comment": "In Sets, sails and stars"
+    },
+    {
+        "id": 422520,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 5000,
+        "comment": "In sets, Sint Servaas bridge"
+    },
+    {
+        "id": 329781,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "comment": "Proof"
+    },
+    {
+        "id": 390877,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 12500000
+    },
+    {
+        "id": 390950,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 15000,
+        "comment": "In sets only"
+    },
+    {
+        "id": 392561,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 3500,
+        "comment": "Proof"
+    },
+    {
+        "id": 454636,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 15000000
+    },
+    {
+        "id": 453677,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 17500,
+        "comment": "Blister (Maastricht)"
+    },
+    {
+        "id": 429283,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 19500,
+        "comment": "In sets"
+    },
+    {
+        "id": 444489,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 483468,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 500,
+        "comment": "BU (World Money Fair Amsterdam)"
+    },
+    {
+        "id": 483454,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 12500,
+        "comment": "In sets BU"
+    },
+    {
+        "id": 483455,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 3000,
+        "comment": "In sets Proof"
+    },
+    {
+        "id": 483453,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 17500,
+        "comment": "In sets UNC"
+    },
+    {
+        "id": 631351,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021
+    },
+    {
+        "id": 657078,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "comment": "BU"
+    },
+    {
+        "id": 685979,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 17500,
+        "comment": "In UNC sets only"
+    },
+    {
+        "id": 683394,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 739556,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022
+    },
+    {
+        "id": 719780,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 11500,
+        "comment": "BU set"
+    },
+    {
+        "id": 739548,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 15000,
+        "comment": "official UNC set"
+    },
+    {
+        "id": 739539,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 3000,
+        "comment": "Proof"
+    }
+]

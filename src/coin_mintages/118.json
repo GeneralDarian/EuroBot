@@ -1,0 +1,94 @@
+[
+    {
+        "id": 787,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 93000000
+    },
+    {
+        "id": 133526,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 54945,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133527,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 5000,
+        "comment": "In Sets only (Dutch Mint - Set; error strike: inscription with 2 instead of 3 lines at top left)"
+    },
+    {
+        "id": 9847,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mint_letter": "F",
+        "mintage": 70000000,
+        "comment": "\"F\" mark in Star"
+    },
+    {
+        "id": 795,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 700000
+    },
+    {
+        "id": 133528,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 99300,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 803,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 500000
+    },
+    {
+        "id": 133529,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 30000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 3673,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 1000000
+    },
+    {
+        "id": 133530,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 50000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 18441,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 1000000
+    },
+    {
+        "id": 133531,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 50000,
+        "comment": "In Sets only"
+    }
+]

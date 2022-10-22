@@ -1,0 +1,377 @@
+[
+    {
+        "id": 53067,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 917000,
+        "comment": "Logo lower left"
+    },
+    {
+        "id": 132752,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 80500,
+        "comment": "Logo lower left; In Sets only"
+    },
+    {
+        "id": 128238,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "FI",
+        "mintage": 2500,
+        "comment": "Logo lower left; Proof"
+    },
+    {
+        "id": 53068,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "FI",
+        "mintage": 936500,
+        "comment": "Logo left"
+    },
+    {
+        "id": 132753,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "FI",
+        "mintage": 61000,
+        "comment": "Logo left; In Sets only"
+    },
+    {
+        "id": 128256,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "FI",
+        "mintage": 2500,
+        "comment": "Logo left; Proof"
+    },
+    {
+        "id": 53069,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "FI",
+        "mintage": 936500,
+        "comment": "Logo left"
+    },
+    {
+        "id": 132754,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "FI",
+        "mintage": 61000,
+        "comment": "Logo left; In Sets only"
+    },
+    {
+        "id": 128253,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "FI",
+        "mintage": 2500,
+        "comment": "Logo left; Proof"
+    },
+    {
+        "id": 57004,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "FI",
+        "mintage": 738000,
+        "comment": "Logo left"
+    },
+    {
+        "id": 132755,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "FI",
+        "mintage": 60000,
+        "comment": "Logo left; In Sets only"
+    },
+    {
+        "id": 128254,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "FI",
+        "mintage": 2000,
+        "comment": "Logo left; Proof"
+    },
+    {
+        "id": 102731,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "FI",
+        "mintage": 755000,
+        "comment": "Logo (Lion) left"
+    },
+    {
+        "id": 132756,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "FI",
+        "mintage": 43000,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 128255,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "FI",
+        "mintage": 2000,
+        "comment": "Logo (Lion) left; Proof"
+    },
+    {
+        "id": 148964,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "FI",
+        "mintage": 724500,
+        "comment": "Logo (Lion) left"
+    },
+    {
+        "id": 179159,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "FI",
+        "mintage": 73500,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 189076,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "FI",
+        "mintage": 2000,
+        "comment": "Logo (Lion) left; Proof"
+    },
+    {
+        "id": 182925,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "FI",
+        "mintage": 341500,
+        "comment": "Logo (Lion) left"
+    },
+    {
+        "id": 182991,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "FI",
+        "mintage": 56700,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 213982,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "FI",
+        "mintage": 1800,
+        "comment": "Logo (Lion) left; Proof"
+    },
+    {
+        "id": 227575,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "FI",
+        "mintage": 119100,
+        "comment": "Logo (Lion) left"
+    },
+    {
+        "id": 565988,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "FI",
+        "mintage": 79700,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 409389,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mint_letter": "FI",
+        "mintage": 1200,
+        "comment": "Proof"
+    },
+    {
+        "id": 263516,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "FI",
+        "mintage": 162100,
+        "comment": "Logo (Lion) left"
+    },
+    {
+        "id": 250644,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "FI",
+        "mintage": 36700,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 409390,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mint_letter": "FI",
+        "mintage": 1200,
+        "comment": "Proof"
+    },
+    {
+        "id": 285246,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "FI",
+        "mintage": 167100,
+        "comment": "Logo (Lion) left"
+    },
+    {
+        "id": 565989,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "FI",
+        "mintage": 31700,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 409391,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "FI",
+        "mintage": 1200,
+        "comment": "Proof"
+    },
+    {
+        "id": 328880,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "FI",
+        "mintage": 69100,
+        "comment": "Logo (Lion) left"
+    },
+    {
+        "id": 329760,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "FI",
+        "mintage": 29100,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 409392,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "FI",
+        "mintage": 1000,
+        "comment": "Proof"
+    },
+    {
+        "id": 387300,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "FI",
+        "mintage": 35500,
+        "comment": "Logo (Lion) left"
+    },
+    {
+        "id": 383382,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "FI",
+        "mintage": 13500,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 565990,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "FI",
+        "mintage": 1000,
+        "comment": "Proof"
+    },
+    {
+        "id": 582661,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "FI",
+        "mintage": 11000,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 725939,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "FI",
+        "comment": "Proof"
+    },
+    {
+        "id": 642221,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "FI",
+        "mintage": 13200,
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 642222,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "FI",
+        "mintage": 1000,
+        "comment": "Proof"
+    },
+    {
+        "id": 723109,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "FI",
+        "comment": "Logo (Lion) left; In Sets only"
+    },
+    {
+        "id": 728663,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "Fi",
+        "comment": "Proof"
+    }
+]

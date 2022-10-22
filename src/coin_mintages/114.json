@@ -1,0 +1,408 @@
+[
+    {
+        "id": 783,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 176000000
+    },
+    {
+        "id": 133470,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 54945,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 133469,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 5000,
+        "comment": "In Sets only (Dutch Mint - Set; error strike: inscription with 2 instead of 3 lines at top left)"
+    },
+    {
+        "id": 25770,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mint_letter": "F",
+        "mintage": 18000000,
+        "comment": "\"F\" mark in Star"
+    },
+    {
+        "id": 791,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 9500000
+    },
+    {
+        "id": 133471,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 99300,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 799,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 25000000
+    },
+    {
+        "id": 133472,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 30000,
+        "comment": "In Sets only (Epikourios Apollo\u2019s temple)"
+    },
+    {
+        "id": 3669,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 15000000
+    },
+    {
+        "id": 133473,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 50000,
+        "comment": "In Sets only (Ancient coins of Athens)"
+    },
+    {
+        "id": 18432,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 45000000
+    },
+    {
+        "id": 133474,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 50000,
+        "comment": "In Sets only (Ancient Greek coins)"
+    },
+    {
+        "id": 18433,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mintage": 25000103
+    },
+    {
+        "id": 133475,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mintage": 25000,
+        "comment": "In Sets only (Ancient coins of the Aegean Sea)"
+    },
+    {
+        "id": 18434,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 68000000
+    },
+    {
+        "id": 133476,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 25000,
+        "comment": "In Sets only (Ancient coins of Thrace, Macedonia, Thessaly, Epirus and Peloponnese)"
+    },
+    {
+        "id": 25925,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 16000000
+    },
+    {
+        "id": 133477,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 25000,
+        "comment": "In Sets only (Theran Ship)"
+    },
+    {
+        "id": 76398,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 32000000
+    },
+    {
+        "id": 133478,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 25000,
+        "comment": "In Sets only (Athenian triere)"
+    },
+    {
+        "id": 129922,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 47000000
+    },
+    {
+        "id": 133479,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 35000,
+        "comment": "In Sets only (XIII Special Olympics World Summer Games)"
+    },
+    {
+        "id": 133480,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 2500,
+        "comment": "Proof"
+    },
+    {
+        "id": 162677,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 34000000
+    },
+    {
+        "id": 178432,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 32500,
+        "comment": "In Sets only (Santorini)"
+    },
+    {
+        "id": 309423,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 2500,
+        "comment": "Proof"
+    },
+    {
+        "id": 230299,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 40980000
+    },
+    {
+        "id": 200140,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 20000,
+        "comment": "In Sets only (Mykonos - Delos)"
+    },
+    {
+        "id": 309428,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 4000,
+        "comment": "Proof"
+    },
+    {
+        "id": 243617,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 18700000
+    },
+    {
+        "id": 245267,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 13000,
+        "comment": "In Sets only (Thrace)"
+    },
+    {
+        "id": 309435,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 4000,
+        "comment": "Proof"
+    },
+    {
+        "id": 268316,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 32000000
+    },
+    {
+        "id": 264683,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 15000,
+        "comment": "In Sets only (Epirus)"
+    },
+    {
+        "id": 309443,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 2000,
+        "comment": "Proof"
+    },
+    {
+        "id": 299076,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 52000000
+    },
+    {
+        "id": 300571,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 15000,
+        "comment": "In Sets only (Peloponnese)"
+    },
+    {
+        "id": 309416,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 2000,
+        "comment": "Proof"
+    },
+    {
+        "id": 374169,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 34000000
+    },
+    {
+        "id": 342913,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 15000,
+        "comment": "In Sets only (Crete)"
+    },
+    {
+        "id": 421775,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 1200,
+        "comment": "Proof"
+    },
+    {
+        "id": 400503,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 15000,
+        "comment": "In Sets only (Rhodes)"
+    },
+    {
+        "id": 420211,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 14000000,
+        "comment": "New type"
+    },
+    {
+        "id": 421777,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 2000,
+        "comment": "Proof"
+    },
+    {
+        "id": 443083,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 10000,
+        "comment": "In Sets only (Samos)"
+    },
+    {
+        "id": 454540,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 35000000,
+        "comment": "New type"
+    },
+    {
+        "id": 474279,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 1500,
+        "comment": "Proof"
+    },
+    {
+        "id": 482951,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 10000,
+        "comment": "In Sets only (Lesbos)"
+    },
+    {
+        "id": 482950,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 43000000,
+        "comment": "New type"
+    },
+    {
+        "id": 679887,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 25000000
+    },
+    {
+        "id": 671573,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 10000,
+        "comment": "In Sets only (Naxos)"
+    },
+    {
+        "id": 743331,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022
+    },
+    {
+        "id": 731785,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 7500,
+        "comment": "In Sets only (Chios)"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "id": 20122,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 950000
+    },
+    {
+        "id": 134302,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 10000,
+        "comment": "Coincard"
+    },
+    {
+        "id": 99742,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 40000,
+        "comment": "Proof Capsule"
+    }
+]

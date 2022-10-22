@@ -1,0 +1,155 @@
+[
+    {
+        "id": 361505,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "R",
+        "mintage": 2132411
+    },
+    {
+        "id": 331413,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "R",
+        "mintage": 130000,
+        "comment": "In Sets Only"
+    },
+    {
+        "id": 331414,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "R",
+        "mintage": 10000,
+        "comment": "Proof"
+    },
+    {
+        "id": 391055,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "R",
+        "mintage": 2147169
+    },
+    {
+        "id": 391056,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "R",
+        "mintage": 60000,
+        "comment": "In Sets Only"
+    },
+    {
+        "id": 395973,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "R",
+        "mintage": 10000,
+        "comment": "Proof"
+    },
+    {
+        "id": 456715,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "R",
+        "mintage": 2157248
+    },
+    {
+        "id": 432327,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "R",
+        "mintage": 65000,
+        "comment": "In sets Only"
+    },
+    {
+        "id": 436731,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "R",
+        "mintage": 9930,
+        "comment": "Proof"
+    },
+    {
+        "id": 603946,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R"
+    },
+    {
+        "id": 487012,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R",
+        "mintage": 60000,
+        "comment": "In Sets Only"
+    },
+    {
+        "id": 487013,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "R",
+        "mintage": 7999,
+        "comment": "Proof"
+    },
+    {
+        "id": 668985,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "R"
+    },
+    {
+        "id": 668986,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "R",
+        "mintage": 62000,
+        "comment": "In Sets Only"
+    },
+    {
+        "id": 668987,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "R",
+        "mintage": 5299,
+        "comment": "Proof"
+    },
+    {
+        "id": 726286,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "R"
+    },
+    {
+        "id": 726287,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "R",
+        "mintage": 70000,
+        "comment": "BU sets + coincards"
+    },
+    {
+        "id": 726288,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "R",
+        "mintage": 4799,
+        "comment": "Proof"
+    }
+]

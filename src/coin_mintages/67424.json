@@ -1,0 +1,18 @@
+[
+    {
+        "id": 247004,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 10000,
+        "comment": "legal tender despite color (BU)"
+    },
+    {
+        "id": 247003,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 10000,
+        "comment": "legal tender despite color (proof)"
+    }
+]

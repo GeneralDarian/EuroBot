@@ -1,0 +1,25 @@
+[
+    {
+        "id": 352851,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 744000
+    },
+    {
+        "id": 352850,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 4500,
+        "comment": "Coincard Blister"
+    },
+    {
+        "id": 352849,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 1500,
+        "comment": "Proof"
+    }
+]

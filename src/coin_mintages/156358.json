@@ -1,0 +1,19 @@
+[
+    {
+        "id": 422035,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "LMK",
+        "mintage": 495000
+    },
+    {
+        "id": 422036,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mint_letter": "LMK",
+        "mintage": 5000,
+        "comment": "BU Coin Card"
+    }
+]

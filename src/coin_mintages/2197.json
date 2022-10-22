@@ -1,0 +1,37 @@
+[
+    {
+        "id": 94374,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mint_letter": "F",
+        "mintage": 2500,
+        "comment": "Proof; hunting horn"
+    },
+    {
+        "id": 9910,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mint_letter": "S",
+        "mintage": 1000000
+    },
+    {
+        "id": 94495,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mint_letter": "S",
+        "mintage": 45500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 640253,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mint_letter": "S",
+        "mintage": 2000,
+        "comment": "Proof"
+    }
+]

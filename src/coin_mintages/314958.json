@@ -1,0 +1,28 @@
+[
+    {
+        "id": 702516,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "comment": "BU"
+    },
+    {
+        "id": 702515,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "comment": "Proof"
+    }
+]

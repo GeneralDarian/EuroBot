@@ -1,0 +1,26 @@
+[
+    {
+        "id": 134304,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 15000,
+        "comment": "15,000 BU sets"
+    },
+    {
+        "id": 106426,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 14000,
+        "comment": "2,000 Proof sets / 2,000 Proof coincard / 10,000 Proof capsule"
+    },
+    {
+        "id": 106425,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 981084,
+        "comment": "circulation"
+    }
+]

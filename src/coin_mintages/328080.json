@@ -1,0 +1,25 @@
+[
+    {
+        "id": 731807,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 1845000
+    },
+    {
+        "id": 724733,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 150000,
+        "comment": "Coincard"
+    },
+    {
+        "id": 724734,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 5000,
+        "comment": "Proof"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": 351775,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "LMK",
+        "mintage": 990000
+    },
+    {
+        "id": 351776,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mint_letter": "LMK",
+        "mintage": 10000,
+        "comment": "BU Coin Card"
+    }
+]

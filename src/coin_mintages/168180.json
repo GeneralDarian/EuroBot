@@ -1,0 +1,26 @@
+[
+    {
+        "id": 441029,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 8000,
+        "comment": "in BU set"
+    },
+    {
+        "id": 441028,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 989250,
+        "comment": "in rolls"
+    },
+    {
+        "id": 441031,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 2750,
+        "comment": "Proof capsule"
+    }
+]

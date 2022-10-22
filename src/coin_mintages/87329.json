@@ -1,0 +1,28 @@
+[
+    {
+        "id": 292424,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "INCM",
+        "mintage": 500000
+    },
+    {
+        "id": 292425,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "INCM",
+        "mintage": 4860,
+        "comment": "In sets only"
+    },
+    {
+        "id": 292426,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "INCM",
+        "mintage": 3530,
+        "comment": "Proof"
+    }
+]

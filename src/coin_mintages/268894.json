@@ -1,0 +1,37 @@
+[
+    {
+        "id": 625281,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "R",
+        "mintage": 5000000
+    },
+    {
+        "id": 625282,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "R",
+        "mintage": 12000,
+        "comment": "BU coincard"
+    },
+    {
+        "id": 625283,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "R",
+        "mintage": 8500,
+        "comment": "Proof version (proof set 1500 + 7000 proof coin)"
+    },
+    {
+        "id": 625284,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "R",
+        "mintage": 250000,
+        "comment": "Special coin rolls"
+    }
+]

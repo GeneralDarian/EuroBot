@@ -1,0 +1,50 @@
+[
+    {
+        "id": 684644,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 100000,
+        "comment": "dark blue coincard"
+    },
+    {
+        "id": 684648,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 100000,
+        "comment": "green coincard"
+    },
+    {
+        "id": 684645,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 100000,
+        "comment": "light blue coincard"
+    },
+    {
+        "id": 684649,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 10000,
+        "comment": "proof"
+    },
+    {
+        "id": 684646,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 100000,
+        "comment": "red coincard"
+    },
+    {
+        "id": 684647,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 100000,
+        "comment": "yellow coincard"
+    }
+]

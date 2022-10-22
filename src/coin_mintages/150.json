@@ -1,0 +1,194 @@
+[
+    {
+        "id": 874,
+        "is_dated": true,
+        "year": 1999,
+        "gregorian_year": 1999,
+        "mintage": 99600000,
+        "comment": "bow"
+    },
+    {
+        "id": 132330,
+        "is_dated": true,
+        "year": 1999,
+        "gregorian_year": 1999,
+        "mintage": 65000,
+        "comment": "bow; In Sets only"
+    },
+    {
+        "id": 132331,
+        "is_dated": true,
+        "year": 1999,
+        "gregorian_year": 1999,
+        "mintage": 16500,
+        "comment": "bow; Proof"
+    },
+    {
+        "id": 882,
+        "is_dated": true,
+        "year": 2000,
+        "gregorian_year": 2000,
+        "mintage": 87000000,
+        "comment": "bow and star"
+    },
+    {
+        "id": 132332,
+        "is_dated": true,
+        "year": 2000,
+        "gregorian_year": 2000,
+        "mintage": 68000,
+        "comment": "bow and star; In Sets only"
+    },
+    {
+        "id": 132333,
+        "is_dated": true,
+        "year": 2000,
+        "gregorian_year": 2000,
+        "mintage": 16500,
+        "comment": "bow and star; Proof"
+    },
+    {
+        "id": 890,
+        "is_dated": true,
+        "year": 2001,
+        "gregorian_year": 2001,
+        "mintage": 94500000,
+        "comment": "grapes"
+    },
+    {
+        "id": 132334,
+        "is_dated": true,
+        "year": 2001,
+        "gregorian_year": 2001,
+        "mintage": 65000,
+        "comment": "grapes; In Sets only"
+    },
+    {
+        "id": 132335,
+        "is_dated": true,
+        "year": 2001,
+        "gregorian_year": 2001,
+        "mintage": 16500,
+        "comment": "grapes; Proof"
+    },
+    {
+        "id": 898,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 80900000,
+        "comment": "grapes and star"
+    },
+    {
+        "id": 132336,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 245852,
+        "comment": "grapes and star; In Sets only"
+    },
+    {
+        "id": 132337,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mintage": 16500,
+        "comment": "grapes and star; Proof"
+    },
+    {
+        "id": 906,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 1200000,
+        "comment": "sails"
+    },
+    {
+        "id": 132338,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 217503,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 132339,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mintage": 13000,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 914,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 300000,
+        "comment": "sails"
+    },
+    {
+        "id": 132340,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 102004,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 132341,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mintage": 5000,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 922,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 300000,
+        "comment": "sails"
+    },
+    {
+        "id": 132342,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 162505,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 132343,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mintage": 5000,
+        "comment": "sails; Proof"
+    },
+    {
+        "id": 18510,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 100000,
+        "comment": "sails"
+    },
+    {
+        "id": 132344,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 54006,
+        "comment": "sails; In Sets only"
+    },
+    {
+        "id": 132345,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mintage": 3500,
+        "comment": "sails; Proof"
+    }
+]

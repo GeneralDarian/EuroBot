@@ -1,0 +1,25 @@
+[
+    {
+        "id": 233960,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 25000,
+        "comment": "BU; with mint mark"
+    },
+    {
+        "id": 421191,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "comment": "Proof"
+    },
+    {
+        "id": 233961,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 400000,
+        "comment": "Without mintmark"
+    }
+]

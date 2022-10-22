@@ -1,0 +1,25 @@
+[
+    {
+        "id": 577422,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 990500
+    },
+    {
+        "id": 577423,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 7000,
+        "comment": "in BU set"
+    },
+    {
+        "id": 577424,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 2500,
+        "comment": "in proof set"
+    }
+]

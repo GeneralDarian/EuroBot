@@ -1,0 +1,27 @@
+[
+    {
+        "id": 386875,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 30000,
+        "comment": "In coincard, With \"Monnaie Paris\" mintmark"
+    },
+    {
+        "id": 286647,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 350000,
+        "comment": "Without mintmark"
+    },
+    {
+        "id": 286648,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "F",
+        "mintage": 30000,
+        "comment": "In mintset only, with F mintmark"
+    }
+]

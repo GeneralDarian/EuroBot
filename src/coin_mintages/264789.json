@@ -1,0 +1,28 @@
+[
+    {
+        "id": 617696,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "M",
+        "mintage": 3981500
+    },
+    {
+        "id": 622552,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "M",
+        "mintage": 12000,
+        "comment": "Annual BU coin set"
+    },
+    {
+        "id": 617697,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "M",
+        "mintage": 6500,
+        "comment": "Proof"
+    }
+]

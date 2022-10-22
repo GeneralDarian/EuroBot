@@ -1,0 +1,176 @@
+[
+    {
+        "id": 154437,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mint_letter": "INCM",
+        "comment": "3x28 reeds on edge (error)"
+    },
+    {
+        "id": 931,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mint_letter": "INCM",
+        "mintage": 100228135,
+        "comment": "3x29 reeds on edge (normal)"
+    },
+    {
+        "id": 151562,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mint_letter": "INCM",
+        "mintage": 55000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 154438,
+        "is_dated": true,
+        "year": 2002,
+        "gregorian_year": 2002,
+        "mint_letter": "INCM",
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 936,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mint_letter": "INCM",
+        "mintage": 16206875
+    },
+    {
+        "id": 154444,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mint_letter": "INCM",
+        "mintage": 70000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 154439,
+        "is_dated": true,
+        "year": 2003,
+        "gregorian_year": 2003,
+        "mint_letter": "INCM",
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 3689,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mint_letter": "INCM",
+        "mintage": 20000000
+    },
+    {
+        "id": 154445,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mint_letter": "INCM",
+        "mintage": 70000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 154440,
+        "is_dated": true,
+        "year": 2004,
+        "gregorian_year": 2004,
+        "mint_letter": "INCM",
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 9766,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mint_letter": "INCM",
+        "mintage": 20000000
+    },
+    {
+        "id": 154446,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mint_letter": "INCM",
+        "mintage": 60000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 154441,
+        "is_dated": true,
+        "year": 2005,
+        "gregorian_year": 2005,
+        "mint_letter": "INCM",
+        "mintage": 10000,
+        "comment": "Proof"
+    },
+    {
+        "id": 9767,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mint_letter": "INCM",
+        "mintage": 20000000
+    },
+    {
+        "id": 154447,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mint_letter": "INCM",
+        "mintage": 26500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 154442,
+        "is_dated": true,
+        "year": 2006,
+        "gregorian_year": 2006,
+        "mint_letter": "INCM",
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 9768,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "INCM",
+        "mintage": 4935400
+    },
+    {
+        "id": 154448,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "INCM",
+        "mintage": 21500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 154443,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "INCM",
+        "mintage": 2500,
+        "comment": "Proof"
+    },
+    {
+        "id": 185508,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "INCM",
+        "mintage": 98375,
+        "comment": "Error Coin - Old Map (mule!)"
+    }
+]

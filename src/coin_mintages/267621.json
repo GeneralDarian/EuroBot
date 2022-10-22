@@ -1,0 +1,132 @@
+[
+    {
+        "id": 623166,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "A",
+        "mintage": 6000000
+    },
+    {
+        "id": 623167,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "A",
+        "mintage": 25000,
+        "comment": "in BU set"
+    },
+    {
+        "id": 623168,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "A",
+        "mintage": 28000,
+        "comment": "Proof"
+    },
+    {
+        "id": 623169,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "D",
+        "mintage": 6300000
+    },
+    {
+        "id": 623170,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "D",
+        "mintage": 25000,
+        "comment": "in BU set"
+    },
+    {
+        "id": 623171,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "D",
+        "mintage": 28000,
+        "comment": "Proof"
+    },
+    {
+        "id": 623172,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "F",
+        "mintage": 7200000
+    },
+    {
+        "id": 623173,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "F",
+        "mintage": 25000,
+        "comment": "in BU set"
+    },
+    {
+        "id": 623174,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "F",
+        "mintage": 28000,
+        "comment": "Proof"
+    },
+    {
+        "id": 623175,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "G",
+        "mintage": 4200000
+    },
+    {
+        "id": 623176,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "G",
+        "mintage": 25000,
+        "comment": "in BU set"
+    },
+    {
+        "id": 623177,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "G",
+        "mintage": 28000,
+        "comment": "Proof"
+    },
+    {
+        "id": 623178,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "J",
+        "mintage": 6300000
+    },
+    {
+        "id": 623179,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "J",
+        "mintage": 25000,
+        "comment": "in BU set"
+    },
+    {
+        "id": 623180,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "J",
+        "mintage": 28000,
+        "comment": "Proof"
+    }
+]

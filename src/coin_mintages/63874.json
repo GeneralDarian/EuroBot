@@ -1,0 +1,17 @@
+[
+    {
+        "id": 240526,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 1000000
+    },
+    {
+        "id": 240527,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 5000,
+        "comment": "Brilliant Uncirculated in souvenir box"
+    }
+]

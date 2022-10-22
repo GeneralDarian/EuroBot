@@ -1,0 +1,28 @@
+[
+    {
+        "id": 480431,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "M",
+        "mintage": 4000000
+    },
+    {
+        "id": 480433,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "M",
+        "mintage": 15000,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 480432,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "M",
+        "mintage": 9000,
+        "comment": "Proof"
+    }
+]

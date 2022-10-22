@@ -1,0 +1,215 @@
+[
+    {
+        "id": 26039,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 63508000
+    },
+    {
+        "id": 106483,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 120000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 106484,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 13000,
+        "comment": "Proof"
+    },
+    {
+        "id": 102674,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 25000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 106482,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 5000,
+        "comment": "Proof"
+    },
+    {
+        "id": 119777,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 25000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 113200,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 6000,
+        "comment": "Proof"
+    },
+    {
+        "id": 148971,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 23000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 150371,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 6000,
+        "comment": "Proof"
+    },
+    {
+        "id": 200168,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 23500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 185581,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 5500,
+        "comment": "Proof"
+    },
+    {
+        "id": 224591,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 21500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 224602,
+        "is_dated": true,
+        "year": 2014,
+        "gregorian_year": 2014,
+        "mintage": 3500,
+        "comment": "Proof"
+    },
+    {
+        "id": 252970,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 21500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 252969,
+        "is_dated": true,
+        "year": 2015,
+        "gregorian_year": 2015,
+        "mintage": 3500,
+        "comment": "Proof"
+    },
+    {
+        "id": 293974,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 23000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 293975,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 329627,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 8000,
+        "comment": "In 3 BU sets"
+    },
+    {
+        "id": 415224,
+        "is_dated": true,
+        "year": 2017,
+        "gregorian_year": 2017,
+        "mintage": 3000,
+        "comment": "Proof"
+    },
+    {
+        "id": 383362,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 3000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 415225,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 800,
+        "comment": "Proof"
+    },
+    {
+        "id": 432313,
+        "is_dated": true,
+        "year": 2019,
+        "gregorian_year": 2019,
+        "mintage": 6000,
+        "comment": "In sets Only Ice Hockey world"
+    },
+    {
+        "id": 535610,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mintage": 5000,
+        "comment": "(fr) BU (Jeux Olympiques Tokyo 2020)"
+    },
+    {
+        "id": 535611,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "comment": "Proof"
+    },
+    {
+        "id": 660797,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 712601,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 11000,
+        "comment": "BU set"
+    },
+    {
+        "id": 712602,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 1900,
+        "comment": "proof set"
+    }
+]

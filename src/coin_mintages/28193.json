@@ -1,0 +1,28 @@
+[
+    {
+        "id": 144956,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "M",
+        "mintage": 4000000
+    },
+    {
+        "id": 332803,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "M",
+        "mintage": 56500,
+        "comment": "BU"
+    },
+    {
+        "id": 332804,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "M",
+        "mintage": 2300,
+        "comment": "Proof"
+    }
+]

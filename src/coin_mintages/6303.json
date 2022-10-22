@@ -1,0 +1,121 @@
+[
+    {
+        "id": 114976,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 39500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 114975,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 1506,
+        "comment": "Proof"
+    },
+    {
+        "id": 32754,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 30000000,
+        "comment": "Scales mark"
+    },
+    {
+        "id": 87209,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 15050000,
+        "comment": "Goose quill mark"
+    },
+    {
+        "id": 114978,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 42000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 114977,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 1850,
+        "comment": "Proof"
+    },
+    {
+        "id": 109248,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 40250000,
+        "comment": "Goose quill mark"
+    },
+    {
+        "id": 114980,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 31300,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 114979,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 1850,
+        "comment": "Proof"
+    },
+    {
+        "id": 151951,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 42350000,
+        "comment": "Goose quill mark"
+    },
+    {
+        "id": 155728,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 32000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 155727,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 1000,
+        "comment": "Proof"
+    },
+    {
+        "id": 185977,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "comment": "Cat mark"
+    },
+    {
+        "id": 185832,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 24600,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 185976,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 1000,
+        "comment": "Proof"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "id": 719459,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "A",
+        "mintage": 3400000
+    },
+    {
+        "id": 736595,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "A",
+        "mintage": 30000,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 719460,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "A",
+        "mintage": 40000,
+        "comment": "Proof"
+    },
+    {
+        "id": 719461,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "D",
+        "mintage": 3570000
+    },
+    {
+        "id": 736596,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "D",
+        "mintage": 30000,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 719462,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "D",
+        "mintage": 40000,
+        "comment": "Proof"
+    },
+    {
+        "id": 719463,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "F",
+        "mintage": 4080000
+    },
+    {
+        "id": 736597,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "F",
+        "mintage": 30000,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 719464,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "F",
+        "mintage": 40000,
+        "comment": "Proof"
+    },
+    {
+        "id": 719465,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "G",
+        "mintage": 2380000
+    },
+    {
+        "id": 736598,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "G",
+        "mintage": 30000,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 719466,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "G",
+        "mintage": 40000,
+        "comment": "Proof"
+    },
+    {
+        "id": 719467,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "J",
+        "mintage": 3570000
+    },
+    {
+        "id": 736599,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "J",
+        "mintage": 30000,
+        "comment": "(fr) BU"
+    },
+    {
+        "id": 719468,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "J",
+        "mintage": 40000,
+        "comment": "Proof"
+    }
+]

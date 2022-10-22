@@ -1,0 +1,25 @@
+[
+    {
+        "id": 182283,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 10000000
+    },
+    {
+        "id": 182294,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 10500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 182293,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 6789,
+        "comment": "Proof"
+    }
+]

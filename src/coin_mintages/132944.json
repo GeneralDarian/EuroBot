@@ -1,0 +1,26 @@
+[
+    {
+        "id": 381473,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 300000
+    },
+    {
+        "id": 381475,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mintage": 20000,
+        "comment": "Coincard - BU"
+    },
+    {
+        "id": 381474,
+        "is_dated": true,
+        "year": 2018,
+        "gregorian_year": 2018,
+        "mint_letter": "F",
+        "mintage": 15000,
+        "comment": "In sets - BU"
+    }
+]

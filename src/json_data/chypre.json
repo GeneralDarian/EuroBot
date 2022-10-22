@@ -1,0 +1,395 @@
+{
+    "count": 30,
+    "types": [
+        {
+            "id": 33911,
+            "title": "1 Pound (Treaty of Rome)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/463-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/464-180.jpg"
+        },
+        {
+            "id": 46800,
+            "title": "1 Pound (Treaty of Rome - Silver Proof Issue)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/5ffff7283095d2.23300431-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/5ffff729726a71.83250725-180.jpg"
+        },
+        {
+            "id": 2173,
+            "title": "1 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/61f93b96d1bb75.07538638-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/673-180.jpg"
+        },
+        {
+            "id": 2174,
+            "title": "2 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62c98e5407e0b8.09414128-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62c98e551707e6.87407434-180.jpg"
+        },
+        {
+            "id": 2175,
+            "title": "5 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62c90b3f212cf3.13056628-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62c90b401315b3.35059836-180.jpg"
+        },
+        {
+            "id": 2176,
+            "title": "10 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/678-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/679-180.jpg"
+        },
+        {
+            "id": 2177,
+            "title": "20 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/680-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/681-180.jpg"
+        },
+        {
+            "id": 2178,
+            "title": "50 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/605d6fb0cba4a0.61763198-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/605d6fb16932d3.04128821-180.jpg"
+        },
+        {
+            "id": 2179,
+            "title": "1 Euro",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/684-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/685-180.jpg"
+        },
+        {
+            "id": 2180,
+            "title": "2 Euro",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2008,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/686-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/687-180.jpg"
+        },
+        {
+            "id": 5060,
+            "title": "2 Euro (10 Years of EMU)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/256-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/257-180.jpg"
+        },
+        {
+            "id": 28326,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/393-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/394-180.jpg"
+        },
+        {
+            "id": 76633,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/5fc9e06fa284f6.94532170-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/5fc9e0703d5a22.54307363-180.jpg"
+        },
+        {
+            "id": 112816,
+            "title": "2 Euro (Paphos)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/757-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/758-180.jpg"
+        },
+        {
+            "id": 225688,
+            "title": "2 Euro (Institute of Neurology and Genetics)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62d6f0aec32484.24864807-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62d6f0af3b3548.18624543-180.jpg"
+        },
+        {
+            "id": 319134,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62e3b35d1db742.39385775-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62097af7de6024.24013887-180.jpg"
+        },
+        {
+            "id": 20578,
+            "title": "5 Euro (The accession of Cyprus to the EMU)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/477-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/443-180.jpg"
+        },
+        {
+            "id": 30679,
+            "title": "5 Euro (50th Anniversary of the Republic of Cyprus - silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/475-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/476-180.jpg"
+        },
+        {
+            "id": 41115,
+            "title": "5 Euro (Cyprus Presidency of the Council of the European Union)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/529-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/528-180.jpg"
+        },
+        {
+            "id": 56925,
+            "title": "5 Euro (50th Anniversary of the Central Bank of Cyprus - silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/573-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/574-180.jpg"
+        },
+        {
+            "id": 70586,
+            "title": "5 Euro (The poet Costas Montis - silver)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/751-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/752-180.jpg"
+        },
+        {
+            "id": 77787,
+            "title": "5 Euro (Goddess Aphrodite)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/634-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/635-180.jpg"
+        },
+        {
+            "id": 99769,
+            "title": "5 Euro (Dimitris Lipertis )",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62b3468e00dae9.65384038-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/62b3468e5bf2b1.58254291-180.jpg"
+        },
+        {
+            "id": 129556,
+            "title": "5 Euro (Vasilis Michaelides)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/755-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/756-180.jpg"
+        },
+        {
+            "id": 153892,
+            "title": "5 Euro (Cyprus - 10 Years of the Euro)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/767-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/768-180.jpg"
+        },
+        {
+            "id": 195397,
+            "title": "5 Euro (30th Anniversary of the Founding of the University of Cyprus)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/5e3d2b11171797.40703633-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/5e3d2b11db73d1.57444596-180.jpg"
+        },
+        {
+            "id": 244489,
+            "title": "5 Euro (Leda and the Swan)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/5faa62cf73d321.77971844-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/5faa62cf953f55.73189810-180.jpg"
+        },
+        {
+            "id": 327641,
+            "title": "5 Euro (UNESCO)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/627fcbe5888513.05832650-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/627fcbe62807e7.25002434-180.jpg"
+        },
+        {
+            "id": 56927,
+            "title": "20 Euro (50th Anniversary of the Republic of Cyprus - gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/666-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/667-180.jpg"
+        },
+        {
+            "id": 56926,
+            "title": "20 Euro (50th Anniversary of the Central Bank of Cyprus - gold)",
+            "category": "coin",
+            "issuer": {
+                "code": "chypre",
+                "name": "Cyprus"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/668-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chypre/669-180.jpg"
+        }
+    ]
+}

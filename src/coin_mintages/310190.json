@@ -1,0 +1,25 @@
+[
+    {
+        "id": 694721,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 1000000
+    },
+    {
+        "id": 694722,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 5000,
+        "comment": "BU Coincard"
+    },
+    {
+        "id": 694723,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 3000,
+        "comment": "proof set"
+    }
+]

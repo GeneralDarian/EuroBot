@@ -1,0 +1,28 @@
+[
+    {
+        "id": 286171,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 1500000
+    },
+    {
+        "id": 319009,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 23000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 301257,
+        "is_dated": true,
+        "year": 2016,
+        "gregorian_year": 2016,
+        "mint_letter": "R",
+        "mintage": 10000,
+        "comment": "Proof: 7000 in single case and 3000 In Proof set"
+    }
+]

@@ -1,0 +1,924 @@
+{
+    "count": 71,
+    "types": [
+        {
+            "id": 121,
+            "title": "1 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2002,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/977-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/978-180.jpg"
+        },
+        {
+            "id": 122,
+            "title": "2 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2002,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/979-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/980-180.jpg"
+        },
+        {
+            "id": 123,
+            "title": "5 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2002,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/981-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/982-180.jpg"
+        },
+        {
+            "id": 124,
+            "title": "10 Euro Cent (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2002,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/983-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/984-180.jpg"
+        },
+        {
+            "id": 6329,
+            "title": "10 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1054-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1055-180.jpg"
+        },
+        {
+            "id": 125,
+            "title": "20 Euro Cent (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2002,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/985-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/986-180.jpg"
+        },
+        {
+            "id": 6330,
+            "title": "20 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1052-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1053-180.jpg"
+        },
+        {
+            "id": 126,
+            "title": "50 Euro Cent (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2002,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1056-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1057-180.jpg"
+        },
+        {
+            "id": 6332,
+            "title": "50 Euro Cent (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/605d73c691df47.77817977-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/605d73c72787a0.74480549-180.jpg"
+        },
+        {
+            "id": 127,
+            "title": "1 Euro (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2002,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/987-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/988-180.jpg"
+        },
+        {
+            "id": 6333,
+            "title": "1 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/6054c2f0037315.19164181-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/6054c2f086ea62.02110006-180.jpg"
+        },
+        {
+            "id": 128,
+            "title": "2 Euro (1st map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2002,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/989-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/990-180.jpg"
+        },
+        {
+            "id": 2211,
+            "title": "2 Euro (Treaty of Rome)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/429-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/430-180.jpg"
+        },
+        {
+            "id": 6334,
+            "title": "2 Euro (2nd map)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2007,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/427-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/428-180.jpg"
+        },
+        {
+            "id": 5069,
+            "title": "2 Euro (10 Years of EMU)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/6273552c00e392.30167843-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/6273552d4d92a1.90049634-180.jpg"
+        },
+        {
+            "id": 28194,
+            "title": "2 Euro (10 Years of Euro Cash)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/5fc9d9ea2c0989.34452220-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/5fc9d9eab9f657.96263294-180.jpg"
+        },
+        {
+            "id": 77182,
+            "title": "2 Euro (30 Years of European Union Flag)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/880-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/881-180.jpg"
+        },
+        {
+            "id": 80921,
+            "title": "2 Euro (Easter Rising)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/882-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/858-180.jpg"
+        },
+        {
+            "id": 151940,
+            "title": "2 Euro (Centenary of the 1st. Meeting of Dail Eireann)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/5fcdc1d5922b50.38961494-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/5fcdc1d626e9e1.65166081-180.jpg"
+        },
+        {
+            "id": 319135,
+            "title": "2 Euro (Erasmus Programme)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2022,
+            "max_year": 2022,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/62d7c19215c5e2.18867180-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/62d7c1926a6240.20935714-180.jpg"
+        },
+        {
+            "id": 13599,
+            "title": "5 Euro (Special Olympics)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/496-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/497-180.jpg"
+        },
+        {
+            "id": 13600,
+            "title": "5 Euro (International Polar Year)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1098-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1099-180.jpg"
+        },
+        {
+            "id": 13601,
+            "title": "10 Euro (Special Olympics)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2003,
+            "max_year": 2003,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/574-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/575-180.jpg"
+        },
+        {
+            "id": 13602,
+            "title": "10 Euro (Enlargement of the European Union)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2004,
+            "max_year": 2004,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1078-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1079-180.jpg"
+        },
+        {
+            "id": 13603,
+            "title": "10 Euro (Sir William R. Hamilton)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2005,
+            "max_year": 2005,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/463-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/464-180.jpg"
+        },
+        {
+            "id": 13604,
+            "title": "10 Euro (Samuel Beckett)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/634-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/635-180.jpg"
+        },
+        {
+            "id": 13605,
+            "title": "10 Euro (Celtic Culture)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/60388a31acfda6.55416298-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/60388a32228834.35363970-180.jpg"
+        },
+        {
+            "id": 13606,
+            "title": "10 Euro (Skellig Michael)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1060-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1061-180.jpg"
+        },
+        {
+            "id": 13607,
+            "title": "10 Euro (Ploughman Banknote)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/939-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/940-180.jpg"
+        },
+        {
+            "id": 30912,
+            "title": "10 Euro (Gaisce)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1082-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1083-180.jpg"
+        },
+        {
+            "id": 26741,
+            "title": "10 Euro (St. Brendan the Navigator)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/521-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/627942c838db05.81445541-180.jpg"
+        },
+        {
+            "id": 45082,
+            "title": "10 Euro (Jack B. Yeats)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/941-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/942-180.jpg"
+        },
+        {
+            "id": 94442,
+            "title": "10 Euro (Michael Collins)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1106-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1107-180.jpg"
+        },
+        {
+            "id": 110375,
+            "title": "10 Euro (J.F. Kennedy)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/5e10d3fa06c225.96265324-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/5e10d3fa88f5c0.91208660-180.jpg"
+        },
+        {
+            "id": 45085,
+            "title": "10 Euro (James Joyce)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/810-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/811-180.jpg"
+        },
+        {
+            "id": 58077,
+            "title": "10 Euro (John McCormack)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/943-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/944-180.jpg"
+        },
+        {
+            "id": 144068,
+            "title": "10 Euro (70 years of peace in Europe)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/60bbe58679f9a9.95395485-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/60bbe586b52322.70098494-180.jpg"
+        },
+        {
+            "id": 184400,
+            "title": "10 Euro (Eileen Gray)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/60d345f63f20c7.43837490-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/60d345f66a9b62.00699799-180.jpg"
+        },
+        {
+            "id": 125962,
+            "title": "10 Euro (Ha&#039;Penny Bridge)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1189-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1188-180.jpg"
+        },
+        {
+            "id": 310644,
+            "title": "10 Euro (Christ Church Cathedral)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/61fc0e0599d515.31918902-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/61fc0e05e67b28.19277933-180.jpg"
+        },
+        {
+            "id": 13609,
+            "title": "15 Euro (Ivan Mestrovic)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/945-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/946-180.jpg"
+        },
+        {
+            "id": 13610,
+            "title": "15 Euro (GAA Anniversary)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/947-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/948-180.jpg"
+        },
+        {
+            "id": 28170,
+            "title": "15 Euro (Horse)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/543-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/544-180.jpg"
+        },
+        {
+            "id": 45068,
+            "title": "15 Euro (Salmon)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1100-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1101-180.jpg"
+        },
+        {
+            "id": 45069,
+            "title": "15 Euro (Irish Wolfhound)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/62d11464d31278.63776726-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/62d1146549beb4.37280637-180.jpg"
+        },
+        {
+            "id": 84544,
+            "title": "15 Euro (1913 Dublin Lockout)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1102-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1103-180.jpg"
+        },
+        {
+            "id": 110376,
+            "title": "15 Euro (John Philip Holland)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/615bf87eaaba49.24144201-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/615bf87ee962b7.16008902-180.jpg"
+        },
+        {
+            "id": 126319,
+            "title": "15 Euro (William B. Yeats)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1042-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1043-180.jpg"
+        },
+        {
+            "id": 140342,
+            "title": "15 Euro (Ernest Walton)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1140-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1141-180.jpg"
+        },
+        {
+            "id": 93820,
+            "title": "15 Euro (100th Anniversary of the Proclamation of the Irish Republic)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/934-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/933-180.jpg"
+        },
+        {
+            "id": 121894,
+            "title": "15 Euro (Sir Charles Parsons)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2017,
+            "max_year": 2017
+        },
+        {
+            "id": 129579,
+            "title": "15 Euro (Gulliver&#039;s Travels)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1068-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1069-180.jpg"
+        },
+        {
+            "id": 152321,
+            "title": "15 Euro (Bram Stoker; Dracula)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1237-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1238-180.jpg"
+        },
+        {
+            "id": 144517,
+            "title": "15 Euro (Rory Gallagher)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1214-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1215-180.jpg"
+        },
+        {
+            "id": 154097,
+            "title": "15 Euro (Women&#039;s Vote)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1212-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1213-180.jpg"
+        },
+        {
+            "id": 174086,
+            "title": "15 Euro (100 Years of Transatlantic Aviation)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2019,
+            "max_year": 2019
+        },
+        {
+            "id": 278684,
+            "title": "15 Euro (Phil Lynott)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/633b5723cac8d8.48301007-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/633b57255fe352.38717538-180.jpg"
+        },
+        {
+            "id": 13611,
+            "title": "20 Euro (Samuel Beckett)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2006,
+            "max_year": 2006,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/955-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/956-180.jpg"
+        },
+        {
+            "id": 13613,
+            "title": "20 Euro (Celtic Culture)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2007,
+            "max_year": 2007,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1044-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1045-180.jpg"
+        },
+        {
+            "id": 13689,
+            "title": "20 Euro (Skellig Michael)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1046-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1047-180.jpg"
+        },
+        {
+            "id": 13690,
+            "title": "20 Euro (Ploughman Banknote)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/535-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/536-180.jpg"
+        },
+        {
+            "id": 30914,
+            "title": "20 Euro (Gaisce)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2010,
+            "max_year": 2010,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/922-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/923-180.jpg"
+        },
+        {
+            "id": 22186,
+            "title": "20 Euro (Celtic Cross)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2011,
+            "max_year": 2011,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/616-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/617-180.jpg"
+        },
+        {
+            "id": 80367,
+            "title": "20 Euro (The Book of Kells)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/959-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/960-180.jpg"
+        },
+        {
+            "id": 84546,
+            "title": "20 Euro (Michael Collins)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2012,
+            "max_year": 2012,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1104-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1105-180.jpg"
+        },
+        {
+            "id": 110379,
+            "title": "20 Euro (Medieval Irish Architecture)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1048-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1049-180.jpg"
+        },
+        {
+            "id": 110378,
+            "title": "20 Euro (J. F. Kennedy)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2013,
+            "max_year": 2013,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/603bcbb4ee1c53.09604066-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/603bcbb50fff42.94431854-180.jpg"
+        },
+        {
+            "id": 110377,
+            "title": "20 Euro (Battle of Clontarf)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1226-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1227-180.jpg"
+        },
+        {
+            "id": 99670,
+            "title": "50 Euro (100th Anniversary of the proclamation of the Irish Republic)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/993-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/994-180.jpg"
+        },
+        {
+            "id": 13692,
+            "title": "100 Euro (International Polar Year)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2008,
+            "max_year": 2008,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/588-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/589-180.jpg"
+        },
+        {
+            "id": 159845,
+            "title": "100 Euro (100th Anniversary of the First D\u00e1il \u00c9ireann)",
+            "category": "coin",
+            "issuer": {
+                "code": "irlande",
+                "name": "Ireland"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1210-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irlande/1211-180.jpg"
+        }
+    ]
+}

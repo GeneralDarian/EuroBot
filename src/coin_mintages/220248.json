@@ -1,0 +1,19 @@
+[
+    {
+        "id": 544369,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "FI",
+        "mintage": 797000
+    },
+    {
+        "id": 544370,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "FI",
+        "mintage": 3000,
+        "comment": "Proof"
+    }
+]

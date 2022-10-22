@@ -1,0 +1,46 @@
+[
+    {
+        "id": 730330,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "R",
+        "mintage": 3000000
+    },
+    {
+        "id": 730331,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "R",
+        "mintage": 12000,
+        "comment": "BU Coincard"
+    },
+    {
+        "id": 730333,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "R",
+        "mintage": 2500,
+        "comment": "in proof set"
+    },
+    {
+        "id": 730332,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "R",
+        "mintage": 10000,
+        "comment": "proof"
+    },
+    {
+        "id": 730334,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mint_letter": "R",
+        "mintage": 250000,
+        "comment": "Special coin rolls (10.000 roll x 25 coins)"
+    }
+]

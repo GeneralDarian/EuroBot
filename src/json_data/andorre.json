@@ -1,0 +1,551 @@
+{
+    "count": 42,
+    "types": [
+        {
+            "id": 20772,
+            "title": "1 Diner - Joan Mart\u00ed i Alanis (Treaty of Rome)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1997,
+            "max_year": 1997,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/6280a3b98ba9d5.48348886-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/6280a3b9cbe6a1.82406527-180.jpg"
+        },
+        {
+            "id": 322387,
+            "title": "2 Diners (Euro)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2009,
+            "max_year": 2009,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/6224bcdd04de52.39656615-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/6224bcdd309262.87388033-180.jpg"
+        },
+        {
+            "id": 59404,
+            "title": "10 Diners - Joan Mart\u00ed i Alanis (Council of Europe)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1995,
+            "max_year": 1995,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/887-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/888-180.jpg"
+        },
+        {
+            "id": 68291,
+            "title": "10 Diners - Joan Mart\u00ed i Alanis (Silver Jubilee)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1996,
+            "max_year": 1996,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/453-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/454-180.jpg"
+        },
+        {
+            "id": 20773,
+            "title": "10 Diners - Joan Mart\u00ed i Alanis (Treaty of Rome)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1997,
+            "max_year": 1997,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/975-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/976-180.jpg"
+        },
+        {
+            "id": 84494,
+            "title": "10 Diners - Joan Mart\u00ed i Alanis (Palau del Princep)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1997,
+            "max_year": 1997,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/977-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/978-180.jpg"
+        },
+        {
+            "id": 24568,
+            "title": "10 Diners - Joan Mart\u00ed i Alanis (Human Rights)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1998,
+            "max_year": 1998,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/131-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/132-180.jpg"
+        },
+        {
+            "id": 79511,
+            "title": "10 Diners - Joan Mart\u00ed i Alanis (Europa)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1998,
+            "max_year": 1998,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/531-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/532-180.jpg"
+        },
+        {
+            "id": 125243,
+            "title": "10 Diners - Joan Mart\u00ed i Alanis (Europa)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1998,
+            "max_year": 1998,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/861-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/862-180.jpg"
+        },
+        {
+            "id": 132065,
+            "title": "10 Diners - Joan Mart\u00ed i Alanis (Council of Europe)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1999,
+            "max_year": 1999,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/899-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/900-180.jpg"
+        },
+        {
+            "id": 231319,
+            "title": "10 Diners - Joan Mart\u00ed i Alanis (Council of Europe)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1999,
+            "max_year": 1999,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/5f2e3e95c94de7.90085936-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/5f2e3e96033c06.67275732-180.jpg"
+        },
+        {
+            "id": 20774,
+            "title": "20 Diners - Joan Mart\u00ed i Alanis (Treaty of Rome)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1997,
+            "max_year": 1997,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/5e679e197c27d1.68336827-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/5e679e19db4400.13865065-180.jpg"
+        },
+        {
+            "id": 276470,
+            "title": "20 Diners - Joan Mart\u00ed i Alanis (Human Rights)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1998,
+            "max_year": 1998,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/60382476564f91.16547886-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/603824768af4b3.29938659-180.jpg"
+        },
+        {
+            "id": 20775,
+            "title": "25 Diners - Joan Mart\u00ed i Alanis (Treaty of Rome)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1997,
+            "max_year": 1997,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/723-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/724-180.jpg"
+        },
+        {
+            "id": 276467,
+            "title": "25 Diners - Joan Mart\u00ed i Alanis (Human Rights)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 1998,
+            "max_year": 1998,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/60381b9dccc670.91946017-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/60381b9df000c8.45981560-180.jpg"
+        },
+        {
+            "id": 68386,
+            "title": "1 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2014,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62beb0ccd39ed2.87917903-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62beb0cd8088e2.95378021-180.jpg"
+        },
+        {
+            "id": 68388,
+            "title": "2 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2014,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62beb1dd117583.85466425-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62beb1de2d7d98.61365140-180.jpg"
+        },
+        {
+            "id": 68389,
+            "title": "5 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2014,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62beb4185665d3.06308427-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62beb41978e8d8.03724170-180.jpg"
+        },
+        {
+            "id": 68390,
+            "title": "10 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2014,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62be98bdd6fc59.69338031-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62be98beeb6f52.16712418-180.jpg"
+        },
+        {
+            "id": 68392,
+            "title": "20 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2014,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/626ea523311535.19251046-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/626ea524508f27.41834763-180.jpg"
+        },
+        {
+            "id": 68393,
+            "title": "50 Euro Cent",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2014,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/605efc43351515.27710749-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/605efc43caa755.35806135-180.jpg"
+        },
+        {
+            "id": 68394,
+            "title": "1 Euro",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2014,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/469-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/470-180.jpg"
+        },
+        {
+            "id": 317382,
+            "title": "1,25 Euro (Narcissus poeticus)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/61f587ec2ce451.55332671-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/61f587ec59fab6.00019375-180.jpg"
+        },
+        {
+            "id": 318651,
+            "title": "1,25 Euro (Pont de la Margineda)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/61f588797a7463.57201540-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/61f58879a21f34.55727148-180.jpg"
+        },
+        {
+            "id": 68396,
+            "title": "2 Euro (20 Years in the Council of Europe)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2014,
+            "max_year": 2014,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/600-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/528-180.jpg"
+        },
+        {
+            "id": 68395,
+            "title": "2 Euro",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2014,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/467-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/468-180.jpg"
+        },
+        {
+            "id": 82007,
+            "title": "2 Euro (30 Years of Political Rights)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/559-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/560-180.jpg"
+        },
+        {
+            "id": 90170,
+            "title": "2 Euro (Customs Agreement)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2015,
+            "max_year": 2015,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/729-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/730-180.jpg"
+        },
+        {
+            "id": 96327,
+            "title": "2 Euro (New Reform)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/821-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/822-180.jpg"
+        },
+        {
+            "id": 96326,
+            "title": "2 Euro (Radio and Television of Andorra)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2016,
+            "max_year": 2016,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/823-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/824-180.jpg"
+        },
+        {
+            "id": 124386,
+            "title": "2 Euro (Anthem of Andorra)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/5fcdbddd5514d7.99458095-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/5fcdbdddd9fec0.09068539-180.jpg"
+        },
+        {
+            "id": 124387,
+            "title": "2 Euro (The Pyrenean country)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2017,
+            "max_year": 2017,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/918-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/919-180.jpg"
+        },
+        {
+            "id": 152661,
+            "title": "2 Euro  (Universal Declaration of Human Rights)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/949-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/948-180.jpg"
+        },
+        {
+            "id": 133778,
+            "title": "2 Euro (Constitution of the Principality of Andorra)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/930-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/931-180.jpg"
+        },
+        {
+            "id": 184042,
+            "title": "2 Euro (General Council of the Valleys)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/1012-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/1013-180.jpg"
+        },
+        {
+            "id": 162097,
+            "title": "2 Euro (Final of the Alpine Ski World Cup)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2019,
+            "max_year": 2019,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/961-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/962-180.jpg"
+        },
+        {
+            "id": 232060,
+            "title": "2 Euro (50 years of universal female suffrage)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/5febf83029cb81.84211951-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/5febf8307d1508.21475702-180.jpg"
+        },
+        {
+            "id": 215401,
+            "title": "2 Euro (Ibero-American Summit)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2020,
+            "max_year": 2020,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62b563b762ef82.77569280-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/62b563b8716829.36209874-180.jpg"
+        },
+        {
+            "id": 302814,
+            "title": "2 Euro  (Our Lady of Meritxell)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/61c763d364e751.71167401-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/61210b0a446da3.37284218-180.jpg"
+        },
+        {
+            "id": 302815,
+            "title": "2 Euro (Old People in Covid-19)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2021,
+            "max_year": 2021,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/61c76424cb3e76.16473742-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/61210de0798725.11890278-180.jpg"
+        },
+        {
+            "id": 221843,
+            "title": "5 Euro (Constitution of Andorra)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/6020cc7247c192.43643243-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/6020cc72a8dec3.89123149-180.jpg"
+        },
+        {
+            "id": 221844,
+            "title": "50 Euro (Constitution of Andorra)",
+            "category": "coin",
+            "issuer": {
+                "code": "andorre",
+                "name": "Andorra"
+            },
+            "min_year": 2018,
+            "max_year": 2018,
+            "obverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/60380f04f10041.04105594-180.jpg",
+            "reverse_thumbnail": "https://en.numista.com/catalogue/photos/andorre/60380f05388bc4.62776785-180.jpg"
+        }
+    ]
+}

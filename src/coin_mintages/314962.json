@@ -1,0 +1,41 @@
+[
+    {
+        "id": 702521,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "mintage": 30000000
+    },
+    {
+        "id": 702523,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "comment": "BU"
+    },
+    {
+        "id": 702522,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "comment": "Proof"
+    }
+]

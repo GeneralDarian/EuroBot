@@ -1,0 +1,29 @@
+[
+    {
+        "id": 9923,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "F",
+        "mintage": 1000000,
+        "comment": "\"F\" mark in Star"
+    },
+    {
+        "id": 94498,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "F",
+        "mintage": 26000,
+        "comment": "\"F\" mark in Star; In Sets only"
+    },
+    {
+        "id": 94499,
+        "is_dated": true,
+        "year": 2007,
+        "gregorian_year": 2007,
+        "mint_letter": "F",
+        "mintage": 5000,
+        "comment": "\"F\" mark in Star; Proof"
+    }
+]

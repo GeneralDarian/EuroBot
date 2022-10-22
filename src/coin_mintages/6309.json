@@ -1,0 +1,26 @@
+[
+    {
+        "id": 114944,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 39500,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 114943,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 2500,
+        "comment": "Proof"
+    },
+    {
+        "id": 32761,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mintage": 5000000,
+        "comment": "Scales mark"
+    }
+]

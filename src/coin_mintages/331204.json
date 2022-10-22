@@ -1,0 +1,17 @@
+[
+    {
+        "id": 729978,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 394500
+    },
+    {
+        "id": 729979,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 5500,
+        "comment": "Proof"
+    }
+]

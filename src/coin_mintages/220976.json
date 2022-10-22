@@ -1,0 +1,19 @@
+[
+    {
+        "id": 546209,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "LMK",
+        "mintage": 495000
+    },
+    {
+        "id": 546210,
+        "is_dated": true,
+        "year": 2020,
+        "gregorian_year": 2020,
+        "mint_letter": "LMK",
+        "mintage": 5000,
+        "comment": "BU Version, Coin Card"
+    }
+]

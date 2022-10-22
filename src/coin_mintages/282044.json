@@ -1,0 +1,28 @@
+[
+    {
+        "id": 644469,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "LMK",
+        "mintage": 495000
+    },
+    {
+        "id": 644470,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "LMK",
+        "mintage": 4500,
+        "comment": "BU Coincard"
+    },
+    {
+        "id": 668685,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mint_letter": "LMK",
+        "mintage": 500,
+        "comment": "BU Coincard with LV edge (error coin)"
+    }
+]

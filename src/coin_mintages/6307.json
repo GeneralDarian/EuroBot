@@ -1,0 +1,106 @@
+[
+    {
+        "id": 114969,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 39500,
+        "comment": "(scales / imperial orb privy marks) In Sets only"
+    },
+    {
+        "id": 114970,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 1506,
+        "comment": "(scales / imperial orb privy marks) Proof"
+    },
+    {
+        "id": 32759,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 42500000,
+        "comment": "scales / imperial orb privy marks"
+    },
+    {
+        "id": 96579,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 42000,
+        "comment": "(imperial orb / goose quill marks) In Sets only"
+    },
+    {
+        "id": 114968,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mintage": 1850,
+        "comment": "(imperial orb / goose quill marks) Proof"
+    },
+    {
+        "id": 114971,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 31300,
+        "comment": "(imperial orb / goose quill marks) In Sets only"
+    },
+    {
+        "id": 114972,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 1850,
+        "comment": "(imperial orb / goose quill marks) Proof"
+    },
+    {
+        "id": 112490,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mintage": 15000000,
+        "comment": "imperial orb / goose quill marks"
+    },
+    {
+        "id": 155730,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 32000,
+        "comment": "(imperial orb / goose quill marks) In Sets only"
+    },
+    {
+        "id": 155729,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 1000,
+        "comment": "(imperial orb / goose quill marks) Proof"
+    },
+    {
+        "id": 149948,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mintage": 30000000,
+        "comment": "imperial orb / goose quill marks"
+    },
+    {
+        "id": 185833,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 24600,
+        "comment": "(imperial orb / cat marks) In Sets only"
+    },
+    {
+        "id": 185974,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mintage": 1000,
+        "comment": "(imperial orb / cat marks) Proof"
+    }
+]

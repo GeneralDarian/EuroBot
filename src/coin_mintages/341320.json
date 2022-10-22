@@ -1,0 +1,86 @@
+[
+    {
+        "id": 746044,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "mintage": 50000,
+        "comment": "dark blue coincard"
+    },
+    {
+        "id": 746043,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "mintage": 50000,
+        "comment": "green coincard"
+    },
+    {
+        "id": 746040,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "mintage": 50000,
+        "comment": "light blue coincard"
+    },
+    {
+        "id": 746028,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "mintage": 10000,
+        "comment": "Proof"
+    },
+    {
+        "id": 746042,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "mintage": 50000,
+        "comment": "red coincard"
+    },
+    {
+        "id": 746041,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "marks": [
+            {
+                "id": 1,
+                "picture": "https://en.numista.com/catalogue/marks/jimenez2.svg"
+            }
+        ],
+        "mintage": 50000,
+        "comment": "yellow coincard"
+    }
+]

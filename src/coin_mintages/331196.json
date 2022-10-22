@@ -1,0 +1,17 @@
+[
+    {
+        "id": 729969,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 300000
+    },
+    {
+        "id": 729970,
+        "is_dated": true,
+        "year": 2022,
+        "gregorian_year": 2022,
+        "mintage": 8000,
+        "comment": "BU Coincard"
+    }
+]

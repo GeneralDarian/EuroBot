@@ -1,0 +1,25 @@
+[
+    {
+        "id": 638256,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 160000
+    },
+    {
+        "id": 675593,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 2500,
+        "comment": "(fr) BE (Pont / Lion)"
+    },
+    {
+        "id": 675592,
+        "is_dated": true,
+        "year": 2021,
+        "gregorian_year": 2021,
+        "mintage": 2500,
+        "comment": "(fr) BU (Pont / Caduc\u00e9e)"
+    }
+]

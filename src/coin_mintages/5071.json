@@ -1,0 +1,25 @@
+[
+    {
+        "id": 25965,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 800000
+    },
+    {
+        "id": 94504,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 20000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 94505,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mintage": 2000,
+        "comment": "Proof"
+    }
+]

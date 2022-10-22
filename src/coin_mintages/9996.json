@@ -1,0 +1,158 @@
+[
+    {
+        "id": 155180,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "R",
+        "mintage": 6400
+    },
+    {
+        "id": 53306,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "R",
+        "mintage": 85000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 155179,
+        "is_dated": true,
+        "year": 2008,
+        "gregorian_year": 2008,
+        "mint_letter": "R",
+        "mintage": 16000,
+        "comment": "Proof"
+    },
+    {
+        "id": 155181,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "R",
+        "mintage": 6400
+    },
+    {
+        "id": 53307,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "R",
+        "mintage": 85000,
+        "comment": "In Sets only"
+    },
+    {
+        "id": 155157,
+        "is_dated": true,
+        "year": 2009,
+        "gregorian_year": 2009,
+        "mint_letter": "R",
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 69392,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "R",
+        "mintage": 2190704
+    },
+    {
+        "id": 155182,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "R",
+        "mintage": 214000,
+        "comment": "In Sets only (94,000 in the Mintset, 120,000 in the Coincard 1)"
+    },
+    {
+        "id": 91642,
+        "is_dated": true,
+        "year": 2010,
+        "gregorian_year": 2010,
+        "mint_letter": "R",
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 111803,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "R",
+        "mintage": 2174197
+    },
+    {
+        "id": 155183,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "R",
+        "mintage": 314000,
+        "comment": "In Sets only (94,000 in the Mintset, 100,000 in the Coincard 2, 120,000 in the Stamp & Coincard 1)"
+    },
+    {
+        "id": 155184,
+        "is_dated": true,
+        "year": 2011,
+        "gregorian_year": 2011,
+        "mint_letter": "R",
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 156721,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "R",
+        "mintage": 1604690
+    },
+    {
+        "id": 165168,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "R",
+        "mintage": 225000,
+        "comment": "In Sets only (85,000 in the Mintset, 70,000 in the Coincard 3, 70,000 in the Stamp & Coincard 2)"
+    },
+    {
+        "id": 161050,
+        "is_dated": true,
+        "year": 2012,
+        "gregorian_year": 2012,
+        "mint_letter": "R",
+        "mintage": 15000,
+        "comment": "Proof"
+    },
+    {
+        "id": 191694,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "R",
+        "mintage": 1941484
+    },
+    {
+        "id": 193620,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "R",
+        "mintage": 225000,
+        "comment": "In Sets only (85,000 in the Mintset, 70,000 in the Coincard 4, 70,000 in the Stamp & Coincard 3, unknown quantities in the Stamp & Coincard 4)"
+    },
+    {
+        "id": 193634,
+        "is_dated": true,
+        "year": 2013,
+        "gregorian_year": 2013,
+        "mint_letter": "R",
+        "mintage": 13000,
+        "comment": "Proof"
+    }
+]
