@@ -2,6 +2,7 @@ import json
 import os
 import sys
 import logging
+from pathlib import Path
 from typing import Any, Dict, List, Union
 from uuid import uuid4
 
@@ -178,7 +179,7 @@ def searchEngine(params: dict) -> list[dict]:
 
     # return [issuer, year, type]
     if issuer is not None:
-        path = f"json_data\{issuer}.json"
+        path = Path(f"src/json_data/{issuer}.json")
         with open(path, "r") as country_json:
             print("file opened")
             json_dict = json.load(country_json)
