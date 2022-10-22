@@ -328,11 +328,9 @@ Examples:
             await post_ID(
                 results[0]["id"], int(ctx.channel.id), processed_search_list["Year"]
             )
-            pass
         elif len(results) < 1:
             await ctx.send("Your search has yielded no results!")
         else:
-            pass
             await post_list_results(int(ctx.channel.id), results, processed_search_list)
 
     async def post_list_results(channel_id: int, results: list, processed_search: dict):
