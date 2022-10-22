@@ -375,3 +375,10 @@ Lastly, running ``eur!tocoin`` returns the same as running ``eur!tocoin -s 0.1 -
 ``-nmd`` modifies how much dark areas of the coin pop out. Higher ``-nmd`` = more noticeable dark areas. This is hard to tell, however, so it is recommended to keep this at 1.5 - 5.
 Fool around with these numbers until you feel like the coin looks good enough!
 """
+
+country_id_help_menu = """**TWO-LETTER COUNTRY IDENTIFICATION CODES**
+AD = Andorra | AT = Austria | BE = Belgium | CY = Cyprus | DE = Germany | EE = Estonia | ES = Spain | FI = Finland | FR = France | GR = Greece | HR = Croatia
+IE = Ireland | IT = Italy | LT = Lithuania | LU = Luxembourg | LV = Latvia | MC = Monaco | MT = Malta | NL = Netherlands | PT = Portugal | SI = Slovenia | 
+SK = Slovakia | SM = San Marino | VA = Vatican 
+"""
+
