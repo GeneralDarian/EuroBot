@@ -563,7 +563,7 @@ Examples:
         )
         embed.add_field(
             name="Bot version:",
-            value="BETA 0.9",
+            value="1.0",
         )
         embed.add_field(
             name="EuroBot Discord:",
