@@ -1,8 +1,11 @@
 #!./bin/python3
 
 import asyncio
+import glob
+import importlib
 import logging
 import logging.handlers
+import pathlib
 
 import discord
 from discord import app_commands
@@ -10,13 +13,19 @@ from discord import app_commands
 import env
 
 MiB32 = 32 * 1024 * 1024
-MODULES = ["misc"]
 
 
 class EuroBot(discord.Client):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.tree = app_commands.CommandTree(self)
+
+    def load_modules(self):
+        pass
+        func = lambda n: f"modules.{n.removesuffix('.py')}"
+        modules = glob.glob("*.py", root_dir=pathlib.Path("src/modules"))
+        for module in map(func, modules):
+            importlib.import_module(module).init(self)
 
     async def setup_hook(self):
         guild = discord.Object(id=env.GUILD_ID)
@@ -61,8 +70,6 @@ if __name__ == "__main__":
         ),
     )
 
-    for module in MODULES:
-        __import__(module).init(client)
-
+    client.load_modules()
     client.logger = init_logger()
     main()
