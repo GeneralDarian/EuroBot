@@ -13,3 +13,6 @@ __pycache__/
 FOTW_BACKUPS/
 FOTW.txt
 discord.log
+
+# Other Stuff
+test/
