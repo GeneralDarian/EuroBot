@@ -20,8 +20,9 @@ Bundesbank: Commemoratives can be exchanged for free as a customer, may be possi
     "autriche": """Bank Austria: 20ct per roll. Can be purchased with cash at machines (available to everyone, but not in all branches, look for the filter option Münzrollengeber at https://filialen.bankaustria.at/de/).
 Erste Bank: 10ct per roll. Must be a customer and pay with card at machines. Free when purchased at counters (but counters will redirect you to machines if they work), counters accept cash.
 Depositing coins is free up to 100 euros/day, at which point you pay 1% for anything over 100 euros. You also must be a customer. 
-Raiffeisenbank: Possible to get coin rolls for free, even if you aren't a customer. 
-Austrian National Bank: Does not distribute circulated rolls but sells CC rolls at face value on release.
+Raiffeisenbank: 1 euro per roll if you aren't a customer, 30c per roll if you are. Depositing is free if you are a customer.
+Volksbank: Reportedly free with no need of being a customer, needs to be confirmed 
+Austrian National Bank: Does not distribute circulated rolls but sells CC rolls at face value on release as well as distributing UNC rolls for all denominations.
                    """,
     "belgique": """You can visit the European/Belgium central bank in Brussels as an EU citizen. You can order coin rolls for free, up to 2000 euros in value. (See https://www.youtube.com/watch?v=I4gwrpsl2Bk). They seem to distribute uncirculated, standard coins.
 KBC: Free for customers, otherwise you must pay.
@@ -61,7 +62,8 @@ Slovenian national bank: Free coin rolls for everyone.""",
     "chypre": """No information given.""",
     "malte": """Generally hard to get coin rolls.
 BOV & HSCB Malta: 30c per roll. Order coin rolls through their online platform (only for customers).""",
-    "slovaquie": """Tatra Banka: 20c per roll (only for customers).""",
+    "slovaquie": """Tatra Banka: 5 euros to buy an unlimited amount of rolls (must be customer).
+May be able to get UNC rolls from the national bank.""",
     "estonie": """All banks: Coin rolls are very expansive, and you must make an appointment first (customers only)
 Central Bank of Estonia Museum (Tallinn): Purchase CCs (even those released years ago) at _face value_ (also an interesting museum in general)""",
     "lettonie": """0.60c per roll.""",
