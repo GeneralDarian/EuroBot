@@ -1,16 +1,20 @@
-from dataclasses import dataclass
+import logging
 from enum import Enum
+from typing import NamedTuple
 
 from discord import app_commands
 
 import textHelp
+from bot import EuroBot
+
+logger = logging.getLogger(f"{EuroBot.name}.{__name__}")
 
 SERIES_1_CHECKSUMS = {
     "D": ("Estonia !EE", 4),
     "E": ("Slovakia !SK", 3),
     "F": ("Malta !MT", 2),
     "G": ("Cyprus !CY", 1),
-    "H": ("Slovenia !SV", 9),
+    "H": ("Slovenia !SI", 9),
     "L": ("Finland !FI", 5),
     "M": ("Portugal !PT", 4),
     "N": ("Austria !AT", 3),
@@ -58,11 +62,10 @@ class BanknoteSeries(Enum):
         return self.__str__()
 
 
-@dataclass
-class Banknote:
+class Banknote(NamedTuple):
     issuer: str
     series: BanknoteSeries
-    valid: bool
+    isValid: bool
 
 
 def init(client):
@@ -73,64 +76,56 @@ def init(client):
     @app_commands.describe(serial="Your banknotes serial number")
     async def banknote(interaction, serial: str):
         try:
-            banknote = validateChecksum(client, serial)
+            banknote = parseSerial(serial)
+        except (LookupError, ValueError) as err:
+            logger.debug(err)
+            await client.send(interaction, err)
         except Exception as err:
-            print(err)
+            logger.error(err)
             await client.send(interaction, "Something bad happened… Contact an admin.")
         else:
-            client.logger.debug(f"Banknote with serial {serial} validated: {banknote}")
+            logger.debug(f"Serial number “{serial}” parsed: {banknote}")
             await client.send(
                 interaction,
                 textHelp.concat(
                     f"💶 **Banknote information for serial** ``{serial}``",
                     f"**SERIES:** {banknote.series}",
                     f"**ISSUER:** {textHelp.emojiReplacer(banknote.issuer)}",
-                    f"**VALID:** {banknote.valid}",
+                    f"**VALID:** {banknote.isValid}",
                 ),
             )
 
 
-def validateChecksum(client, n: str) -> Banknote:
-    """Displays information about a euro banknote checksum
-    Input: The banknote
-    Output: A list containing information.
-    List[0] = 0 if this is an invalid banknote, 1 if this is a series 1 banknote, 2 if this is a series 2 banknote
+def parseSerial(serial: str) -> Banknote:
     """
-    # Check for both valid input and if its a S1 or S2 input
-    if not n[0].isalpha():
-        raise Exception("Input must begin with letter")
+    Parse a banknotes serial number and determine the series, issuer, etc.  The banknote serial
+    number is also validated.
+
+    serial => The banknote serial number
+    return => A Banknote
+    """
+    # In theory, this is impossible, but better safe than sorry.
+    if len(serial) == 0:
+        raise ValueError("Serial number cannot be empty")
+    if not serial[0].isalpha():
+        raise ValueError("Serial number must begin with a letter")
 
     # Ensures that no ValueError arises if input is just letters.
-    n = n.upper() + "0"
-
-    series = BanknoteSeries.Series2 if n[1].isalpha() else BanknoteSeries.Series1
+    serial = serial.upper() + "0"
+    series = BanknoteSeries.Series2 if serial[1].isalpha() else BanknoteSeries.Series1
+    prefix = serial[0]
 
     try:
         if series == BanknoteSeries.Series1:
-            seriesChecksums = SERIES_1_CHECKSUMS
-            checksum = int(n[1:])
+            issuer, root = SERIES_1_CHECKSUMS[prefix]
+            checksum = int(serial[1:])
         else:
-            seriesChecksums = SERIES_2_CHECKSUMS
-            # It has to append the ASCII value of the second letter here to the end of the number
-            checksum = int(n[2:]) * 100 + ord(n[1])
+            issuer, root = SERIES_2_CHECKSUMS[prefix]
+            checksum = int(serial[2:]) * 100 + ord(serial[1])
+    except KeyError:
+        raise LookupError(f"Issuer/Printer code ‘{prefix}’ doesn’t exist")
     except ValueError:
-        raise Exception("Invalid serial number format")
-    except Exception as err:
-        client.logger.error(f"Function validateChecksum encountered an error: {err}")
-        raise Exception("Something went wrong… please contact an admin!")
-
-    # Is the first letter in the series checksum?  If not the note may have not been entered properly.
-    if not n[0] in seriesChecksums:
-        raise Exception("Issuer/Printer doesnt exist")
+        isValid = False
     else:
-        issuer = seriesChecksums[n[0]][0]
-
-    # Calculates the digital root, compares it to checksum, and also ensures that the length is correct
-    try:
-        valid = (int(checksum) - 1) % 9 + 1 == seriesChecksums[n[0]][1] and len(n) == 13
-    except Exception as err:
-        client.logger.error(
-            f"/banknote: Function validateChecksum encountered an error: {err}"
-        )
-
-    return Banknote(issuer, series, valid)
+        isValid = (checksum - 1) % 9 + 1 == root and len(serial) == 13
+    return Banknote(issuer, series, isValid)
