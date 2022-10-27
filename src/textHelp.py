@@ -1,45 +1,52 @@
 import logging
+import re
 
 
-def emojiReplacer(t: str) -> str:
-    """Given a string will replace all !<country_code> with their respective emoji. If there is no emoji present, it just returns the string.
+def concat(*args: str) -> str:
+    return "\n".join(args)
+
+
+def emojiReplacer(s: str) -> str:
+    """Given a string will replace all !<country_code> with their respective emoji. If there is no
+    emoji present, it just returns the string.
     DO NOT LOWERCASE TEXT BEFORE PUTTING INTO FUNCTION!
     Yes I know this can be more efficient but I am too lazy to do it! Let me improve it later
     Input: string
     Output: string"""
 
-    final = t
+    final = s
     # 🇦🇩 🇦🇹 🇧🇪 🇨🇾 🇪🇪 🇫🇮 🇫🇷 🇩🇪 🇬🇷 🇮🇪 🇮🇹 🇱🇻 🇱🇹 🇱🇺 🇲🇹 🇳🇱 🇵🇹 🇸🇰 🇸🇮 🇪🇸 🇪🇺 🇭🇷 🇲🇨 🇻🇦 🇸🇲
     codeToEmote = {
-        "!AN": "🇦🇩",
-        "!AT": "🇦🇹",
-        "!BE": "🇧🇪",
-        "!CY": "🇨🇾",
-        "!EE": "🇪🇪",
-        "!FI": "🇫🇮",
-        "!FR": "🇫🇷",
-        "!DE": "🇩🇪",
-        "!GR": "🇬🇷",
-        "!IE": "🇮🇪",
-        "!IT": "🇮🇹",
-        "!LV": "🇱🇻",
-        "!LT": "🇱🇹",
-        "!LU": "🇱🇺",
-        "!MT": "🇲🇹",
-        "!NL": "🇳🇱",
-        "!PT": "🇵🇹",
-        "!SK": "🇸🇰",
-        "!SI": "🇸🇮",
-        "!ES": "🇪🇸",
-        "!EU": "🇪🇺",
-        "!HR": "🇭🇷",
-        "!MC": "🇲🇨",
-        "!VA": "🇻🇦",
-        "!SM": "🇸🇲",
+        "AN": "🇦🇩",
+        "AT": "🇦🇹",
+        "BE": "🇧🇪",
+        "CY": "🇨🇾",
+        "EE": "🇪🇪",
+        "FI": "🇫🇮",
+        "FR": "🇫🇷",
+        "DE": "🇩🇪",
+        "GR": "🇬🇷",
+        "IE": "🇮🇪",
+        "IT": "🇮🇹",
+        "LV": "🇱🇻",
+        "LT": "🇱🇹",
+        "LU": "🇱🇺",
+        "MT": "🇲🇹",
+        "NL": "🇳🇱",
+        "PT": "🇵🇹",
+        "SK": "🇸🇰",
+        "SI": "🇸🇮",
+        "ES": "🇪🇸",
+        "EU": "🇪🇺",
+        "HR": "🇭🇷",
+        "MC": "🇲🇨",
+        "VA": "🇻🇦",
+        "SM": "🇸🇲",
     }
-    for i in codeToEmote:
-        if i == t:
-            final = final.replace(i, codeToEmote[i])
+
+    for match in re.finditer(r"!(..)", s):
+        if (code := match.group(1)) in codeToEmote:
+            final = final.replace(match.group(0), codeToEmote[code])
 
     return final
 
