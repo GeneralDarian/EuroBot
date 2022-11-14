@@ -20,7 +20,7 @@ french_to_crhhelp = {
     "autriche": """🇦🇹 Availability varies by bank.
 **Bank Austria:** 20ct per roll. Can be purchased with cash at machines (available to everyone, but not in all branches, look for the filter option Münzrollengeber at https://filialen.bankaustria.at/de/).
 **Erste Bank:** 10ct per roll. Must be a customer and pay with card at machines. Free when purchased at counters (but counters will redirect you to machines if they work), counters accept cash.
-**Depositing coins is free up to 100 euros/day, at which point you pay 1% for anything over 100 euros. You also must be a customer. 
+Depositing coins is free up to 100 euros/day, at which point you pay 1% for anything over 100 euros. You also must be a customer. 
 **Raiffeisenbank:** 1 euro per roll if you aren't a customer, 30c per roll if you are. Depositing is free if you are a customer.
 **Volksbank:** Reportedly free with no need of being a customer, needs to be confirmed 
 **Austrian National Bank:** Does not distribute circulated rolls but sells CC rolls at face value on release as well as distributing UNC rolls for all denominations.
