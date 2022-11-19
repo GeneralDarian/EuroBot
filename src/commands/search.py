@@ -82,10 +82,12 @@ class Search(commands.Cog):
             await ctx.respond(embed=embed)
         elif len(results) < 1:
             await ctx.respond("Your search has yielded no results!")
+        elif len(results) > 12:
+            paginator = pages.Paginator(pages=self.result_page(results, processed_search_list))
+            await paginator.respond(ctx.interaction, ephemeral=False)
         else:
             embed = self.post_list_results(int(ctx.channel.id), results, processed_search_list)
-            await ctx.respond(embed=embed)
-
+            await ctx.respond(embed=embed, view=SearchDropDownView(results))
 
 
     @bot.command(description="Fast search (without specifying arguments) - do /search help to learn how to use this.")
@@ -174,8 +176,6 @@ class Search(commands.Cog):
         #how many pages will there be
         max_page = len(results)//12 + 1
 
-
-
         #content for each page
         pages_content = []
 
@@ -190,12 +190,13 @@ class Search(commands.Cog):
             )
 
         #create final page
-        pages_content.append(
-            pages.Page(
-                embeds=[self.post_list_results(1, results[(max_page - 1)*12: len(results)], processed_search)],
-                custom_view=SearchDropDownView(results[(max_page - 1)*12: len(results)])
+        if len(results)%12 != 0:
+            pages_content.append(
+                pages.Page(
+                    embeds=[self.post_list_results(1, results[(max_page - 1)*12: len(results)], processed_search)],
+                    custom_view=SearchDropDownView(results[(max_page - 1)*12: len(results)])
+                )
             )
-        )
 
         return pages_content
 
