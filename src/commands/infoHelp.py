@@ -1,6 +1,6 @@
 from discord.ext import commands
 from discord import bot
-import logging, os
+import logging, os, discord
 from discord.ext import commands
 from tools import textHelp
 
@@ -15,9 +15,30 @@ class HelpCommand(commands.Cog):
 
     @bot.command()
     async def help(self, ctx):
+        help_text = textHelp.help_text
         emote_id = os.getenv("HELP_EMOTE_ID")
+        embed = discord.Embed(
+            title="""EuroBot Help""",
+            description=help_text,
+            color=0xffcc00
+        )
+        embed.set_footer(
+            text="EuroBot BETA Version 1.1"
+        )
         await ctx.respond(
-            f"""___***EUROBOT HELP MENU***___
+            embed=embed
+        )
+
+
+
+def setup(client):
+    client.add_cog(HelpCommand(client))
+
+
+
+
+
+"""___***EUROBOT HELP MENU***___
 
 **Non-Information commands**
     <:emote:{int(emote_id)}> ``/search`` - Look up euro coin designs from numista's coin database. Run ``/search help`` for more information on how to use this commnad.
@@ -39,8 +60,3 @@ class HelpCommand(commands.Cog):
     <:emote:{int(emote_id)}> ``/info`` - Displays bot and server information.
 
     <:emote:{int(emote_id)}> ``/fotw`` - Displays information on find of the week."""
-        )
-
-
-def setup(client):
-    client.add_cog(HelpCommand(client))

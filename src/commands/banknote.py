@@ -22,7 +22,7 @@ class Banknote(commands.Cog):
         arg1 = serial
         if arg1 is None or arg1.lower() == "help":
             await ctx.respond(
-                f"""**EUR!BANKNOTE HELP**
+                f"""**/BANKNOTE HELP**
 Use ``eur!banknote <ID>`` to get banknote information, where <ID> is the banknote serial. Do not add printer identification codes or vertical serial numbers.
 Here is the location of the euro banknote serials for both Series 1 (top) and Series 2 (bottom): https://imgur.com/u3IraLz"""
             )

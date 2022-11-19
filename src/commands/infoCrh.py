@@ -14,40 +14,29 @@ class CRHInfo(commands.Cog):
     async def on_ready(self):
         logging.info("Cog info loaded successfully")
 
-    @bot.command()
-    async def crh(self, ctx, country:Option(str, "Enter a country for detailed information, or leave bank for general info.", required = False, default = None)):  # coin roll hunting information command
-        arg1 = country
-        if arg1 is None:
-            embed = Embed(
-                title="🇪🇺 Coin Roll Hunting in the EU - General Information",
-                description=textHelp.crh_info,
-                color=0xffcc00
-            )
-            await ctx.respond(embed=embed, view=CRHDropDown())
-            return
-
-
-
-        else:
-            if arg1.lower() in textHelp.country_to_french:
-                country = textHelp.country_to_french[arg1.lower()]
-                await ctx.respond(textHelp.french_to_crhhelp[country])
-            elif arg1.lower() in textHelp.country_id_to_french:
-                country = textHelp.country_id_to_french[arg1.lower()]
-                await ctx.respond(textHelp.french_to_crhhelp[country])
-            else:
-                await ctx.respond(
-                    "You must either type a valid 2-letter country ID or the country name in English! For help with coin roll hunts use ``eur!crh``.")
+    @bot.command(description="Display information about Coin Roll Hunting (CRH) in the EU.")
+    async def crh(self, ctx):  # coin roll hunting information command
+        embed = Embed(
+            title="🇪🇺 Coin Roll Hunting in the EU - General Information",
+            description=textHelp.crh_info,
+            color=0xffcc00
+        )
+        await ctx.respond(embed=embed, view=CRHDropDown())
+        return
 
 class CRHDropDown(discord.ui.View):
 
     options = []
     if len(options) == 0:
         for country in textHelp.country_to_french:
+            if country == "sanmarino":
+                title = "San Marino"
+            else:
+                title = country
             options.append(
                 SelectOption(
-                    label=country.capitalize(),
-                    description=f"Information about coin roll hunting in {country.capitalize()}",
+                    label=title.title(),
+                    description=f"Information about coin roll hunting in {title.title()}",
                     emoji=textHelp.french_to_emoji[textHelp.country_to_french[country]]
                 )
             )
@@ -62,11 +51,16 @@ class CRHDropDown(discord.ui.View):
     )
     async def select_callback(self, select, interaction):
         await interaction.message.edit(content=None, embed=self.crh_info_embed_maker(select.values[0]))
+        await interaction.response.defer(ephemeral=True)
 
     def crh_info_embed_maker(self, country: str):
-        french_name = textHelp.country_to_french[country.lower()]
+        french_name = textHelp.country_to_french[country]
+        if french_name == "pays-bas":
+            country = "The Netherlands"
+        elif french_name == "saint-marin":
+            country = "San Marino"
         embed = discord.Embed(
-            title=f"{textHelp.french_to_emoji[french_name]} Coin Roll Hunting in {country.capitalize()}",
+            title=f"{textHelp.french_to_emoji[french_name]} Coin Roll Hunting in {country.title()}",
             description=textHelp.french_to_crhhelp[french_name],
             color=0xffcc00
         )

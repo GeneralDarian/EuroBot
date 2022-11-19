@@ -20,6 +20,7 @@ class InfoEmbed(commands.Cog):
         embed = discord.Embed(
             title="/r/EuroCoins - Server and Bot Information",
             url="https://github.com/GeneralDarian/EuroBot",
+            color=0xffcc00
         )
         embed.set_thumbnail(
             url="https://cdn.discordapp.com/icons/555331630206681108/ce006b24f0d5fb90fbbcfc53c17ab4a2"

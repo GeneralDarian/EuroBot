@@ -235,31 +235,32 @@ from_type = {
 }
 
 country_to_french = {
-    "andorra": "andorre",
-    "austria": "autriche",
-    "belgium": "belgique",
-    "croatia": "croatie",
-    "cyprus": "chypre",
-    "estonia": "estonie",
-    "finland": "finlande",
-    "france": "france",
-    "germany": "allemagne",
-    "greece": "grece",
-    "ireland": "irlande",
-    "italy": "italie",
-    "latvia": "lettonie",
-    "lithuania": "lituanie",
-    "luxembourg": "luxembourg",
-    "malta": "malte",
-    "monaco": "monaco",
-    "netherlands": "pays-bas",
-    "portugal": "portugal",
-    "sanmarino": "saint-marin",
-    "slovakia": "slovaquie",
-    "slovenia": "slovenie",
-    "spain": "espagne",
-    "vatican": "vatican",
+    "Andorra": "andorre",
+    "Austria": "autriche",
+    "Belgium": "belgique",
+    "Croatia": "croatie",
+    "Cyprus": "chypre",
+    "Estonia": "estonie",
+    "Finland": "finlande",
+    "France": "france",
+    "Germany": "allemagne",
+    "Greece": "grece",
+    "Ireland": "irlande",
+    "Italy": "italie",
+    "Latvia": "lettonie",
+    "Lithuania": "lituanie",
+    "Luxembourg": "luxembourg",
+    "Malta": "malte",
+    "Monaco": "monaco",
+    "Netherlands": "pays-bas",
+    "Portugal": "portugal",
+    "San Marino": "saint-marin",
+    "Slovakia": "slovaquie",
+    "Slovenia": "slovenie",
+    "Spain": "espagne",
+    "Vatican": "vatican",
 }
+
 
 country_id_to_french = {
     "de": "allemagne",
@@ -371,7 +372,7 @@ crh_info = """**What is Coin Roll Hunting?**
 - __Coin Roll Hunting (CRH)__ is a hobby which many users on this server participate in regularly. The idea is to go to a bank, purchase coin rolls, then to look through the rolls for any special coins you don't have or may want to keep for trading. The regular coins you don't need anymore you deposit back into the bank. It's a cheap way to quickly expand your collection by only looking through circulated coins.
 
 **How do I get started with Coin Roll Hunting?**    
-- To get started with CRH, go to your local bank and ask to purchase coin rolls. In some banks, this process is even automated with machines. Sometimes you need to have a bank account with the bank, sometimes you don't, and sometimes purchasing rolls costs a little over face value. The exact process varies by country. To receive detailed information by country, run the command `/crh <country>` or use the dropdown option below. 
+- To get started with CRH, go to your local bank and ask to purchase coin rolls. In some banks, this process is even automated with machines. Sometimes you need to have a bank account with the bank, sometimes you don't, and sometimes purchasing rolls costs a little over face value. The exact process varies by country. To receive detailed information by country, select a country from the dropdown option below. 
 
 **What do I do when I am done with the hunt?**   
 - When you're done and you've looked through the rolls, you can go back and deposit your coins by using a coin counting machine. __It is generally not recommended to go back to the same branch you used to purchase the coins__, and to have separate branches dedicated to purchasing and depositing coins. Otherwise you run the risk of searching through rolls of coins you've already searched through. This depends on the country, however, as some banks may ship their deposited coins to a central coin wrapping place instead, and you wouldn't need to worry about depositing your coins in a different branch.
@@ -404,12 +405,12 @@ SK = Slovakia | SM = San Marino | VA = Vatican
 """
 
 french_to_crhhelp = {
-    "allemagne": """🇩🇪 Coin roll availability may vary across banks and branches, as well as the price. You must be a customer to purchase.
+    "allemagne": """Coin roll availability may vary across banks and branches, as well as the price. You must be a customer to purchase.
 **Sparkasse:** 50-150ct per roll.
 **Volksbank:** 25ct per roll.
 **Deutsche Post:** Free, get hand-rolled coins.
 **Bundesbank:** Commemoratives can be exchanged for free as a customer, may be possible as foreigner. May swap 5, 10, and 20 euro for face value if available.""",
-    "autriche": """🇦🇹 Availability varies by bank.
+    "autriche": """Availability varies by bank.
 **Bank Austria:** 20ct per roll. Can be purchased with cash at machines (available to everyone, but not in all branches, look for the filter option Münzrollengeber at https://filialen.bankaustria.at/de/).
 **Erste Bank:** 10ct per roll. Must be a customer and pay with card at machines. Free when purchased at counters (but counters will redirect you to machines if they work), counters accept cash.
 Depositing coins is free up to 100 euros/day, at which point you pay 1% for anything over 100 euros. You also must be a customer. 
@@ -417,64 +418,112 @@ Depositing coins is free up to 100 euros/day, at which point you pay 1% for anyt
 **Volksbank:** Reportedly free with no need of being a customer, needs to be confirmed 
 **Austrian National Bank:** Does not distribute circulated rolls but sells CC rolls at face value on release as well as distributing UNC rolls for all denominations.
 """,
-    "belgique": """🇧🇪 You can visit the European/Belgium central bank in Brussels as an EU citizen. You can order coin rolls for free, up to 2000 euros in value. (See https://www.youtube.com/watch?v=I4gwrpsl2Bk). They seem to distribute uncirculated, standard coins.
+    "belgique": """You can visit the European/Belgium central bank in Brussels as an EU citizen. You can order coin rolls for free, up to 2000 euros in value. (See https://www.youtube.com/watch?v=I4gwrpsl2Bk). They seem to distribute uncirculated, standard coins.
 **KBC:** Free for customers, otherwise you must pay.
 **Argenta:** €1.50 processing fee, but no limit on rolls.
 There are no ATMs with coin rolls.""",
-    "espagne": """🇪🇸 Coin rolls are free for customers. Others can also get rolls at an unclear price.
+    "espagne": """Coin rolls are free for customers. Others can also get rolls at an unclear price.
 **Bank of Spain:** Sells individual coins and CC rolls (even of other countries).
 **BBVA:** Madrid: free of charge. Alicante: €2 for 5 rolls. Seems to vary by region.
 **Banco Santander:** Free, must be customer.
 **La Caixa:** Free, can use cash, no need to be customer""",
-    "finlande": """🇫🇮 No coin roll machines, but you can find vending machines or coin exchange machines (albeit they are rare).
+    "finlande": """No coin roll machines, but you can find vending machines or coin exchange machines (albeit they are rare).
 **Aktia:** Free of charge.
 **Bank of Finland:** Probably not possible.""",
-    "france": """🇫🇷 Coin roll machines are uncommon - only some banks have them and you need to be a customer. You may also need to order them in advance.
+    "france": """Coin roll machines are uncommon - only some banks have them and you need to be a customer. You may also need to order them in advance.
 **CIC:** Free of charge (must be customer)
 **Credit Agricole:**  Free of charge (must be customer)
 **Caisse d'Épargne:** Free of charge (must be customer)
 **Le Crédit Lyonnais (LCL):** Has coin roll machines but unknown if you need to be customer or if they charge money.""",
-    "ireland": """🇮🇪 Coin rolls available at banks with a fee of 1.00 per roll.
+    "irlande": """Coin rolls available at banks with a fee of 1.00 per roll.
 Could be free if you only need a few rolls.
 Central Bank does not distribute any coins.""",
-    "italie": """🇮🇹 Information missing (feel free to contribute by letting bot devs know!)
+    "italie": """Information missing (feel free to contribute by letting bot devs know!)
 **Bank of Italy:** Sells rolls to anyone.
 **Banca Cambiano:** Has coin roll machines, but it is unknown if you need to be a customer or how much they charge.""",
     "luxembourg": """🇱🇺 Information missing (feel free to contribute by letting bot devs know!)
 **Dexia-Bank:** You should be able to get coin rolls for free.
 **BCL:** Unknown. Webshop sells commemoratives at face value, whether this is for sale in person is not known.""",
-    "pays-bas": """🇳🇱 Note that 1c and 2c coins are never used and hence unavailable in rolls.
+    "pays-bas": """Note that 1c and 2c coins are never used and hence unavailable in rolls.
 **ING, Rabobank, and ABN AMRO:** You can get coin rolls from Geldmaat coin roll machines, which are placed in the Gamma or Karwei. Must be customer. (https://www.locatiewijzer.geldmaat.nl/?fiver&functionality=Munten%20opnemen) (See https://www.youtube.com/watch?v=AcfeTg05a70 for instructions)
 **ABN AMRO:** 30ct per roll (min 10 rolls)
 **ING:** 35ct per roll + 7 euro "service fee"
 **Rabobank:** 50ct per roll + 7 euro "service fee"
 The Dutch Central Bank does not distribute circulated rolls.
 TIP: At stations, you may find "Smullers" which will sometimes have an exchange machine (useful for 10/20/50 cent rolls).""",
-    "portugal": """🇵🇹 May be incomplete (feel free to contribute by letting bot devs know!) 
+    "portugal": """May be incomplete (feel free to contribute by letting bot devs know!) 
 **Banco de Portugal (Lisbon):** Free coin bags for everyone.
 *8Millenium BCP:** Free coin bags (for customers).""",
-    "grece": """🇬🇷 May be incomplete (feel free to contribute by letting bot devs know!) 
+    "grece": """May be incomplete (feel free to contribute by letting bot devs know!) 
 Cannot buy coin rolls anywhere.
 Getting coins from the bank is free for customers.
 **Bank of Greece (Τράπεζα της Ελλάδος):** Free coin rolls for everyone (you need to show ID card), also latest €2 commemoratives are sold at face value.""",
-    "slovenie": """🇸🇮 May be incomplete (feel free to contribute by letting bot devs know!) 
+    "slovenie": """May be incomplete (feel free to contribute by letting bot devs know!) 
 **In general:** 1.20 per roll.
 **Bank of Slovenia:** Sells commemorative coins for face value.
 **Slovenian national bank:** Free coin rolls for everyone.""",
-    "chypre": """🇨🇾 Incomplete (feel free to contribute by letting bot devs know!)""",
-    "malte": """🇲🇹 Incomplete (feel free to contribute by letting bot devs know!) Generally hard to get coin rolls.
+    "chypre": """Incomplete (feel free to contribute by letting bot devs know!)""",
+    "malte": """Incomplete (feel free to contribute by letting bot devs know!) Generally hard to get coin rolls.
 **BOV & HSCB Malta:** 30c per roll. Order coin rolls through their online platform (only for customers).""",
-    "slovaquie": """🇸🇰 May be incomplete (feel free to contribute by letting bot devs know!) 
+    "slovaquie": """May be incomplete (feel free to contribute by letting bot devs know!) 
 **Tatra Banka:** 5 euros to buy an unlimited amount of rolls (must be customer).
 May be able to get UNC rolls from the national bank. (someone inquire please)""",
-    "estonie": """🇪🇪 Difficult to obtain, sadly.
+    "estonie": """Difficult to obtain, sadly.
 **All banks:** Coin rolls are very expansive, and you must make an appointment first (customers only)
 **Central Bank of Estonia Museum (Tallinn):** Purchase CCs (even those released years ago) at _face value_ (also an interesting museum in general)""",
-    "lettonie": """🇱🇻 Incomplete (feel free to contribute by letting bot devs know!)
+    "lettonie": """Incomplete (feel free to contribute by letting bot devs know!)
 **In general:** 0.60c per roll.""",
-    "lituanie": """🇱🇹 No information available. (feel free to contribute by letting bot devs know!)""",
-    "monaco": """🇲🇨 No information available. (feel free to contribute by letting bot devs know!)""",
-    "saint-marin": """🇸🇲 No information available. (feel free to contribute by letting bot devs know!)""",
-    "andorre": """🇦🇩 No information available. (feel free to contribute by letting bot devs know!)""",
-    "vatican": """🇻🇦 Ask the Pope nicely and he'll probably give you some Vatican coins for free.""",
+    "lituanie": """No information available. (feel free to contribute by letting bot devs know!)""",
+    "monaco": """No information available. (feel free to contribute by letting bot devs know!)""",
+    "saint-marin": """No information available. (feel free to contribute by letting bot devs know!)""",
+    "andorre": """No information available. (feel free to contribute by letting bot devs know!)""",
+    "vatican": """Ask the Pope nicely and he'll probably give you some Vatican coins for free.""",
+    "croatie": """No information available (feel free to contribute by letting bot devs know!)""",
 }
+
+help_text = f"""EuroBot is our discord bot and is intended to help collectors on this server with various tools. This is a list of all commands which are available to regular members. To access the help menu, run the command `/help`.
+
+<:emote:{int(emote_id)}> **Information Commands:**
+`/clean` - Displays information about cleaning coins
+`/crh` - Displays information about coin roll hunting in the eurozone, as well as detailed information for each country.
+`/info` - Displays server information and bot information.
+`/rare` - Displays information about "rare" coins, and warns to take online listings of common coins with a grain of salt.
+`/storage` - Displays information about how to store coins properly.
+
+<:emote:{int(emote_id)}> **Search Commands:**
+`/search help` - Displays information on how to use EuroBot's search function
+`/search coin [country] {{year}} {{type}}` - Searches for a euro coin in the database
+`/search id [id]` - Searches for a euro coin in the database by Numista ID
+`/fsearch [query]` - "Fast search" for a coin in the database (usage described with the search help command)
+
+<:emote:{int(emote_id)}> **CoinDesigner Commands:**
+`/tocoin help` - Display information on how to use CoinDesigner
+`/tocoin settings {{sigma}} {{intensity}} {{nmd}}` - Change CoinDesigner settings
+`/tocoin reset` - Reset coindesigner settings
+
+<:emote:{int(emote_id)}> **Other Commands:**
+`/banknote {{serial}}` - Display information about a Euro Banknote with the specified serial number
+`/demintmark {{year}}` - Display location of mintmark on a German CC minted in {{year}}"""
+
+search_help = f"""
+
+EuroBot's search functionality allows you to quickly search through Numista's database for all euro coins. Note that this only includes regular issue (i.e. 1c - 2 euro) coins, although it does include NIFC ones. EuroBot will also display the mintages for each coin.
+
+<:emote:{int(emote_id)}> **Generic Search:**
+`/search coin` is the command to execute a generic search. You will notice that there are three requirements - country, year, and type - of which only one (country) is mandatory. Additionally, the bot autocompletes a list of arguments you can include for each query. 
+
+The search will yield a picture of the coin, some text describing the design, and mintage figures, as well as a direct link to the coin's Numista page. 
+
+Sometimes the search yields multiple results. If that's the case, you can either use the buttons to select a result, or run the command `/search id [id] {{year}}` to select one via its numista ID. You can add {{year}} to narrow down the mintages if there are lots of them displayed.
+
+<:emote:{int(emote_id)}> **Fast Search (fsearch):**
+In a hurry? With `/fsearch [query]` you can execute a search much more quickly. The query consists of the required two letter TLD of the country (i.e. "de" for germany, "at" for austria, "si" for slovenia), the optional denomination (must be of the type "1c", "2c", "5c", "10c", "20c", "50c", "1", "2", "2cc", where those with "c" refer to cents, "1" and "2" refer to 1- and 2-euro coins, and "2cc" to 2-euro commemoratives), as well as the optional year. These arguments can be in any order.
+
+For example, `/fsearch query: 10c at 2006` returns the mintage of the Austrian 10c coin in 2006, and `/fsearch query: ad 2cc` returns a list of all Andorran 2-euro commemoratives.
+
+If you used EuroBot 1.0: `/fsearch` is used the exact same way as `eur!search`, except for the additional `query:` (which gets automatically added by discord)
+
+<:emote:{int(emote_id)}> **Note about new coins:**
+The database which EuroBot uses is remotely downloaded from Numista and requires updating sometimes by the developers. If you notice that a coin is missing, let the developers know.
+
+"""

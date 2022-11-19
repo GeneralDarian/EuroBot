@@ -156,12 +156,11 @@ def searchEngine(params: dict) -> list[dict]:
 
     # Get issuer
     if params["Issuer"] is not None:
-        if params["Issuer"].lower() in textHelp.country_to_french:
-            issuer = textHelp.country_to_french[params["Issuer"].lower()]
+        if params["Issuer"].title() in textHelp.country_to_french:
+            issuer = textHelp.country_to_french[params["Issuer"].title()]
         if params["Issuer"].lower() in textHelp.country_id_to_french:
             issuer = textHelp.country_id_to_french[params["Issuer"].lower()]
-    else:
-        issuer = None
+
 
     # Get year
     if params["Year"] is not None:
@@ -341,6 +340,7 @@ def getCoinInfo(coin_id: str) -> dict:
                 + textHelp.french_to_emoji[search_results["issuer"]["code"]]
         )
     coin_info["issuer"] = search_results["issuer"]["code"]
+
     if (
         search_results["type"] == "Circulating commemorative coin"
         or search_results["type"] == "Non-circulating coin"
@@ -349,8 +349,17 @@ def getCoinInfo(coin_id: str) -> dict:
         coin_info["title"] = coin_info["title"] + " " + "⭐"
     else:
         coin_info["cc"] = False
-    coin_info["obverse_pic"] = search_results["obverse"]["picture"]
-    coin_info["reverse_pic"] = search_results["reverse"]["picture"]
+
+    if "picture" not in search_results["obverse"]:
+        coin_info["obverse_pic"] = "https://en.numista.com/catalogue/no-obverse-coin-en.png"
+    else:
+        coin_info["obverse_pic"] = search_results["obverse"]["picture"]
+
+    if "picture" not in search_results["reverse"]:
+        coin_info["reverse_pic"] = "https://en.numista.com/catalogue/no-obverse-coin-en.png"
+    else:
+        coin_info["reverse_pic"] = search_results["reverse"]["picture"]
+
     try:
         if sys.getsizeof(search_results["obverse"]["description"]) > 1023:
             coin_info[
