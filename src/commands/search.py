@@ -129,7 +129,7 @@ class Search(commands.Cog):
     def post_list_results(self, channel_id: int, results: list, processed_search: dict):
         embed = discord.Embed(
             title=f"Search results:",
-            description=f"Your search yielded multiple results. To view detailed information about a coin, run the command eur!search ID <ID>. Add <YEAR> to the end of the previous command to narrow things down a bit.",
+            description=f"Your search yielded multiple results. To view detailed information about a coin, select a dropdown option or run the command `/search id <ID>`. Add <YEAR> to the end of the previous command to narrow things down a bit.",
             color=0xffcc00
         )
         embed.add_field(
@@ -258,7 +258,7 @@ def post_ID(coin_id, year=None):
             )
             if abs(coin_information["min_year"] - coin_information["max_year"]) > 1:
                 embed.set_footer(
-                    text=f"This sure is a lot of mintages... it may not even be displayed properly!\n Use eur!search id {coin_id} <YEAR> to narrow things down a bit or add a year to your search."
+                    text=f"This sure is a lot of mintages... it may not even be displayed properly!\n Use /search id {coin_id} <YEAR> to narrow things down a bit or add a year to your search."
                 )
     else:
         if int(year) not in mintages:

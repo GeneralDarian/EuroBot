@@ -23,7 +23,7 @@ class HelpCommand(commands.Cog):
             color=0xffcc00
         )
         embed.set_footer(
-            text="EuroBot BETA Version 1.1"
+            text="EuroBot Version 1.1"
         )
         await ctx.respond(
             embed=embed

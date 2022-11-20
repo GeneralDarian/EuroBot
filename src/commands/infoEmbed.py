@@ -43,7 +43,7 @@ class InfoEmbed(commands.Cog):
         )
         embed.add_field(
             name="Bot version:",
-            value="1.1 BETA",
+            value="1.1 [Released 2022.11.20]",
         )
         embed.add_field(
             name="EuroBot Discord:",
