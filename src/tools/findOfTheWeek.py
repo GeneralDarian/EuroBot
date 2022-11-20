@@ -1,7 +1,10 @@
 import os
 from shutil import copyfile
 from time import time as unixtime
-
+from discord.ext import commands
+from discord import bot
+import logging, os, discord
+from tools import textHelp
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -9,7 +12,6 @@ CHANNEL_ID = os.getenv("FOTW_CHANNEL_ID")
 EMOTE_ID = os.getenv("FOTW_EMOTE_ID")
 EMOTE_NAME = os.getenv("FOTW_EMOTE_NAME")
 TRADER_ROLE_ID = os.getenv("VERIFIED_TRADER_GROUP_ID")
-
 
 class findOfTheWeek:
     def __init__(self):

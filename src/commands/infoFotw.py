@@ -1,6 +1,9 @@
 from discord.ext import commands
-import logging
-from tools import findOfTheWeek
+from discord import bot
+import logging, os, discord
+from discord.ext import commands
+from tools import textHelp, findOfTheWeek
+
 
 class FotwInfo(commands.Cog):
 
@@ -11,11 +14,11 @@ class FotwInfo(commands.Cog):
     async def on_ready(self):
         logging.info("Cog info loaded successfully")
 
-    @commands.command()
+    @bot.command()
     async def fotw(self, ctx):
         emote_id = findOfTheWeek.EMOTE_ID
         channel_id = findOfTheWeek.CHANNEL_ID
-        await ctx.send(
+        await ctx.respond(
             f"""**FIND OF THE WEEK (FOTW) HELP**
 Find of the Week is a system where finds are 'ranked' by the commmunity. The best find wins this week's find of the week!
 For starters, post a picture of your find in <#{channel_id}>. Afterwards, other users can react to the picture with <:emote:{emote_id}> emotes!

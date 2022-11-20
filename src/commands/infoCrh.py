@@ -19,7 +19,7 @@ class CRHInfo(commands.Cog):
         embed = Embed(
             title="🇪🇺 Coin Roll Hunting in the EU - General Information",
             description=textHelp.crh_info,
-            color=0xffcc00
+            color=0xffcc00,
         )
         await ctx.respond(embed=embed, view=CRHDropDown())
         return
@@ -41,7 +41,7 @@ class CRHDropDown(discord.ui.View):
                 )
             )
     def __init__(self):
-        super().__init__()
+        super().__init__(timeout=60)
 
     @discord.ui.select(
     placeholder="Select a country for more detailed information",
@@ -66,6 +66,10 @@ class CRHDropDown(discord.ui.View):
         )
         return embed
 
+    async def on_timeout(self):
+        for child in self.children:
+            child.disabled = True
+        await self.message.edit(content=None, view=self)
 
 
 def setup(client):

@@ -76,7 +76,7 @@ class Search(commands.Cog):
         logging.info(processed_search_list)
         results = coinData.searchEngine(processed_search_list)
         if len(results) == 1:
-            embed = self.post_ID(
+            embed = post_ID(
                 results[0]["id"], processed_search_list["Year"]
             )
             await ctx.respond(embed=embed)
@@ -112,7 +112,7 @@ class Search(commands.Cog):
         results = coinData.searchEngine(processed_search_list)
         logging.info(results)
         if len(results) == 1:
-            embed = self.post_ID(
+            embed = post_ID(
                 results[0]["id"], processed_search_list["Year"]
             )
             await ctx.respond(embed=embed)
