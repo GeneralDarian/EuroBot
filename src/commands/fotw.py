@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 import logging, time
-from EuroBot.src.tools import findOfTheWeek
+from tools import findOfTheWeek
 from discord import bot
 import logging, os, discord
 from discord.ext import commands
@@ -54,9 +54,12 @@ class Fotw(commands.Cog):
     async def getwinners(self, ctx):
         try:
             await self.getFOTWWinner(findOfTheWeek.fotw.getList())
+        except Exception as error:
+            logging.error(f"getWinners : encountered an error with getFOTWWinner: {error}")
+        try:
             findOfTheWeek.fotw.refreshList()
         except Exception as error:
-            logging.error(f"!getWinners : Encountered an error: {error}")
+            logging.error(f"getWinners: encountered an error with refresh: {error}")
 
     async def getFOTWWinner(self, message_id_list: list) -> None:
         """Given list of FOTW messages, gets the winner(s) and refreshes the files.
@@ -78,7 +81,7 @@ class Fotw(commands.Cog):
         for msgID in message_id_list:
             try:
                 msg = await channel.fetch_message(msgID)
-            except ValueError:
+            except Exception:
                 continue
             if (
                     isinstance(msg, discord.NotFound)
