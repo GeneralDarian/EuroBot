@@ -97,6 +97,7 @@ class ToCoin(commands.Cog):
             embed.set_footer(
                 text="CoinDesigner by @joaoperfig [GH] - https://github.com/joaoperfig : Use `/tocoin help` for help with changing settings"
             )
+            await ctx.defer()
             await ctx.respond(file=file, embed=embed)
             os.remove("data//outputs//output.png")
             self.using_tocoin = False

@@ -399,7 +399,7 @@ def getCoinMintage(coin_id: str, max_year: int, min_year: int) -> dict:
         try:  # Then look at the mintage and begin to assemble the data value
             line_value = f"{i['mintage']:,}"
         except KeyError:
-            line_value = line_value
+            line_value = "NO SPECIFIED MINTAGE"
 
         try:
             line_value = f"{line_value} ({i['mint_letter']}, {i['comment']})"

@@ -256,7 +256,7 @@ def post_ID(coin_id, year=None):
                 value=field_value,
                 inline=True,
             )
-            if abs(coin_information["min_year"] - coin_information["max_year"]) > 1:
+            if abs(coin_information["min_year"] - coin_information["max_year"]) > 5:
                 embed.set_footer(
                     text=f"This sure is a lot of mintages... it may not even be displayed properly!\n Use /search id {coin_id} <YEAR> to narrow things down a bit or add a year to your search."
                 )
