@@ -1,10 +1,12 @@
+import logging
+
 from discord import bot
 from discord.ext import commands
-import logging
+
 from tools import textHelp
 
-class CleanInfo(commands.Cog):
 
+class CleanInfo(commands.Cog):
     def __init__(self, client):
         self.client = client
 

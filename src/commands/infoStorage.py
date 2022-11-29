@@ -1,10 +1,12 @@
-from discord.ext import commands
-from discord import bot
 import logging
+
+from discord import bot
+from discord.ext import commands
+
 from tools import textHelp
 
-class StorageInfo(commands.Cog):
 
+class StorageInfo(commands.Cog):
     def __init__(self, client):
         self.client = client
 
@@ -21,4 +23,3 @@ class StorageInfo(commands.Cog):
 
 def setup(client):
     client.add_cog(StorageInfo(client))
-

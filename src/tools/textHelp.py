@@ -1,6 +1,9 @@
 import logging
+
 from tools import findOfTheWeek
+
 emote_id = findOfTheWeek.EMOTE_ID
+
 
 def emojiReplacer(t: str) -> str:
     """Given a string will replace all !<country_code> with their respective emoji. If there is no emoji present, it just returns the string.
@@ -231,7 +234,7 @@ from_type = {
     "50 cents": "50c",
     "1 euro": "1",
     "2 euro": "2",
-    "2 euro commemorative": "2cc"
+    "2 euro commemorative": "2cc",
 }
 
 country_to_french = {
@@ -312,7 +315,7 @@ french_to_emoji = {
     "saint-marin": "🇸🇲",
     "andorre": "🇦🇩",
     "vatican": "🇻🇦",
-    "croatie": "🇭🇷"
+    "croatie": "🇭🇷",
 }
 
 french_to_genitive = {

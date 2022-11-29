@@ -106,8 +106,8 @@ def searchProcessor(arglist: list[str]) -> dict:
                 already_type = True
 
         elif (
-                i.lower() in textHelp.country_to_french
-                or i.lower() in textHelp.country_id_to_french
+            i.lower() in textHelp.country_to_french
+            or i.lower() in textHelp.country_id_to_french
         ):  # Check if argument is a country name
             if (
                 already_country == True
@@ -160,7 +160,6 @@ def searchEngine(params: dict) -> list[dict]:
             issuer = textHelp.country_to_french[params["Issuer"].title()]
         if params["Issuer"].lower() in textHelp.country_id_to_french:
             issuer = textHelp.country_id_to_french[params["Issuer"].lower()]
-
 
     # Get year
     if params["Year"] is not None:
@@ -319,7 +318,7 @@ def getCoinInfo(coin_id: str) -> dict:
         "mintage": None,
     }
 
-    #os.path.exists()
+    # os.path.exists()
     try:
         path = Path(f"data/coin_data/{coin_id}.json")
         with open(path, "r") as country_json:
@@ -335,9 +334,9 @@ def getCoinInfo(coin_id: str) -> dict:
     coin_info["title"] = search_results["title"]
     if search_results["issuer"]["code"] in textHelp.french_to_emoji:
         coin_info["title"] = (
-                search_results["title"]
-                + " "
-                + textHelp.french_to_emoji[search_results["issuer"]["code"]]
+            search_results["title"]
+            + " "
+            + textHelp.french_to_emoji[search_results["issuer"]["code"]]
         )
     coin_info["issuer"] = search_results["issuer"]["code"]
 
@@ -351,12 +350,16 @@ def getCoinInfo(coin_id: str) -> dict:
         coin_info["cc"] = False
 
     if "picture" not in search_results["obverse"]:
-        coin_info["obverse_pic"] = "https://en.numista.com/catalogue/no-obverse-coin-en.png"
+        coin_info[
+            "obverse_pic"
+        ] = "https://en.numista.com/catalogue/no-obverse-coin-en.png"
     else:
         coin_info["obverse_pic"] = search_results["obverse"]["picture"]
 
     if "picture" not in search_results["reverse"]:
-        coin_info["reverse_pic"] = "https://en.numista.com/catalogue/no-obverse-coin-en.png"
+        coin_info[
+            "reverse_pic"
+        ] = "https://en.numista.com/catalogue/no-obverse-coin-en.png"
     else:
         coin_info["reverse_pic"] = search_results["reverse"]["picture"]
 

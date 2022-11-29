@@ -1,11 +1,14 @@
-from discord.ext import commands
+import logging
+import os
+
+import discord
 from discord import bot
-import logging, os, discord
 from discord.ext import commands
+
 from tools import textHelp
 
-class HelpCommand(commands.Cog):
 
+class HelpCommand(commands.Cog):
     def __init__(self, client):
         self.client = client
 
@@ -18,24 +21,14 @@ class HelpCommand(commands.Cog):
         help_text = textHelp.help_text
         emote_id = os.getenv("HELP_EMOTE_ID")
         embed = discord.Embed(
-            title="""EuroBot Help""",
-            description=help_text,
-            color=0xffcc00
+            title="""EuroBot Help""", description=help_text, color=0xFFCC00
         )
-        embed.set_footer(
-            text="EuroBot Version 1.1"
-        )
-        await ctx.respond(
-            embed=embed
-        )
-
+        embed.set_footer(text="EuroBot Version 1.1")
+        await ctx.respond(embed=embed)
 
 
 def setup(client):
     client.add_cog(HelpCommand(client))
-
-
-
 
 
 """___***EUROBOT HELP MENU***___

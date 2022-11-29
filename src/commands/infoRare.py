@@ -1,11 +1,13 @@
-from discord.ext import commands
 import logging
-from discord.commands import Option
+
 from discord import bot
+from discord.commands import Option
+from discord.ext import commands
+
 from tools import textHelp
 
-class RareInfo(commands.Cog):
 
+class RareInfo(commands.Cog):
     def __init__(self, client):
         self.client = client
 
@@ -21,4 +23,3 @@ class RareInfo(commands.Cog):
 
 def setup(client):
     client.add_cog(RareInfo(client))
-

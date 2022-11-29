@@ -6,8 +6,7 @@ import discord
 from discord.ext import commands
 from dotenv import load_dotenv
 
-from EuroBot.src.tools import coinData, designer
-from tools import textHelp
+from tools import coinData, designer, textHelp
 
 
 def main():
@@ -16,15 +15,12 @@ def main():
     intents.message_content = True
     intents.members = True
 
-
     BOT_NAME = "EuroBot"
 
     load_dotenv()
     DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
-    activity = discord.Activity(
-        type=discord.ActivityType.playing, name="Help: /help"
-    )
+    activity = discord.Activity(type=discord.ActivityType.playing, name="Help: /help")
     client = discord.Bot(
         command_prefix=["!"],
         intents=intents,
@@ -42,8 +38,6 @@ def main():
     async def on_ready():
         logging.info(f"{client.user} has logged in. Version {discord.__version__}")
 
-
-
     def load_extensions():
         for fileName in os.listdir("./commands"):
             print(fileName)
@@ -55,9 +49,7 @@ def main():
 
     load_extensions()
     client.run(DISCORD_TOKEN)
-    #client.run(DISCORD_TOKEN)
-
-
+    # client.run(DISCORD_TOKEN)
 
 
 if __name__ == "__main__":
@@ -67,8 +59,8 @@ if __name__ == "__main__":
 def deprecated():
     """Deprecated content whiich might be brought back in the future."""
     pass
-    #@client.command()
-    #@commands.has_permissions(administrator=True)
+    # @client.command()
+    # @commands.has_permissions(administrator=True)
     async def refreshAPI(ctx):
         coinData.refreshFiles()
 

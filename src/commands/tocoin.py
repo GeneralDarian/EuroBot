@@ -1,12 +1,16 @@
+import logging
+import os
+import time
+
 import discord
 from discord import bot
+from discord.commands import Option, SlashCommandGroup
 from discord.ext import commands
-from discord.commands import SlashCommandGroup, Option
-import logging, time, os
-from tools import textHelp, designer
+
+from tools import designer, textHelp
+
 
 class ToCoin(commands.Cog):
-
     def __init__(self, client):
         self.client = client
         self.s = 1.0
@@ -21,10 +25,28 @@ class ToCoin(commands.Cog):
     tocoin = SlashCommandGroup("tocoin", "Change tocoin settings")
 
     @tocoin.command(description="Change tocoin's image settings")
-    async def settings(self, ctx,
-                       sigma=Option(float, "Modifies how sharp image appears on coin.", required = False, default = 1),
-                       intensity=Option(float, "Modifies how visible image appears on coin.", required = False, default = 5),
-                       nmd=Option(float, "How much dark areas of the coin pop out. Changing this doesn't do much - best to leave at 1-4", required = False, default = 4)):
+    async def settings(
+        self,
+        ctx,
+        sigma=Option(
+            float,
+            "Modifies how sharp image appears on coin.",
+            required=False,
+            default=1,
+        ),
+        intensity=Option(
+            float,
+            "Modifies how visible image appears on coin.",
+            required=False,
+            default=5,
+        ),
+        nmd=Option(
+            float,
+            "How much dark areas of the coin pop out. Changing this doesn't do much - best to leave at 1-4",
+            required=False,
+            default=4,
+        ),
+    ):
         if float(sigma) < 0 or float(sigma) > 20:
             await ctx.respond("Sigma must be between 0 and 20")
             return
@@ -37,14 +59,18 @@ class ToCoin(commands.Cog):
         self.s = float(sigma)
         self.i = float(intensity)
         self.nmd = float(nmd)
-        await ctx.respond(f"CoinDesigner options changed to:\n **sigma**: {self.s}\n**intensity**: {self.i}\n**nmd**: {self.nmd}")
+        await ctx.respond(
+            f"CoinDesigner options changed to:\n **sigma**: {self.s}\n**intensity**: {self.i}\n**nmd**: {self.nmd}"
+        )
 
     @tocoin.command(description="Reset tocoin's image settings to their default")
     async def reset(self, ctx):
         self.s = 1
         self.i = 5
         self.nmd = 4
-        await ctx.respond(f"Reset CoinDesigner to default settings:\n**sigma**: 1\n**intensity**: 5\n**nmd**: 4")
+        await ctx.respond(
+            f"Reset CoinDesigner to default settings:\n**sigma**: 1\n**intensity**: 5\n**nmd**: 4"
+        )
 
     @tocoin.command(description="Display help menu for using CoinDesigner")
     async def help(self, ctx):
@@ -66,7 +92,9 @@ class ToCoin(commands.Cog):
         # Case 1: The message containing the command contains an image. This takes priority over replying to a message with an image.
         if len(msg.attachments) > 0:
             for file in msg.attachments:
-                if file.filename.endswith(".jpg") or file.filename.endswith(".png"):  # Only the first image is used.
+                if file.filename.endswith(".jpg") or file.filename.endswith(
+                    ".png"
+                ):  # Only the first image is used.
                     attachment = msg.attachments[
                         0
                     ]  # Gets first attachment from message
@@ -84,7 +112,6 @@ class ToCoin(commands.Cog):
             await ctx.respond("There are no attachments on this message!")
             self.using_tocoin = False
             return
-
 
         # If the response is true then conversion was successful.
         # Get the file, send in embed, and then delete the file.

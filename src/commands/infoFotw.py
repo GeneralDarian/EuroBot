@@ -1,12 +1,14 @@
-from discord.ext import commands
+import logging
+import os
+
+import discord
 from discord import bot
-import logging, os, discord
 from discord.ext import commands
-from tools import textHelp, findOfTheWeek
+
+from tools import findOfTheWeek, textHelp
 
 
 class FotwInfo(commands.Cog):
-
     def __init__(self, client):
         self.client = client
 
@@ -23,7 +25,7 @@ class FotwInfo(commands.Cog):
 Find of the Week is a system where finds are 'ranked' by the commmunity. The best find wins this week's find of the week!
 For starters, post a picture of your find in <#{channel_id}>. Afterwards, other users can react to the picture with <:emote:{emote_id}> emotes!
 On Sundays, the find with the most emotes wins!"""
-    )
+        )
 
 
 def setup(client):

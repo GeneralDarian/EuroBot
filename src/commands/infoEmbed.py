@@ -1,13 +1,16 @@
-import discord
 import datetime
-from discord.ext import commands
-from discord.commands import Option
+import logging
+import time
+
+import discord
 from discord import bot
-import logging, time
+from discord.commands import Option
+from discord.ext import commands
+
 from tools import findOfTheWeek
 
-class InfoEmbed(commands.Cog):
 
+class InfoEmbed(commands.Cog):
     def __init__(self, client):
         self.client = client
 
@@ -20,7 +23,7 @@ class InfoEmbed(commands.Cog):
         embed = discord.Embed(
             title="/r/EuroCoins - Server and Bot Information",
             url="https://github.com/GeneralDarian/EuroBot",
-            color=0xffcc00
+            color=0xFFCC00,
         )
         embed.set_thumbnail(
             url="https://cdn.discordapp.com/icons/555331630206681108/ce006b24f0d5fb90fbbcfc53c17ab4a2"
@@ -54,6 +57,7 @@ class InfoEmbed(commands.Cog):
             icon_url="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
         )
         await ctx.respond(embed=embed)
+
 
 def setup(client):
     client.add_cog(InfoEmbed(client))

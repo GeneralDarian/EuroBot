@@ -1,13 +1,16 @@
+import logging
+import os
+import typing
+
 import discord
 from discord import bot
-from discord.commands import SlashCommandGroup, Option, option
+from discord.commands import Option, SlashCommandGroup, option
 from discord.ext import commands, pages
-import logging, typing, os
+
 from tools import coinData, textHelp
 
+
 class Search(commands.Cog):
-
-
     def __init__(self, client):
         self.client = client
 
@@ -22,48 +25,69 @@ class Search(commands.Cog):
         help_text = textHelp.search_help
         emote_id = os.getenv("HELP_EMOTE_ID")
         embed = discord.Embed(
-            title="""Search Help""",
-            description=help_text,
-            color=0xffcc00
+            title="""Search Help""", description=help_text, color=0xFFCC00
         )
-        await ctx.respond(
-            embed=embed
-        )
+        await ctx.respond(embed=embed)
 
     @search.command(description="Display 2-letter country codes")
     async def countryid(self, ctx):
         await ctx.respond(textHelp.country_id_help_menu)
 
-    @search.command(description="Search a coin by its Numista ID. Add year to end if mintages are difficult to sort through.")
-    async def id(self, ctx,
-                 numista_id:Option(str, "The Numista ID of the coin", required = True),
-                 year:Option(int, "The year the coin was minted in", required = False, default = None)):
+    @search.command(
+        description="Search a coin by its Numista ID. Add year to end if mintages are difficult to sort through."
+    )
+    async def id(
+        self,
+        ctx,
+        numista_id: Option(str, "The Numista ID of the coin", required=True),
+        year: Option(
+            int, "The year the coin was minted in", required=False, default=None
+        ),
+    ):
         embed = post_ID(numista_id, year)
         await ctx.respond(embed=embed)
 
-    @search.command(description="Look up a euro coin in our database for information, pictures, and mintages!")
+    @search.command(
+        description="Look up a euro coin in our database for information, pictures, and mintages!"
+    )
     @option(
         "country",
         description="The country of the coin (can either be the name in English or the 2-letter country code",
-        autocomplete=discord.utils.basic_autocomplete(dict.keys(textHelp.country_to_french)),
-        required=True
+        autocomplete=discord.utils.basic_autocomplete(
+            dict.keys(textHelp.country_to_french)
+        ),
+        required=True,
     )
     @option(
         "year",
         description="The year the coin was minted in",
-        autocomplete=discord.utils.basic_autocomplete([year for year in range(1999, 2030)]),
+        autocomplete=discord.utils.basic_autocomplete(
+            [year for year in range(1999, 2030)]
+        ),
         required=False,
-        default=None
+        default=None,
     )
     @option(
         "type",
         description="The type of coin",
-        autocomplete=discord.utils.basic_autocomplete(['1 cent', '2 cents', '5 cents', '10 cents', '20 cents', '50 cents', '1 euro', '2 euro', '2 euro commemorative']),
+        autocomplete=discord.utils.basic_autocomplete(
+            [
+                "1 cent",
+                "2 cents",
+                "5 cents",
+                "10 cents",
+                "20 cents",
+                "50 cents",
+                "1 euro",
+                "2 euro",
+                "2 euro commemorative",
+            ]
+        ),
         required=False,
-        default=None
+        default=None,
     )
     async def coin(self, ctx, country: str, year: int, type: str):
-        #convert type
+        # convert type
         if type is not None and type.lower() not in textHelp.types:
             try:
                 type = textHelp.from_type[type.lower()]
@@ -72,34 +96,34 @@ class Search(commands.Cog):
                 return
         if country == "San Marino":
             country = "sanmarino"
-        processed_search_list = {'Issuer': country, 'Year': year, 'Type': type}
+        processed_search_list = {"Issuer": country, "Year": year, "Type": type}
         logging.info(processed_search_list)
         results = coinData.searchEngine(processed_search_list)
         if len(results) == 1:
-            embed = post_ID(
-                results[0]["id"], processed_search_list["Year"]
-            )
+            embed = post_ID(results[0]["id"], processed_search_list["Year"])
             await ctx.respond(embed=embed)
         elif len(results) < 1:
             await ctx.respond("Your search has yielded no results!")
         elif len(results) > 12:
-            paginator = pages.Paginator(pages=self.result_page(results, processed_search_list))
+            paginator = pages.Paginator(
+                pages=self.result_page(results, processed_search_list)
+            )
             await paginator.respond(ctx.interaction, ephemeral=False)
         else:
-            embed = self.post_list_results(int(ctx.channel.id), results, processed_search_list)
+            embed = self.post_list_results(
+                int(ctx.channel.id), results, processed_search_list
+            )
             await ctx.respond(embed=embed, view=SearchDropDownView(results))
 
-
-    @bot.command(description="Fast search (without specifying arguments) - do /search help to learn how to use this.")
+    @bot.command(
+        description="Fast search (without specifying arguments) - do /search help to learn how to use this."
+    )
     @option(
         "query",
         description="A shortened search query. Run /search help to see what one looks like.",
-        required=True)
-    async def fsearch(
-            self,
-            ctx,
-            query
-    ):
+        required=True,
+    )
+    async def fsearch(self, ctx, query):
         search_list = query.split(" ")
         if len(search_list) > 3:
             await ctx.respond("You have added too many arguments! (max 3)")
@@ -112,25 +136,26 @@ class Search(commands.Cog):
         results = coinData.searchEngine(processed_search_list)
         logging.info(results)
         if len(results) == 1:
-            embed = post_ID(
-                results[0]["id"], processed_search_list["Year"]
-            )
+            embed = post_ID(results[0]["id"], processed_search_list["Year"])
             await ctx.respond(embed=embed)
         elif len(results) < 1:
             await ctx.respond("Your search has yielded no results!")
         elif len(results) > 12:
-            paginator = pages.Paginator(pages=self.result_page(results, processed_search_list))
+            paginator = pages.Paginator(
+                pages=self.result_page(results, processed_search_list)
+            )
             await paginator.respond(ctx.interaction, ephemeral=False)
         else:
-            embed = self.post_list_results(int(ctx.channel.id), results, processed_search_list)
+            embed = self.post_list_results(
+                int(ctx.channel.id), results, processed_search_list
+            )
             await ctx.respond(embed=embed, view=SearchDropDownView(results))
-
 
     def post_list_results(self, channel_id: int, results: list, processed_search: dict):
         embed = discord.Embed(
             title=f"Search results:",
             description=f"Your search yielded multiple results. To view detailed information about a coin, select a dropdown option or run the command `/search id <ID>`. Add <YEAR> to the end of the previous command to narrow things down a bit.",
-            color=0xffcc00
+            color=0xFFCC00,
         )
         embed.add_field(
             name="Displaying results for:",
@@ -173,53 +198,67 @@ class Search(commands.Cog):
         - processed_search [dict]: The processed search menu (needed for the post_list_results method)
         Outputs:
         - list[pages.Page]: A list of all pages.Page objects to be displayed by the bot"""
-        #how many pages will there be
-        max_page = len(results)//12 + 1
+        # how many pages will there be
+        max_page = len(results) // 12 + 1
 
-        #content for each page
+        # content for each page
         pages_content = []
 
         for i in range(max_page - 1):
-            #Create the actual page with the embed
-            embed = self.post_list_results(1, results[i*12:i*12 + 12], processed_search)
+            # Create the actual page with the embed
+            embed = self.post_list_results(
+                1, results[i * 12 : i * 12 + 12], processed_search
+            )
             pages_content.append(
                 pages.Page(
                     embeds=[embed],
-                    custom_view=SearchDropDownView(results[i*12:i*12 + 12])
+                    custom_view=SearchDropDownView(results[i * 12 : i * 12 + 12]),
                 )
             )
 
-        #create final page
-        if len(results)%12 != 0:
+        # create final page
+        if len(results) % 12 != 0:
             pages_content.append(
                 pages.Page(
-                    embeds=[self.post_list_results(1, results[(max_page - 1)*12: len(results)], processed_search)],
-                    custom_view=SearchDropDownView(results[(max_page - 1)*12: len(results)])
+                    embeds=[
+                        self.post_list_results(
+                            1,
+                            results[(max_page - 1) * 12 : len(results)],
+                            processed_search,
+                        )
+                    ],
+                    custom_view=SearchDropDownView(
+                        results[(max_page - 1) * 12 : len(results)]
+                    ),
                 )
             )
 
         return pages_content
 
+
 class SearchDropDownView(discord.ui.View):
     def __init__(self, results):
         super().__init__()
         self.add_item(SearchResultsDropDown(results))
+
+
 class SearchResultsDropDown(discord.ui.Select):
     options_select = []
+
     def __init__(self, results):
         options_select = []
         for value in results:
             options_select.append(
                 discord.SelectOption(
-                    label=value['title'],
-                    value=str(value['id']),
-                    description=str(value['id']),
-                    emoji=textHelp.french_to_emoji[value['issuer']['code']]
+                    label=value["title"],
+                    value=str(value["id"]),
+                    description=str(value["id"]),
+                    emoji=textHelp.french_to_emoji[value["issuer"]["code"]],
                 )
             )
             super().__init__(
                 placeholder="Choose a search result for more detailed information",
-                options=options_select
+                options=options_select,
             )
 
     async def callback(self, interaction):
@@ -237,13 +276,11 @@ def post_ID(coin_id, year=None):
         title=coin_information["title"],
         url=f"https://en.numista.com/catalogue/pieces{coin_id}.html",
         description=f"Numista ID: {coin_id}",
-        color=0xffcc00
+        color=0xFFCC00,
     )
     embed.set_thumbnail(url=coin_information["reverse_pic"])
     embed.set_image(url=coin_information["obverse_pic"])
-    embed.add_field(
-        name="Design", value=coin_information["design_info"], inline=False
-    )
+    embed.add_field(name="Design", value=coin_information["design_info"], inline=False)
     field_value = ""
     if year is None:
         for a in mintages:
@@ -273,6 +310,7 @@ def post_ID(coin_id, year=None):
             embed.add_field(name=year, value=field_value, inline=True)
 
     return embed
+
 
 def setup(client):
     client.add_cog(Search(client))
