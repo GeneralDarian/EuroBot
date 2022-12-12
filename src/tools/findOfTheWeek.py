@@ -4,7 +4,6 @@ from shutil import copyfile
 from time import time as unixtime
 
 import discord
-from discord import bot
 from discord.ext import commands
 from dotenv import load_dotenv
 
