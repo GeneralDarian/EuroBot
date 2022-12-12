@@ -6,8 +6,8 @@ from discord import bot
 from discord.commands import option
 from discord.ext import commands
 
-
 THIS_YEAR = datetime.today().year
+
 
 class DeMintMark(commands.Cog):
     def __init__(self, client):
@@ -23,7 +23,9 @@ class DeMintMark(commands.Cog):
     @option(
         name="year",
         description="The year the German commemorative was minted.",
-        autocomplete=discord.utils.basic_autocomplete([str(y) for y in range(2002, THIS_YEAR + 1)]),
+        autocomplete=discord.utils.basic_autocomplete(
+            [str(y) for y in range(2002, THIS_YEAR + 1)]
+        ),
         required=True,
     )
     async def demintmark(self, ctx, year):  # rare coins information command
@@ -33,7 +35,9 @@ class DeMintMark(commands.Cog):
             file = discord.File(f"data/DeMintMark/{year}.png", filename="image.png")
             await ctx.respond(file=file)
         except FileNotFoundError:
-            await ctx.respond(f"No €2 commemorative coins were released by Germany in {year}")
+            await ctx.respond(
+                f"No €2 commemorative coins were released by Germany in {year}"
+            )
 
 
 def setup(client):

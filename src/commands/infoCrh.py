@@ -2,7 +2,6 @@ import logging
 
 import discord
 from discord import Embed, SelectOption, bot, ui
-from discord.commands import Option
 from discord.ext import commands
 
 from tools import textHelp
@@ -30,21 +29,19 @@ class CRHInfo(commands.Cog):
 
 
 class CRHDropDown(discord.ui.View):
-
     options = []
-    if len(options) == 0:
-        for country in textHelp.country_to_french:
-            if country == "sanmarino":
-                title = "San Marino"
-            else:
-                title = country
-            options.append(
-                SelectOption(
-                    label=title.title(),
-                    description=f"Information about coin roll hunting in {title.title()}",
-                    emoji=textHelp.french_to_emoji[textHelp.country_to_french[country]],
-                )
+    for country in textHelp.country_to_french:
+        if country == "sanmarino":
+            title = "San Marino"
+        else:
+            title = country
+        options.append(
+            SelectOption(
+                label=title.title(),
+                description=f"Information about coin roll hunting in {title.title()}",
+                emoji=textHelp.french_to_emoji[textHelp.country_to_french[country]],
             )
+        )
 
     def __init__(self):
         super().__init__(timeout=60)

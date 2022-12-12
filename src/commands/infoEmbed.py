@@ -1,10 +1,8 @@
 import datetime
 import logging
-import time
 
 import discord
 from discord import bot
-from discord.commands import Option
 from discord.ext import commands
 
 from tools import findOfTheWeek
@@ -21,7 +19,7 @@ class InfoEmbed(commands.Cog):
     @bot.command()
     async def info(self, ctx):
         embed = discord.Embed(
-            title="/r/EuroCoins - Server and Bot Information",
+            title="/r/EuroCoins — Server and Bot Information",
             url="https://github.com/GeneralDarian/EuroBot",
             color=0xFFCC00,
         )
@@ -30,7 +28,7 @@ class InfoEmbed(commands.Cog):
         )
         embed.add_field(
             name="Server Members",
-            value=len([user for user in self.client.users if not user.bot]),
+            value=len(user for user in self.client.users if not user.bot),
             inline=True,
         )
         traders_role = ctx.guild.get_role(int(findOfTheWeek.TRADER_ROLE_ID))

@@ -1,7 +1,6 @@
 import logging
 
 from discord import bot
-from discord.commands import Option
 from discord.ext import commands
 
 from tools import textHelp
@@ -16,7 +15,7 @@ class RareInfo(commands.Cog):
         logging.info("Cog info loaded successfully")
 
     @bot.command()
-    async def rare(self, ctx):  # rare coins information command
+    async def rare(self, ctx):
         await ctx.respond(textHelp.rare_coins)
         return
 

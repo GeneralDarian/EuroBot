@@ -1,14 +1,9 @@
 import logging
-import os
-import typing
 
 import discord
-import openpyxl as xl
-from discord import bot
-from discord.commands import Option, SlashCommandGroup, option
-from discord.ext import commands, pages
+from discord.ext import commands
 
-from tools import coinData, textHelp
+from tools import textHelp
 
 
 class CCList(commands.Cog):

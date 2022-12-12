@@ -72,15 +72,15 @@ class Search(commands.Cog):
         description="The type of coin",
         autocomplete=discord.utils.basic_autocomplete(
             [
-                "1 cent",
-                "2 cents",
-                "5 cents",
-                "10 cents",
-                "20 cents",
-                "50 cents",
-                "1 euro",
-                "2 euro",
-                "2 euro commemorative",
+                "1 Cent",
+                "2 Cents",
+                "5 Cents",
+                "10 Cents",
+                "20 Cents",
+                "50 Cents",
+                "1 Euro",
+                "2 Euro",
+                "2 Euro Commemorative",
             ]
         ),
         required=False,
@@ -163,7 +163,6 @@ class Search(commands.Cog):
             inline=False,
         )
         for coin in results:
-            print(coin)
             field_title = coin["title"]
             if coin["issuer"]["code"] in textHelp.french_to_emoji:
                 field_title = (

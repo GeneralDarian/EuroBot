@@ -1,6 +1,5 @@
 import logging
 import os
-import time
 
 import discord
 from discord import bot
@@ -126,7 +125,7 @@ class ToCoin(commands.Cog):
             )
             await ctx.defer()
             await ctx.respond(file=file, embed=embed)
-            os.remove("data//outputs//output.png")
+            os.remove("data/outputs/output.png")
             self.using_tocoin = False
             return
         else:  # If response is False then something went wrong.

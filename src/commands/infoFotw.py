@@ -1,11 +1,10 @@
 import logging
-import os
 
 import discord
 from discord import bot
 from discord.ext import commands
 
-from tools import findOfTheWeek, textHelp
+from tools import findOfTheWeek
 
 
 class FotwInfo(commands.Cog):

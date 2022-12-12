@@ -1,11 +1,8 @@
 import logging
 
 import discord
-from discord import Embed, SelectOption, bot, ui
-from discord.commands import Option
+from discord import Embed
 from discord.ext import commands
-
-from tools import textHelp
 
 
 class SlashCMD(commands.Cog):

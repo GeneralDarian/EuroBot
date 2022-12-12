@@ -15,7 +15,7 @@ class StorageInfo(commands.Cog):
         logging.info("Cog info loaded successfully")
 
     @bot.command()
-    async def storage(self, ctx):  # Displays help information for storing coins
+    async def storage(self, ctx):
         await ctx.respond(textHelp.storage_msg_1)
         await ctx.respond(textHelp.storage_msg_2)
         return
