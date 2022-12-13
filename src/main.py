@@ -35,12 +35,11 @@ def main():
     async def on_ready():
         logging.info(f"{client.user} has logged in")
 
-    for filename in os.listdir("commands/"):
-        if filename.endswith(".py"):
-            try:
-                client.load_extension(f"commands.{filename[:-3]}")
-            except Exception as error:
-                logging.error(f"Error loading extension: {error}")
+    for filename in filter(lambda f: f.endswith(".py"), os.listdir("commands/")):
+        try:
+            client.load_extension(f"commands.{filename[:-3]}")
+        except Exception as error:
+            logging.error(f"Error loading extension: {error}")
 
     client.run(DISCORD_TOKEN)
 
