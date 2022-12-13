@@ -33,17 +33,6 @@ class findOfTheWeek:
         Outputs: np.array([list of message ids])"""
         return self.msgList
 
-    def isInList(self, msg: int) -> bool:
-        """Returns if message ID is in current FOTW list.
-        Inputs:
-        - msg (int): The message ID to check
-        Outputs:
-        - bool: True if the message ID is present, False if it isn't"""
-        if str(msg) in self.msgList:
-            return True
-        else:
-            return False
-
     def addMsg(self, msg: int) -> bool:
         """Adds a message ID to the end of the list.
         Inputs:
