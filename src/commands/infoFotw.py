@@ -1,4 +1,5 @@
 import logging
+from os import path
 
 import discord
 from discord import bot
@@ -13,7 +14,9 @@ class FotwInfo(commands.Cog):
 
     @commands.Cog.listener()
     async def on_ready(self):
-        logging.info("Cog info loaded successfully")
+        logging.info(
+            f"Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
+        )
 
     @bot.command()
     async def fotw(self, ctx):

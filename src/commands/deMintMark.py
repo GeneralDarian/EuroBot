@@ -1,5 +1,6 @@
 import logging
 from datetime import datetime
+from os import path
 
 import discord
 from discord import bot
@@ -15,7 +16,9 @@ class DeMintMark(commands.Cog):
 
     @commands.Cog.listener()
     async def on_ready(self):
-        logging.info("Cog info loaded successfully")
+        logging.info(
+            f"Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
+        )
 
     @bot.command(
         description="Look up the position of the German mintmark on the commemorative coin issued in the year specified."

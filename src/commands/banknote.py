@@ -1,4 +1,5 @@
 import logging
+from os import path
 
 from discord import bot
 from discord.commands import Option
@@ -14,7 +15,9 @@ class Banknote(commands.Cog):
 
     @commands.Cog.listener()
     async def on_ready(self):
-        logging.info(f"Cog info loaded successfully")
+        logging.info(
+            f"Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
+        )
 
     @bot.command(description="Get information about a banknote")
     async def banknote(

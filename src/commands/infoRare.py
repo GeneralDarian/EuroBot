@@ -1,4 +1,5 @@
 import logging
+from os import path
 
 from discord import bot
 from discord.ext import commands
@@ -12,7 +13,9 @@ class RareInfo(commands.Cog):
 
     @commands.Cog.listener()
     async def on_ready(self):
-        logging.info("Cog info loaded successfully")
+        logging.info(
+            f"Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
+        )
 
     @bot.command()
     async def rare(self, ctx):
