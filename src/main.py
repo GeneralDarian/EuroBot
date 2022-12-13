@@ -1,5 +1,6 @@
 import logging
 import os
+from os import path
 
 import discord
 from dotenv import load_dotenv
@@ -28,11 +29,13 @@ def main():
         datefmt="%H:%M:%S",
     )
 
+    os.chdir(path.dirname(__file__))
+
     @client.event
     async def on_ready():
         logging.info(f"{client.user} has logged in")
 
-    for filename in os.listdir("./commands"):
+    for filename in os.listdir("commands/"):
         if filename.endswith(".py"):
             try:
                 client.load_extension(f"commands.{filename[:-3]}")
