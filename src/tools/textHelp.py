@@ -484,29 +484,43 @@ May be able to get UNC rolls from the national bank. (someone inquire please)"""
     "croatie": """No information available (feel free to contribute by letting bot devs know!)""",
 }
 
-help_text = f"""EuroBot is our discord bot and is intended to help collectors on this server with various tools. This is a list of all commands which are available to regular members. To access the help menu, run the command `/help`.
+help_text = f"""\
+**General Help**
 
-<:emote:{int(emote_id)}> **Information Commands:**
-`/clean` - Displays information about cleaning coins
-`/crh` - Displays information about coin roll hunting in the eurozone, as well as detailed information for each country.
-`/info` - Displays server information and bot information.
-`/rare` - Displays information about "rare" coins, and warns to take online listings of common coins with a grain of salt.
-`/storage` - Displays information about how to store coins properly.
+EuroBot is the discord bot for the /r/EuroCoins discord server. It provides various commands and tools to help improve the server experience.
 
-<:emote:{int(emote_id)}> **Search Commands:**
-`/search help` - Displays information on how to use EuroBot's search function
-`/search coin [country] {{year}} {{type}}` - Searches for a euro coin in the database
-`/search id [id]` - Searches for a euro coin in the database by Numista ID
-`/fsearch [query]` - "Fast search" for a coin in the database (usage described with the search help command)
+In the following list of commands, command options in `[square brackets]` are optional while command options in `<angle brackets>` are required.
 
-<:emote:{int(emote_id)}> **CoinDesigner Commands:**
-`/tocoin help` - Display information on how to use CoinDesigner
-`/tocoin settings {{sigma}} {{intensity}} {{nmd}}` - Change CoinDesigner settings
-`/tocoin reset` - Reset coindesigner settings
+<:emote:{emote_id}> **Commands:**
 
-<:emote:{int(emote_id)}> **Other Commands:**
-`/banknote {{serial}}` - Display information about a Euro Banknote with the specified serial number
-`/demintmark {{year}}` - Display location of mintmark on a German CC minted in {{year}}"""
+`/banknote <serial>`: Identify a euro banknote and validate its’ serial number.
+
+`/demintmark <year>`: Show the location of the mintmark on German commemorative coins from the year `year`.
+
+`/help [command]`: Display help for the command `command`. If no command is specified, this help message is displayed.
+
+`/info <subject>`: Display information about the subject `subject`.
+
+`/search coin <country> [year] [type]`: Display information about the euro coin(s) from the country `country`. An optional `year` and `type` may be specified to narrow the search.
+`/search id <id>`: Display information about the euro coin with the numista ID `id`.
+
+`/tocoin settings [sigma] [intensity] [nmd]`: Set your default CoinDesigner settings.
+`/tocoin reset`: Reset your CoinDesigner settings to their defaults.\
+"""
+
+help_banknote_text = f"""\
+**SYNOPSIS**
+`/banknote <serial>`
+
+**DESCRIPTION**
+The `/banknote` command takes the serial number specified by `serial` and identifies the country the banknote originates from and the series the banknote is a part of. If the banknote is a Europa series banknote then it also identifies the printer where the banknote was printed. Additionally, the serial number is validated.
+
+Here is the location of the euro banknote serials for both series 1 (top) and series 2 (bottom): https://imgur.com/u3IraLz
+
+**EXAMPLES**
+Get information about a banknote: `/banknote [serial|Y04760833015]`
+Find out where a banknote comes from by supplying just the country code: `/banknote [serial|Y]`\
+"""
 
 search_help = f"""
 
