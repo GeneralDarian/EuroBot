@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.10
+
 import logging
 import os
 from os import path
