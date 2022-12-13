@@ -13,10 +13,7 @@ def main():
     intents.message_content = True
     intents.members = True
 
-    BOT_NAME = "EuroBot"
-
     load_dotenv()
-    DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
     activity = discord.Activity(type=discord.ActivityType.playing, name="Help: /help")
     client = discord.Bot(
@@ -43,7 +40,7 @@ def main():
         except Exception as error:
             logging.error(f"Error loading extension: {error}")
 
-    client.run(DISCORD_TOKEN)
+    client.run(os.getenv("DISCORD_TOKEN"))
 
 
 if __name__ == "__main__":
