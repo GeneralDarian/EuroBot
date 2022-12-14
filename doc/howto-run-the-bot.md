@@ -42,5 +42,7 @@ $ python3 -m pip install -r requirements.txt
 With all the setup done, running the bot is extremely simple:
 
 ```sh
-$ python3 src/main.py
+$ python3 src/main.py  # You can do this
+$ ./src/main.py        # ...or you can do this
+$ cd src; ./main.py    # ...or even this!
 ```
