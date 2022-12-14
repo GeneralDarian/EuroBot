@@ -35,7 +35,8 @@ class HelpCommand(commands.Cog):
             textHelp.help_text
             if command is None
             else descriptions.get(
-                command, f"No help information for the command /{command}"
+                command,
+                f"No help information for the command `/{command}`. Run `/help` for a full list of commands.",
             )
         )
 
