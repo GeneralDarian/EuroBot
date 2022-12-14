@@ -8,6 +8,10 @@ import discord
 from dotenv import load_dotenv
 
 
+class EuroBot(discord.Bot):
+    version = "EuroBot v1.2-DEV [2022.11.20]"
+
+
 def main():
     intents = discord.Intents.all()
     intents.message_content = True
@@ -16,7 +20,7 @@ def main():
     load_dotenv()
 
     activity = discord.Activity(type=discord.ActivityType.playing, name="Help: /help")
-    client = discord.Bot(
+    client = EuroBot(
         intents=intents,
         help_command=None,
         activity=activity,

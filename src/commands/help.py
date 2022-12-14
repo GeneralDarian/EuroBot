@@ -43,7 +43,7 @@ class HelpCommand(commands.Cog):
         embed = discord.Embed(
             title=f"{page} Help", description=description, color=0xFFCC00
         )
-        embed.set_footer(text="EuroBot v1.1")
+        embed.set_footer(text=self.client.version)
         await ctx.respond(embed=embed)
 
 

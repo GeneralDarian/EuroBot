@@ -99,7 +99,9 @@ def checksum_validator(serial: str) -> list:
             series_checksums = series2_checksums
             # It has to append the ASCII value of the second letter here to the end of the number
             checksum = (
-                int(serial[2:]) * 100 + ord(serial[1].upper()) if serial[2:] != "" else None
+                int(serial[2:]) * 100 + ord(serial[1].upper())
+                if serial[2:] != ""
+                else None
             )
     except ValueError:
         raise ValueError("Given serial number follows an invalid format")
@@ -166,6 +168,7 @@ class Banknote(commands.Cog):
             description=description,
             color=0xFFCC00,
         )
+        embed.set_footer(text=self.client.version)
         await ctx.respond(embed=embed)
 
 
