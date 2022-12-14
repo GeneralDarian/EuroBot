@@ -152,13 +152,13 @@ class Banknote(commands.Cog):
             case Series.SERIES_1:
                 description = (
                     f"**Series:** {banknote_info.series.value}\n"
-                    + f"**Country:** {banknote_info.country}\n"
+                    + f"**Country:** {textHelp.emojiReplacer(banknote_info.country)}\n"
                     + f"**Valid:** {banknote_info.valid}"
                 )
             case Series.SERIES_2:
                 description = (
                     f"**Series:** {banknote_info.series.value}\n"
-                    + f"**Country:** {banknote_info.country}\n"
+                    + f"**Country:** {textHelp.emojiReplacer(banknote_info.country)}\n"
                     + f"**Printer:** {banknote_info.printer}\n"
                     + f"**Valid:** {banknote_info.valid}"
                 )

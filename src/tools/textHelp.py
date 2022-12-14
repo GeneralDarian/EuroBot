@@ -1,51 +1,53 @@
 import logging
+import re
 
+from custom_types import CaseInsensitiveDict
 from tools import findOfTheWeek
 
 emote_id = findOfTheWeek.EMOTE_ID
 
 
-def emojiReplacer(t: str) -> str:
-    """Given a string will replace all !<country_code> with their respective emoji. If there is no emoji present, it just returns the string.
-    DO NOT LOWERCASE TEXT BEFORE PUTTING INTO FUNCTION!
-    Yes I know this can be more efficient but I am too lazy to do it! Let me improve it later
-    Input: string
-    Output: string"""
+def emojiReplacer(s: str) -> str:
+    """
+    Given a string will replace all !<country_code> with their respective emoji.  If there is no
+    emoji present, it just returns the string.
 
-    final = t
-    # 🇦🇩 🇦🇹 🇧🇪 🇨🇾 🇪🇪 🇫🇮 🇫🇷 🇩🇪 🇬🇷 🇮🇪 🇮🇹 🇱🇻 🇱🇹 🇱🇺 🇲🇹 🇳🇱 🇵🇹 🇸🇰 🇸🇮 🇪🇸 🇪🇺 🇭🇷 🇲🇨 🇻🇦 🇸🇲
-    codeToEmote = {
+    Input:  string
+    Output: string
+    """
+
+    codeToEmote = CaseInsensitiveDict({
         "!AN": "🇦🇩",
         "!AT": "🇦🇹",
         "!BE": "🇧🇪",
         "!CY": "🇨🇾",
+        "!DE": "🇩🇪",
         "!EE": "🇪🇪",
+        "!ES": "🇪🇸",
+        "!EU": "🇪🇺",
         "!FI": "🇫🇮",
         "!FR": "🇫🇷",
-        "!DE": "🇩🇪",
         "!GR": "🇬🇷",
+        "!HR": "🇭🇷",
         "!IE": "🇮🇪",
         "!IT": "🇮🇹",
-        "!LV": "🇱🇻",
         "!LT": "🇱🇹",
         "!LU": "🇱🇺",
+        "!LV": "🇱🇻",
+        "!MC": "🇲🇨",
         "!MT": "🇲🇹",
         "!NL": "🇳🇱",
         "!PT": "🇵🇹",
-        "!SK": "🇸🇰",
         "!SI": "🇸🇮",
-        "!ES": "🇪🇸",
-        "!EU": "🇪🇺",
-        "!HR": "🇭🇷",
-        "!MC": "🇲🇨",
-        "!VA": "🇻🇦",
+        "!SK": "🇸🇰",
         "!SM": "🇸🇲",
-    }
-    for i in codeToEmote:
-        if i == t:
-            final = final.replace(i, codeToEmote[i])
+        "!VA": "🇻🇦",
+    })
 
-    return final
+    for match in re.findall(r"!..", s):
+        s = s.replace(match, codeToEmote.get(match, match))
+
+    return s
 
 
 def get_multiple_result_desc(processed_results: dict) -> str:
