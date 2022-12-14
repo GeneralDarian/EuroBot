@@ -524,6 +524,17 @@ Get information about a banknote: `/banknote [serial|Y04760833015]`
 Find out where a banknote comes from by supplying just the country code: `/banknote [serial|Y]`\
 """
 
+help_demintmark_text = f"""\
+**SYNOPSIS**
+`/demintmark <year>`
+
+**DESCRIPTION**
+The `/demintmark` command displays the location of the mintmark on the German €2 commemorative coin(s) from the specified year. For more information on the different German mintmarks, run the `/info mintmarks` command.
+
+**EXAMPLES**
+Locate the mintmarks on the German 2022 €2 commemoratives: `/demintmark 2022`\
+"""
+
 search_help = f"""
 
 EuroBot's search functionality allows you to quickly search through Numista's database for all euro coins. Note that this only includes regular issue (i.e. 1c - 2 euro) coins, although it does include NIFC ones. EuroBot will also display the mintages for each coin.

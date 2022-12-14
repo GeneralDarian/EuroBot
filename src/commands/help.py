@@ -9,6 +9,11 @@ from discord.ext import commands
 
 from tools import textHelp
 
+descriptions = {
+    "banknote": textHelp.help_banknote_text,
+    "demintmark": textHelp.help_demintmark_text,
+}
+
 
 class HelpCommand(commands.Cog):
     def __init__(self, client):
@@ -24,13 +29,11 @@ class HelpCommand(commands.Cog):
     @option(
         name="command",
         description="Command to get help for",
-        autocomplete=discord.utils.basic_autocomplete(["banknote"]),
+        autocomplete=discord.utils.basic_autocomplete(descriptions.keys()),
         required=False,
         default=None,
     )
     async def help(self, ctx, command: str):
-        descriptions = {"banknote": textHelp.help_banknote_text}
-
         description = (
             textHelp.help_text
             if command is None

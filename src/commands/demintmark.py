@@ -20,9 +20,7 @@ class DeMintMark(commands.Cog):
             f"Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
         )
 
-    @bot.command(
-        description="Look up the position of the German mintmark on the commemorative coin issued in the year specified."
-    )
+    @bot.command(description="Locate the mintmark on German CCs")
     @option(
         name="year",
         description="The year the German commemorative was minted.",
@@ -35,7 +33,7 @@ class DeMintMark(commands.Cog):
         if not 2002 <= int(year) <= THIS_YEAR:
             await ctx.respond(f"Invalid year (must be between 2002 and {THIS_YEAR})")
         try:
-            file = discord.File(f"data/DeMintMark/{year}.png", filename="image.png")
+            file = discord.File(f"data/german_mintmarks/{year}.png", filename="image.png")
             await ctx.respond(file=file)
         except FileNotFoundError:
             await ctx.respond(
