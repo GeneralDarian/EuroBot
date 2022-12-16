@@ -33,7 +33,9 @@ class DeMintMark(commands.Cog):
         if not 2002 <= int(year) <= THIS_YEAR:
             await ctx.respond(f"Invalid year (must be between 2002 and {THIS_YEAR})")
         try:
-            file = discord.File(f"data/german_mintmarks/{year}.png", filename="image.png")
+            file = discord.File(
+                f"data/german_mintmarks/{year}.png", filename="image.png"
+            )
             await ctx.respond(file=file)
         except FileNotFoundError:
             await ctx.respond(
