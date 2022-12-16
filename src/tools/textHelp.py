@@ -537,6 +537,33 @@ The `/demintmark` command displays the location of the mintmark on the German �
 Locate the mintmarks on the German 2022 €2 commemoratives: `/demintmark 2022`\
 """
 
+info_mintmarks_text = f"""\
+Mintmarks (not to be confused with “Mint Master Marks”) are symbols (usually a letter), that feature on the design of a coin. They identify the location where a coin was minted. They are most well known for their prominence on German euro coins where the mint marks ‘A’, ‘D’, ‘F’, ‘G’, and ‘J’ can be found. For this reason many collectors like to collect 5 copies of each German euro coin, one for each mintmark.
+
+If you would like to find the location of mintmarks on German CCs, you can use the `/demintmark` command.
+
+The alphabetic mintmarks used in Euro coins are as follows:
+    - Finland Fi (Vantaa)
+    - Finland M (Vantaa)
+    - Germany A (Berlin)
+    - Germany D (Munich)
+    - Germany F (Stuttgart)
+    - Germany G (Karlsruhe)
+    - Germany J (Hamburg)
+    - Greece F (Pessac)
+    - Greece S (Finland)
+    - Italy R (Rome)
+    - Lithuania LMK (Vilnius)
+    - Luxembourg F (Pessac)
+    - Luxembourg S (Finland)
+    - Malta F (Pessac)
+    - Portugal INCM (Lisbon)
+    - San Marino R (Rome)
+    - Slovenia Fi (Vantaa)
+    - Spain M (Madrid)
+    - Vatican City R (Rome)\
+"""
+
 search_help = f"""
 
 EuroBot's search functionality allows you to quickly search through Numista's database for all euro coins. Note that this only includes regular issue (i.e. 1c - 2 euro) coins, although it does include NIFC ones. EuroBot will also display the mintages for each coin.
