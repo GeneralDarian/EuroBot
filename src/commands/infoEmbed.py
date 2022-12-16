@@ -16,7 +16,7 @@ class InfoEmbed(commands.Cog):
     @commands.Cog.listener()
     async def on_ready(self):
         logging.info(
-            "Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
+            f"Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
         )
 
     @bot.command()
