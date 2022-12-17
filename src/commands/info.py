@@ -31,7 +31,7 @@ class InfoCommand(commands.Cog):
         required=True,
         default=None,
     )
-    async def help(self, ctx, topic: str):
+    async def info(self, ctx, topic: str):
         embed = discord.Embed(
             title=f"“{topic.title()}” Title Page",
             description=descriptions.get(
@@ -44,4 +44,4 @@ class InfoCommand(commands.Cog):
 
 
 def setup(client):
-    client.add_cog(HelpCommand(client))
+    client.add_cog(InfoCommand(client))

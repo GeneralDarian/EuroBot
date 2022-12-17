@@ -20,7 +20,7 @@ class InfoEmbed(commands.Cog):
         )
 
     @bot.command()
-    async def info(self, ctx):
+    async def info_(self, ctx):
         embed = discord.Embed(
             title="/r/EuroCoins — Server and Bot Information",
             url="https://github.com/GeneralDarian/EuroBot",
