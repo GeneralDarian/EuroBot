@@ -543,25 +543,25 @@ Mintmarks (not to be confused with “Mint Master Marks”) are symbols (usually
 If you would like to find the location of mintmarks on German CCs, you can use the `/demintmark` command.
 
 The alphabetic mintmarks used in Euro coins are as follows:
-    - Finland Fi (Vantaa)
-    - Finland M (Vantaa)
-    - Germany A (Berlin)
-    - Germany D (Munich)
-    - Germany F (Stuttgart)
-    - Germany G (Karlsruhe)
-    - Germany J (Hamburg)
-    - Greece F (Pessac)
-    - Greece S (Finland)
-    - Italy R (Rome)
-    - Lithuania LMK (Vilnius)
-    - Luxembourg F (Pessac)
-    - Luxembourg S (Finland)
-    - Malta F (Pessac)
-    - Portugal INCM (Lisbon)
-    - San Marino R (Rome)
-    - Slovenia Fi (Vantaa)
-    - Spain M (Madrid)
-    - Vatican City R (Rome)\
+    - Finland Fi (Vantaa, Finland)
+    - Finland M (Vantaa, Finland)
+    - Germany A (Berlin, Germany)
+    - Germany D (Munich, Germany)
+    - Germany F (Stuttgart, Germany)
+    - Germany G (Karlsruhe, Germany)
+    - Germany J (Hamburg, Germany)
+    - Greece F (Pessac, France)
+    - Greece S (Vantaa, Finland)
+    - Italy R (Rome, Italy)
+    - Lithuania LMK (Vilnius, Lithuania)
+    - Luxembourg F (Pessac, France)
+    - Luxembourg S (Vantaa, Finland)
+    - Malta F (Pessac, France)
+    - Portugal INCM (Lisbon, Portugal)
+    - San Marino R (Rome, Italy)
+    - Slovenia Fi (Vantaa, Finland)
+    - Spain M (Madrid, Spain)
+    - Vatican City R (Rome, Italy)\
 """
 
 search_help = f"""
