@@ -24,7 +24,7 @@ class ServerInfoCommand(commands.Cog):
         embed = discord.Embed(
             title="/r/EuroCoins — Server and Bot Information",
             url="https://github.com/GeneralDarian/EuroBot",
-            description="EuroBot is an open source project created by @General Darian ✓ᵛᵉʳᶦᶠᶦᵉᵈ#8498 and @Mango Man#0669. Click on the embed title to visit the bot's github!",
+            description="EuroBot is an open source project created by <@!228069568222855169> and <@!280428276810383370>. Click on the embed title to visit the bot's github!",
             color=0xFFCC00,
         )
         embed.set_thumbnail(
