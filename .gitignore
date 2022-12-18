@@ -12,3 +12,6 @@ __pycache__/
 .idea/
 FOTW.txt
 FOTW_BACKUPS/
+
+# Editor Configs
+.exrc
