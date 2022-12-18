@@ -19,7 +19,7 @@ class ServerInfoCommand(commands.Cog):
             f"Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
         )
 
-    @bot.command()
+    @bot.command(description="Get information about the current server")
     async def serverinfo(self, ctx):
         embed = discord.Embed(
             title="/r/EuroCoins — Server and Bot Information",
