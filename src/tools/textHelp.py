@@ -353,15 +353,6 @@ french_to_genitive = {
 default_year = [i for i in range(1999, 2031)]
 default_types = types
 
-clean_msg = """In general, **you should never clean coins.** This is because most cleaning methods can remove tarnishing or luster on coins which naturally develops over time, and may also leave scratch marks on the coin. Even lightly polishing it with a cloth may significantly impact a coins surface! To most collectors, this damage is noticeable and _significantly_ impacts the value of a coin.
-    
-The above advice is mostly meant towards older coins (usually pre-euro). Since euro coins are rarely worth a significant amount over face value (especially when found in circulation), cleaning them won't significantly lower their value. However, it is _still not recommended to clean them_ if you intend on trading coins or intend on your collection increasing in value in the future.
-    
-If your coins are physically dirty (i.e. due to dirt), __there are safe methods of removing it__. Soak the coin in distilled water or __100%__ acetone[see below], rinse with a fresh portion of the same liquid, and allow the coin to air-dry. When in doubt, feel free to ask members on the server for help!
-    
-*Use only pure acetone. Do not use acetone-containing products (i.e. nail polish remover). When using acetone, do not use plastic containers, and use it in a well-ventilated area. You can purchase pure acetone in most hardware stores.
-"""
-
 storage_msg_1 = """There are many safe methods of storing coins. The most common methods are to use 2x2 flips, capsules, or special albums. 
     
 2x2 flips are small cardboard flips with holes cut in which are covered by film. You put the coin inside and fold the flips shut. Depending on the flip, the flip will either glue itself shut, or you will need to staple it shut. If you need to staple the flip shut, make sure that your stapler does not contact the coin inside the flip, otherwise it may leave a mark on the coin! Once inside the coin is protected from the outside environment. You still need to be careful with how you store your coins, though. There are special albums which can store 2x2 flips. The downside is that the flips can be quite big and you will need a lot of album space to store them. Lots of people also prefer to store flips in special boxes. There's lots of space on the flip to write information about the coin, or alternatively you can download flip tags made by chris24o1#9608 which you can glue onto coin flips here: https://discordapp.com/channels/555331630206681108/555333655866769418/930114755027402792
@@ -535,6 +526,16 @@ The `/demintmark` command displays the location of the mintmark on the German �
 
 **EXAMPLES**
 Locate the mintmarks on the German 2022 €2 commemoratives: `/demintmark 2022`\
+"""
+
+info_cleaning_text = """\
+In general, **you should never clean coins.** This is because most cleaning methods can remove tarnishing or luster on coins which naturally develops over time, and may also leave scratch marks on the coin. Even lightly polishing it with a cloth may significantly impact a coins surface! To most collectors, this damage is noticeable and _significantly_ impacts the value of a coin.
+
+The above advice is mostly meant towards older coins (usually pre-euro). Since euro coins are rarely worth a significant amount over face value (especially when found in circulation), cleaning them won’t significantly lower their value. However, it is _still not recommended to clean them_ if you intend on trading coins or intend on your collection increasing in value in the future.
+
+If your coins are physically dirty (i.e. due to dirt), __there are safe methods of removing it__. Soak the coin in distilled water or __100%__ acetone[see below], rinse with a fresh portion of the same liquid, and allow the coin to air-dry. When in doubt, feel free to ask members on the server for help!
+
+*Use only pure acetone. Do not use acetone-containing products (i.e. nail polish remover). When using acetone, do not use plastic containers, and use it in a well-ventilated area. You can purchase pure acetone in most hardware stores.\
 """
 
 info_mintmarks_text = f"""\

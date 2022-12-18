@@ -9,6 +9,7 @@ from discord.ext import commands
 from tools import textHelp
 
 descriptions = {
+    "cleaning": textHelp.info_cleaning_text,
     "mintmarks": textHelp.info_mintmarks_text,
 }
 
