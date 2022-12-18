@@ -9,7 +9,7 @@ from discord.ext import commands
 from tools import findOfTheWeek
 
 
-class InfoEmbed(commands.Cog):
+class ServerInfoCommand(commands.Cog):
     def __init__(self, client):
         self.client = client
 
@@ -20,10 +20,11 @@ class InfoEmbed(commands.Cog):
         )
 
     @bot.command()
-    async def info_(self, ctx):
+    async def serverinfo(self, ctx):
         embed = discord.Embed(
             title="/r/EuroCoins — Server and Bot Information",
             url="https://github.com/GeneralDarian/EuroBot",
+            description="EuroBot is an open source project created by @General Darian ✓ᵛᵉʳᶦᶠᶦᵉᵈ#8498 and @Mango Man#0669. Click on the embed title to visit the bot's github!",
             color=0xFFCC00,
         )
         embed.set_thumbnail(
@@ -31,7 +32,7 @@ class InfoEmbed(commands.Cog):
         )
         embed.add_field(
             name="Server Members",
-            value=len(user for user in self.client.users if not user.bot),
+            value=len([user for user in self.client.users if not user.bot]),
             inline=True,
         )
         traders_role = ctx.guild.get_role(int(findOfTheWeek.TRADER_ROLE_ID))
@@ -42,23 +43,16 @@ class InfoEmbed(commands.Cog):
         ).days
         guild_creation_value = f"{guild_diff} days old\nCreated {guild_creation_time.strftime('%d. %B %Y')}"
         embed.add_field(
-            name="Server is currently...",
+            name="Server is currently…",
             value=guild_creation_value,
-        )
-        embed.add_field(
-            name="Bot version:",
-            value="1.1 [Released 2022.11.20]",
         )
         embed.add_field(
             name="EuroBot Discord:",
             value="https://discord.gg/ev53PnSaXV",
         )
-        embed.set_footer(
-            text="EuroBot is an open source project created by @General Darian ✓ᵛᵉʳᶦᶠᶦᵉᵈ#8498 and @Mango Man#0669. Click on the embed title to visit the bot's github!",
-            icon_url="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-        )
+        embed.set_footer(text=self.client.version)
         await ctx.respond(embed=embed)
 
 
 def setup(client):
-    client.add_cog(InfoEmbed(client))
+    client.add_cog(ServerInfoCommand(client))
