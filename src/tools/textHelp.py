@@ -528,6 +528,18 @@ The `/demintmark` command displays the location of the mintmark on the German â‚
 Locate the mintmarks on the German 2022 â‚¬2 commemoratives: `/demintmark 2022`\
 """
 
+help_info_text = f"""\
+**SYNOPSIS**
+`/info <topic>`
+
+**DESCRIPTION**
+The `/info` command displays information about the topic `topic`. The `topic` option is case-insensitive.
+
+**EXAMPLES**
+Get information on cleaning coins: `/info cleaning`
+Get information on mintmarks in coins: `/info mintmarks`\
+"""
+
 info_cleaning_text = """\
 In general, **you should never clean coins.** This is because most cleaning methods can remove tarnishing or luster on coins which naturally develops over time, and may also leave scratch marks on the coin. Even lightly polishing it with a cloth may significantly impact a coins surface! To most collectors, this damage is noticeable and _significantly_ impacts the value of a coin.
 
