@@ -6,12 +6,15 @@ from discord import bot
 from discord.commands import option
 from discord.ext import commands
 
+from custom_types import CaseInsensitiveDict
 from tools import textHelp
 
-descriptions = {
-    "cleaning": textHelp.info_cleaning_text,
-    "mintmarks": textHelp.info_mintmarks_text,
-}
+descriptions = CaseInsensitiveDict(
+    {
+        "cleaning": textHelp.info_cleaning_text,
+        "mintmarks": textHelp.info_mintmarks_text,
+    }
+)
 
 
 class InfoCommand(commands.Cog):

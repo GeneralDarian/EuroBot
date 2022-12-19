@@ -6,12 +6,15 @@ from discord import bot
 from discord.commands import option
 from discord.ext import commands
 
+from custom_types import CaseInsensitiveDict
 from tools import textHelp
 
-descriptions = {
-    "banknote": textHelp.help_banknote_text,
-    "demintmark": textHelp.help_demintmark_text,
-}
+descriptions = CaseInsensitiveDict(
+    {
+        "banknote": textHelp.help_banknote_text,
+        "demintmark": textHelp.help_demintmark_text,
+    }
+)
 
 
 class HelpCommand(commands.Cog):
