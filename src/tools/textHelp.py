@@ -377,10 +377,6 @@ crh_info = """**What is Coin Roll Hunting?**
   
 - Lastly, our community is very interested in live coin roll hunts! If you plan on hunting and don't mind livestreaming your hunt in a vc, don't hesitate to let people know in #coin-hunts!"""
 
-rare_coins = """__Be sceptical of online listings of coins claiming that your coin is worth a lot of money.__ People like to put up listings for very common circulation coins claiming they are worth thousands, when in reality they are probably worth face value. There are many factors which go into what makes a coin rare, and it's best to do more research by looking into mintage figures and sold ebay listings. When in doubt, you can also ask the community in the #values channel to give their own opinion into the value of a coin.
-    
-__Greece 2002S is not a rare coin, nor is it a mintage error.__ In 2002, Greece could not make enough 2 euro coins for the introduction of the euro, so they asked Finland to help them out by minting some 2 euro coins for them. Finland made approximately __70 million__ 2 euro coins for Greece and marked them with an "S" mintmark (S for "Suomi"). This is the most common coin listed on marketplaces for extremely high prices. """
-
 tocoin_help_menu = f"""___***COINDESIGNER HELP***___
 With CoinDesigner, you can convert any coin design you want into a 2 euro coin! However, the command may be a bit tricky to figure out how to use.
 
@@ -575,6 +571,14 @@ The alphabetic mintmarks used in Euro coins are as follows:
     - Slovenia Fi (Vantaa, Finland)
     - Spain M (Madrid, Spain)
     - Vatican City R (Rome, Italy)\
+"""
+
+info_rare_coins_text = """\
+__Be sceptical of online listings of coins claiming that your coin is worth a lot of money__. People like to put up listings for very common circulation coins claiming they are worth thousands, when in reality they are probably worth face value. There are many factors which go into what makes a coin rare, and it's best to do more research by looking into mintage figures and sold ebay listings. When in doubt, you can also ask the community in the <#680408011751424039> channel to give their own opinion into the value of a coin.
+    
+__Greece 2002S is not a rare coin, nor is it a mintage error__. In 2002, Greece could not make enough 2 euro coins for the introduction of the euro, so they asked Finland to help them out by minting some 2 euro coins for them. Finland made approximately __70 million__ 2 euro coins for Greece and marked them with an “S” mintmark (S for “Suomi”). This is the most common coin listed on marketplaces for extremely high prices. For more information about mintmarks, see `/info mintmarks`.
+
+Also keep in mind that a coin being rare does not make it __valuable__. Most “rare” or “low-mintage” coins are still worth close to around face value. Once again, feel free to ask in <#680408011751424039> if you find yourself being confused by a coins value.\
 """
 
 search_help = f"""

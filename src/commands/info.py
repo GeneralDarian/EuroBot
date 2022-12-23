@@ -13,6 +13,7 @@ descriptions = CaseInsensitiveDict(
     {
         "cleaning": textHelp.info_cleaning_text,
         "mintmarks": textHelp.info_mintmarks_text,
+        "rare coins": textHelp.info_rare_coins_text,
     }
 )
 
