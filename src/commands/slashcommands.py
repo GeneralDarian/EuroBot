@@ -18,8 +18,10 @@ class SlashCMD(commands.Cog):
 
     @commands.Cog.listener()
     async def on_message(self, msg):
-        if msg.author.bot:  # is message from bot?
+        # Don’t react to a bots message
+        if msg.author.bot:
             return
+
         if (
             msg.content.startswith("eur!")
             or msg.content.startswith("Eur!")
@@ -31,7 +33,7 @@ class SlashCMD(commands.Cog):
                 
 Slash commands offer better syntax, more concise arguments, and allow us to add buttons and other cool features to embeds. The old `eur!` and `€!` have thus been replaced.
 
-To execute a slash command, simply use the `/` prefix instead. Most commands still operate the same as they did pre-slash commads, but if you need help, feel free to issue `/help`.""",
+To execute a slash command, simply use the `/` prefix instead. Most commands in v1.1 still operate the same as they did pre-slash commads, but if you need help, feel free to issue `/help`.""",
                 color=0xFFCC00,
             )
             await msg.channel.send(embed=embed)
