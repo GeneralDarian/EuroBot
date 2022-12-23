@@ -353,19 +353,6 @@ french_to_genitive = {
 default_year = [i for i in range(1999, 2031)]
 default_types = types
 
-storage_msg_1 = """There are many safe methods of storing coins. The most common methods are to use 2x2 flips, capsules, or special albums. 
-    
-2x2 flips are small cardboard flips with holes cut in which are covered by film. You put the coin inside and fold the flips shut. Depending on the flip, the flip will either glue itself shut, or you will need to staple it shut. If you need to staple the flip shut, make sure that your stapler does not contact the coin inside the flip, otherwise it may leave a mark on the coin! Once inside the coin is protected from the outside environment. You still need to be careful with how you store your coins, though. There are special albums which can store 2x2 flips. The downside is that the flips can be quite big and you will need a lot of album space to store them. Lots of people also prefer to store flips in special boxes. There's lots of space on the flip to write information about the coin, or alternatively you can download flip tags made by chris24o1#9608 which you can glue onto coin flips here: https://discordapp.com/channels/555331630206681108/555333655866769418/930114755027402792
-    
-Capsules are small plastic covers which you can put your coin in. The advantage is that because they are hard surfaces, its less likely for the coin to be defaced by contact with another flip. The disadvantage is that they can be slightly more expensive and harder to store.
-"""
-
-storage_msg_2 = """There are many types of albums to store your coin in. __The only advice you need to follow is to ensure that the albums do not contain PVC.__ PVC is a chemical which leaves ugly green marks on a coin over time! PVC damage can be removed safely, but it is a nuisance to do so. It's best to avoid albums with the chemical for long-term storage.
-    
-Lighthouse/Leuchtturm is a very reliable brand for purchasing coin supplies. Your LCS should have a supply of storage materials for your coins. Alternatively, department stores are also a good place to check!
-    
-If you have any other questions about storing coins, feel free to inquire the community - we will be more than willing to help!"""
-
 crh_info = """**What is Coin Roll Hunting?**
 - __Coin Roll Hunting (CRH)__ is a hobby which many users on this server participate in regularly. The idea is to go to a bank, purchase coin rolls, then to look through the rolls for any special coins you don't have or may want to keep for trading. The regular coins you don't need anymore you deposit back into the bank. It's a cheap way to quickly expand your collection by only looking through circulated coins.
 
@@ -579,6 +566,48 @@ __Be sceptical of online listings of coins claiming that your coin is worth a lo
 __Greece 2002S is not a rare coin, nor is it a mintage error__. In 2002, Greece could not make enough 2 euro coins for the introduction of the euro, so they asked Finland to help them out by minting some 2 euro coins for them. Finland made approximately __70 million__ 2 euro coins for Greece and marked them with an “S” mintmark (S for “Suomi”). This is the most common coin listed on marketplaces for extremely high prices. For more information about mintmarks, see `/info mintmarks`.
 
 Also keep in mind that a coin being rare does not make it __valuable__. Most “rare” or “low-mintage” coins are still worth close to around face value. Once again, feel free to ask in <#680408011751424039> if you find yourself being confused by a coins value.\
+"""
+
+info_storage_text_opener = """\
+There are many safe methods of storing coins. The most common methods are to use coin albums, boxes, capsules, and/or flips.
+
+The following pages discuss different coin storing methods.\
+"""
+
+info_storage_text_albums = """\
+**Coin Albums**
+
+TODO\
+"""
+
+info_storage_text_boxes = """\
+**Coin Boxes**
+
+TODO\
+"""
+
+info_storage_text_capsules = """\
+**Coin Capsules**
+
+Coin capsules work in much the same way as coin flips. The main difference is that instead of the coin being in a folded piece of cardboard with a plastic window, the coin is in an entirely plastic capsule. These capsules can be found in a variety of sizes, but you must make sure to get the right capsule size for your coins.
+
+Capsules are typically more expensive than coin flips, but offer some aditional advantages. Since a capsule is entirely made out of plastic, you can see certain coin features like the edge engravings and such a lot better.
+
+Capsules are also far more durable than flips, and can be opened and closed repeatedly allowing for them to be reused. This isn’t really possible with flips.\
+"""
+
+info_storage_text_flips = """\
+**Coin Flips**
+
+Coin flips, also known as 2x2 flips by Americans (since they are 2x2 inches in size typically) are small cardboard flips with a plastic covered hole in the middle for viewing. There are two main types of coin flips, those being “standard” coin flips and “glued” coin flips.
+
+Standard coin flips are typically the cheaper of the two options. To use these you place your coin inside of the flip and use a stapler to staple the flip shut. Visually these are not as nice as glued flips since you have staples in your flip. Glued coin flips are typically more expensive than the standard flips and feature a small amount of glue around the inner border of the flip. To use these flips you simply place your coin in the flip and close it; the glue will keep the flip shut on its own.
+
+Coin flips allow you to securely protect your coins from the outside environment. They also have a relatively small space profile (although they are larger than capsules) and they can be easily stacked in boxes for compact coin storage. It is also common for collectors to write notes about a coin on the flip itself, such as the price or mintage of the coin.
+
+There are also special coin album sheets you can purchase that can house coin flips, but keep in mind that putting coins into a coin sheet without flips will allow you to fit many more coins per sheet.
+
+<@!632122927734718474> created a collection of country flags in DOCX, DWG, PNG, and PDF formats which can be printed out and glued/taped to your flips. You can find them here: https://discordapp.com/channels/555331630206681108/555333655866769418/930114755027402792.\
 """
 
 search_help = f"""
