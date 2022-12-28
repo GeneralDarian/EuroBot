@@ -577,7 +577,11 @@ The following pages discuss different coin storing methods.\
 info_storage_text_albums = """\
 **Coin Albums**
 
-TODO\
+Coin albums are one of the most popular ways of storing coins. Coin albums comprise of individual coin sheets which are plastic pages with slots where you place your coin for protection from an outside environment.
+
+Many coins albums come with a set number of pages giving the albums a set number of coins that they can store, but you can also buy individual coin sheets which can often be inserted into your standard office binder.
+
+IMPORTANT: If you choose to use a coin album or coin sheets, make sure that the sheets **do not** contain PVC plastics. Exposure to such plastics can damage coins over time.\
 """
 
 info_storage_text_boxes = """\
