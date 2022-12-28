@@ -13,6 +13,7 @@ from tools import textHelp
 pages = CaseInsensitiveDict(
     {
         "cleaning": textHelp.info_cleaning_text,
+        "find of the week": textHelp.info_find_of_the_week_text,
         "mintmarks": textHelp.info_mintmarks_text,
         "rare coins": textHelp.info_rare_coins_text,
         "storage": (

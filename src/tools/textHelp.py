@@ -533,6 +533,14 @@ If your coins are physically dirty (i.e. due to dirt), __there are safe methods 
 *Use only pure acetone. Do not use acetone-containing products (i.e. nail polish remover). When using acetone, do not use plastic containers, and use it in a well-ventilated area. You can purchase pure acetone in most hardware stores.\
 """
 
+info_find_of_the_week_text = f"""\
+“Find of the Week” is a weekly competition where new coin finds are “ranked” by the commmunity. The best find wins this week’s Find of the Week!
+
+For starters, post a picture of your find in <#{findOfTheWeek.CHANNEL_ID}>. Afterwards, other users can react to the picture with <:emote:{findOfTheWeek.EMOTE_ID}> emotes!
+
+On Sundays, the find with the most emotes wins!\
+"""
+
 info_mintmarks_text = f"""\
 Mintmarks (not to be confused with “Mint Master Marks”) are symbols (usually a letter), that feature on the design of a coin. They identify the location where a coin was minted. They are most well known for their prominence on German euro coins where the mint marks ‘A’, ‘D’, ‘F’, ‘G’, and ‘J’ can be found. For this reason many collectors like to collect 5 copies of each German euro coin, one for each mintmark.
 
