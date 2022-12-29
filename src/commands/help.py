@@ -13,6 +13,7 @@ descriptions = CaseInsensitiveDict(
     {
         "banknote": textHelp.help_banknote_text,
         "demintmark": textHelp.help_demintmark_text,
+        "help": textHelp.help_help_text,
         "info": textHelp.help_info_text,
     }
 )

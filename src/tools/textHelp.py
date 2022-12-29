@@ -413,7 +413,7 @@ In the following list of commands, command options in `[square brackets]` are op
 `/tocoin reset`: Reset your CoinDesigner settings to their defaults.\
 """
 
-help_banknote_text = f"""\
+help_banknote_text = """\
 **SYNOPSIS**
 `/banknote <serial>`
 
@@ -427,7 +427,7 @@ Get information about a banknote: `/banknote [serial|Y04760833015]`
 Find out where a banknote comes from by supplying just the country code: `/banknote [serial|Y]`\
 """
 
-help_demintmark_text = f"""\
+help_demintmark_text = """\
 **SYNOPSIS**
 `/demintmark <year>`
 
@@ -438,7 +438,23 @@ The `/demintmark` command displays the location of the mintmark on the German â‚
 Locate the mintmarks on the German 2022 â‚¬2 commemoratives: `/demintmark 2022`\
 """
 
-help_info_text = f"""\
+help_help_text = """\
+**SYNOPSIS**
+`/help [command]`
+
+**DESCRIPTION**
+The `/help` command displays a help page (like this one!) describing how a command works. A help
+page is typically broken up into three sections, the synopsis, the description, and the examples.
+
+The synopsis describes the command name and options the command takes. The description describes how
+the command actually works. The examples shows various examples of how you might use the command.
+
+**EXAMPLES**
+Get help on how to use `/help`: `/help help`
+Get help on how to use `/info`: `/help info`\
+"""
+
+help_info_text = """\
 **SYNOPSIS**
 `/info <topic>`
 
