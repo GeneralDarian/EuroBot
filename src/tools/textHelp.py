@@ -389,6 +389,14 @@ info_unknown_text = """\
 No information available. If you have any information that could be added here, let the bot developers know!\
 """
 
+slashcommands_notice = """\
+EuroBot 1.1 was released on **November 20th, 2022**. With it, we have officially switched to _slash commands_.
+
+Slash commands offer better syntax, more concise arguments, and allow us to add buttons and other cool features to embeds. The old `eur!` and `€!` have thus been replaced.
+
+To execute a slash command, simply use the `/` prefix instead. Most commands in v1.1 still operate the same as they did pre-slash commads, but if you need help, feel free to issue `/help`.\
+"""
+
 help_text = f"""\
 **General Help**
 
