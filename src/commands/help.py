@@ -15,6 +15,7 @@ descriptions = CaseInsensitiveDict(
         "demintmark": textHelp.help_demintmark_text,
         "help": textHelp.help_help_text,
         "info": textHelp.help_info_text,
+        "serverinfo": textHelp.help_serverinfo_text,
     }
 )
 

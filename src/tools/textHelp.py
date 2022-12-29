@@ -466,6 +466,21 @@ Get information on cleaning coins: `/info cleaning`
 Get information on mintmarks in coins: `/info mintmarks`\
 """
 
+help_serverinfo_text = """\
+**SYNOPSIS**
+`/serverinfo`
+
+**DESCRIPTION**
+The `/serverinfo` command displays information about the current server. It displays the following:
+  - Number of server members
+  - Number of confirmed traders in the server
+  - Age of the server
+  - Link to the EuroBot discord server
+
+**EXAMPLES**
+Get information about the current server: `/serverinfo`\
+"""
+
 info_cleaning_text = """\
 In general, **you should never clean coins.** This is because most cleaning methods can remove tarnishing or luster on coins which naturally develops over time, and may also leave scratch marks on the coin. Even lightly polishing it with a cloth may significantly impact a coins surface! To most collectors, this damage is noticeable and _significantly_ impacts the value of a coin.
 
