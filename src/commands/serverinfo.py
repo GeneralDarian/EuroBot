@@ -50,7 +50,7 @@ class ServerInfoCommand(commands.Cog):
             name="EuroBot Discord:",
             value="https://discord.gg/ev53PnSaXV",
         )
-        embed.set_footer(text=self.client.version)
+        embed.add_default_footer()
         await ctx.respond(embed=embed)
 
 

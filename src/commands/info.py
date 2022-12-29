@@ -153,7 +153,7 @@ class InfoCommand(commands.Cog):
                 description="No topic was provided! For help using the `/info` command, try `/help info`.",
                 color=0xFFCC00,
             )
-            embed.set_footer(text=self.client.version)
+            embed.add_default_footer()
             await ctx.respond(embed=embed)
 
         data = pages.get(topic, f"No information found for the topic “{topic}”")
@@ -164,7 +164,7 @@ class InfoCommand(commands.Cog):
                 description=data,
                 color=0xFFCC00,
             )
-            embed.set_footer(text=self.client.version)
+            embed.add_default_footer()
             await ctx.respond(embed=embed)
         elif type(data) is tuple:
             numpages = len(data)
@@ -175,14 +175,12 @@ class InfoCommand(commands.Cog):
                     description=data[i],
                     color=0xFFCC00,
                 )
-                embed.set_footer(text=self.client.version)
+                embed.add_default_footer()
                 builtpages.append(Page(embeds=[embed]))
             await Paginator(pages=builtpages, show_disabled=False).respond(
                 ctx.interaction, ephemeral=False
             )
         elif type(data) is dict:
-            footer = self.client.version
-
             class Dropdown(discord.ui.View):
                 def __init__(self):
                     super().__init__(timeout=60)
@@ -206,7 +204,7 @@ class InfoCommand(commands.Cog):
                         description=data["entries"][value]["description"],
                         color=0xFFCC00,
                     )
-                    embed.set_footer(text=footer)
+                    embed.add_default_footer()
 
                     await interaction.message.edit(content=None, embed=embed)
                     await interaction.response.defer(ephemeral=True)
@@ -221,7 +219,7 @@ class InfoCommand(commands.Cog):
                 description=textHelp.crh_info,
                 color=0xFFCC00,
             )
-            embed.set_footer(text=footer)
+            embed.add_default_footer()
             await ctx.respond(embed=embed, view=Dropdown())
         else:
             embed = discord.Embed(
@@ -229,7 +227,7 @@ class InfoCommand(commands.Cog):
                 description="Something went horribly wrong… please contact a bot admin.",
                 color=0xFF0000,
             )
-            embed.set_footer(text=self.client.version)
+            embed.add_default_footer()
             await ctx.respond(embed=embed)
 
 

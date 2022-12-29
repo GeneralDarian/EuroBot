@@ -50,7 +50,7 @@ class HelpCommand(commands.Cog):
         embed = discord.Embed(
             title=f"{page} Help", description=description, color=0xFFCC00
         )
-        embed.set_footer(text=self.client.version)
+        embed.add_default_footer()
         await ctx.respond(embed=embed)
 
 
