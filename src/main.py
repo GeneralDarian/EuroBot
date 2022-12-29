@@ -13,7 +13,9 @@ class EuroBot(discord.Bot):
 
 
 def main():
-    discord.Embed.add_default_footer = lambda self: self.set_footer(text=EuroBot.version)
+    discord.Embed.add_default_footer = lambda self: self.set_footer(
+        text=EuroBot.version
+    )
 
     intents = discord.Intents.all()
     intents.message_content = True
