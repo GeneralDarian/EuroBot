@@ -18,7 +18,7 @@ def emojiReplacer(s: str) -> str:
 
     codeToEmote = CaseInsensitiveDict(
         {
-            "!AN": "🇦🇩",
+            "!AD": "🇦🇩",
             "!AT": "🇦🇹",
             "!BE": "🇧🇪",
             "!CY": "🇨🇾",
@@ -459,7 +459,7 @@ May be able to get UNC rolls from the national bank. (someone inquire please)"""
     "saint-marin": """No information available. (feel free to contribute by letting bot devs know!)""",
     "andorre": """No information available. (feel free to contribute by letting bot devs know!)""",
     "vatican": """Ask the Pope nicely and he'll probably give you some Vatican coins for free.""",
-    "croatie": """No information available (feel free to contribute by letting bot devs know!)""",
+    "croatie": """No information available. (feel free to contribute by letting bot devs know!)""",
 }
 
 help_text = f"""\
@@ -554,6 +554,7 @@ The alphabetic mintmarks used in Euro coins are as follows:
     - Germany F (Stuttgart, Germany)
     - Germany G (Karlsruhe, Germany)
     - Germany J (Hamburg, Germany)
+    - Greece E (Madrid, Spain)
     - Greece F (Pessac, France)
     - Greece S (Vantaa, Finland)
     - Italy R (Rome, Italy)
