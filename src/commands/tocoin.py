@@ -79,45 +79,41 @@ class ToCoin(commands.Cog):
     async def Convert(self, ctx, msg: discord.Message):
         """Processes an image using Frakkur's image to 2-euro coin program."""
 
-        # check to make sure this command isn't currently being used. Otherwise file deletion becomes a bit screwed up.
-        if self.using_tocoin is True:
+        # Check to make sure this command isn’t currently being used.  Otherwise file deletion
+        # becomes a bit screwed up.
+        if self.using_tocoin:
             await ctx.respond(
                 "This command is currently in use. Please wait a few seconds before running it."
             )
             return
         self.using_tocoin = True
-
         response = False
-        # Case 1: The message containing the command contains an image. This takes priority over replying to a message with an image.
-        if len(msg.attachments) > 0:
-            for file in msg.attachments:
-                if file.filename.endswith(".jpg") or file.filename.endswith(
-                    ".png"
-                ):  # Only the first image is used.
-                    attachment = msg.attachments[
-                        0
-                    ]  # Gets first attachment from message
-                    response = designer.euro_designer(
-                        attachment.url,
-                        self.s,
-                        self.i,
-                        self.nmd,
-                    )
-                else:
-                    await ctx.respond("The attachment on this image is invalid!")
-                    self.using_tocoin = False
-                    return
-        else:
+
+        if not msg.attachments:
             await ctx.respond("There are no attachments on this message!")
             self.using_tocoin = False
             return
 
-        # If the response is true then conversion was successful.
-        # Get the file, send in embed, and then delete the file.
-        if response is True:
+        for file in msg.attachments:
+            if file.filename.endswith(".jpg") or file.filename.endswith(".png"):
+                attachment = msg.attachments[0]
+                response = designer.euro_designer(
+                    attachment.url,
+                    self.s,
+                    self.i,
+                    self.nmd,
+                )
+            else:
+                await ctx.respond("The attachment on this image is invalid!")
+                self.using_tocoin = False
+                return
+
+        # If the response is true then conversion was successful.  Get the file, send in embed, and
+        # then delete the file.
+        if response:
             file = discord.File("data/outputs/output.png", filename="image.png")
             embed = discord.Embed(
-                title=f"S = {self.s}, INTENSITY = {self.i}, NMD = {self.nmd}"
+                title=f"Sigma = {self.s}, Intensity = {self.i}, NMD = {self.nmd}"
             )
             embed.set_image(url="attachment://image.png")
             embed.set_footer(
@@ -126,14 +122,12 @@ class ToCoin(commands.Cog):
             await ctx.defer()
             await ctx.respond(file=file, embed=embed)
             os.remove("data/outputs/output.png")
-            self.using_tocoin = False
-            return
-        else:  # If response is False then something went wrong.
+        else:
             await ctx.respond(
                 "There was an error processing the image. Please contact an admin!"
             )
-            self.using_tocoin = False
-            return
+
+        self.using_tocoin = False
 
 
 def setup(client):
