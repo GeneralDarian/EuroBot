@@ -364,21 +364,6 @@ crh_info = """**What is Coin Roll Hunting?**
   
 - Lastly, our community is very interested in live coin roll hunts! If you plan on hunting and don't mind livestreaming your hunt in a vc, don't hesitate to let people know in #coin-hunts!"""
 
-tocoin_help_menu = f"""___***COINDESIGNER HELP***___
-With CoinDesigner, you can convert any coin design you want into a 2 euro coin! However, the command may be a bit tricky to figure out how to use.
-
-First, create an image. The image should be square (otherwise itll be squished!) and ideally black and white. Lighter areas will stand out more in the final design.
-Here are a few good example images you can use to test out the program: https://imgur.com/a/4PcuMoA
-
-Next, select the image options by running the command ``/tocoin settings``. To reset to default settings run the command ``/tocoin default``.
-<:emote:{emote_id}> ``sigma`` modifies how blurry (or sharp) the coin will appear to be. Higher ``sigma`` = more blurriness. 
-<:emote:{emote_id}> ``intensity`` modifies how big the fields of the coin will be. Higher ``intensity`` = more noticeable fields.
-<:emote:{emote_id}> ``nmd`` modifies how much dark areas of the coin pop out. Higher ``nmd`` = more noticeable dark areas. This is hard to tell, however, so it is recommended to keep this at 1.5 - 5.
-Fool around with these numbers until you feel like the coin looks good enough!
-
-To convert the image, select the message with the image, and go into message options (hold message on mobile, click on the three dots on PC) and go to Apps -> Convert. The bot will then post your converted coin in the chat! It may take a few seconds to do so.
-"""
-
 country_id_help_menu = """**TWO-LETTER COUNTRY IDENTIFICATION CODES**
 AD = Andorra | AT = Austria | BE = Belgium | CY = Cyprus | DE = Germany | EE = Estonia | ES = Spain | FI = Finland | FR = France | GR = Greece | HR = Croatia
 IE = Ireland | IT = Italy | LT = Lithuania | LU = Luxembourg | LV = Latvia | MC = Monaco | MT = Malta | NL = Netherlands | PT = Portugal | SI = Slovenia | 
@@ -487,6 +472,35 @@ The `/serverinfo` command displays information about the current server. It disp
 
 **EXAMPLES**
 Get information about the current server: `/serverinfo`\
+"""
+
+help_tocoin_text = f"""\
+**SYNOPSIS**
+`/tocoin settings [sigma] [intensity] [nmd]`
+`/tocoin reset`
+
+**DESCRIPTION**
+With CoinDesigner, you can convert any coin design you want into a 2 euro coin! However, the command may be a bit tricky to figure out how to use.
+
+First, create an image. The image should be square (otherwise it’ll be squished!) and ideally black and white. Lighter areas will stand out more in the final design.
+
+Here are a few good example images you can use to test out the program: https://imgur.com/a/4PcuMoA
+
+Next, select the image options by running the command `/tocoin settings`. To reset to default settings run the command `/tocoin default`. The settings are as follows:
+
+`sigma`: Modifies how blurry (or sharp) the coin will appear to be. Higher `sigma` = more blurriness.
+
+`intensity`: Modifies how big the fields of the coin will be. Higher `intensity` = more noticeable fields.
+
+`nmd`: Modifies how much dark areas of the coin pop out. Higher `nmd` = more noticeable dark areas. This is hard to tell, however, so it is recommended to keep this in the range 1.5—5.
+
+Fool around with these numbers until you feel like the coin looks good enough!
+
+To convert the image, select the message with the image, and go into message options (hold message on mobile, click on the three dots on PC) and go to Apps -> Convert. The bot will then post your converted coin in the chat! It may take a few seconds to do so.
+
+**EXAMPLES**
+Reset your tocoin settings to their original defaults: `/tocoin reset`
+Set the intensity setting to 10: `/tocoin settings [intensity|10]`\
 """
 
 info_cleaning_text = """\

@@ -49,20 +49,21 @@ class ToCoin(commands.Cog):
             default=4,
         ),
     ):
-        if float(sigma) < 0 or float(sigma) > 20:
-            await ctx.respond("Sigma must be between 0 and 20")
-            return
-        elif float(intensity) < 0 or float(intensity) > 20:
-            await ctx.respond("Intensity must be between 0 and 20")
-            return
-        elif float(nmd) < 1 or float(nmd) > 10:
-            await ctx.respond("nmd must be between 1 and 10")
-            return
         self.s = float(sigma)
         self.i = float(intensity)
         self.nmd = float(nmd)
+
+        if not 0 <= self.f <= 20:
+            await ctx.respond("Sigma must be between 0 and 20")
+            return
+        elif not 0 <= self.i <= 20:
+            await ctx.respond("Intensity must be between 0 and 20")
+            return
+        elif not 1 <= self.nmd <= 10:
+            await ctx.respond("nmd must be between 1 and 10")
+            return
         await ctx.respond(
-            f"CoinDesigner options changed to:\n **sigma**: {self.s}\n**intensity**: {self.i}\n**nmd**: {self.nmd}"
+            f"CoinDesigner options changed to:\n**sigma**: {self.s}\n**intensity**: {self.i}\n**nmd**: {self.nmd}"
         )
 
     @tocoin.command(description="Reset tocoin's image settings to their default")
@@ -71,12 +72,8 @@ class ToCoin(commands.Cog):
         self.i = 5
         self.nmd = 4
         await ctx.respond(
-            f"Reset CoinDesigner to default settings:\n**sigma**: 1\n**intensity**: 5\n**nmd**: 4"
+            f"Reset CoinDesigner to default settings:\n**sigma**: {self.s}\n**intensity**: {self.i}\n**nmd**: {self.nmd}"
         )
-
-    @tocoin.command(description="Display help menu for using CoinDesigner")
-    async def help(self, ctx):
-        await ctx.respond(textHelp.tocoin_help_menu)
 
     @commands.message_command()
     async def Convert(self, ctx, msg: discord.Message):
@@ -124,7 +121,7 @@ class ToCoin(commands.Cog):
             )
             embed.set_image(url="attachment://image.png")
             embed.set_footer(
-                text="CoinDesigner by @joaoperfig [GH] - https://github.com/joaoperfig : Use `/tocoin help` for help with changing settings"
+                text="CoinDesigner by <@!273393211156856832> — https://github.com/joaoperfig — Use `/tocoin help` for help with changing settings"
             )
             await ctx.defer()
             await ctx.respond(file=file, embed=embed)
