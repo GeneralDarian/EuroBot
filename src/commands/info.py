@@ -18,99 +18,99 @@ pages = CaseInsensitiveDict(
             "entries": {
                 "Andorra": {
                     "emoji": "!AD",
-                    "description": textHelp.french_to_crhhelp["andorre"],
+                    "description": textHelp.info_crh_andorra_text,
                 },
                 "Austria": {
                     "emoji": "!AT",
-                    "description": textHelp.french_to_crhhelp["autriche"],
+                    "description": textHelp.info_crh_austria_text,
                 },
                 "Belgium": {
                     "emoji": "!BE",
-                    "description": textHelp.french_to_crhhelp["belgique"],
+                    "description": textHelp.info_crh_belgium_text,
                 },
                 "Croatia": {
                     "emoji": "!HR",
-                    "description": textHelp.french_to_crhhelp["croatie"],
+                    "description": textHelp.info_crh_croatia_text,
                 },
                 "Cyprus": {
                     "emoji": "!CY",
-                    "description": textHelp.french_to_crhhelp["chypre"],
+                    "description": textHelp.info_crh_cyprus_text,
                 },
                 "Estonia": {
                     "emoji": "!EE",
-                    "description": textHelp.french_to_crhhelp["estonie"],
+                    "description": textHelp.info_crh_estonia_text,
                 },
                 "Finland": {
                     "emoji": "!FI",
-                    "description": textHelp.french_to_crhhelp["finlande"],
+                    "description": textHelp.info_crh_finland_text,
                 },
                 "France": {
                     "emoji": "!FR",
-                    "description": textHelp.french_to_crhhelp["france"],
+                    "description": textHelp.info_crh_france_text,
                 },
                 "Germany": {
                     "emoji": "!DE",
-                    "description": textHelp.french_to_crhhelp["allemagne"],
+                    "description": textHelp.info_crh_germany_text,
                 },
                 "Greece": {
                     "emoji": "!GR",
-                    "description": textHelp.french_to_crhhelp["grece"],
+                    "description": textHelp.info_crh_greece_text,
                 },
                 "Ireland": {
                     "emoji": "!IE",
-                    "description": textHelp.french_to_crhhelp["irlande"],
+                    "description": textHelp.info_crh_ireland_text,
                 },
                 "Italy": {
                     "emoji": "!IT",
-                    "description": textHelp.french_to_crhhelp["italie"],
+                    "description": textHelp.info_crh_italy_text,
                 },
                 "Latvia": {
                     "emoji": "!LV",
-                    "description": textHelp.french_to_crhhelp["lettonie"],
+                    "description": textHelp.info_crh_latvia_text,
                 },
                 "Lithuania": {
                     "emoji": "!LT",
-                    "description": textHelp.french_to_crhhelp["lituanie"],
+                    "description": textHelp.info_crh_lithuania_text,
                 },
                 "Luxembourg": {
                     "emoji": "!LU",
-                    "description": textHelp.french_to_crhhelp["luxembourg"],
+                    "description": textHelp.info_crh_luxembourg_text,
                 },
                 "Malta": {
                     "emoji": "!MT",
-                    "description": textHelp.french_to_crhhelp["malte"],
+                    "description": textHelp.info_crh_malta_text,
                 },
                 "Monaco": {
                     "emoji": "!MC",
-                    "description": textHelp.french_to_crhhelp["monaco"],
+                    "description": textHelp.info_crh_monaco_text,
                 },
                 "Netherlands": {
                     "emoji": "!NL",
-                    "description": textHelp.french_to_crhhelp["pays-bas"],
+                    "description": textHelp.info_crh_netherlands_text,
                 },
                 "Portugal": {
                     "emoji": "!PT",
-                    "description": textHelp.french_to_crhhelp["portugal"],
+                    "description": textHelp.info_crh_portugal_text,
                 },
                 "San Marino": {
                     "emoji": "!SM",
-                    "description": textHelp.french_to_crhhelp["saint-marin"],
+                    "description": textHelp.info_crh_san_marino_text,
                 },
                 "Slovakia": {
                     "emoji": "!SK",
-                    "description": textHelp.french_to_crhhelp["slovaquie"],
+                    "description": textHelp.info_crh_slovakia_text,
                 },
                 "Slovenia": {
                     "emoji": "!SI",
-                    "description": textHelp.french_to_crhhelp["slovenie"],
+                    "description": textHelp.info_crh_slovenia_text,
                 },
                 "Spain": {
                     "emoji": "!ES",
-                    "description": textHelp.french_to_crhhelp["espagne"],
+                    "description": textHelp.info_crh_spain_text,
                 },
                 "Vatican City": {
                     "emoji": "!VA",
-                    "description": textHelp.french_to_crhhelp["vatican"],
+                    "description": textHelp.info_crh_vatican_city_text,
                 },
             },
         },
@@ -181,6 +181,7 @@ class InfoCommand(commands.Cog):
                 ctx.interaction, ephemeral=False
             )
         elif type(data) is dict:
+
             class Dropdown(discord.ui.View):
                 def __init__(self):
                     super().__init__(timeout=60)
