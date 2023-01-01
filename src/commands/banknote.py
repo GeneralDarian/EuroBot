@@ -11,6 +11,25 @@ from discord.ext import commands
 from custom_types import CaseInsensitiveDict
 from tools import textHelp
 
+PRINTERS = CaseInsensitiveDict(
+    {
+        "d": "!FI SETEC",
+        "e": "!FR Oberthur",
+        "f": "!AT Österreichische Banknoten‐ und Sicherheitsdruck GmbH",
+        "g": "!NL Koninklĳke Joh. Enschedé",
+        "h": "!UK Thomas de la Rue",
+        "j": "!IT Banca d’Italia",
+        "k": "!IE Central Bank of Ireland",
+        "l": "!FR Banque de France",
+        "m": "!ES Fábrica Nacional de Moneda y Timbre",
+        "n": "!GR Bank of Greece",
+        "p": "!DE Giesecke & Devrient",
+        "r": "!DE Bundesdruckerei Berlin",
+        "t": "!BE National Bank of Belgium",
+        "u": "!PT Valora",
+    }
+)
+
 
 class Series(Enum):
     SERIES_1 = "The Ages and Styles of Europe"
@@ -50,7 +69,6 @@ def checksum_validator(serial: str) -> list:
             "m": ("!PT Portugal", 4),
             "n": ("!AT Austria", 3),
             "p": ("!NL Netherlands", 1),
-            "r": ("!LX Luxembourg", 8),
             "s": ("!IT Italy", 7),
             "t": ("!IE Ireland", 6),
             "u": ("!FR France", 5),
@@ -61,30 +79,26 @@ def checksum_validator(serial: str) -> list:
         }
     )
 
-    # series2_checksums[input] = (country, printer, checksum)
+    # series2_checksums[input] = (printer, checksum)
     series2_checksums = CaseInsensitiveDict(
         {
-            "d": ("!PL Poland", "Polska Wytwórnia Papierów Wartościowych", 4),
-            "e": ("!FR France", "Oberthur", 3),
-            "f": ("!BG Bulgaria", "Oberthur Fiduciaire AD Bulgaria", 2),
-            "h": ("!UK United Kingdom", "De La Rue Loughton", 9),
-            "j": ("!UK United Kingdom", "De La Rue Gateshead", 7),
-            "m": ("!PT Portugal", "Valora", 4),
+            "e": ("!FR Oberthur", 3),
+            "f": ("!BG Oberthur Fiduciaire AD Bulgaria", 2),
+            "m": ("!PT Valora", 4),
             "n": (
-                "!AT Austria",
-                "Österreichische Banknoten‐ und Sicherheitsdruck GmbH",
+                "!AT Österreichische Banknoten‐ und Sicherheitsdruck GmbH",
                 3,
             ),
-            "p": ("!NL Netherlands", "Koninklĳke Joh. Enschedé", 1),
-            "r": ("!DE Germany", "Bundesdruckerei", 8),
-            "s": ("!IT Italy", "Banca d'Italia", 7),
-            "t": ("!IE Ireland", "Central Bank of Ireland", 6),
-            "u": ("!FR France", "Banque de France", 5),
-            "v": ("!ES Spain", "FNMT-RCM", 4),
-            "w": ("!DE Germany", "Giesecke+Devrient (Leipzig)", 3),
-            "x": ("!DE Germany", "Giesecke+Devrient (Munich)", 2),
-            "y": ("!GR Greece", "Bank of Greece", 1),
-            "z": ("!BE Belgium", "National Bank of Belgium", 9),
+            "p": ("!NL Koninklĳke Joh. Enschedé", 1),
+            "r": ("!DE Bundesdruckerei Berlin", 8),
+            "s": ("!IT Banca d’Italia", 7),
+            "t": ("!IE Central Bank of Ireland", 6),
+            "u": ("!FR Banque de France", 5),
+            "v": ("!ES Fábrica Nacional de Moneda y Timbre", 4),
+            "w": ("!DE Giesecke & Devrient Leipzig", 3),
+            "x": ("!DE Giesecke & Devrient Munich", 2),
+            "y": ("!GR Bank of Greece", 1),
+            "z": ("!BE National Bank of Belgium", 9),
         }
     )
 
@@ -109,12 +123,12 @@ def checksum_validator(serial: str) -> list:
     # Is the first letter in the series checksum?  If not the note may have not been entered
     # properly.
     if not serial[0] in series_checksums:
-        raise ValueError(f"Country/Printer code ‘{serial[0]}’ doesn’t exist")
+        raise ValueError(f"Printer code ‘{serial[0]}’ doesn’t exist")
 
     if banknote.series == Series.SERIES_1:
         banknote.country, _ = series1_checksums[serial[0]]
     else:
-        banknote.country, banknote.printer, _ = series2_checksums[serial[0]]
+        banknote.printer, _ = series2_checksums[serial[0]]
 
     # Calculates the digital root, compares it to checksum, and also ensures that the length is
     # correct
@@ -141,7 +155,8 @@ class Banknote(commands.Cog):
     async def banknote(
         self,
         ctx,
-        serial=Option(str, "Your banknotes’ serial number", required=True),
+        serial=Option(str, "Your banknote’s serial number", required=True),
+        short=Option(str, "Your banknote’s short code", required=False),
     ):
         try:
             banknote_info = checksum_validator(serial)
@@ -150,16 +165,27 @@ class Banknote(commands.Cog):
 
         match banknote_info.series:
             case Series.SERIES_1:
+                if type(short) is str:
+                    if len(short) == 0:
+                        await ctx.respond("**Error:** Empty short code provided")
+                        return
+                    if (c := short[0]) not in PRINTERS:
+                        await ctx.respond(f"**Error:** Printer code ‘{c}’ doesn’t exist")
+                        return
+                    printer = textHelp.emojiReplacer(PRINTERS[c])
+                else:
+                    printer = "Unknown"
+
                 description = (
                     f"**Series:** {banknote_info.series.value}\n"
                     + f"**Country:** {textHelp.emojiReplacer(banknote_info.country)}\n"
+                    + f"**Printer**: {printer}\n"
                     + f"**Valid:** {banknote_info.valid}"
                 )
             case Series.SERIES_2:
                 description = (
                     f"**Series:** {banknote_info.series.value}\n"
-                    + f"**Country:** {textHelp.emojiReplacer(banknote_info.country)}\n"
-                    + f"**Printer:** {banknote_info.printer}\n"
+                    + f"**Printer:** {textHelp.emojiReplacer(banknote_info.printer)}\n"
                     + f"**Valid:** {banknote_info.valid}"
                 )
 
