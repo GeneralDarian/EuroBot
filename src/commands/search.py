@@ -22,19 +22,6 @@ class Search(commands.Cog):
 
     search = SlashCommandGroup("search", "Use the search command!")
 
-    @search.command(description="Display help menu for /search")
-    async def help(self, ctx):
-        help_text = textHelp.search_help
-        emote_id = os.getenv("HELP_EMOTE_ID")
-        embed = discord.Embed(
-            title="""Search Help""", description=help_text, color=0xFFCC00
-        )
-        await ctx.respond(embed=embed)
-
-    @search.command(description="Display 2-letter country codes")
-    async def countryid(self, ctx):
-        await ctx.respond(textHelp.country_id_help_menu)
-
     @search.command(
         description="Search a coin by its Numista ID. Add year to end if mintages are difficult to sort through."
     )
