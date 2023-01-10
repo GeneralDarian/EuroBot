@@ -802,7 +802,9 @@ IMPORTANT: If you choose to use a coin album or coin sheets, make sure that the 
 info_storage_text_boxes = """\
 **Coin Boxes**
 
-TODO\
+Coin boxes are in many eyes the most aesthetic way to store your coins. A coin box is comprised of various layers which can be stacked ontop of each other. Each layer has various holes where you can insert your coins. Typically you are intended to store your coins in a layer encased in a coin capsule.
+
+Boxes are perhaps the most expensive way to store your collection, but offer a visual appeal. That you don’t get with flips or albums.\
 """
 
 info_storage_text_capsules = """\
