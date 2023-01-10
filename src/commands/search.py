@@ -109,11 +109,11 @@ class Search(commands.Cog):
     )
     @option(
         "query",
-        description="A shortened search query. Run /search help to see what one looks like.",
+        description="A shortened search query. Run /help fsearch to see what one looks like.",
         required=True,
     )
     async def fsearch(self, ctx, query):
-        search_list = query.split(" ")
+        search_list = query.split()
         if len(search_list) > 3:
             await ctx.respond("You have added too many arguments! (max 3)")
         processed_search_list = coinData.searchProcessor(search_list)
@@ -283,7 +283,7 @@ def post_ID(coin_id, year=None):
             )
             if abs(coin_information["min_year"] - coin_information["max_year"]) > 5:
                 embed.set_footer(
-                    text=f"This sure is a lot of mintages... it may not even be displayed properly!\n Use /search id {coin_id} <YEAR> to narrow things down a bit or add a year to your search."
+                    text=f"This sure is a lot of mintages… it may not even be displayed properly!\nUse /search id {coin_id} <year> to narrow things down a bit or add a year to your search."
                 )
     else:
         if int(year) not in mintages:
