@@ -403,6 +403,7 @@ In the following list of commands, command options in `[square brackets]` are op
 
 `/search coin <country> [year] [type]`: Display information about the euro coin(s) from the country `country`. An optional `year` and `type` may be specified to narrow the search.
 `/search id <id>`: Display information about the euro coin with the numista ID `id`.
+`/fsearch <query>`: A faster way to search for coins using a query.
 
 `/tocoin settings [sigma] [intensity] [nmd]`: Set your default CoinDesigner settings.
 `/tocoin reset`: Reset your CoinDesigner settings to their defaults.\
