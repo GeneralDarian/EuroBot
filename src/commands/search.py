@@ -81,7 +81,7 @@ class Search(commands.Cog):
             try:
                 type = textHelp.from_type[type.lower()]
             except KeyError:
-                ctx.respond("Error: Invalid type entered.")
+                await ctx.respond("Error: Invalid type entered.")
                 return
         if country == "San Marino":
             country = "sanmarino"
@@ -103,6 +103,7 @@ class Search(commands.Cog):
                 int(ctx.channel.id), results, processed_search_list
             )
             await ctx.respond(embed=embed, view=SearchDropDownView(results))
+            return
 
     @bot.command(
         description="Fast search (without specifying arguments) - do /search help to learn how to use this."
@@ -127,13 +128,16 @@ class Search(commands.Cog):
         if len(results) == 1:
             embed = post_ID(results[0]["id"], processed_search_list["Year"])
             await ctx.respond(embed=embed)
+            return
         elif len(results) < 1:
             await ctx.respond("Your search has yielded no results!")
+            return
         elif len(results) > 12:
             paginator = pages.Paginator(
                 pages=self.result_page(results, processed_search_list)
             )
             await paginator.respond(ctx.interaction, ephemeral=False)
+            return
         else:
             embed = self.post_list_results(
                 int(ctx.channel.id), results, processed_search_list

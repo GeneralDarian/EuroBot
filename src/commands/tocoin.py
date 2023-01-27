@@ -83,14 +83,16 @@ class ToCoin(commands.Cog):
         # becomes a bit screwed up.
         if self.using_tocoin:
             await ctx.respond(
-                "This command is currently in use. Please wait a few seconds before running it."
+                "This command is currently in use. Please wait a few seconds before running it.",
+                ephemeral=True
             )
             return
         self.using_tocoin = True
+        await ctx.defer()
         response = False
 
         if not msg.attachments:
-            await ctx.respond("There are no attachments on this message!")
+            await ctx.respond("There are no attachments on this message!", ephemeral=True)
             self.using_tocoin = False
             return
 
@@ -104,7 +106,7 @@ class ToCoin(commands.Cog):
                     self.nmd,
                 )
             else:
-                await ctx.respond("The attachment on this image is invalid!")
+                await ctx.respond("The attachment on this image is invalid!", ephemeral=True)
                 self.using_tocoin = False
                 return
 
@@ -119,12 +121,12 @@ class ToCoin(commands.Cog):
             embed.set_footer(
                 text="CoinDesigner by <@!273393211156856832> — https://github.com/joaoperfig — Use `/tocoin help` for help with changing settings"
             )
-            await ctx.defer()
             await ctx.respond(file=file, embed=embed)
             os.remove("data/outputs/output.png")
         else:
             await ctx.respond(
-                "There was an error processing the image. Please contact an admin!"
+                "There was an error processing the image. Please contact an admin!",
+                ephemeral=True
             )
 
         self.using_tocoin = False

@@ -30,6 +30,7 @@ class DeMintMark(commands.Cog):
         required=True,
     )
     async def demintmark(self, ctx, year):  # rare coins information command
+        await ctx.defer()
         if not 2002 <= int(year) <= THIS_YEAR:
             await ctx.respond(f"Invalid year (must be between 2002 and {THIS_YEAR})")
         try:

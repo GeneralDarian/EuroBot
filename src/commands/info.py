@@ -115,6 +115,7 @@ pages = CaseInsensitiveDict(
             },
         },
         "find of the week": textHelp.info_find_of_the_week_text,
+        "lists": textHelp.list_info,
         "mintmarks": textHelp.info_mintmarks_text,
         "rare coins": textHelp.info_rare_coins_text,
         "storage": (

@@ -295,6 +295,7 @@ country_id_to_french = {
     "sk": "slovaquie",
     "sm": "saint-marin",
     "va": "vatican",
+    "hr": "croatie",
 }
 
 french_to_emoji = {
@@ -349,6 +350,7 @@ french_to_genitive = {
     "slovaquie": "Slovak",
     "slovenie": "Slovene",
     "vatican": "Vatican",
+    "croatie": "Croatian",
 }
 
 
@@ -518,6 +520,8 @@ If your coins are physically dirty (i.e. due to dirt), __there are safe methods 
 
 info_crh_andorra_text = """\
 Coin rolls can be obtained from the banks Andbank, Crèdit Andorrà, and MoraBanc. All three banks require you to be a customer to get rolls.
+
+However, one member did manage to get rolls for free from the bank by asking. So, it's worth a shot...
 
 Information regarding fees for getting rolls is unknown.\
 """
@@ -854,3 +858,42 @@ If you used EuroBot 1.0: `/fsearch` is used the exact same way as `eur!search`, 
 The database which EuroBot uses is remotely downloaded from Numista and requires updating sometimes by the developers. If you notice that a coin is missing, let the developers know.
 
 """
+
+
+list_info = f"""
+**Community Lists**
+On this discord server, certain community members run lists of finds posted by the community in #new-finds and #coin-hunts. Here is a list of all of these lists, along with links to the lists.
+
+In order for a find to be added to a list, it must meet requirements, which are listed below for each list. __Purchased coins are not counted.__
+
+In order to be added, post an image of your find and ping the person who runs the list.
+
+<:emote:{int(emote_id)}> **2021, 2022, and 2023 coins found in circulation**
+[2021 List](https://docs.google.com/spreadsheets/d/1KE25FjzNM4mQSrsAQezuQir18l9MFHu5ibW8kGL428M/edit?usp=sharing) | [2022 List](https://docs.google.com/spreadsheets/d/18Kxqp7E11nbDI05jv8fOsnS6JICPNjA1SKCTjzoP9Es/edit?usp=sharing) | [2023 List](https://docs.google.com/spreadsheets/d/1TJ5H5UEVmdxpco2CImzrCoxeX8WPACPb34jh_6K_cqs/edit?usp=sharing)
+Run by: ``@Borja#1242``
+To be added, a find must be a circulating coin dated from 2021/2022/2023 respectively.
+Multiple people are allowed to find the same coin.
+
+<:emote:{int(emote_id)}> **[Can /r/Eurocoins find every €2 commemorative coin (minted for circulation) in one year?](https://docs.google.com/spreadsheets/d/12i5g7whKRvABThPsYGdDIONX8PenMXrDjHHAz4Mb1IU/edit#gid=0)**
+List
+Run by: ``@runnobs#7372``
+To be added, a find must be a commemorative coin that has not been claimed by another user yet.
+For German coins, only one mintmark of each type can be found by the user. If you find multiple which are unclaimed, you will be asked to choose one.
+
+<:emote:{int(emote_id)}> **[Can /r/Eurocoins find all regulars and cents under 5M in one year?](https://docs.google.com/spreadsheets/d/17WfsrgfaPiufcG0w6AzaDy6DGygAe6D-/edit?usp=sharing&ouid=113325961342137346682&rtpof=true&sd=true)**
+Run by: ``@Eliott#0820``
+To be added, a find must be a circulating coin (non-commemorative) below 5 million mintage that has not been claimed by another user yet.
+German mintmarks are counted.
+
+<:emote:{int(emote_id)}> **[Find Of The Year (FOTY)](https://docs.google.com/document/d/1b_WWDXfzcomugO8dB2R4yEsQdqsOB1IPxe0bavRRHoI/edit?usp=sharing)**
+Run by: ``@General Darian ✓ᵛᵉʳᶦᶠᶦᵉᵈ#8498``
+To be added, finds must meet one of the 4 qualifications:
+1.) Low mintage regular: 200k or lower for 1c, 2c, 5c. 75k for everything else
+2.) Low mintage commemorative: 150k or lower for circulation
+3.) All NIFCs regardless of mintage
+4.) Notable errors (goes into more detail at the beginning of the list)
+These finds will be voted upon in January 2024 to determine the Find of the Year for 2023.
+Other statistics kept track of in FOTY: Number of Microstates found, Number of special coins found, Total face value of trades in 2023"""
+
+
+
