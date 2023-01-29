@@ -1,10 +1,14 @@
 import logging
-from os import path
+import os
+import typing
 
 import discord
-from discord.ext import commands
+import openpyxl as xl
+from discord import bot
+from discord.commands import Option, SlashCommandGroup, option
+from discord.ext import commands, pages
 
-from tools import textHelp
+from tools import coinData, textHelp
 
 
 class CCList(commands.Cog):
@@ -13,9 +17,7 @@ class CCList(commands.Cog):
 
     @commands.Cog.listener()
     async def on_ready(self):
-        logging.info(
-            f"Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
-        )
+        logging.info("Cog info loaded successfully")
 
     @commands.message_command()
     @commands.has_permissions(administrator=True)

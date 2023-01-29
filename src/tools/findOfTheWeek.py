@@ -10,7 +10,9 @@ from dotenv import load_dotenv
 from tools import textHelp
 
 load_dotenv()
-CHANNEL_ID = os.getenv("FOTW_CHANNEL_ID")
+CHANNEL_ID = os.getenv('FOTW_CHANNEL_ID_1')
+CHANNEL_ID_1 = os.getenv("FOTW_CHANNEL_ID_1")
+CHANNEL_ID_2 = os.getenv("FOTW_CHANNEL_ID_2")
 EMOTE_ID = os.getenv("FOTW_EMOTE_ID")
 EMOTE_NAME = os.getenv("FOTW_EMOTE_NAME")
 TRADER_ROLE_ID = os.getenv("VERIFIED_TRADER_GROUP_ID")
