@@ -395,7 +395,7 @@ In the following list of commands, command options in `[square brackets]` are op
 
 <:emote:{emote_id}> **Commands:**
 
-`/banknote <serial>`: Identify a euro banknote and validate its’ serial number.
+`/banknote <serial> [printer code]`: Identify a euro banknote and validate its serial number.
 
 `/demintmark <year>`: Show the location of the mintmark on German commemorative coins from the year `year`.
 
@@ -413,15 +413,17 @@ In the following list of commands, command options in `[square brackets]` are op
 
 help_banknote_text = """\
 **SYNOPSIS**
-`/banknote <serial>`
+`/banknote <serial> [printer code]`
 
 **DESCRIPTION**
 The `/banknote` command takes the serial number specified by `serial` and identifies the country the banknote originates from and the series the banknote is a part of. If the banknote is a Europa series banknote then it also identifies the printer where the banknote was printed. Additionally, the serial number is validated.
 
+If the banknote is a series 1 note, the optional `printer code` parameter can be supplied with the banknotes printer code to identify where the note was printed.
+
 Here is the location of the euro banknote serials for both series 1 (top) and series 2 (bottom): https://imgur.com/u3IraLz
 
 **EXAMPLES**
-Get information about a banknote: `/banknote [serial|Y04760833015]`
+Get information about a banknote: `/banknote [serial|Y04760833015] [printer_code|R028C4]`
 Find out where a banknote comes from by supplying just the country code: `/banknote [serial|Y]`\
 """
 
