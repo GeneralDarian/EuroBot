@@ -521,7 +521,7 @@ If your coins are physically dirty (i.e. due to dirt), __there are safe methods 
 info_crh_andorra_text = """\
 Coin rolls can be obtained from the banks Andbank, Crèdit Andorrà, and MoraBanc. All three banks require you to be a customer to get rolls.
 
-However, one member did manage to get rolls for free from the bank by asking. So, it's worth a shot...
+However, one member did manage to get rolls for free from the bank by asking. So, it's worth a shot…
 
 Information regarding fees for getting rolls is unknown.\
 """
