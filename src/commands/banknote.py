@@ -83,7 +83,7 @@ def checksum_validator(serial: str) -> list:
     series2_checksums = CaseInsensitiveDict(
         {
             "e": ("!FR Oberthur", 3),
-            "f": ("!BG Oberthur Fiduciaire AD Bulgaria", 2),
+            "f": ("!BG Oberthur Fiduciaire AD", 2),
             "m": ("!PT Valora", 4),
             "n": (
                 "!AT Österreichische Banknoten‐ und Sicherheitsdruck GmbH",
