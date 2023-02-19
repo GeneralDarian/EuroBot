@@ -122,7 +122,7 @@ def searchProcessor(arglist: list[str]) -> dict:
         else:  # idk how to do this part at all. Check if the argument is a year.
             try:
                 year = int(i)
-                if year >= 1999 and year < 2030:
+                if year >= 1999:
                     if (
                         already_year == True
                     ):  # If this is true then there has already been a year supplied.
@@ -130,8 +130,8 @@ def searchProcessor(arglist: list[str]) -> dict:
                         return final_dict
                     final_dict["Year"] = str(year)
                     already_year = True
-                else:  # Year is out of bounds - bounds are [1999, 2030)
-                    final_dict["Status"] = "Year is out of bounds [1999, 2030)"
+                else
+                    final_dict["Status"] = "Year is out of bounds"
                     return final_dict
             except ValueError:
                 # If it reaches this far this MUST be an invalid argument.

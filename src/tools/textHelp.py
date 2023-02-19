@@ -438,6 +438,19 @@ The `/demintmark` command displays the location of the mintmark on the German �
 Locate the mintmarks on the German 2022 €2 commemoratives: `/demintmark 2022`\
 """
 
+help_fsearch_text = """\
+**SYNOPSIS**
+`/fsearch <query>`
+
+**DESCRIPTION**
+The `/fsearch` command is a faster-to-use version of the `/search coin` command. For details on what this command does, run `/help search`. In order to search for coins the `/fsearch` command accepts a `query`. This query is comprised of up to three components: a country code, a year, and a coin type. The country code is a case-insensitive ISO-3166 Alpha-2 code. The year is any number greater than 1999. The coin type is any of: “1c”, “2c”, “5c”, “10c”, “20c”, “50c”, “1”, “2”, “2cc”.
+
+**EXAMPLES**
+Get information on the Erasmus coin from The Netherlands: `/fsearch [query|nl 2022 2cc]`.
+Get a list of all Slovene coins from 2010: `/fsearch [query|2010 si]`.
+Get information about the Irish 5c coin from 2013: `/fsearch [query|5c ie 2013]`.\
+"""
+
 help_help_text = """\
 **SYNOPSIS**
 `/help [command]`
@@ -464,6 +477,22 @@ The `/info` command displays information about the topic `topic`. The `topic` op
 **EXAMPLES**
 Get information on cleaning coins: `/info cleaning`
 Get information on mintmarks in coins: `/info mintmarks`\
+"""
+
+help_search_text = """\
+**SYNOPSIS**
+`/search coin <country> [year] [type]`
+`/search id <numista id> [year]`
+
+**DESCRIPTION**
+The `/search` command allows you to find information about particular coins. By providing a country or numista ID, along with an optional year and/or type you can search for the exact coin(s) you are interested in and get information about the coin that you might be interested in, such as mintage figures.
+
+A faster to use but more advanced version of this command exists called `/fsearch`. For more information on that command run `/help fsearch`.
+
+**EXAMPLES**
+Get information on the Erasmus coin from The Netherlands: `/search coin [country|Netherlands] [year|2022] [type|2 Euro Commemorative]`.
+Get a list of all Slovene coins from 2010: `/search coin [country|Slovenia] [year|2010]`.
+Get information about the Irish 5c coin from 2013: `/search id [numista id|123] [year|2013]`.\
 """
 
 help_serverinfo_text = """\

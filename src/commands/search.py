@@ -105,7 +105,7 @@ class Search(commands.Cog):
             await ctx.respond(embed=embed, view=SearchDropDownView(results))
 
     @bot.command(
-        description="Fast search (without specifying arguments) - do /search help to learn how to use this."
+        description="Faster alternative to /search"
     )
     @option(
         "query",
