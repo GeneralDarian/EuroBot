@@ -130,7 +130,7 @@ def searchProcessor(arglist: list[str]) -> dict:
                         return final_dict
                     final_dict["Year"] = str(year)
                     already_year = True
-                else
+                else:
                     final_dict["Status"] = "Year is out of bounds"
                     return final_dict
             except ValueError:
