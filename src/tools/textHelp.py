@@ -860,7 +860,7 @@ The database which EuroBot uses is remotely downloaded from Numista and requires
 """
 
 
-list_info = f"""
+list_info = f"""\
 **Community Lists**
 On this discord server, certain community members run lists of finds posted by the community in #new-finds and #coin-hunts. Here is a list of all of these lists, along with links to the lists.
 
@@ -893,7 +893,5 @@ To be added, finds must meet one of the 4 qualifications:
 3.) All NIFCs regardless of mintage
 4.) Notable errors (goes into more detail at the beginning of the list)
 These finds will be voted upon in January 2024 to determine the Find of the Year for 2023.
-Other statistics kept track of in FOTY: Number of Microstates found, Number of special coins found, Total face value of trades in 2023"""
-
-
-
+Other statistics kept track of in FOTY: Number of Microstates found, Number of special coins found, total face value of trades in 2023.\
+"""
