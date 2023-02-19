@@ -103,7 +103,6 @@ class Search(commands.Cog):
                 int(ctx.channel.id), results, processed_search_list
             )
             await ctx.respond(embed=embed, view=SearchDropDownView(results))
-            return
 
     @bot.command(
         description="Fast search (without specifying arguments) - do /search help to learn how to use this."
