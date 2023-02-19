@@ -156,7 +156,9 @@ class Banknote(commands.Cog):
         self,
         ctx,
         serial=Option(str, "Your banknote’s serial number", required=True),
-        printer_code=Option(str, "Your banknote’s printer code (series 1 only)", required=False),
+        printer_code=Option(
+            str, "Your banknote’s printer code (series 1 only)", required=False
+        ),
     ):
         try:
             banknote_info = checksum_validator(serial)

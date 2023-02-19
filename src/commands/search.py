@@ -104,9 +104,7 @@ class Search(commands.Cog):
             )
             await ctx.respond(embed=embed, view=SearchDropDownView(results))
 
-    @bot.command(
-        description="Faster alternative to /search"
-    )
+    @bot.command(description="Faster alternative to /search")
     @option(
         "query",
         description="A shortened search query. Run /help fsearch to see what one looks like.",
