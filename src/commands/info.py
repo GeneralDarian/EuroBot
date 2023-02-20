@@ -125,6 +125,7 @@ pages = CaseInsensitiveDict(
             textHelp.info_storage_text_capsules,
             textHelp.info_storage_text_flips,
         ),
+        "vending machine hunts": textHelp.info_vendingmachine_text,
     }
 )
 

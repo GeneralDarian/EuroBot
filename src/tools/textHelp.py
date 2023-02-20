@@ -939,3 +939,34 @@ To be added, finds must meet one of the 4 qualifications:
 These finds will be voted upon in January 2024 to determine the Find of the Year for 2023.
 Other statistics kept track of in FOTY: Number of Microstates found, Number of special coins found, total face value of trades in 2023.\
 """
+
+info_vendingmachine_text = """__**Introduction to Vending Machine Hunting**__
+Vending Machine Hunting is a strategy whereby you keep throwing in coins into a vending machine and press the return button. By doing so, your coins which are thrown in are added to a stack of coins. Pressing the return button gives you coins from the bottom of the stack. Hence, you can search through the entire stack of coins by constantly throwing in coins and pressing the return button. 
+
+This embed will provide some tips with vending machine hunting.
+
+**The testers**
+First, you want to make sure the vending machine you come across actually gives back change - sometimes, they don't! Throw in a 10 cent coin and press the return button. If it doesn't give the coin back, you can move on to the next machine - there's a high chance it won't return higher denominations either. Next, throw in a random 2 euro coin and press the return button. This is because vending machines may not return 2 euro coins, but rather 1 euro coins instead. It's better to find out immediately rather than throwing in all of your 2 euro coins!
+
+**The stopper**
+How do you know if you sorted through all coins in a vending machine? Take a coin and mark it with a marker, then throw it in. That way, when the marked coin (the "stopper") is returned (hence the machine "loops"), you know you have sorted through all coins of that denomination in the machine and you can "stop" hunting those coins. 
+
+**Rejected stoppers and coins**
+Sometimes you may throw a stopper in, but you hear a "CLUNK" sound, as if the coin was dropped into a box (normally adding a coin should be silent after you throw it in). This is because the coin was not added to the stack properly, thus __it will not be returned__. Pay attention to this noise, because you are not getting the stopper back! Throw in another marked coin instead until the machine accepts the coin.
+
+**Merging and non-merging machines**
+We generally identify two main types of vending machines.
+- MERGING: The vending machine merges change together. For example, if you throw in 5x 50 cent coins, the machine returns 2x 1 euro and 1x 50 cent coin or 1x 2 euro and 1x 50 cent coin. This usually means you can hunt 2 euro coins very quickly but other denominations only one at a time. A good tip is to throw in an odd number of euros and 80 cents (1x 50c, 1x 20c, 1x 10c) if you want to sort through all denominations.
+Note that some merging machines may not return 2 euro coins but rather 1 euro coins as the highest denomination.
+- NON-MERGING: The vending machine does not merge change together. This means if you throw in 5x 50 cent coins it will return 5x 50 cent coins. This makes it very easy to hunt a large amount of a different denomination.
+
+**Limits**
+There are some limits to vending machine hunts which you need to be aware of.
+- MAXIMUM INPUT LIMIT: The machine has a maximum amount you can throw in, and will reject anything higher. For example, machines with a max limit of 5 euros will reject any additional coins if you throw in 5 euros. Tip: You can try to go above the limit if you throw in, say, 4.80 and then another 2 euro coin or 1 euro coin - the machine will probably accept it.
+- MAXIMUM CHANGE LIMIT: Some machines will either give back large amounts of change in bills or will not give back large amounts of change (usually cigarette machines). Read the labels on all machines carefully since these limits are usually written there.
+
+**Cigarette machines**
+In some countries where ciggy machines are legal, you can hunt through them as well. You must verify your age on them by either sliding an ID card through a sensor or holding a debit card on an RFID scanner - you must do this for every cycle. Sometimes you must also select something to purchase, throw in less than it costs, and then cancel the purchase. Note that most ciggy machines have a 4.90 max change limit!
+
+Tip: For RFID scanner machines it helps to wear a glove and slide a debit card into the back of it so you can (somewhat) use both hands and don't have to fumble with a card and coins.
+"""
