@@ -83,8 +83,6 @@ class Search(commands.Cog):
             except KeyError:
                 await ctx.respond("Error: Invalid type entered.")
                 return
-        if country == "San Marino":
-            country = "sanmarino"
         processed_search_list = {"Issuer": country, "Year": year, "Type": type}
         logging.info(processed_search_list)
         results = coinData.searchEngine(processed_search_list)
