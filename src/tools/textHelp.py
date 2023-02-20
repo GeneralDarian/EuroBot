@@ -588,7 +588,10 @@ There are no ATMs with coin rolls.
 You can visit the European/Belgium Central Bank in Brussels as an EU citizen. You can order coin rolls for no fee up to €2000 in value (see https://www.youtube.com/watch?v=I4gwrpsl2Bk). They seem to distribute uncirculated, standard coins.
 
 **KBC**
-Free for customers but getting coin rolls is still difficult sometimes. Non-customers cannot get rolls.\
+Free for customers but getting coin rolls is still difficult sometimes. Non-customers cannot get rolls.
+
+**Belfius**
+Free for customers when you order through online platform.\
 """
 
 info_crh_croatia_text = info_unknown_text
@@ -655,6 +658,9 @@ Fee-less coin rolls for everyone (you need to show an ID card). The latest €2 
 """
 
 info_crh_ireland_text = """\
+This page may be incomplete. Feel free to contribute by letting bot devs know!
+
+**In general**
 Coin rolls are available at banks with a fee of €1 per roll; rolls could potentially have no fee if you only need a few.\
 """
 
@@ -675,13 +681,20 @@ This page may be incomplete. Feel free to contribute by letting bot devs know!
 Coin rolls are sold with a fee of €0.60 per roll.\
 """
 
-info_crh_lithuania_text = info_unknown_text
+info_crh_lithuania_text = """\
+This page may be incomplete. Feel free to contribute by letting bot devs know!
+
+**Exchange.lt**
+Works but very high fee (5% of cost)
+
+Worth checking out: Payout machines (banknote -> coin)\
+"""
 
 info_crh_luxembourg_text = """\
 This page may be incomplete. Feel free to contribute by letting bot devs know!
 
 **BCL**
-No information known yet. Their webshop sells commemoratives at face value, whether this is for sale in person is not known.
+No information known yet. Their webshop sells commemoratives (at a high premium but better than most resellers), whether this is for sale in person is not known.
 
 **Dexia-Bank**
 You should be able to get coin rolls with no additional fees.\
@@ -697,7 +710,7 @@ You can get rolls for a fee of €0.30 per roll. You must order coin rolls throu
 info_crh_monaco_text = info_unknown_text
 
 info_crh_netherlands_text = """\
-Note that 1c and 2c coins are no longer used in the Netherlands and cannot be got from rolls.
+Note that 1c and 2c coins are no longer used in the Netherlands and hence their rolls do not exist.
 
 **ABN AMRO, ING, and Rabobank**
 You can get coin rolls from Geldmaat coin roll machines, which are located in some branches of GAMMA and Karwei. You must be a customer of one of these banks and you must pay with your bankcard.

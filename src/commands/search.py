@@ -81,7 +81,7 @@ class Search(commands.Cog):
             try:
                 type = textHelp.from_type[type.lower()]
             except KeyError:
-                await ctx.respond("Error: Invalid type entered.")
+                await ctx.respond("Error: Invalid type entered. Type ``/search info`` for more information on using this command.")
                 return
         processed_search_list = {"Issuer": country, "Year": year, "Type": type}
         logging.info(processed_search_list)
@@ -90,7 +90,7 @@ class Search(commands.Cog):
             embed = post_ID(results[0]["id"], processed_search_list["Year"])
             await ctx.respond(embed=embed)
         elif len(results) < 1:
-            await ctx.respond("Your search has yielded no results!")
+            await ctx.respond("Your search has yielded no results! Type ``/search info`` for more information on using this command.")
         elif len(results) > 12:
             paginator = pages.Paginator(
                 pages=self.result_page(results, processed_search_list)
@@ -111,7 +111,7 @@ class Search(commands.Cog):
     async def fsearch(self, ctx, query):
         search_list = query.split()
         if len(search_list) > 3:
-            await ctx.respond("You have added too many arguments! (max 3)")
+            await ctx.respond("You have added too many arguments! (max 3). Run ``/help fsearch`` to get info on this command.")
         processed_search_list = coinData.searchProcessor(search_list)
 
         if processed_search_list["Status"] != "0":
@@ -122,7 +122,7 @@ class Search(commands.Cog):
         logging.info(results)
         match len(results):
             case 0:
-                await ctx.respond("Your search has yielded no results!")
+                await ctx.respond("Your search has yielded no results! Run ``/help fsearch`` to get info on this command.")
             case 1:
                 embed = post_ID(results[0]["id"], processed_search_list["Year"])
                 await ctx.respond(embed=embed)
@@ -286,7 +286,7 @@ def post_ID(coin_id, year=None):
         if int(year) not in mintages:
             embed.add_field(
                 name=year,
-                value="No coins issued during specified year",
+                value="No coins issued during specified year.",
                 inline=True,
             )
         else:

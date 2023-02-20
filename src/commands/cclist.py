@@ -17,7 +17,9 @@ class CCList(commands.Cog):
 
     @commands.Cog.listener()
     async def on_ready(self):
-        logging.info("Cog info loaded successfully")
+        logging.info(
+            f"Cog {path.basename(__file__).removesuffix('.py')} loaded successfully"
+        )
 
     @commands.message_command()
     @commands.has_permissions(administrator=True)

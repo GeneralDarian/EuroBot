@@ -86,7 +86,7 @@ def searchProcessor(arglist: list[str]) -> dict:
     if len(arglist) > 3:
         final_dict[
             "Status"
-        ] = "There are too many arguments in the given argument list!"
+        ] = "There are too many arguments in the given argument list! Run ``/help fsearch`` to get info on this command."
         return final_dict
 
     for i in arglist:
@@ -98,7 +98,7 @@ def searchProcessor(arglist: list[str]) -> dict:
             if (
                 already_type == True
             ):  # If a type has already been found, then multiple types were supplied
-                final_dict["Status"] = "Multiple types have been supplied!"
+                final_dict["Status"] = "Multiple types have been supplied! Run ``/help fsearch`` to get info on this command."
                 return final_dict
 
             elif already_type == False:
@@ -112,7 +112,7 @@ def searchProcessor(arglist: list[str]) -> dict:
             if (
                 already_country == True
             ):  # If a country name has already been supplied, then multiple country names were supplied
-                final_dict["Status"] = "Multiple countries were supplied!"
+                final_dict["Status"] = "Multiple countries were supplied! Run ``/help fsearch`` to get info on this command."
                 return final_dict
 
             elif already_country == False:
@@ -126,16 +126,16 @@ def searchProcessor(arglist: list[str]) -> dict:
                     if (
                         already_year == True
                     ):  # If this is true then there has already been a year supplied.
-                        final_dict["Status"] = "Multiple years were supplied!"
+                        final_dict["Status"] = "Multiple years were supplied! Run ``/help fsearch`` to get info on this command."
                         return final_dict
                     final_dict["Year"] = str(year)
                     already_year = True
                 else:
-                    final_dict["Status"] = "Year is out of bounds"
+                    final_dict["Status"] = "Year is out of bounds. Run ``/help fsearch`` to get info on this command."
                     return final_dict
             except ValueError:
                 # If it reaches this far this MUST be an invalid argument.
-                final_dict["Status"] = f"Invalid argument {i}"
+                final_dict["Status"] = f"Invalid argument {i}. Run ``/help fsearch`` to get info on this command."
                 return final_dict
 
     if already_country == False:
@@ -160,6 +160,7 @@ def searchEngine(params: dict) -> list[dict]:
             issuer = textHelp.country_to_french[params["Issuer"].title()]
         if params["Issuer"].lower() in textHelp.country_id_to_french:
             issuer = textHelp.country_id_to_french[params["Issuer"].lower()]
+
 
     # Get year
     if params["Year"] is not None:
