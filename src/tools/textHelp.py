@@ -395,7 +395,7 @@ In the following list of commands, command options in `[square brackets]` are op
 
 <:emote:{emote_id}> **Commands:**
 
-`/banknote <serial>`: Identify a euro banknote and validate its’ serial number.
+`/banknote <serial> [printer code]`: Identify a euro banknote and validate its serial number.
 
 `/demintmark <year>`: Show the location of the mintmark on German commemorative coins from the year `year`.
 
@@ -413,15 +413,17 @@ In the following list of commands, command options in `[square brackets]` are op
 
 help_banknote_text = """\
 **SYNOPSIS**
-`/banknote <serial>`
+`/banknote <serial> [printer code]`
 
 **DESCRIPTION**
 The `/banknote` command takes the serial number specified by `serial` and identifies the country the banknote originates from and the series the banknote is a part of. If the banknote is a Europa series banknote then it also identifies the printer where the banknote was printed. Additionally, the serial number is validated.
 
+If the banknote is a series 1 note, the optional `printer code` parameter can be supplied with the banknotes printer code to identify where the note was printed.
+
 Here is the location of the euro banknote serials for both series 1 (top) and series 2 (bottom): https://imgur.com/u3IraLz
 
 **EXAMPLES**
-Get information about a banknote: `/banknote [serial|Y04760833015]`
+Get information about a banknote: `/banknote [serial|Y04760833015] [printer_code|R028C4]`
 Find out where a banknote comes from by supplying just the country code: `/banknote [serial|Y]`\
 """
 
@@ -434,6 +436,19 @@ The `/demintmark` command displays the location of the mintmark on the German �
 
 **EXAMPLES**
 Locate the mintmarks on the German 2022 €2 commemoratives: `/demintmark 2022`\
+"""
+
+help_fsearch_text = """\
+**SYNOPSIS**
+`/fsearch <query>`
+
+**DESCRIPTION**
+The `/fsearch` command is a faster-to-use version of the `/search coin` command. For details on what this command does, run `/help search`. In order to search for coins the `/fsearch` command accepts a `query`. This query is comprised of up to three components: a country code, a year, and a coin type. The country code is a case-insensitive ISO-3166 Alpha-2 code. The year is any number greater than 1999. The coin type is any of: “1c”, “2c”, “5c”, “10c”, “20c”, “50c”, “1”, “2”, “2cc”.
+
+**EXAMPLES**
+Get information on the Erasmus coin from The Netherlands: `/fsearch [query|nl 2022 2cc]`.
+Get a list of all Slovene coins from 2010: `/fsearch [query|2010 si]`.
+Get information about the Irish 5c coin from 2013: `/fsearch [query|5c ie 2013]`.\
 """
 
 help_help_text = """\
@@ -462,6 +477,22 @@ The `/info` command displays information about the topic `topic`. The `topic` op
 **EXAMPLES**
 Get information on cleaning coins: `/info cleaning`
 Get information on mintmarks in coins: `/info mintmarks`\
+"""
+
+help_search_text = """\
+**SYNOPSIS**
+`/search coin <country> [year] [type]`
+`/search id <numista id> [year]`
+
+**DESCRIPTION**
+The `/search` command allows you to find information about particular coins. By providing a country or numista ID, along with an optional year and/or type you can search for the exact coin(s) you are interested in and get information about the coin that you might be interested in, such as mintage figures.
+
+A faster to use but more advanced version of this command exists called `/fsearch`. For more information on that command run `/help fsearch`.
+
+**EXAMPLES**
+Get information on the Erasmus coin from The Netherlands: `/search coin [country|Netherlands] [year|2022] [type|2 Euro Commemorative]`.
+Get a list of all Slovene coins from 2010: `/search coin [country|Slovenia] [year|2010]`.
+Get information about the Irish 5c coin from 2013: `/search id [numista id|123] [year|2013]`.\
 """
 
 help_serverinfo_text = """\
@@ -521,7 +552,7 @@ If your coins are physically dirty (i.e. due to dirt), __there are safe methods 
 info_crh_andorra_text = """\
 Coin rolls can be obtained from the banks Andbank, Crèdit Andorrà, and MoraBanc. All three banks require you to be a customer to get rolls.
 
-However, one member did manage to get rolls for free from the bank by asking. So, it's worth a shot...
+However, one member did manage to get rolls for free from the bank by asking. So, it's worth a shot…
 
 Information regarding fees for getting rolls is unknown.\
 """
@@ -860,7 +891,7 @@ The database which EuroBot uses is remotely downloaded from Numista and requires
 """
 
 
-list_info = f"""
+list_info = f"""\
 **Community Lists**
 On this discord server, certain community members run lists of finds posted by the community in #new-finds and #coin-hunts. Here is a list of all of these lists, along with links to the lists.
 
@@ -870,30 +901,28 @@ In order to be added, post an image of your find and ping the person who runs th
 
 <:emote:{int(emote_id)}> **2021, 2022, and 2023 coins found in circulation**
 [2021 List](https://docs.google.com/spreadsheets/d/1KE25FjzNM4mQSrsAQezuQir18l9MFHu5ibW8kGL428M/edit?usp=sharing) | [2022 List](https://docs.google.com/spreadsheets/d/18Kxqp7E11nbDI05jv8fOsnS6JICPNjA1SKCTjzoP9Es/edit?usp=sharing) | [2023 List](https://docs.google.com/spreadsheets/d/1TJ5H5UEVmdxpco2CImzrCoxeX8WPACPb34jh_6K_cqs/edit?usp=sharing)
-Run by: ``@Borja#1242``
+Run by: <@!574976941715750932>
 To be added, a find must be a circulating coin dated from 2021/2022/2023 respectively.
 Multiple people are allowed to find the same coin.
 
 <:emote:{int(emote_id)}> **[Can /r/Eurocoins find every €2 commemorative coin (minted for circulation) in one year?](https://docs.google.com/spreadsheets/d/12i5g7whKRvABThPsYGdDIONX8PenMXrDjHHAz4Mb1IU/edit#gid=0)**
 List
-Run by: ``@runnobs#7372``
+Run by: <@!372433722034880522>
 To be added, a find must be a commemorative coin that has not been claimed by another user yet.
 For German coins, only one mintmark of each type can be found by the user. If you find multiple which are unclaimed, you will be asked to choose one.
 
 <:emote:{int(emote_id)}> **[Can /r/Eurocoins find all regulars and cents under 5M in one year?](https://docs.google.com/spreadsheets/d/17WfsrgfaPiufcG0w6AzaDy6DGygAe6D-/edit?usp=sharing&ouid=113325961342137346682&rtpof=true&sd=true)**
-Run by: ``@Eliott#0820``
+Run by: <@!828948838562922526>
 To be added, a find must be a circulating coin (non-commemorative) below 5 million mintage that has not been claimed by another user yet.
 German mintmarks are counted.
 
 <:emote:{int(emote_id)}> **[Find Of The Year (FOTY)](https://docs.google.com/document/d/1b_WWDXfzcomugO8dB2R4yEsQdqsOB1IPxe0bavRRHoI/edit?usp=sharing)**
-Run by: ``@General Darian ✓ᵛᵉʳᶦᶠᶦᵉᵈ#8498``
+Run by: <@!228069568222855169>
 To be added, finds must meet one of the 4 qualifications:
 1.) Low mintage regular: 200k or lower for 1c, 2c, 5c. 75k for everything else
 2.) Low mintage commemorative: 150k or lower for circulation
 3.) All NIFCs regardless of mintage
 4.) Notable errors (goes into more detail at the beginning of the list)
 These finds will be voted upon in January 2024 to determine the Find of the Year for 2023.
-Other statistics kept track of in FOTY: Number of Microstates found, Number of special coins found, Total face value of trades in 2023"""
-
-
-
+Other statistics kept track of in FOTY: Number of Microstates found, Number of special coins found, total face value of trades in 2023.\
+"""

@@ -83,7 +83,7 @@ def checksum_validator(serial: str) -> list:
     series2_checksums = CaseInsensitiveDict(
         {
             "e": ("!FR Oberthur", 3),
-            "f": ("!BG Oberthur Fiduciaire AD Bulgaria", 2),
+            "f": ("!BG Oberthur Fiduciaire AD", 2),
             "m": ("!PT Valora", 4),
             "n": (
                 "!AT Österreichische Banknoten‐ und Sicherheitsdruck GmbH",
@@ -156,7 +156,9 @@ class Banknote(commands.Cog):
         self,
         ctx,
         serial=Option(str, "Your banknote’s serial number", required=True),
-        short=Option(str, "Your banknote’s short code", required=False),
+        printer_code=Option(
+            str, "Your banknote’s printer code (series 1 only)", required=False
+        ),
     ):
         try:
             banknote_info = checksum_validator(serial)
@@ -165,12 +167,12 @@ class Banknote(commands.Cog):
 
         match banknote_info.series:
             case Series.SERIES_1:
-                if type(short) is str:
-                    if len(short) == 0:
-                        await ctx.respond("**Error:** Empty short code provided")
+                if type(printer_code) is str:
+                    if len(printer_code) == 0:
+                        await ctx.respond("**Error:** Empty printer code provided")
                         return
-                    if (c := short[0]) not in PRINTERS:
-                        await ctx.respond(f"**Error:** Printer code ‘{c}’ doesn’t exist")
+                    if (c := printer_code[0]) not in PRINTERS:
+                        await ctx.respond(f"**Error:** Printer ‘{c}’ doesn’t exist")
                         return
                     printer = textHelp.emojiReplacer(PRINTERS[c])
                 else:

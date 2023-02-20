@@ -61,7 +61,9 @@ class Fotw(commands.Cog):
     async def getwinners(self, ctx):
         if ctx.author.id != 228069568222855169:
             user = await self.client.fetch_user("228069568222855169")
-            await user.send(f"Someone tried to run /getwinners without your permission. The name of the user is {ctx.author} with id {ctx.author.id}")
+            await user.send(
+                f"Someone tried to run /getwinners without your permission. The name of the user is {ctx.author} with id {ctx.author.id}"
+            )
             return
         try:
             await self.getFOTWWinner(findOfTheWeek.fotw.getList())

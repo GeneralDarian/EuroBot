@@ -84,7 +84,7 @@ class ToCoin(commands.Cog):
         if self.using_tocoin:
             await ctx.respond(
                 "This command is currently in use. Please wait a few seconds before running it.",
-                ephemeral=True
+                ephemeral=True,
             )
             return
         self.using_tocoin = True
@@ -92,7 +92,9 @@ class ToCoin(commands.Cog):
         response = False
 
         if not msg.attachments:
-            await ctx.respond("There are no attachments on this message!", ephemeral=True)
+            await ctx.respond(
+                "There are no attachments on this message!", ephemeral=True
+            )
             self.using_tocoin = False
             return
 
@@ -106,7 +108,9 @@ class ToCoin(commands.Cog):
                     self.nmd,
                 )
             else:
-                await ctx.respond("The attachment on this image is invalid!", ephemeral=True)
+                await ctx.respond(
+                    "The attachment on this image is invalid!", ephemeral=True
+                )
                 self.using_tocoin = False
                 return
 
@@ -126,7 +130,7 @@ class ToCoin(commands.Cog):
         else:
             await ctx.respond(
                 "There was an error processing the image. Please contact an admin!",
-                ephemeral=True
+                ephemeral=True,
             )
 
         self.using_tocoin = False

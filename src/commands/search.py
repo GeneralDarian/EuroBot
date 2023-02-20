@@ -103,11 +103,8 @@ class Search(commands.Cog):
                 int(ctx.channel.id), results, processed_search_list
             )
             await ctx.respond(embed=embed, view=SearchDropDownView(results))
-            return
 
-    @bot.command(
-        description="Fast search (without specifying arguments) - do /search help to learn how to use this."
-    )
+    @bot.command(description="Faster alternative to /search")
     @option(
         "query",
         description="A shortened search query. Run /help fsearch to see what one looks like.",
@@ -125,24 +122,22 @@ class Search(commands.Cog):
 
         results = coinData.searchEngine(processed_search_list)
         logging.info(results)
-        if len(results) == 1:
-            embed = post_ID(results[0]["id"], processed_search_list["Year"])
-            await ctx.respond(embed=embed)
-            return
-        elif len(results) < 1:
-            await ctx.respond("Your search has yielded no results!")
-            return
-        elif len(results) > 12:
-            paginator = pages.Paginator(
-                pages=self.result_page(results, processed_search_list)
-            )
-            await paginator.respond(ctx.interaction, ephemeral=False)
-            return
-        else:
-            embed = self.post_list_results(
-                int(ctx.channel.id), results, processed_search_list
-            )
-            await ctx.respond(embed=embed, view=SearchDropDownView(results))
+        match len(results):
+            case 0:
+                await ctx.respond("Your search has yielded no results!")
+            case 1:
+                embed = post_ID(results[0]["id"], processed_search_list["Year"])
+                await ctx.respond(embed=embed)
+            case n if n > 12:
+                paginator = pages.Paginator(
+                    pages=self.result_page(results, processed_search_list)
+                )
+                await paginator.respond(ctx.interaction, ephemeral=False)
+            case _:
+                embed = self.post_list_results(
+                    int(ctx.channel.id), results, processed_search_list
+                )
+                await ctx.respond(embed=embed, view=SearchDropDownView(results))
 
     def post_list_results(self, channel_id: int, results: list, processed_search: dict):
         embed = discord.Embed(

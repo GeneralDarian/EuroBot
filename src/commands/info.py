@@ -145,7 +145,6 @@ class InfoCommand(commands.Cog):
         description="Topic to get information on",
         autocomplete=discord.utils.basic_autocomplete(pages.keys()),
         required=True,
-        default=None,
     )
     async def info(self, ctx, topic: str):
         if topic is None:
