@@ -17,6 +17,8 @@ EMOTE_ID = os.getenv("FOTW_EMOTE_ID")
 EMOTE_NAME = os.getenv("FOTW_EMOTE_NAME")
 TRADER_ROLE_ID = os.getenv("VERIFIED_TRADER_GROUP_ID")
 
+FINDS_GALLERY_ID = os.getenv("FINDS_GALLERY_ID") #IMPORTANT! LEAVE THIS HERE FOR FINDS GALLERY TO WORK!
+
 
 class findOfTheWeek:
     def __init__(self):
