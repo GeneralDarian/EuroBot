@@ -596,7 +596,12 @@ Free for customers when you order through online platform.\
 
 info_crh_croatia_text = info_unknown_text
 
-info_crh_cyprus_text = info_unknown_text
+info_crh_cyprus_text = """\
+**Bank of Cyprus**
+Possible to buy coin bags without being a customer and with no fees. 
+Beware: Bags are larger (100 eur for 2 euro, 100x coins per bag for each other denomination)
+Depositing requires an account.\
+"""
 
 info_crh_estonia_text = """\
 It is very difficult to obtain coin rolls in Estonia.
@@ -624,8 +629,9 @@ Coin roll machines are uncommon, only some banks have them and you need to be a 
 **Caisse d’Épargne**
 Coin rolls can be obtained with no fee. You must be a customer.
 
-**CIC**
-Coin rolls can be obtained with no fee. You must be a customer.
+**CIC and Crédit Mutuel**
+Free coin rolls if you are a customer, 1 euro per roll if you are not a customer.
+There are coin roll machines.
 
 **Crédit Agricole**
 Coin rolls can be obtained with no fee. You must be a customer.
@@ -687,6 +693,11 @@ This page may be incomplete. Feel free to contribute by letting bot devs know!
 **Exchange.lt**
 Works but very high fee (5% of cost)
 
+**Top exchange**
+2 euro fee per roll of 2 euro rolls
+
+Lietuvos Bankas only gives rolls to shops.
+
 Worth checking out: Payout machines (banknote -> coin)\
 """
 
@@ -694,7 +705,8 @@ info_crh_luxembourg_text = """\
 This page may be incomplete. Feel free to contribute by letting bot devs know!
 
 **BCL**
-No information known yet. Their webshop sells commemoratives (at a high premium but better than most resellers), whether this is for sale in person is not known.
+No information known yet. Their webshop sells commemoratives (at a high premium but better than most resellers).
+Commemoratives are also sold in-person.
 
 **Dexia-Bank**
 You should be able to get coin rolls with no additional fees.\
@@ -925,7 +937,7 @@ To be added, a find must be a commemorative coin that has not been claimed by an
 For German coins, only one mintmark of each type can be found by the user. If you find multiple which are unclaimed, you will be asked to choose one.
 
 <:emote:{int(emote_id)}> **[Can /r/Eurocoins find all regulars and cents under 5M in one year?](https://docs.google.com/spreadsheets/d/17WfsrgfaPiufcG0w6AzaDy6DGygAe6D-/edit?usp=sharing&ouid=113325961342137346682&rtpof=true&sd=true)**
-Run by: <@!828948838562922526>
+Run by: <@!980927019271471134>
 To be added, a find must be a circulating coin (non-commemorative) below 5 million mintage that has not been claimed by another user yet.
 German mintmarks are counted.
 
