@@ -308,7 +308,7 @@ class QuizButtons(discord.ui.Button):
             )
         view = discord.ui.View(timeout=20, disable_on_timeout=True)
         view.add_item(
-            NextContinueButton(theory=False, quiz=self.quiz)
+            NextContinueButton(theory=(not self.quiz.mintage), quiz=self.quiz) #too lazy to fix this
         )
         view.add_item(
             NextCancelButton()

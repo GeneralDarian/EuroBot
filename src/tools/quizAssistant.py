@@ -12,14 +12,14 @@ class QuizType:
         self.desc = desc
         self.database_name = database_name
 
-AN_Table = QuizType('Andorra', True, 'Quiz yourself on the mintages of Andorra!', ['andorra'])
-AT_Table = QuizType('Austria', True, 'Quiz yourself on the mintages of Austria!', ['austria'])
-BE_Table = QuizType('Belgium', True, 'Quiz yourself on the mintages of Belgium!', ['belgium'])
-HR_Table = QuizType('Croatia', True, 'Quiz yourself on the mintages of Croatia!', ['croatia'])
-CY_Table = QuizType('Cyprus', True, 'Quiz yourself on the mintages of Cyprus!', ['cyprus'])
-EE_Table = QuizType('Cyprus', True, 'Quiz yourself on the mintages of Estonia!', ['estonia'])
-FI_Table = QuizType('Cyprus', True, 'Quiz yourself on the mintages of Finland!', ['finland'])
-EU_Table = QuizType('All Coins', True, 'Quiz yourself on the mintages of all EU countries!', ['andorra', 'austria', 'belgium', 'croatia', 'cyprus','estonia','finland'])
+AN_Table = QuizType('Andorra', True, '🇦🇩 Quiz yourself on the mintages of Andorra!\n', ['andorra'])
+AT_Table = QuizType('Austria', True, '🇦🇹 Quiz yourself on the mintages of Austria!\n', ['austria'])
+BE_Table = QuizType('Belgium', True, '🇧🇪 Quiz yourself on the mintages of Belgium!\n', ['belgium'])
+HR_Table = QuizType('Croatia', True, '🇭🇷 Quiz yourself on the mintages of Croatia!\n', ['croatia'])
+CY_Table = QuizType('Cyprus', True, '🇨🇾 Quiz yourself on the mintages of Cyprus!\n', ['cyprus'])
+EE_Table = QuizType('Estonia', True, '🇪🇪 Quiz yourself on the mintages of Estonia!\n', ['estonia'])
+FI_Table = QuizType('Finland', True, '🇫🇮 Quiz yourself on the mintages of Finland!\n', ['finland'])
+EU_Table = QuizType('All Coins', True, '🇪🇺 Quiz yourself on the mintages of all EU countries!\n', ['andorra', 'austria', 'belgium', 'croatia', 'cyprus','estonia','finland'])
 
 Design_Table = QuizType('Design', False, 'Quiz yourself on the individual euro coin designs!', ['design_trivia'])
 
