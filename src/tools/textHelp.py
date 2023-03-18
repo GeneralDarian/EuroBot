@@ -915,6 +915,28 @@ The database which EuroBot uses is remotely downloaded from Numista and requires
 
 """
 
+info_threads = f"""\
+___***Special threads***___
+This server has several off topic threads which you may be interested in! Click on the link to join them.
+
+**License Plates**
+For showing off special license plates which you come across.
+https://discord.com/channels/555331630206681108/1060215649655345234/1060576453697228880
+
+**Football**
+For civilized discussion on football.
+https://discord.com/channels/555331630206681108/1045366814735081505/1085755799952957552
+
+**Eurovision**
+For discussion about Eurovision.
+https://discord.com/channels/555331630206681108/1071069715918757931/1071069719131603024
+
+**Chess**
+For discussion about chess, arranging games, and showing off your elo milestones.
+https://discord.com/channels/555331630206681108/1078718510907281419/1078718515030261870
+
+"""
+
 
 list_info = f"""\
 **Community Lists**

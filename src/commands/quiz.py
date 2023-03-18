@@ -113,7 +113,7 @@ async def ask_question(data: dict, channel: discord.TextChannel):
         temp = ans_list[correct_ans_index]
         ans_list[correct_ans_index] = data['correct_answer']
         ans_list.append(temp)
-        correct_ans_Index = (-1, correct_ans_index)
+        correct_ans_index = (-1, correct_ans_index)
 
     if data['mintage'] is True:
         ans_list.append("5 mil or higher")  # index 0
