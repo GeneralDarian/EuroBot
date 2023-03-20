@@ -44,6 +44,7 @@ def fetch_question(db):
         cur = conn.cursor()
     """db = database
     id = id of question"""
+    print(db)
     cur.execute(f"SELECT * FROM {db} ORDER BY RANDOM() LIMIT 1;")
     rows = cur.fetchall()[0]
     conn.close()
@@ -190,6 +191,12 @@ async def mintage_question(channel: discord.TextChannel, quiz: quizAssistant.Qui
         data['correct_answer'] = int(rows[4])
 
     data['database'] = database
+    if 'germany' in database.lower():
+        database = database.replace('_a', ' (A)')
+        database = database.replace('_d', ' (D)')
+        database = database.replace('_f', ' (F)')
+        database = database.replace('_g', ' (G)')
+        database = database.replace('_j', ' (J)')
     data['question'] = f"What is the mintage of {database.capitalize()} {deno} {year}?"
     data['mintage'] = True
     data['image'] = rows[6]

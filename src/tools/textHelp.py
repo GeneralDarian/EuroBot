@@ -598,7 +598,8 @@ info_crh_croatia_text = info_unknown_text
 
 info_crh_cyprus_text = """\
 **Bank of Cyprus**
-Possible to buy coin bags without being a customer and with no fees. 
+Possible to buy coins without being a customer and with no fees. 
+You may purchase coin rolls or bags and they may have coin roll machines present (this varies by branch).
 Beware: Bags are larger (100 eur for 2 euro, 100x coins per bag for each other denomination)
 Depositing requires an account.\
 """
