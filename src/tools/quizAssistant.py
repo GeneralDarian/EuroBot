@@ -21,6 +21,11 @@ EE_Table = QuizType('Estonia', True, '🇪🇪 Quiz yourself on the mintages of 
 FI_Table = QuizType('Finland', True, '🇫🇮 Quiz yourself on the mintages of Finland!\n', ['finland'])
 FR_Table = QuizType('France', True, '🇫🇷 Quiz yourself on the mintages of France!\n', ['france'])
 DE_Table = QuizType('Germany', True, '🇩🇪 Quiz yourself on the mintages of Germany!\n', ['germany_a', 'germany_d', 'germany_f', 'germany_g', 'germany_j'])
+GR_Table = QuizType('Greece', True, '🇬🇷 Quiz yourself on the mintages of Greece!\n', ['greece'])
+IE_Table = QuizType('Ireland', True, '🇮🇪 Quiz yourself on the mintages of Ireland!\n', ['ireland'])
+IT_Table = QuizType('Italy', True, '🇮🇹 Quiz yourself on the mintages of Italy!\n', ['italy'])
+LV_Table = QuizType('Latvia', True, '🇱🇻 Quiz yourself on the mintages of Latvia!\n', ['latvia'])
+LT_Table = QuizType('Lithuania', True, '🇱🇹 Quiz yourself on the mintages of Lithuania!\n', ['lithuania'])
 EU_Table = QuizType('All Coins', True, '🇪🇺 Quiz yourself on the mintages of all EU countries!\n', [
     'andorra',
     'austria',
@@ -34,7 +39,12 @@ EU_Table = QuizType('All Coins', True, '🇪🇺 Quiz yourself on the mintages o
     'germany_d',
     'germany_f',
     'germany_g',
-    'germany_j'
+    'germany_j',
+    'greece',
+    'ireland',
+    'italy',
+    'latvia',
+    'lithuania'
 ])
 
 Design_Table = QuizType('Design', False, 'Quiz yourself on the individual euro coin designs!', ['design_trivia'])
@@ -49,6 +59,11 @@ QuizList = [
     FI_Table,
     FR_Table,
     DE_Table,
+    GR_Table,
+    IT_Table,
+    IE_Table,
+    LV_Table,
+    LT_Table,
     EU_Table,
     Design_Table
 ]
