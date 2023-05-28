@@ -570,6 +570,7 @@ There is a fee of €0.20 per roll. Rolls can be purchased with cash at machines
 There is a fee of €0.10 per roll. You must be a customer and pay with a card at machines. Free when purchased at counters (but counters will redirect you to machines if they work); counters accept cash.
 
 Depositing coins is free for up to €100 a day, at which point you pay 1% for anything over €100. You must also be a customer.
+Depositing coins is free for all Erste Bank customers at __Dornbirner Sparkasse__, no limit.
 
 **Raiffeisenbank**
 There is a fee of €1 per roll if you aren’t a customer, and €0.30 otherwise. Coin deposits are free if you’re a customer.
@@ -662,6 +663,11 @@ This page may be incomplete. Feel free to contribute by letting bot devs know!
 
 **Bank of Greece (Τράπεζα της Ελλάδος)**
 Fee-less coin rolls for everyone (you need to show an ID card). The latest €2 commemoratives are also sold for face value.\
+
+**Piraeus Bank**
+Fee-less coin bags for everyone (no ID necessary)
+Beware: Bags are substantially larger (€2 was 500 euros, €1 was 250 euros, €0,50 was 200 euros)
+Small denominations are usually not given out, however.
 """
 
 info_crh_ireland_text = """\
@@ -788,13 +794,15 @@ Coin rolls are free, but you must be customer.
 
 **Bank of Spain**
 You can purchase individual coins and commemorative coin rolls (even those of other countries).
+[Click here to see how to do it](https://youtu.be/QRFuD6olH80?t=135)
 
 **BBVA**
 Alicante: Coin rolls have a fee of €2 for 5 rolls. Seems to vary by region.
 Madrid: Coin rolls have no fees.
 
 **La Caixa**
-Coin rolls have no fees and can be purchased with cash. You do not need to be a customer.\
+Coin rolls have no fees and can be purchased with cash. You do not need to be a customer.
+(This needs to be re-verified)
 """
 
 info_crh_vatican_city_text = """\
