@@ -56,7 +56,10 @@ EU_Table = QuizType('All Coins', True, '🇪🇺 Quiz yourself on the mintages o
     'malta',
     'monaco',
     'luxembourg',
-    'netherlands'
+    'netherlands',
+    'portugal',
+    'san_marino',
+    'slovakia'
 ])
 
 Design_Table = QuizType('Design', False, 'Quiz yourself on the individual euro coin designs!', ['design_trivia'])
@@ -80,6 +83,9 @@ QuizList = [
     MT_Table,
     MC_Table,
     NL_Table,
+    PT_Table,
+    SM_Table,
+    SK_Table,
     EU_Table,
     Design_Table
 ]
