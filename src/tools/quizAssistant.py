@@ -30,6 +30,9 @@ LU_Table = QuizType('Luxembourg', True, '🇱🇺 Quiz yourself on the mintages 
 MT_Table = QuizType('Malta', True, '🇲🇹 Quiz yourself on the mintages of Malta!\n', ['malta'])
 MC_Table = QuizType('Monaco', True, '🇲🇨 Quiz yourself on the mintages of Monaco!\n', ['monaco'])
 NL_Table = QuizType('Netherlands', True, '🇳🇱 Quiz yourself on the mintages of the Netherlands!\n', ['netherlands'])
+PT_Table = QuizType('Portugal', True, '🇵🇹 Quiz yourself on the mintages of Portugal!\n', ['portugal'])
+SM_Table = QuizType('San Marino', True, '🇸🇲 Quiz yourself on the mintages of San Marino!\n', ['san_marino'])
+SK_Table = QuizType('Slovakia', True, '🇸🇰 Quiz yourself on the mintages of Slovakia!\n', ['slovakia'])
 EU_Table = QuizType('All Coins', True, '🇪🇺 Quiz yourself on the mintages of all EU countries!\n', [
     'andorra',
     'austria',
