@@ -1030,10 +1030,10 @@ There are several reasons why these coins are considered NIFC by the EuroCoins c
 - These are not the only NIFC coins issued in coin rolls - San Marino 2006 1c, 2c, and 5c were issued in rolls too, but sold only in sets, and are hence also considered NIFC.
 
 **What coins are affected by this?**
-The following Dutch 'key date' coins are actually NIFC, and were issued in sets sold to visitors of the KNM:
+The following Dutch 'key date' coins are actually NIFC, and were issued in roll sets sold to visitors of the KNM:
 2004: 5c, 10c, 50c, 1 euro, and 2 euro
 2005 - 2016: 1c, 2c, 10c, 20c, 50c, 1 euro, and 2 euro
 EXCEPT: 2013 1c, 2014 10c, 20c, 50c, 1 euro, and 2 euro
 
-After 2016, Dutch coins were no longer issued in such special sets. Any Dutch coin you find after 2016 is either issued for circulation or issued only in sets.
+After 2016, Dutch coins were no longer issued in such special sets. Any Dutch coin you find after 2016 is either issued for circulation or issued only in BU sets.
 """
