@@ -1014,3 +1014,26 @@ In some countries where ciggy machines are legal, you can hunt through them as w
 
 Tip: For RFID scanner machines it helps to wear a glove and slide a debit card into the back of it so you can (somewhat) use both hands and don't have to fumble with a card and coins.
 """
+
+info_dutchnifc_text = """__**On the Dutch coins, and why most of them are NIFC**__
+You may have noticed that several statistics lists reported Dutch coins issued between 2004-2016 as NIFC, or that the NIFC emote was added to someone who found a key date NL find. Why is that?
+
+Most of these rare dutch coins have mintages ranging from 100,000 to 400,000 (as reported by most mintage sites and apps such as EURik). However, _they were never issued into circulation by KNM_ (the royal dutch mint).
+Instead, these coins were issued in rolls, which were put into sets sold to those who visited the KNM on a special day of the year for face value. 
+Most of these sets were purchased by coin dealers. However, dealers had a hard time selling these sets. So they decided to put these coins into circulation.
+This is why it is 'easy' to find the Dutch NIFCs in circulation, at least when compared to other NIFCs. 
+
+**Why list them as NIFC?**
+There are several reasons why these coins are considered NIFC by the EuroCoins community.
+- NIFC = Not Issued For Circulation. None of the Dutch key date coins were intended to be circulated, and were only sold in sets to visitors of KNM (and to dealers),
+- NIFC is a designation which has nothing to do with the rarity of a coin. For example, most presidential dollars in the US are NIFC, yet they are not too difficult to come across. It just so happens that most NIFC coins in europe are rare because they were only issued in sets.
+- These are not the only NIFC coins issued in coin rolls - San Marino 2006 1c, 2c, and 5c were issued in rolls too, but sold only in sets, and are hence also considered NIFC.
+
+**What coins are affected by this?**
+The following Dutch 'key date' coins are actually NIFC, and were issued in sets sold to visitors of the KNM:
+2004: 5c, 10c, 50c, 1 euro, and 2 euro
+2005 - 2016: 1c, 2c, 10c, 20c, 50c, 1 euro, and 2 euro
+EXCEPT: 2013 1c, 2014 10c, 20c, 50c, 1 euro, and 2 euro
+
+After 2016, Dutch coins were no longer issued in such special sets. Any Dutch coin you find after 2016 is either issued for circulation or issued only in sets.
+"""
