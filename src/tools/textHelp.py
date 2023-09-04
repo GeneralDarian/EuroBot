@@ -982,6 +982,12 @@ To be added, finds must meet one of the 4 qualifications:
 4.) Notable errors (goes into more detail at the beginning of the list)
 These finds will be voted upon in January 2024 to determine the Find of the Year for 2023.
 Other statistics kept track of in FOTY: Number of Microstates found, Number of special coins found, total face value of trades in 2023.\
+
+<:emote:{int(emote_id)}> **[Free Finds List](https://docs.google.com/spreadsheets/d/1HT9HHyXit0rSM9SFYSsDCbrgrxFqUmyD36a0HaFuiCc/edit?usp=sharing)**
+Run by: <@!725421402282262528>
+To be added, post a picture of your find [in this thread](https://discord.com/channels/555331630206681108/1127262973732343860).
+A "free find" is a find that you found by yourself, for free (usually lying on the ground or in a return tray). It may be a euro coin, banknote, or even foreign coins or banknotes (it does not even need to be found in the EU).
+The only rule is that a find must actually be _found_ - finds _given_ to you for free do not count.
 """
 
 info_vendingmachine_text = """__**Introduction to Vending Machine Hunting**__
