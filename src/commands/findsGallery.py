@@ -49,7 +49,7 @@ class FindsGallery(commands.Cog):
                 int(findOfTheWeek.FINDS_GALLERY_ID)
             )
             embed = discord.Embed(
-                title=f"Find by {message.author}",
+                title=f"Find by {message.author.nick}",
                 description=message.content,
                 color=0xFFCC00,
             )
