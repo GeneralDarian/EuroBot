@@ -567,7 +567,8 @@ Does not distribute circulated rolls but sells rolls of commemorative coins at f
 There is a fee of €0.20 per roll. Rolls can be purchased with cash at machines (available to everyone, but not in all branches. Look for the filter option “Münzrollengeber” at https://filialen.bankaustria.at/de/).
 
 **Erste Bank**
-There is a fee of €0.10 per roll. You must be a customer and pay with a card at machines. Free when purchased at counters (but counters will redirect you to machines if they work); counters accept cash.
+There is a fee of €0.10 per roll. You must be a customer to use machines to get rolls. Free when purchased at counters (but counters will redirect you to machines if they work); counters accept cash.
+You must present a Erste Bank card to buy rolls from machines, but you can pay with cash.
 
 Depositing coins is free for up to €100 a day, at which point you pay 1% for anything over €100. You must also be a customer.
 Depositing coins is free for all Erste Bank customers at __Dornbirner Sparkasse__, no limit.
