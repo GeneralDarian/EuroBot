@@ -24,6 +24,7 @@ class Fotw(commands.Cog):
 
     @commands.Cog.listener()
     async def on_message(self, message):  # FindOfTheWeek
+        pass
         if message.author.bot:  # is message from bot?
             return
 
