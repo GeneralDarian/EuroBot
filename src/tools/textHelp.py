@@ -954,6 +954,12 @@ Discussion about _Jet Lag: The Game_, a YouTube gameshow where people play games
 https://discord.com/channels/555331630206681108/1118662583449309265
 """
 
+#in case borja comes back
+"""<:emote:{int(emote_id)}> **2021, 2022, and 2023 coins found in circulation**
+[2021 List](https://docs.google.com/spreadsheets/d/1KE25FjzNM4mQSrsAQezuQir18l9MFHu5ibW8kGL428M/edit?usp=sharing) | [2022 List](https://docs.google.com/spreadsheets/d/18Kxqp7E11nbDI05jv8fOsnS6JICPNjA1SKCTjzoP9Es/edit?usp=sharing) | [2023 List](https://docs.google.com/spreadsheets/d/1TJ5H5UEVmdxpco2CImzrCoxeX8WPACPb34jh_6K_cqs/edit?usp=sharing)
+Run by: <@!574976941715750932>
+To be added, a find must be a circulating coin dated from 2021/2022/2023 respectively.
+Multiple people are allowed to find the same coin."""
 
 list_info = f"""\
 **Community Lists**
@@ -962,12 +968,6 @@ On this discord server, certain community members run lists of finds posted by t
 In order for a find to be added to a list, it must meet requirements, which are listed below for each list. __Purchased coins are not counted.__
 
 In order to be added, post an image of your find and ping the person who runs the list.
-
-<:emote:{int(emote_id)}> **2021, 2022, and 2023 coins found in circulation**
-[2021 List](https://docs.google.com/spreadsheets/d/1KE25FjzNM4mQSrsAQezuQir18l9MFHu5ibW8kGL428M/edit?usp=sharing) | [2022 List](https://docs.google.com/spreadsheets/d/18Kxqp7E11nbDI05jv8fOsnS6JICPNjA1SKCTjzoP9Es/edit?usp=sharing) | [2023 List](https://docs.google.com/spreadsheets/d/1TJ5H5UEVmdxpco2CImzrCoxeX8WPACPb34jh_6K_cqs/edit?usp=sharing)
-Run by: <@!574976941715750932>
-To be added, a find must be a circulating coin dated from 2021/2022/2023 respectively.
-Multiple people are allowed to find the same coin.
 
 <:emote:{int(emote_id)}> **[Can /r/Eurocoins find every €2 commemorative coin (minted for circulation) in one year?](https://docs.google.com/spreadsheets/d/12i5g7whKRvABThPsYGdDIONX8PenMXrDjHHAz4Mb1IU/edit#gid=0)**
 List
@@ -988,13 +988,13 @@ To be added, finds must meet one of the 4 qualifications:
 3.) All NIFCs regardless of mintage
 4.) Notable errors (goes into more detail at the beginning of the list)
 These finds will be voted upon in January 2024 to determine the Find of the Year for 2023.
-Other statistics kept track of in FOTY: Number of Microstates found, Number of special coins found, total face value of trades in 2023.\
+Other statistics kept track of in FOTY: Number of Microstates found, Number of special coins found, total face value of trades in 2023.
 
 <:emote:{int(emote_id)}> **[Free Finds List](https://docs.google.com/spreadsheets/d/1HT9HHyXit0rSM9SFYSsDCbrgrxFqUmyD36a0HaFuiCc/edit?usp=sharing)**
 Run by: <@!725421402282262528>
 To be added, post a picture of your find [in this thread](https://discord.com/channels/555331630206681108/1127262973732343860).
 A "free find" is a find that you found by yourself, for free (usually lying on the ground or in a return tray). It may be a euro coin, banknote, or even foreign coins or banknotes (it does not even need to be found in the EU).
-The only rule is that a find must actually be _found_ - finds _given_ to you for free do not count.
+The only rule is that a find must actually be _found_ - finds _given_ to you for free do not count.\
 """
 
 info_vendingmachine_text = """__**Introduction to Vending Machine Hunting**__
