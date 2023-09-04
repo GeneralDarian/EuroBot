@@ -81,7 +81,7 @@ class Search(commands.Cog):
             try:
                 type = textHelp.from_type[type.lower()]
             except KeyError:
-                await ctx.respond("Error: Invalid type entered. Type ``/search info`` for more information on using this command.")
+                await ctx.respond("Error: Invalid type entered. Type ``/help search`` for more information on using this command.")
                 return
         processed_search_list = {"Issuer": country, "Year": year, "Type": type}
         logging.info(processed_search_list)
@@ -90,7 +90,7 @@ class Search(commands.Cog):
             embed = post_ID(results[0]["id"], processed_search_list["Year"])
             await ctx.respond(embed=embed)
         elif len(results) < 1:
-            await ctx.respond("Your search has yielded no results! Type ``/search info`` for more information on using this command.")
+            await ctx.respond("Your search has yielded no results! Type ``/help search`` for more information on using this command.")
         elif len(results) > 12:
             paginator = pages.Paginator(
                 pages=self.result_page(results, processed_search_list)
