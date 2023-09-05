@@ -139,7 +139,7 @@ class Profile(commands.Cog):
         try:
             user = await ctx.author.guild.fetch_member(user)
             if user.bot:
-                await ctx.respond('**Error:** Bots cannot collect coins!')
+                await ctx.respond('**Error:** Bots cannot collect coins!', ephemeral=True)
                 return
         except AttributeError: #this means the command was run in dms
             await ctx.respond('**Error:** You can only run this command on the server!')
@@ -150,7 +150,7 @@ class Profile(commands.Cog):
 
         #if there is an error its the admin's problem
         if status[0] is False:
-            await ctx.respond("**Error:** There has been an error. Please contact the bot developers!")
+            await ctx.respond("**Error:** There has been an error. Please contact the bot developers!", ephemeral=True)
             return
 
         #otherwise display the embed
@@ -231,12 +231,12 @@ class Profile(commands.Cog):
         try:
             db = translator[option]
         except KeyError:
-            await ctx.respond('**ERROR:** You must select a valid option!')
+            await ctx.respond('**ERROR:** You must select a valid option!', ephemeral=True)
             return
 
         #see if url valid
         if not validators.url(value) and value is not None:
-            await ctx.respond('**ERROR:** The URL you have provided is invalid!')
+            await ctx.respond('**ERROR:** The URL you have provided is invalid!', ephemeral=True)
             return
 
         #fetch user
@@ -248,15 +248,15 @@ class Profile(commands.Cog):
         user = await ctx.author.guild.fetch_member(user)
 
         if user.bot:
-            await ctx.respond('**Error:** Bot profiles do not exist!')
+            await ctx.respond('**Error:** Bot profiles do not exist!', ephemeral=True)
             return
 
         #showtime
         success = modfield(user.id, db, value)
         if success is True:
-            await ctx.respond(f'Your profile option ``{option}`` has been successfully updated. To reset, run the command `/setprofile option:{option}`.')
+            await ctx.respond(f'Your profile option ``{option}`` has been successfully updated. To reset, run the command `/setprofile option:{option}`.', ephemeral=True)
         else:
-            await ctx.respond(f'**ERROR:** An error occured. Please contact a bot developer.')
+            await ctx.respond(f'**ERROR:** An error occured. Please contact a bot developer.', ephemeral=True)
 
 
 def setup(client):
