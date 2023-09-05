@@ -41,7 +41,7 @@ class ServerInfoCommand(commands.Cog):
         guild_diff = (
             datetime.datetime.now(datetime.timezone.utc) - guild_creation_time
         ).days
-        guild_creation_value = f"{guild_diff} days old\nCreated {guild_creation_time.strftime('%d. %B %Y')}"
+        guild_creation_value = f"{guild_diff} days old\nCreated <t:{int(guild_creation_time.timestamp())}:D>"
         embed.add_field(
             name="Server is currently…",
             value=guild_creation_value,
