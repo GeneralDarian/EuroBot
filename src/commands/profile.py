@@ -54,6 +54,7 @@ def checkfield(url: str) -> str:
 
 def modfield(id: int, option: str, value: str) -> bool:
     """Modifies the field of a user with id. Returns true if successful and false if not."""
+    checkuser(id)
     conn = None
     db_file = "data/UserProfileDatabase.db"
     try:
