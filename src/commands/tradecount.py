@@ -11,6 +11,39 @@ from discord.commands import option
 import time
 
 confirmed_trader_role_id = int(getenv('VERIFIED_TRADER_GROUP_ID'))
+log_channel_id = int(getenv('LOG_CHANNEL_ID'))
+
+async def log(client, user1, user2, type: int):
+    """Logs an interaction between user1 and user2 related to trades in the LOG_CHANNEL_ID channel.
+    Type:
+    0 - Trade successful
+    1 - Trade sent
+    2 - Trade rejected
+    """
+    user1 = await discord.Bot.fetch_user(client, user1)
+    user2 = await discord.Bot.fetch_user(client, user2)
+    channel = await discord.Bot.fetch_channel(client, log_channel_id)
+    if type == 0:
+        desc = 'A successful trade has been registered.'
+        color = 0x1abd46
+    elif type == 1:
+        desc = 'A trade request has been sent.'
+        color = 0xFFCC00
+    else:
+        desc = 'A trade request has been rejected.'
+        color = 0xd41c1c
+
+    embed = discord.Embed(
+        title='Trade Confirmation Information',
+        description=desc,
+        color=color
+    )
+    embed.add_field(name='Action made by', value=f"<@{user1.id}>")
+    embed.add_field(name='Action involving', value=f"<@{user2.id}>")
+
+    await channel.send(embed=embed)
+
+
 
 def check_trade_db(user1, user2, check=False) -> int:
     """Checks database to see if user1 and user2 have a pending trade request.
@@ -160,6 +193,7 @@ class ConfirmTradeConfirmation(discord.ui.Button):
                 description=f'Your trade with <@{user1}> has been confirmed! Both of your trade counts have been updated :)'
             )
             await user.send(embed=embed)
+            await log(self.client, user1, user2, 0)
             confirmed_trade_modify_trade_count(user1, user2)
 
         elif trade_request_status == 1:
@@ -169,6 +203,7 @@ class ConfirmTradeConfirmation(discord.ui.Button):
                 description=f"""The trade confirmation request with <@{user.id}> has either been rejected or does not exist."""
             )
             await interaction.response.send_message(embed=embed)
+            await log(self.client, user1, user2, 2)
 
 
         elif trade_request_status == 2:
@@ -205,6 +240,7 @@ class RejectTradeConfirmation(discord.ui.Button):
 
 
         await interaction.message.edit(view=None)
+        await log(self.client, user1, user2, 2)
 
 class TradeCount(commands.Cog):
     def __init__(self, client):
@@ -270,6 +306,7 @@ class TradeCount(commands.Cog):
             )
             await user.send(embed=embed)
             confirmed_trade_modify_trade_count(user1, user2)
+            await log(self.client, user1, user2, 0)
 
         elif trade_request_status == 1:
             embed = discord.Embed(
@@ -277,6 +314,7 @@ class TradeCount(commands.Cog):
                 title='Trade confirmation request sent!',
                 description=f"""You have sent a trade confirmation request to <@{user.id}>."""
             )
+            await log(self.client, user1, user2, 1)
             await ctx.respond(embed=embed)
             view = discord.ui.View(timeout=None)
             view.add_item(
@@ -317,6 +355,7 @@ class TradeCount(commands.Cog):
             await ctx.respond('The trade confirmation request has been rejected.')
             user = await self.client.fetch_user(user.id)
             await user.send(f'The trade confrimation request with <@{ctx.author.id}> has been cancelled.')
+            await log(self.client, ctx.author.id, user.id, 2)
         else:
             await ctx.respond('**Error:** There is no trade confirmation request with the person specified.')
 
