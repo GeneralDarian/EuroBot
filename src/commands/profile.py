@@ -9,7 +9,7 @@ from discord import bot
 from discord.ext import commands
 from discord.commands import option
 
-confirmed_trader_role_id = int(getenv('CONFIRMED_TRADER_ROLE_ID'))
+confirmed_trader_role_id = int(getenv('VERIFIED_TRADER_GROUP_ID'))
 moderator_role_id = int(getenv('MODERATOR_ROLE_ID'))
 
 def checkuser(id: int) -> tuple:
