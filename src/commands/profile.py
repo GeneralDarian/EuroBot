@@ -109,20 +109,20 @@ class Profile(commands.Cog):
         try:
             db = translator[option]
         except KeyError:
-            await ctx.respond('**ERROR:** You must select a valid option!')
+            await ctx.respond('**ERROR:** You must select a valid option!', ephemeral=True)
             return
 
         #see if url valid
         if not validators.url(value) and value is not None:
-            await ctx.respond('**ERROR:** The URL you have provided is invalid!')
+            await ctx.respond('**ERROR:** The URL you have provided is invalid!', ephemeral=True)
             return
 
         #showtime
         success = modfield(ctx.author.id, db, value)
         if success is True:
-            await ctx.respond(f'Your profile option ``{option}`` has been successfully updated. To reset, run the command `/setprofile option:{option}`.')
+            await ctx.respond(f'Your profile option ``{option}`` has been successfully updated. To reset, run the command `/setprofile option:{option}`.', ephemeral=True)
         else:
-            await ctx.respond(f'**ERROR:** An error occured. Please contact a bot developer.')
+            await ctx.respond(f'**ERROR:** An error occured. Please contact a bot developer.', ephemeral=True)
 
     @bot.command(description="Display the user's server profile.")
     @option(
