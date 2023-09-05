@@ -10,7 +10,7 @@ from discord.ext import commands
 from discord.commands import option
 import time
 
-confirmed_trader_role_id = int(getenv('CONFIRMED_TRADER_ROLE_ID'))
+confirmed_trader_role_id = int(getenv('VERIFIED_TRADER_GROUP_ID'))
 
 def check_trade_db(user1, user2, check=False) -> int:
     """Checks database to see if user1 and user2 have a pending trade request.

@@ -163,7 +163,7 @@ class Profile(commands.Cog):
 
         #get color of user
         confirmed_trader_role = ctx.author.guild.get_role(confirmed_trader_role_id)
-        if confirmed_trader_role not in ctx.author.roles:
+        if confirmed_trader_role not in user.roles:
             color = 0x0099E1
         else:
             color = 0x00D166
