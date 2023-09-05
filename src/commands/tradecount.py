@@ -133,7 +133,8 @@ class ConfirmTradeConfirmation(discord.ui.Button):
     def __init__(self, user_id, client):
         super().__init__(
             label="Confirm the trade request!",
-            style=discord.ButtonStyle.green
+            style=discord.ButtonStyle.green,
+            custom_id=str(time.time_ns() + user_id) #custom_id is needed for persistent views and has to be unique. thanks discord lol
         )
         self.user_id = user_id
         self.client = client
@@ -184,7 +185,8 @@ class RejectTradeConfirmation(discord.ui.Button):
     def __init__(self, user_id, client):
         super().__init__(
             label="Reject the trade request!",
-            style=discord.ButtonStyle.red
+            style=discord.ButtonStyle.red,
+            custom_id=str(time.time_ns() + user_id + 1) #custom_id is needed for persistent views and has to be unique. thanks discord lol
         )
         self.user_id = user_id
         self.client = client
@@ -276,7 +278,7 @@ class TradeCount(commands.Cog):
                 description=f"""You have sent a trade confirmation request to <@{user.id}>."""
             )
             await ctx.respond(embed=embed)
-            view = discord.ui.View()
+            view = discord.ui.View(timeout=None)
             view.add_item(
                 RejectTradeConfirmation(user_id=ctx.author.id, client=self.client)
             )
