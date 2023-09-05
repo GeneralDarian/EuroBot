@@ -135,11 +135,14 @@ class Profile(commands.Cog):
         else:
             user = user.id
 
-        user = await ctx.author.guild.fetch_member(user)
+        try:
+            user = await ctx.author.guild.fetch_member(user)
+            if user.bot:
+                await ctx.respond('**Error:** Bots cannot collect coins!')
+                return
+        except AttributeError: #this means the command was run in dms
+            await ctx.respond('**Error:** You can only run this command on the server!')
 
-        if user.bot:
-            await ctx.respond('**Error:** Bots cannot collect coins!')
-            return
 
         #check if user is in db, if so get data, if not make new entry
         status = checkuser(user.id)
@@ -201,7 +204,7 @@ class Profile(commands.Cog):
         )
         embed.add_field(
             name="# of completed trades",
-            value='0',
+            value=status[5],
         )
         embed.set_footer(text="To change an option of your own profile, run the command `/setprofile <option> <value>`. For help with configuring the trade count, run the command `/help tradecount`")
 
