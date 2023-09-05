@@ -3,7 +3,7 @@ from os import path, getenv
 import sqlite3
 from sqlite3 import Error
 import validators
-
+import datetime
 import discord
 from discord import bot
 from discord.ext import commands
@@ -185,7 +185,7 @@ class Profile(commands.Cog):
         )
         embed.add_field(
             name="Join Date",
-            value=user.joined_at.strftime('%d. %B %Y'),
+            value=f"<t:{int(user.joined_at.timestamp())}:D>",
         )
         embed.add_field(
             name="Collection Site",
