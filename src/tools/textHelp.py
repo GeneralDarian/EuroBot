@@ -1050,3 +1050,26 @@ EXCEPT: 2013 1c, 2014 10c, 20c, 50c, 1 euro, and 2 euro
 
 After 2016, Dutch coins were no longer issued in such special sets. Any Dutch coin you find after 2016 is either issued for circulation or issued only in BU sets.
 """
+
+help_tradecount_text = """
+**Please only verify trades when both people received their packages!**
+
+To verify a trade, one of the users must have the confirmed trader role. If one user does not have the confirmed trader role, please ask a mod to give them the role.
+The role is only awarded to people who traded with a confirmed trader.
+
+To increment your trade counts, run the command `/confirmtrade <user>`. This will notify the user in DMs that you wish to verify a trade between you and them.
+To cancel a trade verification request, run the command `/rejecttrade <user>`. The command can also be used to reject a trade request sent to you.
+
+If you receive a trade verification request, you will be notified in DMs by eurobot. You may verify the request in DMs directly or on the server with the `/confirmtrade` command.
+
+Only use this command to verify actual trades. We monitor the tradecount to make sure it is being used properly for its intended purpose.
+"""
+
+help_profile_text = """
+Displays your server profile, alongside your Collection List, Swaplist, YouTube, Instagram, and Tradecount. You can view your profile with the command `/profile`, and another \
+user's profile with the command `/profile <user>`.
+
+To add a link to your server profile, run the command `/changeprofile [option] <value>`.
+
+To change your tradecount, see `/help tradecount`. If you would like to add past trades to your tradecount, count the amount of trades you have made before September 5th, 2023, and ping a bot developer.
+"""

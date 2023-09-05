@@ -16,8 +16,10 @@ descriptions = CaseInsensitiveDict(
         "fsearch": textHelp.help_fsearch_text,
         "help": textHelp.help_help_text,
         "info": textHelp.help_info_text,
+        "profile": textHelp.help_profile_text,
         "search": textHelp.help_search_text,
         "serverinfo": textHelp.help_serverinfo_text,
+        "tradecount": textHelp.help_tradecount_text
         "tocoin": textHelp.help_tocoin_text,
     }
 )
