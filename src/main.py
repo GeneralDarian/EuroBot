@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 
 class EuroBot(discord.Bot):
-    version = "EuroBot v1.3 [2022.09.05]"
+    version = "EuroBot v1.3 [2023.09.05]"
 
 
 def main():

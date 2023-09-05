@@ -50,6 +50,9 @@ def checkfield(url: str) -> str:
     if url is None:
         return 'Not set'
 
+    if not validators.url(url):
+        return url
+
     return f'[Link]({url})'
 
 def modfield(id: int, option: str, value: str) -> bool:
@@ -113,7 +116,7 @@ class Profile(commands.Cog):
             return
 
         #see if url valid
-        if not validators.url(value) and value is not None:
+        if (not validators.url(value) and value is not None) and (db != 'swaplist'):
             await ctx.respond('**ERROR:** The URL you have provided is invalid!', ephemeral=True)
             return
 
