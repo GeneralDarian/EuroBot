@@ -48,8 +48,12 @@ class FindsGallery(commands.Cog):
             channel = self.client.get_channel(
                 int(findOfTheWeek.FINDS_GALLERY_ID)
             )
+            if message.author.nick is None:
+                title = message.author.name
+            else:
+                title = message.author.nick
             embed = discord.Embed(
-                title=f"Find by {message.author.nick}",
+                title=f"Find by {title}",
                 description=message.content,
                 color=0xFFCC00,
             )
