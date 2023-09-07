@@ -8,7 +8,6 @@ import discord
 from discord import bot
 from discord.ext import commands, tasks
 from dotenv import load_dotenv
-from tools import findOfTheWeek
 
 
 
@@ -29,6 +28,7 @@ class FindsGallery(commands.Cog):
 
         channel_id_1 = os.getenv("FOTW_CHANNEL_ID_1")
         channel_id_2 = os.getenv("FOTW_CHANNEL_ID_2")
+        finds_gallery = os.getenv("FINDS_GALLERY_ID")
         if (str(message.channel.id) != channel_id_1) and (
                 str(message.channel.id) != channel_id_2):  # is message sent in right channel?
             # await self.client.process_commands(message)
@@ -46,7 +46,7 @@ class FindsGallery(commands.Cog):
                     file = await file.to_file()
                     filelist.append(file)
             channel = self.client.get_channel(
-                int(findOfTheWeek.FINDS_GALLERY_ID)
+                int(finds_gallery)
             )
             if message.author.nick is None:
                 title = message.author.name
