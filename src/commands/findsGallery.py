@@ -27,8 +27,8 @@ class FindsGallery(commands.Cog):
         if message.author.bot:  # is message from bot?
             return
 
-        channel_id_1 = findOfTheWeek.CHANNEL_ID_1
-        channel_id_2 = findOfTheWeek.CHANNEL_ID_2
+        channel_id_1 = os.getenv("FOTW_CHANNEL_ID_1")
+        channel_id_2 = os.getenv("FOTW_CHANNEL_ID_2")
         if (str(message.channel.id) != channel_id_1) and (
                 str(message.channel.id) != channel_id_2):  # is message sent in right channel?
             # await self.client.process_commands(message)
