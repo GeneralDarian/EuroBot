@@ -284,7 +284,7 @@ class QuizButtons(discord.ui.Button):
         Database must be the name of the database which the question was taken from."""
         super().__init__(
             label=option,
-            style=discord.ButtonStyle.primary
+            style=discord.ButtonStyle.primary,
         )
         self.correct = correct
         self.quiz = quiz

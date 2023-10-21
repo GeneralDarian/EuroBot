@@ -657,6 +657,8 @@ Coin rolls can be obtained for a fee of €0.50 – €1.50 per roll. The amount
 
 **Volksbank**
 Coin rolls can be obtained for a fee of €0.25 per roll.\
+
+German rolls are marked with a number which indicates where they were rolled. [You can find this list here](https://www.bundesbank.de/resource/blob/599902/0b9a727f212bc4c05a55dfe243f5a4fa/mL/fertiger-von-muenzrollen-data.pdf)\
 """
 
 info_crh_greece_text = """\
@@ -712,12 +714,20 @@ Worth checking out: Payout machines (banknote -> coin)\
 info_crh_luxembourg_text = """\
 This page may be incomplete. Feel free to contribute by letting bot devs know!
 
+According to members who purchased rolls in Luxembourg, the rolls are supplied by France, but do contain Lux ccs inside. \
+
 **BCL**
-No information known yet. Their webshop sells commemoratives (at a high premium but better than most resellers).
+Their webshop sells commemoratives (at a high premium but better than most resellers).
 Commemoratives are also sold in-person.
 
-**Dexia-Bank**
-You should be able to get coin rolls with no additional fees.\
+**BIL (Banque Internationale à Luxembourg)**
+Coinrolls can be ordered (at least 2 days in advance; customers only) and collected at the following branches: Weiswampach, Ettelbruck, 
+Luxembourg - Place de Paris, Esch-sur-Alzette. There is a €5 fee. Alternatively, some branches have coinroll machines, but
+these can only be used if you have a BIL-issued Visa credit card, as they do not work with V-Pay! The machines charge no fee, however.\
+
+**Spuerkeess (BCEE)** 
+Coinrolls can be ordered (at least 2 days in advance; customers only) and collected in a large selection of branches. 
+There is a €5 fee. Coinroll machines are only for professionals.
 """
 
 info_crh_malta_text = """\
@@ -980,7 +990,7 @@ Run by: <@!980927019271471134>
 To be added, a find must be a circulating coin (non-commemorative) below 5 million mintage that has not been claimed by another user yet.
 German mintmarks are counted.
 
-<:emote:{int(emote_id)}> **[Find Of The Year (FOTY)](https://docs.google.com/document/d/1b_WWDXfzcomugO8dB2R4yEsQdqsOB1IPxe0bavRRHoI/edit?usp=sharing)**
+<:emote:{int(emote_id)}> **[Find Of The Year (FOTY)](https://docs.google.com/spreadsheets/d/1adz8nJBGWe1tZPiL9evWHmOk1szHjP2JJcxU5KiusiI/edit#gid=0)**
 Run by: <@!228069568222855169>
 To be added, finds must meet one of the 4 qualifications:
 1.) Low mintage regular: 200k or lower for 1c, 2c, 5c. 75k for everything else
