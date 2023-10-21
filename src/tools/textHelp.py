@@ -1073,6 +1073,8 @@ To cancel a trade verification request, run the command `/rejecttrade <user>`. T
 If you receive a trade verification request, you will be notified in DMs by eurobot. You may verify the request in DMs directly or on the server with the `/confirmtrade` command.
 
 Only use this command to verify actual trades. We monitor the tradecount to make sure it is being used properly for its intended purpose.
+
+**If you need to configure all of your trades prior to September 2023, then please ping <@228069568222855169> - he will do it for you!**
 """
 
 help_profile_text = """
