@@ -4,11 +4,13 @@ import sqlite3
 from sqlite3 import Error
 import validators
 
+
 import discord
 from discord import bot
 from discord.ext import commands
 from discord.commands import option
 import time
+
 
 confirmed_trader_role_id = int(getenv('VERIFIED_TRADER_GROUP_ID'))
 log_channel_id = int(getenv('LOG_CHANNEL_ID'))
@@ -43,7 +45,38 @@ async def log(client, user1, user2, type: int):
 
     await channel.send(embed=embed)
 
+def checkuser(id: int) -> tuple:
+    """Checks to see if user exists in database. If they do not, creates new entry in database.
+    INPUTS:
+    - id: The user ID
+    OUTPUTS:
+    - Tuple."""
 
+    #sqlite3 boilerplate yada yada
+    conn = None
+    db_file = "data/UserProfileDatabase.db"
+    try:
+        conn = sqlite3.connect(db_file)
+    except Error as e:
+        print(e)
+        conn.close()
+        return (False, e)
+    finally:
+        cur = conn.cursor()
+
+    cur.execute(f"SELECT * FROM userprofiledata WHERE ID = {id};")
+    rows = cur.fetchone()
+
+    #does user exist? if not, add new entry for user
+    if rows is None:
+        cur.execute(f"INSERT INTO userprofiledata (ID) VALUES ({id})")
+        conn.commit()
+        cur.execute(f"SELECT * FROM userprofiledata WHERE ID = {id};")
+        rows = cur.fetchone()
+
+    #else return rows
+    conn.close()
+    return rows
 
 def check_trade_db(user1, user2, check=False) -> int:
     """Checks database to see if user1 and user2 have a pending trade request.
@@ -288,6 +321,12 @@ class TradeCount(commands.Cog):
 
         user1 = ctx.author.id
         user2 = user.id
+
+        #makes sure the trade profile exists for both users
+        checkuser(user1)
+        checkuser(user2)
+
+
         trade_request_status = check_trade_db(user1, user2)
 
         #trade has been confirmed, tradecount to be updated
