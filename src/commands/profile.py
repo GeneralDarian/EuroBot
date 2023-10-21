@@ -98,14 +98,16 @@ class Profile(commands.Cog):
     @option(
         "option",
         description="The option you would like to modify.",
-        autocomplete=discord.utils.basic_autocomplete(('Collection Link', 'Swaplist Link', 'YouTube Link', 'Instagram Link')),
+        autocomplete=discord.utils.basic_autocomplete(('Collection Link', 'Swaplist Link', 'YouTube Link', 'Instagram Link', 'EuroBillTracker Profile', 'Your best find!')),
         required=True)
     async def setprofile(self, ctx, option, value: discord.Option(str, "The value you would like to set the option to", required=False)):
         translator = {
             'Collection Link': 'collection_webpage',
             'Swaplist Link': 'swaplist',
             'YouTube Link': 'youtube',
-            'Instagram Link': 'instagram'
+            'Instagram Link': 'instagram',
+            'EuroBillTracker Profile': 'ebt',
+            'Your best find!': 'bestfind',
         }
 
         #see if correct option was chosen
@@ -163,7 +165,9 @@ class Profile(commands.Cog):
         status[2] = swaplist
         status[3] = youtube
         status[4] = instagram
-        status[5] = tradecount"""
+        status[5] = tradecount
+        status[6] = best find
+        status[7] = ebt"""
 
         #get color of user
         confirmed_trader_role = ctx.author.guild.get_role(confirmed_trader_role_id)
@@ -206,6 +210,16 @@ class Profile(commands.Cog):
             name="Instagram",
             value=checkfield(status[4]),
         )
+        if status[7] is not None:
+            embed.add_field(
+                name="EBT Profile",
+                value=checkfield(status[7]),
+            )
+        if status[6] is not None:
+            embed.add_field(
+                name=f"{user.name}'s best find:",
+                value=checkfield(status[6]),
+            )
         embed.add_field(
             name="# of completed trades",
             value=status[5],
