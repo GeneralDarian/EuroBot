@@ -202,14 +202,16 @@ class Profile(commands.Cog):
             name="Swaplist",
             value=checkfield(status[2]),
         )
-        embed.add_field(
-            name="YouTube",
-            value=checkfield(status[3]),
-        )
-        embed.add_field(
-            name="Instagram",
-            value=checkfield(status[4]),
-        )
+        if status[3] is not None:
+            embed.add_field(
+                name="YouTube",
+                value=checkfield(status[3]),
+            )
+        if status[4] is not None:
+            embed.add_field(
+                name="Instagram",
+                value=checkfield(status[4]),
+            )
         if status[7] is not None:
             embed.add_field(
                 name="EBT Profile",
