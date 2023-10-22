@@ -789,14 +789,11 @@ You _may_ be able to get uncirculated rolls. This is not yet confirmed.\
 info_crh_slovenia_text = """\
 This page may be incomplete. Feel free to contribute by letting bot devs know!
 
+**Central Bank of Slovenia**
+You can purchase commemorative coins for face value. Coin rolls sold with no fees to anyone.
+
 **In General**
 €1.20 per roll.
-
-**Bank of Slovenia**
-You can purchase commemorative coins for face value.
-
-**Slovenian National Bank**
-Coin rolls are sold with no fees to everyone.\
 """
 
 info_crh_spain_text = """\
