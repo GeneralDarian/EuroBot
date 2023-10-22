@@ -117,6 +117,11 @@ class Profile(commands.Cog):
             await ctx.respond('**ERROR:** You must select a valid option!', ephemeral=True)
             return
 
+        #make sure wcs wasn't chosen
+        if db == 'wcs':
+            await ctx.respond('You are not allowed to do that. Ping a moderator to link your WCS spotlight to your profile.')
+            return
+
         #see if url valid
         if (not validators.url(value) and value is not None) and (db != 'swaplist'):
             await ctx.respond('**ERROR:** The URL you have provided is invalid!', ephemeral=True)
@@ -167,7 +172,8 @@ class Profile(commands.Cog):
         status[4] = instagram
         status[5] = tradecount
         status[6] = best find
-        status[7] = ebt"""
+        status[7] = ebt
+        """
 
         #get color of user
         confirmed_trader_role = ctx.author.guild.get_role(confirmed_trader_role_id)
@@ -243,7 +249,10 @@ class Profile(commands.Cog):
             'Collection Link': 'collection_webpage',
             'Swaplist Link': 'swaplist',
             'YouTube Link': 'youtube',
-            'Instagram Link': 'instagram'
+            'Instagram Link': 'instagram',
+            'EuroBillTracker Profile': 'ebt',
+            'Your best find!': 'bestfind',
+            'WCS Recap': 'wcs'
         }
 
         #see if correct option was chosen

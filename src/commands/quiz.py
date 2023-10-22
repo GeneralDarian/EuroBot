@@ -131,6 +131,9 @@ async def ask_question(data: dict, channel: discord.TextChannel):
         color=0xFFCC00,
     )
     embed.set_image(url=data['image'])
+    print(data['image'])
+    print(type(data['image']))
+    await channel.send(embed=embed)
 
     for ind, val in enumerate(ans_list):
         if data['mintage'] is False:
@@ -154,7 +157,7 @@ async def ask_question(data: dict, channel: discord.TextChannel):
             )
 
     #send that shit
-    await channel.send(embed=embed,view=view)
+    #await channel.send(embed=embed,view=view)
 
 async def mintage_question(channel: discord.TextChannel, quiz: quizAssistant.QuizType):
     """Sorts out the dictionary which gets sent to ask_question when it is a MINTAGE-BASED question.
