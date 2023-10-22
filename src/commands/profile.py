@@ -231,7 +231,7 @@ class Profile(commands.Cog):
             )
         if status[7] is not None:
             embed.add_field(
-                name=f"{user.name}'s WCS Recap",
+                name=f"WCS Recap",
                 value=checkfield(status[8])
             )
         embed.add_field(
