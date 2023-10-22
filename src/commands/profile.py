@@ -173,6 +173,7 @@ class Profile(commands.Cog):
         status[5] = tradecount
         status[6] = best find
         status[7] = ebt
+        status[8] = wcs recap
         """
 
         #get color of user
@@ -227,6 +228,11 @@ class Profile(commands.Cog):
             embed.add_field(
                 name=f"{user.name}'s best find:",
                 value=checkfield(status[6]),
+            )
+        if status[7] is not None:
+            embed.add_field(
+                name=f"{user.name}'s WCS Recap",
+                value=checkfield(status[8])
             )
         embed.add_field(
             name="# of completed trades",
