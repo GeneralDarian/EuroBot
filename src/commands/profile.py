@@ -229,7 +229,7 @@ class Profile(commands.Cog):
                 name=f"{user.name}'s best find:",
                 value=checkfield(status[6]),
             )
-        if status[7] is not None:
+        if status[8] is not None:
             embed.add_field(
                 name=f"WCS Recap",
                 value=checkfield(status[8])
