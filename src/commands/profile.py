@@ -241,7 +241,7 @@ class Profile(commands.Cog):
     @option(
         "option",
         description="The option you would like to modify.",
-        autocomplete=discord.utils.basic_autocomplete(('Collection Link', 'Swaplist Link', 'YouTube Link', 'Instagram Link')),
+        autocomplete=discord.utils.basic_autocomplete(('Collection Link', 'Swaplist Link', 'YouTube Link', 'Instagram Link', 'EuroBillTracker Profile','Your best find!','WCS Recap')),
         required=True)
     @discord.commands.default_permissions(manage_nicknames=True)
     async def changeprofile(self, ctx, user: discord.Member, option, value: discord.Option(str, "The value you would like to set the option to", required=False)):
