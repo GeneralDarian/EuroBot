@@ -269,7 +269,7 @@ class Profile(commands.Cog):
             return
 
         #see if url valid
-        if not validators.url(value) and value is not None:
+        if not validators.url(value) and value is not None and (db != 'swaplist') and (db != 'wcs'):
             await ctx.respond('**ERROR:** The URL you have provided is invalid!', ephemeral=True)
             return
 
