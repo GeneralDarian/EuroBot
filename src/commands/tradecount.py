@@ -400,6 +400,7 @@ class TradeCount(commands.Cog):
 
     @bot.command(description='[MOD COMMAND] Modify another user''s tradecount.')
     @discord.commands.default_permissions(manage_messages=True)
+    @discord.commands.guild_only()
     async def settradecount(self, ctx, user: discord.Member, tradecount: discord.Option(int, "The trade count you would like to set a user's total trades to", required=True)):
         conn = None
         db_file = "data/UserProfileDatabase.db"

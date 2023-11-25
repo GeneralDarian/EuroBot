@@ -95,6 +95,7 @@ class Profile(commands.Cog):
         )
 
     @bot.command(description='Modify your own server profile.')
+    @discord.commands.guild_only()
     @option(
         "option",
         description="The option you would like to modify.",
@@ -135,6 +136,7 @@ class Profile(commands.Cog):
             await ctx.respond(f'**ERROR:** An error occured. Please contact a bot developer.', ephemeral=True)
 
     @bot.command(description="Display the user's server profile.")
+    @discord.commands.guild_only()
     @option(
         "user",
         description="The user whose profile you would like to view. If not specified, it will display your own profile.",
@@ -244,6 +246,7 @@ class Profile(commands.Cog):
         await ctx.respond(embed=embed)
 
     @bot.command(description='[MOD COMMAND] Modify another user''s server profile.')
+    @discord.commands.guild_only()
     @option(
         "option",
         description="The option you would like to modify.",
