@@ -38,9 +38,10 @@ def main():
 
     os.chdir(path.dirname(__file__))
 
-    @client.event
+
     async def on_ready():
         logging.info(f"{client.user} has logged in")
+
 
     for filename in filter(lambda f: f.endswith(".py"), os.listdir("commands/")):
         try:
@@ -48,7 +49,10 @@ def main():
         except Exception as error:
             logging.error(f"Error loading extension: {error}")
 
+
     client.run(os.getenv("DISCORD_TOKEN"))
+
+
 
 
 if __name__ == "__main__":

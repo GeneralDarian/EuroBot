@@ -976,18 +976,18 @@ In order for a find to be added to a list, it must meet requirements, which are 
 
 In order to be added, post an image of your find and ping the person who runs the list.
 
-<:emote:{int(emote_id)}> **[Can /r/Eurocoins find every €2 commemorative coin (minted for circulation) in one year?](https://docs.google.com/spreadsheets/d/12i5g7whKRvABThPsYGdDIONX8PenMXrDjHHAz4Mb1IU/edit#gid=0)**
+<:emote:{int(emote_id)}> **[Can /r/Eurocoins find every €2 commemorative coin (minted for circulation) in one year?](https://docs.google.com/spreadsheets/d/1-liiL3WiawcJ_lCf3Dvna5FRz-czjTh4ltj9I3nmwcw/edit?usp=sharing)**
 List
 Run by: <@!372433722034880522>
 To be added, a find must be a commemorative coin that has not been claimed by another user yet.
 For German coins, only one mintmark of each type can be found by the user. If you find multiple which are unclaimed, you will be asked to choose one.
 
-<:emote:{int(emote_id)}> **[Can /r/Eurocoins find all regulars and cents under 5M in one year?](https://docs.google.com/spreadsheets/d/17WfsrgfaPiufcG0w6AzaDy6DGygAe6D-/edit?usp=sharing&ouid=113325961342137346682&rtpof=true&sd=true)**
+<:emote:{int(emote_id)}> **[Can /r/Eurocoins find all regulars and cents under 5M in one year?](https://docs.google.com/spreadsheets/d/1YtfJyBckdmpI-54WQ-h5q-MTI4PftHuG/edit?usp=sharing&ouid=118364582268544306342&rtpof=true&sd=true)**
 Run by: <@!980927019271471134>
 To be added, a find must be a circulating coin (non-commemorative) below 5 million mintage that has not been claimed by another user yet.
 German mintmarks are counted.
 
-<:emote:{int(emote_id)}> **[Find Of The Year (FOTY)](https://docs.google.com/spreadsheets/d/1adz8nJBGWe1tZPiL9evWHmOk1szHjP2JJcxU5KiusiI/edit#gid=0)**
+<:emote:{int(emote_id)}> **[Find Of The Year (FOTY)](https://docs.google.com/spreadsheets/d/1PXOQXtkjoxBaUdEoHiQLovrcHM4OTExxG_68ADFJ7As/edit?usp=sharing)**
 Run by: <@!228069568222855169>
 To be added, finds must meet one of the 4 qualifications:
 1.) Low mintage regular: 200k or lower for 1c, 2c, 5c. 75k for everything else
