@@ -45,7 +45,6 @@ class EuroBillTracker(commands.Cog):
         required=True,
     )
     async def user(self, ctx, user):
-        #make api call - EuroBillTrackerDiscordBot \ drbvie@gmail.com
         await ctx.defer()
 
         if self.sessid is False:
